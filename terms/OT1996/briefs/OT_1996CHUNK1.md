@@ -513,7 +513,7 @@ One lawful path reverses the categorical warning rule and holds the consent vali
 
 ## F. VERIFIED SIMULATED-LAW APPLICATION
 
-Simulated Whren unanimously preserves independent constitutional limits on stop manner, scope and duration: detention or search exceeding what the traffic offense reasonably justifies requires independent grounds. Its objective initial-stop rule therefore cannot justify post-warning detention by itself. Ornelas requires independent judgment on the ultimate constitutional sufficiency, with clear-error treatment of historical facts and genuine weight to grounded contextual inferences. Whether consent followed a lawful detention, an objectively ended stop, or an unsupported extension must be examined separately from whether a mandatory release script exists.
+Simulated Whren preserves independent constitutional limits on stop manner, scope and duration: detention or search exceeding what the traffic offense reasonably justifies requires independent grounds. Its objective initial-stop rule therefore cannot justify post-warning detention by itself. Ornelas requires independent judgment on the ultimate constitutional sufficiency, with clear-error treatment of historical facts and genuine weight to grounded contextual inferences. Whether consent followed a lawful detention, an objectively ended stop, or an unsupported extension must be examined separately from whether a mandatory release script exists.
 
 - **Verified primary case source:** [Official U.S. Reports — record, procedural history and identifiers](https://www.supremecourt.gov/opinions/boundvolumes/519bv.pdf#page=203). The historical outcome is segregated in Section III.
 

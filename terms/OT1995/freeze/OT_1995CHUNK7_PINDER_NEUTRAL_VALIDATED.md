@@ -2,7 +2,7 @@
 
 **Status: FINAL — READY FOR INDEPENDENT MODELING.** Neutral source and entering-law validation is complete for Pinder's May 21, 1996 event. The completed May 20 public-law snapshot, including Romer, BMW, Henderson and Casarotto, is incorporated at its actual scope. No position, vote, new grant, judgment, or reconstruction premise is selected here.
 
-**Frozen law input:** [Complete post-May 20 neutral projection](../entering-law/OT_1995CHUNK7_POST_MAY20_NEUTRAL_PROJECTION.md), supplied at commit `b467528`; verified SHA-256 `4bd42c8c4367ea32109c968b6dddaab66f4fc95f5ec50fe18bfd09c22e997d4a`. The four May 20 decisions used their common May 13 baseline; all four are effective entering law for Pinder. The eight admitted noncase-law sources retain their separate effective dates, conditions and transitions.
+**Frozen law input:** [Complete post-May 20 neutral projection](../entering-law/OT_1995CHUNK7_POST_MAY20_NEUTRAL_PROJECTION.md), supplied at commit `b467528`; verified SHA-256 `3439c8e4c177074c0aa4b30f04c643d98e75d4110fd7139bc0c42fcc2be9fca2`. The four May 20 decisions used their common May 13 baseline; all four are effective entering law for Pinder. The eight admitted noncase-law sources retain their separate effective dates, conditions and transitions.
 
 **Event:** May 21, 1996 merits review; Fourth Circuit No. 93-2125, 54 F.3d 1169 (en banc), decided May 30, 1995. The Standing State entry reproduced in the [opening slice](../entering-law/OT_1995CHUNK7_PINDER_ORNELAS_OPENING.md) already establishes certiorari granted and merits pending. No Supreme Court docket, grant date, argument or submission date is supplied. The assigned date is not a recovered historical Supreme Court event.
 

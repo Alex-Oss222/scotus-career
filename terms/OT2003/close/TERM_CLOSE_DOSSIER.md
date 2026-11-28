@@ -30,9 +30,9 @@ All 119 scheduled inventory events are complete in eight presentation chunks, wi
 |---|---|
 | [case-list.md](../case-list.md) | `98d515b15fbcfd04b754d8a6aa958b32216d3a6fbb657a3ece2f9a9b9a7126eb` |
 | [workspace/manifest.md](../workspace/manifest.md) | `8196c84b22b22088b51f408df04d0752b261e3af6f25fb28a0c2953ab81d0103` |
-| [workspace/continuity.md](../workspace/continuity.md) | `60cb39b382109a9bead04cf9f8817644062336172116fa05ab8a2cb454e8c0c5` |
+| [workspace/continuity.md](../workspace/continuity.md) | `a13e660d6f5d577b00f2a9e5aab531c6b6194d27b6e2736329b2c2ef0f482878` |
 | [workspace/ledger.md](../workspace/ledger.md) | `825f55f1352a7a63143a0ea32fcbe8cbade71cd51214cc446c98bb39b5d470fc` |
-| [workspace/neutral-projection.md](../workspace/neutral-projection.md) | `38a98846a30eae95778e73cfe2b0eb0708d8cf0f3068a147e08e5547d3154b0e` |
+| [workspace/neutral-projection.md](../workspace/neutral-projection.md) | `c9a279e6072b62bee070079ff0ea05c1d1df6777b18a5819639b8e298d066030` |
 | [close/AUDIT.md](AUDIT.md) | `bb90efafba0ea1413cf7542b1fd6cb2277f57eaad42e5574d474e3084c1c65bf` |
 | [output/OT_2003CHUNK1.md (cross-check only)](../output/OT_2003CHUNK1.md) | `cf6fb1bbb0fd31d761e7abc34b0a88369a5c3556d071cbe55b035b65604643d2` |
 | [output/OT_2003CHUNK2.md (cross-check only)](../output/OT_2003CHUNK2.md) | `088d02cd16b139e947f36bccbc90e3a0948a929a360a4fcdccb9e7428306a159` |
@@ -40,16 +40,16 @@ All 119 scheduled inventory events are complete in eight presentation chunks, wi
 | [output/OT_2003CHUNK4.md (cross-check only)](../output/OT_2003CHUNK4.md) | `bb6131880241b398be3808a18ac57165e79907a86b499b6b769edac624aae475` |
 | [output/OT_2003CHUNK5.md (cross-check only)](../output/OT_2003CHUNK5.md) | `035df030f412d43d244a9d1c0e79b83077ad74ce3fed5b7b145644bb3adb8b00` |
 | [output/OT_2003CHUNK6.md (cross-check only)](../output/OT_2003CHUNK6.md) | `63767800691fcf3f2d11ed4a7c9840c7f0c15a43df0b1737dae9cf486c6bf806` |
-| [output/OT_2003CHUNK7.md (cross-check only)](../output/OT_2003CHUNK7.md) | `94869a88bfe52d3e387d5dbc37b6e62fb982d9d0f47a55afd657422ef0ac99a8` |
-| [output/OT_2003CHUNK8.md (cross-check only)](../output/OT_2003CHUNK8.md) | `89130cbd3dfe842edb79610649992ae249160e7abab048f9089cf8aa8fa51ccc` |
+| [output/OT_2003CHUNK7.md (cross-check only)](../output/OT_2003CHUNK7.md) | `bc667d2ebe530d419ce68d131e8a3b7312cd80ab473c8c3499241c298f0d68d2` |
+| [output/OT_2003CHUNK8.md (cross-check only)](../output/OT_2003CHUNK8.md) | `86c0ecafeba98129c058c0808b647bc7211fc66aa4632ca6ca2f4764e291c882` |
 | [render-inputs/OT_2003CHUNK1.md](../render-inputs/OT_2003CHUNK1.md) | `d7f6960cb1e9602121345cb24620ac0885adc59bbaea2c96ada9172328204885` |
 | [render-inputs/OT_2003CHUNK2.md](../render-inputs/OT_2003CHUNK2.md) | `a4c669fecfa9c28e9db9493c0fc9a4111ecf2927935b4a46373ef23c6dfcaef6` |
 | [render-inputs/OT_2003CHUNK3.md](../render-inputs/OT_2003CHUNK3.md) | `1379b99dcd45370161e9d415214f3788e70c65fcfef2b53b68b5b71068cfff1d` |
 | [render-inputs/OT_2003CHUNK4.md](../render-inputs/OT_2003CHUNK4.md) | `b99aa60a091fae976e22922c4f23db467347bc021b6fb532e8fb76f528ef049e` |
 | [render-inputs/OT_2003CHUNK5.md](../render-inputs/OT_2003CHUNK5.md) | `d818acc8cf92731c041b974d961f4d83105e871feff7168ddcbefccdfc04e95c` |
 | [render-inputs/OT_2003CHUNK6.md](../render-inputs/OT_2003CHUNK6.md) | `864189240c3ae1ea7ba29d27325772c69d1c5e4e40f46066cb68a9885e913d67` |
-| [render-inputs/OT_2003CHUNK7.md](../render-inputs/OT_2003CHUNK7.md) | `8ea72f1c61b0f9ec32d2934adee4792d44115050a7e56fa083ce53b0c9b40d37` |
-| [render-inputs/OT_2003CHUNK8.md](../render-inputs/OT_2003CHUNK8.md) | `5bfd6a83011d1ce853dbb9f4194a46fac4dc899c0080a37915e5e57ee5390c2b` |
+| [render-inputs/OT_2003CHUNK7.md](../render-inputs/OT_2003CHUNK7.md) | `f41635eb019f0f8637bce310755e8b2046b34a1bdff0a371de3899d3263ceb7e` |
+| [render-inputs/OT_2003CHUNK8.md](../render-inputs/OT_2003CHUNK8.md) | `5a07b1a8ef61439c290a799f9b0240c73167ed755e9e45d97c533ce67c6c652c` |
 
 ## Canonical Decision Records in effective order
 
@@ -157,7 +157,7 @@ All 119 validated Court-event Records are incorporated below. Same-day rows are 
 | 2004-06-14 | [United States v. Dominguez Benitez; No. 03-167; 542 U.S. 74.](../records/united_states_v_dominguez_benitez_merits_2004-06-14.md) | `9521b2729f5ace3a94158605908803211b6476511c64f3ceeb5c83c1d9033500` |
 | 2004-06-16 | [West Virginia v. U.S. Department of Health & Human Services; judgment below, 289 F.3d 281 (4th Cir. 2002).](../records/west_virginia_v_us_department_of_health_and_human_services_merits_2004-06-16.md) | `0ae0809e69db6bb99af2d4beab897e1a0531d65103e68407474b7aec55bcc9d8` |
 | 2004-06-17 | [Drummond ex rel. Drummond v. City of Anaheim; judgment below, 343 F.3d 1052 (9th Cir. 2003).](../records/drummond_ex_rel_drummond_v_city_of_anaheim_merits_2004-06-17.md) | `4b51e4e749317548f75525cd17e5fed1c533c0e99f7ecc5e6e91bc2528e141e9` |
-| 2004-06-21 | [Aetna Health Inc. v. Davila; No. 02-1845; consolidated with CIGNA HealthCare of Texas, Inc. v. Calad, No. 03-83; 542 U.S. 200.](../records/aetna_health_inc_v_davila_merits_2004-06-21.md) | `f217efbfa0762624f24d1d1379aed4a7443a56b12c996d1dd5e0d031bca6f2c9` |
+| 2004-06-21 | [Aetna Health Inc. v. Davila; No. 02-1845; consolidated with CIGNA HealthCare of Texas, Inc. v. Calad, No. 03-83; 542 U.S. 200.](../records/aetna_health_inc_v_davila_merits_2004-06-21.md) | `0181667afdfdce0e0150538eafaea6cada93b087a50fc6cad6d544a1663fd31d` |
 | 2004-06-21 | [Hiibel v. Sixth Judicial District Court of Nevada; No. 03-5554; 542 U.S. 177.](../records/hiibel_v_sixth_judicial_district_court_of_nevada_merits_2004-06-21.md) | `9801f737058e24da6121463c56b3efe2d01fba31aae4c563a40048319c40eb01` |
 | 2004-06-21 | [Intel Corp. v. Advanced Micro Devices, Inc.; No. 02-572; 542 U.S. 241.](../records/intel-corp-v-advanced-micro-devices_merits_2004-06-21.md) | `1a58f5366061cdeb7fbbed08f8bb1abb538ceeec49af1c53dce1878e753838e8` |
 | 2004-06-21 | [Pliler v. Ford; No. 03-221; 542 U.S. 225.](../records/pliler_v_ford_merits_2004-06-21.md) | `52e55f1b383012e6e9d5f2dffd5d1d85cdd53b48f67514ebaa009a2e39de07f1` |
@@ -174,7 +174,7 @@ All 119 validated Court-event Records are incorporated below. Same-day rows are 
 | 2004-06-28 | [Rumsfeld v. Padilla; No. 03-1027; 542 U.S. 426.](../records/rumsfeld_v_padilla_merits_2004-06-28.md) | `91c889917092dcc23f35b6dcc5d4cfbc9a4b4fb624538a35832635c49125ccc5` |
 | 2004-06-28 | [United States v. Patane; No. 02-1183; 542 U.S. 630.](../records/united_states_v_patane_merits_2004-06-28.md) | `69f72dba9c41e5bfa0e77579e100775b7cb31179b9cad24da2585e41677a39f4` |
 | 2004-06-29 | [Ashcroft v. American Civil Liberties Union; No. 03-218; 542 U.S. 656.](../records/ashcroft_v_american_civil_liberties_union_merits_2004-06-29.md) | `7e4e920d06f47995e723807a494d3924c9768dd4789722038108d3e8fa077831` |
-| 2004-06-29 | [Sosa v. Alvarez-Machain, No. 03-339; United States v. Alvarez-Machain, No. 03-485; 542 U.S. 692.](../records/sosa_v_alvarez_machain_merits_2004-06-29.md) | `54103b173af553416f6d4dc1a90bfc20caee812696fb519d3899372e8cbbe909` |
+| 2004-06-29 | [Sosa v. Alvarez-Machain, No. 03-339; United States v. Alvarez-Machain, No. 03-485; 542 U.S. 692.](../records/sosa_v_alvarez_machain_merits_2004-06-29.md) | `bf2db0a33fd588b7fc1e0544a21f13295880d506244f4ed3764b2ea4e4103110` |
 | 2004-06-30 | [Roeder v. Islamic Republic of Iran; No. 03-1147; judgment below, 333 F.3d 228 (D.C. Cir. 2003), No. 02-5145.](../records/roeder_v_islamic_republic_of_iran_merits_2004-06-30.md) | `92b56ae11ec659695cce71d1f836a04de1008ea844e7ba6fb5beff8f43692397` |
 
 ## Admitted sources in effective order
@@ -267,7 +267,7 @@ The first split exposed 49 cross-volume bare-fragment links that resolved in con
 | [terms/OT2003/INDEX.md](../INDEX.md) | `9be2d4dfc32ab356ad6956b21e03a33aa94482df9d3994b40e109f7abda857ee` | CRLF |
 | [terms/OT2003/close/CONSEQUENCES.md](CONSEQUENCES.md) | `24c0a8d478cb883788cde83cac74819255f473a0f38bf78aee0535d9e70bbc8d` | CRLF |
 | [terms/OT2003/close/DEPARTURES.md](DEPARTURES.md) | `b0fb640cb554862e46406ae33deb8063953b481fc37880fbf38c138dc3e27447` | CRLF |
-| [terms/OT2003/close/SEPARATE_WRITINGS.md](SEPARATE_WRITINGS.md) | `eaa636e73f7423cfcaa81d21720194be411552d9fbcef7c99fa8fef47523edff` | CRLF |
+| [terms/OT2003/close/SEPARATE_WRITINGS.md](SEPARATE_WRITINGS.md) | `7216cdfbbe7dbb5004e83a7692f6a45ba7e2ca707e4750c67d99dfe040bf6935` | CRLF |
 | [tools/holdings_volumes.py](../../../tools/holdings_volumes.py) | `0a240799a233ad4f5313a32c9fa87c75b52bef00b79eb61dac361a0048a5f4a4` | LF |
 
 This dossier uses CRLF. Including it and the Holdings publication-tool repair, this pass writes 33 repository files.

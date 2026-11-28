@@ -34,7 +34,7 @@ Frozen/runtime bytes are identical. Output paths were checked absent before crea
 | AGENTS.md | 34d67c6e388c15dad71857214d1c92ed19de043138020208ee25d1e70b1abfa8 |
 | foundation/ENGINE.md | 11735d99fd88acfe6a497af9d67af0a6988e7b6deb8c210797e09dcdb12162d3 |
 | terms/OT2001/freeze/OT_2001CHUNK8_JUNE27_NEUTRAL.md | e85131248cf62edcb432b01aca8939161de13cd86f8d18a34ddde7df0361eb8c |
-| terms/OT2001/entering-law/OT_2001CHUNK8_JUNE27_ENTERING_LAW.md | 7043e2d878fdc813a13d8868ac390f3369e14cb0754082b351217d5ef1f3d436 |
+| terms/OT2001/entering-law/OT_2001CHUNK8_JUNE27_ENTERING_LAW.md | 92b12f06e659ef332bbb7508b430b2803d0dc9da56297db45f6c943fbede6a69 |
 | terms/OT2001/entering-law/OT_2001CHUNK8_PUBLIC_LAW.md | f1f2f7f0f3b9ec184b9070fade7e65c2e730280884edc5e961b9a147a5b5091c |
 | terms/OT2001/workspace/neutral-projection.md | e19711a6e71edcdfc6c23950ec234f6b1ba09a7a9b125e0728f7c3f8ff8438ce |
 | Preserved original draft, tmp/june27_commitments_draft.md | cf151fab73c2fe0b31e027633203ff8d578c55d299b2068dd98054beb7a8e34f |

@@ -2,7 +2,7 @@
 
 **Event cutoff:** June 1, 1998. **Conduct-time notice cutoff:** overnight February 18–19, 1994. **Preparation date:** October 24, 2026.
 
-**Final handoff:** [OT_1997CHUNK9_COMMITMENTS_FLORENCE.md](OT_1997CHUNK9_COMMITMENTS_FLORENCE.md). SHA-256: `d6b183f1a90bc682ba46ff3da8d57866ad957bf5feddbb0f68788b95f97fc1f2`.
+**Final handoff:** [OT_1997CHUNK9_COMMITMENTS_FLORENCE.md](OT_1997CHUNK9_COMMITMENTS_FLORENCE.md). SHA-256: `c50b78780a7ddbca067a8d9034725da4c81773d7fa4f14efa82cad6d2e040cb2`.
 
 **New source checked:** [May 28 DeCarlo Public Projection](../entering-law/OT_1997CHUNK9_DECARLO_PUBLIC.md), exact public-only copy, read in full. SHA-256: `edffefceb0ec5117642beb49e6c132cb69a4cd65b6b286faedce68d2eddca9a2`.
 

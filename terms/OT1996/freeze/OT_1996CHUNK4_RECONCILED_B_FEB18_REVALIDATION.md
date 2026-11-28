@@ -10,8 +10,8 @@ Read the entire clean modeling addendum and mechanically copied `entering-law/OT
 
 Read-byte identifiers (SHA-256):
 
-- Original reconciled B: `2BAEB8E67EDD1664FA4CC95F12B9D4328AE5D2536467E81D102E925B1985A02D`.
-- Clean February 18 model addendum: `91E027D1ACD46C60F270352D5F62C8AA6E20FF06D733FDE49ECBE5C2960F2D21`.
+- Original reconciled B: `D66C940595698CAF360A62BBBBC66ABE7394CCB46992F679881AFA0CD8CE7D0E`.
+- Clean February 18 model addendum: `7F46105EA766ABB64E2219CE5F8243E4713FBBD758B8375A8BB0EDC8DAB199C8`.
 - February 18 public delta: `1EA1784EB10ACE37ECF06281871E0BA8E9ED3F03E235D4CA1AAE931604B32A55`.
 
 No new neutral fact is supplied or inferred. No current-matter Stone material, assembly material, original brief, raw Record, ledger or locked top-level directory was accessed. Public Stone writings in the authorized earlier-law delta were read only at their published precedential status. No raw Record link was followed, no Git command was run, and no new source passage was manually transcribed. This document makes no assignment or final Stone compatibility decision.

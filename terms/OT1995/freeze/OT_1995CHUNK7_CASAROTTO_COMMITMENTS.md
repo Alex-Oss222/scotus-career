@@ -169,7 +169,7 @@ The reversing commitments retain Southland, apply Allied-Bruce and Perry, distin
 | `freeze/OT_1995CHUNK7_CASAROTTO_NEUTRAL_VALIDATED.md` | `a148407` | `d408362c3e88ba40422e8f887e26655492302b996defd7f71487c2546b3a1eda` |
 | `freeze/OT_1995CHUNK7_CASAROTTO_PUBLIC_POSITION_SUPPLEMENT.md` | `e0ddd3b` | `c9803cf0988309fcd0622f12a965b90ce60845693122a1ada6bdc6ef511ecb5e` |
 | `entering-law/OT_1995CHUNK7_A_OPENING.md` | `d69c51d` | `b0f6a19e75b399ff47bd6e6feb1fdeefe56066f931737cb86497b73b56fb8d5e` |
-| `entering-law/OT_1995CHUNK6_PRE_MAY20_NEUTRAL_PROJECTION.md` | `7655d8f` | `a2709e4fd5b81244f20895b773b0d58924aed0044ebfb40024a3b6dcbe493d19` |
+| `entering-law/OT_1995CHUNK6_PRE_MAY20_NEUTRAL_PROJECTION.md` | `7655d8f` | `125d103089995d76ffa94ff5750cf42eb5ab927d1447f6e9cd540b1504d2e0dd` |
 | `sources/chunk7_a/casarotto_SANITIZED_RECORD_FACTS.md` | `4cc6fcd` | `59167a1881881cb93324ecb11b3bf71b96252c54769f0dfeb6a0d3d70b445c4d` |
 | `sources/chunk7_a/casarotto_SANITIZED_SOURCE_EXTRACT.md` | `4cc6fcd` | `9c4249107f290da92b2d84820463dda3aa2c03d2cbd3ffcb6ff27ba89625610a` |
 | `sources/chunk7_a/FIRST_PAIR_SANITIZED_SOURCE_CORRECTIONS.md` | `4cc6fcd` | `20699e9c3b7b53023ab68b8a3aed31ccd79ee6e374126ea92cf1cd019979f198` |

@@ -457,7 +457,7 @@ The dementia evidence in Brockamp remains a disputed factual issue, not a proven
 
 **Chronology and handoff status:** Complete for independent modeling on the authorized pre-February-18 baseline. No same-date peer has been imported. No new factual or legal source blocker remains within the granted tolling question. The deposit issue is a preserved remand issue, and historical reconciliation and final assembly remain later stages.
 
-<!-- frozen-part: OT_1996CHUNK4_COMMITMENTS_B.md; sha256: 788e8df2284fedc1a41ce0b43b31bbf5aabef2414938a6064d45b1f5ecc32b6d -->
+<!-- frozen-part: OT_1996CHUNK4_COMMITMENTS_B.md; sha256: 81d6ab78ae51af41cdccb290302834a26256ab53efc1c642864d0690f253a571 -->
 
 # OT1996 chunk 4 — independent non-Stone commitments B
 
@@ -479,11 +479,11 @@ The dementia evidence in Brockamp remains a disputed factual issue, not a proven
 |---|---|---|---|
 | Stevens | Reject categorical passenger-exit authority. | His Mimms dissent challenges unparticularized safety balancing; his Bostick dissent join and published Robinette dissent require attention to the actual force of a police command. Passenger innocence is not proof of safety, but generalized risk does not itself justify every added command. He accepts lawful protective directions supported by objective circumstances; he does not reopen Mimms for drivers here. | Affirm suppression on the presented categorical theory. Do not remand to manufacture the unpreserved alternative. |
 | O'Connor | Recognize the bounded passenger-exit authority. | Her Bostick opinion distinguishes compulsory restraint from consent, but does not prohibit justified safety measures. Her Robinette opinion applies Mimms during lawful traffic business and keeps later detention independent. The command is justified as a limited incident of the stop, not called consensual. She can join only a rule confined to the stop's lawful duration and the exit direction itself. | Reverse and remand; the categorical federal objection cannot sustain suppression. No conviction, universal admissibility, frisk, or further detention is ordered. |
-| Scalia | Recognize the same bounded authority. | His Whren join and Robinette joins support objective, administrable authority rather than motives. Mimms supplies the safety/incremental-intrusion comparison. The passenger distinction does not remove a nearby source of danger; no ground exists to extend this rule to a search. His Ornelas review disagreement does not change this legal categorical question. | Reverse and remand within W3's stated limits. |
-| Kennedy | Reject categorical authority while preserving a circumstance-specific safety direction. | His Bostick join protects the passenger's ability to decline an unsupported police demand; his Whren and Robinette joins distinguish the lawful beginning of traffic business from independent execution restraints. This passenger has not supplied the driver's traffic predicate, and an exit order is an affirmative restraint, not a voluntary request. Mimms's safety analogy is substantial but does not justify abandoning any objective reason for this added passenger command. This is an inference from those writings and the presented distinction, not a claimed earlier passenger-exit holding. | Affirm the judgment on the preserved question. The record observations may support a different properly presented case, not a new ground here. |
+| Scalia | Recognize the same bounded authority. | His Whren dissent join and Robinette joins support objective, administrable authority rather than motives. Mimms supplies the safety/incremental-intrusion comparison. The passenger distinction does not remove a nearby source of danger; no ground exists to extend this rule to a search. His Ornelas review disagreement does not change this legal categorical question. | Reverse and remand within W3's stated limits. |
+| Kennedy | Reject categorical authority while preserving a circumstance-specific safety direction. | His Bostick join protects the passenger's ability to decline an unsupported police demand; his Whren dissent join and Robinette joins distinguish the lawful beginning of traffic business from independent execution restraints. This passenger has not supplied the driver's traffic predicate, and an exit order is an affirmative restraint, not a voluntary request. Mimms's safety analogy is substantial but does not justify abandoning any objective reason for this added passenger command. This is an inference from those writings and the presented distinction, not a claimed earlier passenger-exit holding. | Affirm the judgment on the preserved question. The record observations may support a different properly presented case, not a new ground here. |
 | Souter | Recognize the same bounded authority. | His Bostick and Robinette joins permit limited objectively justified police practices while preserving actual restraint analysis. A passenger's lack of responsibility for the violation does not eliminate the safety problem during the lawful stop. He will not join a premise that every passenger has already lost all freedom of movement or a rule carrying detention beyond the stop. | Reverse and remand within W3's stated limits. |
-| Thomas | Recognize the same bounded authority. | His unanimous Whren opinion and Robinette joins distinguish objectively lawful authority from motive, and preserve independent limits on execution. The immediate exit direction satisfies Mimms's confined balance; the traffic violation does not thereby supply search authority. | Reverse and remand within W3's stated limits. |
-| Ginsburg | Recognize the same bounded authority. | Her Whren join and Robinette separate position accept the federal correction while protecting the actual encounter inquiry and independent state law. The safety-based exit rule can be accepted without deciding eventual detention, consent, or a passenger's general status. A claim that federal correction forecloses genuinely independent Maryland law would prevent her join. | Reverse and remand within W3's stated limits, preserving any genuinely available independent ground without inventing one. |
+| Thomas | Recognize the same bounded authority. | His Whren dissent and Robinette joins distinguish objectively lawful authority from motive, and preserve independent limits on execution. The immediate exit direction satisfies Mimms's confined balance; the traffic violation does not thereby supply search authority. | Reverse and remand within W3's stated limits. |
+| Ginsburg | Recognize the same bounded authority. | Her Whren opinion and Robinette separate position accept the federal correction while protecting the actual encounter inquiry and independent state law. The safety-based exit rule can be accepted without deciding eventual detention, consent, or a passenger's general status. A claim that federal correction forecloses genuinely independent Maryland law would prevent her join. | Reverse and remand within W3's stated limits, preserving any genuinely available independent ground without inventing one. |
 | Breyer | Recognize the same bounded authority. | His Whren and Robinette joins support practical objective rules with separate scope/duration controls. The marginal relocation and immediate safety purpose justify this rule; practical utility alone would not justify prolonged custody, questioning, or a search. | Reverse and remand within W3's stated limits. |
 
 **Compatibility:** Six Associates share the complete bounded W2 rule and reversal/remand. Stevens and Kennedy share rejection and affirmance but need not share every criticism of Mimms. Their separate-position function is to explain why driver authority does not establish categorical passenger authority. No poll about an unpreserved alternative is turned into a holding.
@@ -730,7 +730,7 @@ Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer each ret
 
 **Final gate status:** Authorized source revalidation completed; actual preceding-date law revalidation completed; original frozen files and aggregate left unchanged. The operative independent commitments are the originals as modified and qualified by this standalone addendum. No unresolved source or chronology blocker remains for those bounded dispositions. Later stages must still perform their own authorized reconciliation and final compatibility checks, without treating the conditional Lynce merits positions as a holding or an operative join.
 
-<!-- frozen-part: OT_1996CHUNK4_COMMITMENTS_B_FEB18_REVALIDATION.md; sha256: 91e027d1acd46c60f270352d5f62c8aa6e20ff06d733fde49ecbe5c2960f2d21 -->
+<!-- frozen-part: OT_1996CHUNK4_COMMITMENTS_B_FEB18_REVALIDATION.md; sha256: 7f46105ea766abb64e2219ce5f8243e4713fbbd758b8375a8bb0edc8dab199c8 -->
 
 # OT1996 chunk 4 — B commitments revalidated against actual February 18 law
 
@@ -744,7 +744,7 @@ Read the entire mechanically copied `entering-law/OT_1996CHUNK4_FEB18_PUBLIC_DEL
 
 Read-byte identifiers (SHA-256):
 
-- Baseline commitments: `788E8DF2284FEDC1A41CE0B43B31BBF5AABEF2414938A6064D45B1F5ECC32B6D`.
+- Baseline commitments: `81D6AB78AE51AF41CDCCB290302834A26256AB53EFC1C642864D0690F253A571`.
 - February 18 public delta: `1EA1784EB10ACE37ECF06281871E0BA8E9ED3F03E235D4CA1AAE931604B32A55`.
 
 ## Material effect of the new law
@@ -805,7 +805,7 @@ The actual February 18 delta requires no affected remodeling and no change to th
 
 There is no new factual or legal-source blocker within the already modeled scope. This is a dated-law addendum, not permission to expand the granted questions, strengthen a remedy, assign an opinion, infer an undisclosed roll call, or revise the frozen baseline silently.
 
-<!-- frozen-part: OT_1996CHUNK4_COMMITMENTS_B_AUER_REVALIDATION.md; sha256: 0c73c66844b28a9e4dd2abce9fdb7fa4071ce8c454d3b29a4c55f7e2c3b99188 -->
+<!-- frozen-part: OT_1996CHUNK4_COMMITMENTS_B_AUER_REVALIDATION.md; sha256: 0783163016919189439821a4f4d01b762d0ba59baf04aa913914de27e03263b7 -->
 
 # OT1996 chunk 4 — later B commitments revalidated against actual Auer
 
@@ -817,8 +817,8 @@ Read the entire `entering-law/OT_1996CHUNK4_AUER_PUBLIC_DELTA.md`: event, partic
 
 Read-byte identifiers (SHA-256):
 
-- Original B commitments: `788E8DF2284FEDC1A41CE0B43B31BBF5AABEF2414938A6064D45B1F5ECC32B6D`.
-- February 18 addendum: `91E027D1ACD46C60F270352D5F62C8AA6E20FF06D733FDE49ECBE5C2960F2D21`.
+- Original B commitments: `81D6AB78AE51AF41CDCCB290302834A26256AB53EFC1C642864D0690F253A571`.
+- February 18 addendum: `7F46105EA766ABB64E2219CE5F8243E4713FBBD758B8375A8BB0EDC8DAB199C8`.
 - Auer public delta: `B76FA63EE96E4EA027A0255F42320242B028FD5DD335C840E3B5DC0E8A0A1689`.
 
 ## The controlling law actually added
@@ -874,7 +874,7 @@ Read the refreshed validity explanation and complete qualification passage, toge
 
 The refreshed explanation continues to ground salary-basis validity in the actual congressional delegation, including public employment. It does not change the controlling-weight rule, scope of lawful interpretive authority, public joins or conditional remedy. None of Brown, Dunn or Wells presents an application of these salary-deduction exceptions, and no earlier conclusion in this handoff depended on omitting a condition. All eight individual confirmations and the no-change conclusion therefore remain intact against the refreshed source. The Auer subgate is finalized on that source; all separately identified later-law gates remain open.
 
-<!-- frozen-part: OT_1996CHUNK4_COMMITMENTS_B_FEB19_REVALIDATION.md; sha256: b2a530a521807de36cc277d128adf4b064ca3434de12c5c47be37123a1b7c2b4 -->
+<!-- frozen-part: OT_1996CHUNK4_COMMITMENTS_B_FEB19_REVALIDATION.md; sha256: 690a934e9a02edc38ac5d574f8bbc2fac295772a2541ea322ce77e7de5b510e7 -->
 
 # OT1996 chunk 4 — later B commitments revalidated against actual February 19 law
 
@@ -888,9 +888,9 @@ The comparison uses the already authorized clean packets, baseline commitments a
 
 Prior artifacts remain unchanged, identified by SHA-256:
 
-- Original B commitments: `788E8DF2284FEDC1A41CE0B43B31BBF5AABEF2414938A6064D45B1F5ECC32B6D`.
-- February 18 addendum: `91E027D1ACD46C60F270352D5F62C8AA6E20FF06D733FDE49ECBE5C2960F2D21`.
-- Completed Auer addendum, including its explicit source-refresh receipt: `0C73C66844B28A9E4DD2ABCE9FDB7FA4071CE8C454D3B29A4C55F7E2C3B99188`.
+- Original B commitments: `81D6AB78AE51AF41CDCCB290302834A26256AB53EFC1C642864D0690F253A571`.
+- February 18 addendum: `7F46105EA766ABB64E2219CE5F8243E4713FBBD758B8375A8BB0EDC8DAB199C8`.
+- Completed Auer addendum, including its explicit source-refresh receipt: `0783163016919189439821A4F4D01B762D0BA59BAF04AA913914DE27E03263B7`.
 
 ## What the actual February 19 law adds
 

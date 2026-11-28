@@ -3,7 +3,7 @@
 READY and frozen: Waste Management; Cabrales; Beggerly. No commitments. Main file short name includes all three; source companion is mandatory.
 
 - OT_1997CHUNK9_NEUTRAL_WASTE_BEGGERLY.md: 42054 characters; SHA256 9a6a615df31a60b5023bc7171caa5ac2d346bbcd7241301aba11f1ecd20bb82b.
-- OT_1997CHUNK9_NEUTRAL_SUPPLEMENT_LAW.md: 223851 characters; SHA256 291b8538696e68bb8bea3198495fae2a1cb3bc7ff19ccdd668047746a41f5b91.
+- OT_1997CHUNK9_NEUTRAL_SUPPLEMENT_LAW.md: 223851 characters; SHA256 df99e0c8cebb9d5211e292f4e786f0631de74c1a68ad501b0abd73d0ca60948b.
 
 Checks: all lower opinions fully read including Beggerly dissent and Cabrales amended footnote; operative posture and scope distinguished; actual inherited/current-public law checked, including public Brockamp and Thomas venue; eight-Justice evidence tables and alternative paths supplied; exact extracts copied mechanically by tmp/build_chunk9_supplement_law.py, 22 source sections; no private inputs or raw Records read. Full historical Rule60/QTA official text unavailable; authoritative lower reported text supports the bounded paths, with limits disclosed. Failed HTML fetches not authority. No commitments or historical same-matter Supreme Court output consulted.
 

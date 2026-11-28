@@ -64,7 +64,7 @@ Whole-file hashes identify the reviewed bytes. Public Projection hashes are SHA-
 | `Gasperini_v_Center_for_Humanities_Inc_merits_1996-06-24.md` | `42bc221433215d930598e04f8abfb207b6528f9a302aaa2911707188f01cf842` | `25b19b446dc834b4ea5f995c5d2d74c08ce03965da085ddc6a36b9de0c68a939` |
 | `Lewis_v_Casey_merits_1996-06-24.md` | `7984353bfb097dc01cf965a7f8318248debc8030ae159fc4885ddfa1f22e05fb` | `f9a9e83656fa51dda3e1c33aa6eed60e8905618778d0e749ea7b03483c92d672` |
 | `Lewis_v_United_States_merits_1996-06-24.md` | `4d375443d154b0055b7300111f90589bb8b63c7d36580075a3f311cf77615bc0` | `072e637975817093e0dd7eccfc08e76f9c847f78d097485911ee744c8ce6bab3` |
-| `Medtronic_Inc_v_Lohr_and_Lohr_v_Medtronic_Inc_merits_1996-06-26.md` | `71aab5a753b2798ece84c2982e40934f83e8d47c62be9a0ebce8c3e6b205a870` | `f8056b3d053f5375466df4a227ac9f0494cbddecf0206fe47b8d0569089183d1` |
+| `Medtronic_Inc_v_Lohr_and_Lohr_v_Medtronic_Inc_merits_1996-06-26.md` | `0f568a0d6c6d1b42463da9b9af0563a07f2dd5dccc4e0c462157478185884754` | `f8056b3d053f5375466df4a227ac9f0494cbddecf0206fe47b8d0569089183d1` |
 | `Settle_v_Dickson_County_School_Board_merits_1996-06-25.md` | `721b9af06b862388bae8323005d57612bd37d49802ee072caae5fed68d3f4e6b` | `061668a4f5e76dde4328e5e60a66dbf47f0c2b17d7fd03bfe18596ea3027ece4` |
 | `United_States_v_Ursery_and_United_States_Currency_merits_1996-06-24.md` | `0b97693bf99e3f137db48e251cda8014583d9cecc6ba0569126da3dd3c0410a2` | `79fb7a4b0baf8afbe246786526af24263dad62f52f521051cb8b60d772a3d480` |
-| `United_States_v_Virginia_and_Virginia_v_United_States_merits_1996-06-26.md` | `f65bec8254747dbdcf4c1a9157ee54c3a138acf4abadb20e8ea40f7336a1a89d` | `297d6bff1c27ac4255e921fcfbbb497e53f2922c83b0b145d650783474a7094d` |
+| `United_States_v_Virginia_and_Virginia_v_United_States_merits_1996-06-26.md` | `b805eae501134f405464986614fdb1f073a0378b861e399307c7cb996093a851` | `297d6bff1c27ac4255e921fcfbbb497e53f2922c83b0b145d650783474a7094d` |

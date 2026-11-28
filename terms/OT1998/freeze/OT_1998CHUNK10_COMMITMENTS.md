@@ -18,7 +18,7 @@ Original plus listed later supplements; later supplements control only their exp
 
 Original plus listed later supplements; later supplements control only their expressly superseded components. These are independent provisional Associate positions, before historical reconciliation.
 
-- [OT_1998CHUNK10_GRUPO_COMMITMENTS.md](../freeze/OT_1998CHUNK10_GRUPO_COMMITMENTS.md) — 38262 bytes; SHA-256 `1096530665237d0dbfbdcd0fd3bb637a05e53fda41abbd70766aa5b182d3f421`.
+- [OT_1998CHUNK10_GRUPO_COMMITMENTS.md](../freeze/OT_1998CHUNK10_GRUPO_COMMITMENTS.md) — 38262 bytes; SHA-256 `7a0693373ccbc86056e337ab626b1ea5304335d0267bd954470c547228a49226`.
 
 ## NASA
 
@@ -31,7 +31,7 @@ Original plus listed later supplements; later supplements control only their exp
 Original plus listed later supplements; later supplements control only their expressly superseded components. These are independent provisional Associate positions, before historical reconciliation.
 
 - [OT_1998CHUNK10_STRICKLER_COMMITMENTS.md](../freeze/OT_1998CHUNK10_STRICKLER_COMMITMENTS.md) — 26643 bytes; SHA-256 `37c3a3e9867bddb9ab4d5b77f9595d61282505c4608df66a391c74065e94a292`.
-- [OT_1998CHUNK10_STRICKLER_COMMITMENTS_RECORD_REFRESH.md](../freeze/OT_1998CHUNK10_STRICKLER_COMMITMENTS_RECORD_REFRESH.md) — 28762 bytes; SHA-256 `04bec1ce521ed70fe44293e504e4bbc7599a6e5c997b1eb8b5088e45bff0a776`.
+- [OT_1998CHUNK10_STRICKLER_COMMITMENTS_RECORD_REFRESH.md](../freeze/OT_1998CHUNK10_STRICKLER_COMMITMENTS_RECORD_REFRESH.md) — 28762 bytes; SHA-256 `a0864e5f0dccd27de928d9e69ba36f393489ff68af2e3c5e8c1133f40b05e867`.
 
 ## Valdespino
 
@@ -56,8 +56,8 @@ Original plus listed later supplements; later supplements control only their exp
 
 Original plus listed later supplements; later supplements control only their expressly superseded components. These are independent provisional Associate positions, before historical reconciliation.
 
-- [OT_1998CHUNK10_JONES_COMMITMENTS.md](../freeze/OT_1998CHUNK10_JONES_COMMITMENTS.md) — 55855 bytes; SHA-256 `ffb839fddb507604367209eaf4780c6dda667257218edbe648db5872e96c1c7e`.
-- [OT_1998CHUNK10_JONES_COMMITMENTS_CLOSING_REFRESH.md](../freeze/OT_1998CHUNK10_JONES_COMMITMENTS_CLOSING_REFRESH.md) — 37639 bytes; SHA-256 `83973465c000fbd51966e0b7b0979a4b4f013c30477411e0c2502c30a1208a22`.
+- [OT_1998CHUNK10_JONES_COMMITMENTS.md](../freeze/OT_1998CHUNK10_JONES_COMMITMENTS.md) — 55855 bytes; SHA-256 `85a11d5f7cf52c1c27dd0ab063fd63953d77ea5581d4127d202abb6c448e607b`.
+- [OT_1998CHUNK10_JONES_COMMITMENTS_CLOSING_REFRESH.md](../freeze/OT_1998CHUNK10_JONES_COMMITMENTS_CLOSING_REFRESH.md) — 37639 bytes; SHA-256 `c1835a95f9e92b4ee08df3095184596dca67d4aeead7c70eb023a94e81e82607`.
 
 ## Martin
 

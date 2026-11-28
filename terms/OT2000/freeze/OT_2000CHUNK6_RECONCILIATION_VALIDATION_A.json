@@ -19,7 +19,7 @@
     {
       "path": "freeze/OT_2000CHUNK6_COMMITMENTS_sullivan.md",
       "bytes": 10273,
-      "sha256": "d35b00bdaa79adb950ef2aee19b0574dc3fdc67e207a4c4666c031cfc587cf28"
+      "sha256": "d230596cd9c191d2a5baed01e39bc254c9c3871e0307512531e8af76a46f8424"
     },
     {
       "path": "freeze/OT_2000CHUNK6_COMMITMENTS_atkinson.md",
@@ -64,7 +64,7 @@
     {
       "path": "entering-law/OT_2000CHUNK6_A_FOCUS.md",
       "bytes": 60820,
-      "sha256": "ab5bedc39c0ff542b3c6406fc353fd6293addc2bdd82213c44d69670a306dbbc"
+      "sha256": "c652fb16cfcbc8730bfe3214db170d51d69f9eff772155411acd02f01fa6a129"
     },
     {
       "path": "entering-law/OT_2000CHUNK6_A_CURRENT.md",
@@ -94,7 +94,7 @@
     {
       "path": "entering-law/OT_2000CHUNK6_A_SULLIVAN.md",
       "bytes": 985703,
-      "sha256": "cee888f7f25cc1bb1cbfec4f9c9d3e892becd8faeaf913c08d195df3a773abc8"
+      "sha256": "790997254ab0fb844ce840ded9b5ee8ce78d6c3839432b5ce44b431da05459e9"
     },
     {
       "path": "entering-law/OT_2000CHUNK6_A_ATKINSON.md",
@@ -146,7 +146,7 @@
     {
       "path": "freeze/OT_2000CHUNK6_RECONCILED_sullivan.md",
       "bytes": 9716,
-      "sha256": "6f0b1b8f3f3987f210c45ed97cc07b625d344cebb1593c2fbe0548c65a2e4942"
+      "sha256": "d1fc5a8697aa095af6658d1bf9d74a98a0283bfaa9d45eb5e8994a8b1bc00d90"
     },
     {
       "path": "freeze/OT_2000CHUNK6_RECONCILED_atkinson.md",

@@ -1017,7 +1017,7 @@ THOMAS, J., delivered the opinion of the Court, in which STONE-ZSELA, C. J., and
 
 **Authority:** The Opinion of the Court, joined by Stone-Zsela, O'Connor, Scalia, Kennedy and Thomas; five direct joins establish the entire rule and its application.
 
-**Controlling explanation:** The Court holds that the remedy's actual predicates, not its label, determine whether it is equitable. Mertens gives the statutory limitation independent force by distinguishing traditional equitable categories from all relief once obtainable in a trust court. An injunction to pay an accrued debt does not avoid that distinction. Equity's exceptional use of specific performance to prevent otherwise inadequately remediable future losses does not supply this demand for an accrued sum.
+**Controlling explanation:** The Court holds that the remedy's actual predicates, not its label, determine whether it is equitable. Mertens gives the statutory limitation independent force by identifying the traditional equitable categories through trust law without extending them to every remedy a court of equity could award incidentally. An injunction to pay an accrued debt does not avoid that distinction. Equity's exceptional use of specific performance to prevent otherwise inadequately remediable future losses does not supply this demand for an accrued sum.
 
 Restitution has legal and equitable forms. The property-based form ordinarily restores identifiable property or proceeds from the defendant who holds them; an obligation to repay a benefit from other assets is different. Here settlement property went to the separate trust and attorney. The named beneficiaries' asserted contractual debt cannot substitute for the connection required by the remedy invoked against them. A charge against a beneficiary's trust interest also differs from the personal money judgment sought here. This is not a universal tracing formula for every equitable remedy; an accounting for profits has distinct predicates and is not this claim.
 
@@ -1027,7 +1027,7 @@ The contrary gain-restoration argument correctly recognizes that some restitutio
 
 #### Precedent Treatment
 
-- Mertens v. Hewitt Associates, 508 U.S. 248: its traditional-equitable-category construction controls; neither its compensation exclusion nor preserved genuine monetary equity is displaced.
+- Mertens v. Hewitt Associates, 508 U.S. 248: its trust-law equitable-category construction controls; neither its exclusion of general compensation nor its recognition of surcharge against fiduciaries and of knowing-participation restoration is displaced.
 - Harris Trust and Savings Bank v. Salomon Smith Barney Inc., 530 U.S. 238: equitable recipient relief remains available on its actual predicates and defenses; it supplies neither this missing property connection nor a universal tracing formula.
 - Varity Corp. v. Howe, 516 U.S. 489: appropriate individual equity remains within statutory categories and ordinary adequate-remedy limits.
 
@@ -1037,7 +1037,7 @@ Section 502(a)(3) does not authorize this demand for personal payment merely fro
 
 #### Separate Positions Relevant to the Decision
 
-Souter dissents, joined by Stevens, Ginsburg and Breyer, and would recognize the asserted return of benefits from a third-party recovery as the traditionally equitable restitution category. The claim is measured by alleged gain rather than the plan-loss compensation rejected in Mertens. A category need have been typically available in equity, not exclusive to equity, and direct possession should not control every restorative theory. Varity supports giving the redress provision practical effect within its limits, while Harris Trust recognizes that appropriate restoration can reach beyond fiduciaries. The government's trust-beneficiary analogy supports that characterization without establishing new property facts. The dissent would remove the categorical remedy bar and return plan interpretation and the actual remedial predicates for adjudication. It would award no reimbursement amount and would not adjudicate absent recipients' property.
+Souter dissents, joined by Stevens, Ginsburg and Breyer, and would recognize the asserted return of benefits from a third-party recovery as the traditionally equitable restitution category. The claim is measured by alleged gain, not loss, and so does not depend on the knowing-participation restoration Mertens recognized. A category need have been typically available in equity, not exclusive to equity, and direct possession should not control every restorative theory. Varity supports giving the redress provision practical effect within its limits, while Harris Trust recognizes that appropriate restoration can reach beyond fiduciaries. The government's trust-beneficiary analogy supports that characterization without establishing new property facts. The dissent would remove the categorical remedy bar and return plan interpretation and the actual remedial predicates for adjudication. It would award no reimbursement amount and would not adjudicate absent recipients' property.
 
 #### Source Notes
 

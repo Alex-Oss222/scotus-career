@@ -23,8 +23,8 @@
 **Input fingerprints at freeze (SHA-256):**
 
 - runtime/OT_2000CHUNK7_NEUTRAL.md: `c99633da620345dfb2410ee4bbab1debd4f89c64f8d8bd4a1e76a8e94fd0dd2f`
-- entering-law/OT_2000CHUNK7_B.md: `ee5bb67a58fd18f8f19a042f4cd7d7dc9754453efea53e576f2ad33e4d10db1a`
-- workspace/neutral-projection.md: `90fab6b81b39708dd6eaf71194914bdc76f7fb6000907b0ded58734222874561`
+- entering-law/OT_2000CHUNK7_B.md: `cc5386f4e1939befcaf5efbbf72759defed99ea1fd3b06c6e054fa5c428c482e`
+- workspace/neutral-projection.md: `a3f5e078ca17954e11634ed52c60b0dbbe4dce87069b25ec474be1363a81e2e3`
 - freeze/OT_2000CHUNK7_NEUTRAL_GOOD_NEWS_SUPPLEMENT_B.md: `a7498ae1d082990d5507bc9eba448f085145b71f04d25d8574579dfbfc57419c`
 - freeze/OT_2000CHUNK7_NEUTRAL_GOOD_NEWS_SOURCE_EXCERPTS_B.md: `3e4aca9814687a26b567d473c74dd2fd0c8701c6bf2a0d9bbcf5ca7a7f166341`
 - freeze/OT_2000CHUNK7_NEUTRAL_GOOD_NEWS_SOURCE_EXCERPTS_C.md: `607b32c316d6642cdad04c95ac3bd1f0bf0c53cd4856dfca4b4be50c92003e71`

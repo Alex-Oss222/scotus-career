@@ -709,7 +709,7 @@
 
 ### Issue 1: Traditional equity and a reimbursement debt
 
-* **Controlling Simulated Law:** Mertens v. Hewitt Associates restricts the statutory phrase to categories traditionally available in equity rather than all relief a court of equity could award. Harris Trust and Savings Bank v. Salomon Smith Barney permits appropriate equitable relief against a knowing nonfiduciary recipient of a prohibited transfer, subject to traditional defenses.
+* **Controlling Simulated Law:** Mertens v. Hewitt Associates identifies the statutory phrase’s equitable categories through trust-law remedies, recognizing surcharge against fiduciaries and restoration against a knowing participant in an actionable breach, rather than every remedy a court of equity could award incidentally. Harris Trust and Savings Bank v. Salomon Smith Barney permits appropriate equitable relief against a knowing nonfiduciary recipient of a prohibited transfer, subject to traditional defenses.
 * **Current Reusable Doctrine:** Identify the specific equitable remedy, the property or relationship supporting it, the proper defendant, and applicable defenses. A demand for money is not necessarily legal, but calling compensation restitution does not make it equitable.
 * **Other Governing Law:** ERISA’s relevant enforcement provision and the actual plan reimbursement terms govern. The settlement’s property allocations and trust arrangement bear on the remedy sought.
 * **Material Other Authority:** Traditional constructive-trust, equitable-lien, restitution, and debt distinctions are material. Harris Trust’s recipient analysis does not automatically establish that every beneficiary owes money enforceable through equity.

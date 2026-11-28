@@ -26,7 +26,7 @@ The refreshed commitment table contains each expected Associate exactly once. It
 |---|---|
 | freeze/OT_2000CHUNK7_MEAD_PUBLIC_POSITION_NEUTRAL_SUPPLEMENT.md | `8b0c4a86a69b8c81906b2f8226dede9f0994db2dabea536f6ebd7094bf40bc8d` |
 | freeze/OT_2000CHUNK7_NEUTRAL_C.md | `b4ae9161dd2965ff63a30dcb8ba6588f7438d2cb200eae39210841f4cfd032e1` |
-| entering-law/OT_2000CHUNK7_C.md | `0461585224c5b142e321a41d9c2d64b8424527fa9a7a1340588782585feeaa1d` |
+| entering-law/OT_2000CHUNK7_C.md | `45a30fc2598a0e04cab1bbf3cc985523d5897a467c2edcf76ad28834c3b009ef` |
 | freeze/OT_2000CHUNK7_COMMITMENTS_united_states_v_mead.md | `5b22eb5365109289bf09cddca016cca5a8c7acb66343f746f9d88e5884171338` |
 | freeze/OT_2000CHUNK7_COMMITMENTS_united_states_v_mead_refresh.md | `a779481428ba330a0a83a9825115aeea1a397cf516cb675fb5bc4a3db2eba1fc` |
 

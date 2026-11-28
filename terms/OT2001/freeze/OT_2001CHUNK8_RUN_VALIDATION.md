@@ -28,7 +28,7 @@ The following summaries are mechanically copied from the current Record opening 
 | 2002-06-27 | Republican Party of Minnesota v. White | Reverse the judgment sustaining the announce clause and remand for declaratory and appropriate prospective injunctive relief, 5–4. | [Record](../records/republican-party-of-minnesota-v-white_merits_2002-06-27.md) |
 | 2002-06-27 | Zelman v. Simmons-Harris | In each consolidated docket, affirm the invalidation of demonstrated integrated devotional purchases, 5–4; vacate its unsupported categorical extension and remand, 6–3. Five support the composite judgment; Stone-Zsela would additionally vacate the part affirmed, and Scalia, Kennedy and Thomas would reverse. | [Record](../records/zelman-v-simmons-harris_merits_2002-06-27.md) |
 | 2002-06-28 | Stewart v. Smith | Reverse the Ninth Circuit judgment on independence and remand, 9–0. | [Record](../records/stewart-v-smith_merits_2002-06-28.md) |
-| 2002-06-28 | United States v. Bass | Reverse the judgment sustaining the present discovery order and set aside the dependent death-notice exclusion, 9–0. | [Record](../records/united-states-v-bass_merits_2002-06-28.md) |
+| 2002-06-28 | United States v. Bass | Reverse the judgment sustaining the present discovery order and set aside that order and the dependent death-notice exclusion, 9–0; remand for the first-stage threshold inquiry under Armstrong, 5–4; O'Connor, Scalia, Kennedy and Thomas dissent from the remand. | [Record](../records/united-states-v-bass_merits_2002-06-28.md) |
 
 ## Validation and preservation
 

@@ -4,7 +4,7 @@ This index incorporates the identified frozen substantive handoffs in full withi
 
 | Matters | Final frozen handoff | SHA-256 | Scope note |
 |---|---|---|---|
-| 1, 3, 5 | [OT_1996CHUNK1_COMMITMENTS_A.md](../freeze/OT_1996CHUNK1_COMMITMENTS_A.md) | `040a109a8d149187662a6a3b8a5bafd82d4776ca9404b508f02fa5c005589f73` | Roy portion is preserved but superseded by the repaired Roy handoff. |
+| 1, 3, 5 | [OT_1996CHUNK1_COMMITMENTS_A.md](../freeze/OT_1996CHUNK1_COMMITMENTS_A.md) | `7a327e73c6cc1b0392a91d0d97c807897eb93b314e306d0d2b3a0305f0ac9d82` | Roy portion is preserved but superseded by the repaired Roy handoff. |
 | 2 | [OT_1996CHUNK1_COMMITMENTS_ROY_REPAIR.md](../freeze/OT_1996CHUNK1_COMMITMENTS_ROY_REPAIR.md) | `7fab77e1ad6d8656d1c7b5ed778e847d16f044c1e393f7bbacf08b1f7d5caa7c` | Fresh affected-stage modeling after clean source validation. |
 | 4 | [OT_1996CHUNK1_COMMITMENTS_YANG_REPAIR.md](../freeze/OT_1996CHUNK1_COMMITMENTS_YANG_REPAIR.md) | `8fd8ec97dd3487a9f3dcb8165a55b6718f34f1ad3629f5333ef2d7f734601269` |  |
 | 6 | [OT_1996CHUNK1_COMMITMENTS_HOPWOOD.md](../freeze/OT_1996CHUNK1_COMMITMENTS_HOPWOOD.md) | `e93a21a62c53ee60ff65586a822772a7029d603e707a145c1ba9d129dd22218d` |  |

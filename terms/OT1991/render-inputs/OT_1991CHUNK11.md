@@ -424,7 +424,7 @@ Alvarez-Machain, a Mexican citizen and resident, was indicted for alleged partic
 
 Relief sought: The United States seeks reversal and restoration of its prosecution. Respondent seeks preservation of dismissal and repatriation on the Treaty ground. No acquittal, damages award, or adjudication of a freestanding customary-international-law claim is sought within the granted question.
 
-Render form: full; the judgment is 5–4 and the Chief Justice publishes a separately qualified dissent.
+Render form: full; the judgment is 5–4, the Chief Justice writes the opinion of the Court, Souter concurs, and White dissents.
 
 ## 2. Participation
 
@@ -432,64 +432,111 @@ Chief Justice Stone-Zsela and Justices White, Blackmun, Stevens, O’Connor, Sca
 
 ## 3. Public Action
 
-The Court reverses the Ninth Circuit judgment and remands for further proceedings consistent with its opinion.
+The Court affirms the Ninth Circuit judgment.
 
 ## 4. Judgment & Remedy
 
 | Component | Disposition | Supporting Justices | Contrary positions and remedy |
 |---|---|---|---|
-| Treaty-based trial bar and appellate dismissal direction | Reversed and remanded, 5–4 | White, Scalia, Kennedy, Souter, Thomas | Stone-Zsela, Blackmun, Stevens, O’Connor would affirm; prosecution may proceed |
-| Repatriation order | Reversed, 5–4 | White, Scalia, Kennedy, Souter, Thomas | Stone-Zsela, Blackmun, Stevens, O’Connor would require return; no judicial return obligation under this Treaty |
+| Treaty bar to trial on the custody obtained through the seizure | Affirmed, 5–4 | Stone-Zsela, Blackmun, Stevens, O’Connor, Souter | White, Scalia, Kennedy, Thomas would reverse and permit prosecution; the prosecution founded on that custody ends, without acquittal or dismissal with prejudice |
+| Discharge and repatriation order | Affirmed, 5–4 | Stone-Zsela, Blackmun, Stevens, O’Connor, Souter | White, Scalia, Kennedy, Thomas would reverse; extradition or another transfer Mexico authorizes remains available |
 
-5–4 to reverse the treaty-based dismissal and repatriation order and remand: White, Scalia, Kennedy, Souter, and Thomas. Stone-Zsela, Blackmun, Stevens, and O’Connor would affirm dismissal and repatriation. The prosecution may proceed; no determination of guilt follows. The Court does not order a diplomatic return or decide the capture’s independent legality. Dissenting Justices would preserve return and dismissal on the treaty ground, without acquittal or immunity from a later prosecution following lawful transfer.
+5–4 to affirm the treaty bar to trial, the discharge and the repatriation order: Stone-Zsela, Blackmun, Stevens, O’Connor, and Souter. White, Scalia, Kennedy, and Thomas would reverse. The prosecution founded on the custody obtained through the seizure ends, and Alvarez-Machain is to be returned to Mexico. No acquittal, dismissal with prejudice, determination of guilt or damages follows, and the United States may seek his surrender by extradition or another transfer Mexico authorizes. The dissenting Justices would reverse and permit the prosecution to proceed, without authorizing abduction or deciding the capture’s independent legality.
 
 ## 5. Opinion Topology
 
 | Writing | Author | Joined by | Judgment relationship and scope |
 |---|---|---|---|
-| Opinion of the Court | White | Scalia, Kennedy, Souter, Thomas | Reverse/remand; Treaty supplies no prosecution restriction; five votes |
-| Dissent | Stevens | Blackmun, O’Connor | Affirm dismissal and return under the Treaty’s comprehensive surrender framework |
-| Dissent | Stone-Zsela | No other Justice | Affirm dismissal and return; narrow official-abduction/protest boundary with express reservations; no formal join |
+| Opinion of the Court | Stone-Zsela | Blackmun, Stevens, O’Connor, Souter | Affirm; Parts I–IV: operative treaty allocation, the five-predicate bar on officially directed circumvention, defensive invocation when Mexico formally objects, and discharge and return without permanent immunity; five votes each |
+| Concurrence | Souter | No other Justice | Joins in full; Ker does not govern a government-directed circumvention of this Treaty’s allocation, and no general constitutional bar to trial after unlawful capture follows |
+| Dissent | White | Scalia, Kennedy, Thomas | Reverse; the Treaty supplies no prosecution restriction, and Ker–Frisbie governs trial authority |
 
-Opinion of the Court by White, joined in full by Scalia, Kennedy, Souter, and Thomas (five). Stevens dissents, joined by Blackmun and O’Connor. Stone-Zsela dissents separately, with no formal joins. The five-member Court opinion supplies the controlling rule; no Marks analysis is necessary. Stone’s narrow official-abduction-and-protest rule is not a formal join in the broader Stevens dissent.
+Opinion of the Court by Stone-Zsela, joined in full by Blackmun, Stevens, O’Connor, and Souter (five). Souter, who joins the opinion in full, also concurs separately. White dissents, joined by Scalia, Kennedy, and Thomas. The five-member Court opinion supplies the controlling rule for each of its four Parts; no Marks analysis is necessary. Souter’s concurrence explains the limits of his join and does not narrow the Court’s holdings.
 
 ## 6. Holdings
 
-### This Treaty does not bar prosecution after the abduction
+### 1. The Treaty’s allocation of surrender decisions is operative federal law
 
-**Holding and operative rule.** The United States–Mexico Extradition Treaty does not prohibit this abduction or make extradition its exclusive means of obtaining a defendant’s presence. Because the Treaty supplies no restriction barring this prosecution, the Ker–Frisbie rule permits trial notwithstanding the DEA-sponsored forcible transfer and Mexico’s protest; the treaty-based dismissal and repatriation order must be reversed.
+**Holding and operative rule.** The United States–Mexico Extradition Treaty is law of the United States under Article VI, and courts give its terms operative effect by reading them for their text, their context, the parties’ reciprocal obligations, their practice and the function each provision performs. Article 9 allocates to the requested State the decision whether to surrender its own nationals and, if it declines, to submit the case to its own prosecuting authorities. Courts neither manufacture restrictions the parties did not adopt nor read the Treaty to let one party nullify a decision it expressly reserves to the other.
 
-**Authority.** White’s Opinion of the Court, joined by Scalia, Kennedy, Souter, and Thomas; five votes support the treaty construction, its application, and resulting remand.
+**Authority.** Part I of Stone-Zsela’s opinion of the Court, joined by Blackmun, Stevens, O’Connor, and Souter; five votes. White, Scalia, Kennedy, and Thomas dissent.
 
-**Controlling explanation.** The Court holds that this Treaty does not withdraw the court’s power to try respondent. Its text creates obligations to surrender persons in specified circumstances and prescribes procedures when extradition is invoked. Article9 reserves a decision within that process; it does not state that every acquisition of custody must occur through it. Rauscher enforces limits attached to an actual treaty surrender, and Cook enforces an established territorial seizure restriction. Neither requires courts to infer this different prohibition from an agreement that supplies none. Ker and Frisbie therefore govern the consequence for trial authority. Official sponsorship and Mexico’s protest make the conduct different from a private kidnapping, but do not themselves add a term to the Treaty. General international-law objections likewise cannot establish a particular extradition obligation without support in the compact or relevant extradition practice. The Court’s conclusion permits prosecution; it does not authorize abduction, adjudicate guilt, or resolve the conduct’s legality under other law. Diplomatic return outside this Treaty remains an Executive matter.
+**Controlling explanation.** The Court holds that a treaty’s silence about a particular act does not end the inquiry into what the parties bound themselves to do. Air France v. Saks and Valentine require courts to begin with a treaty’s words and the context in which they were written, and Valentine forbids supplying an obligation the parties did not create. Chan confirms that a court may not insert a sanction the text omits merely because a purpose would be served. Rauscher supplies the complementary rule: an obligation that a treaty’s text and structure necessarily imply is enforceable law although no sentence states it. Article 9 is not a procedural courtesy. It reserves to each party a sovereign choice whether its nationals will be surrendered or prosecuted at home, and the Treaty’s surrender procedures are built around that choice. A construction allowing the requesting party to take the person by force whenever it expected an unwelcome answer would leave the reservation with no work to do. Reading the Treaty to preserve that allocation adds no term; it gives effect to one the parties wrote.
 
 **Precedent treatment.**
 
-- Ker v. Illinois, 119 U.S.436 (1886): applied to trial authority after this official international abduction because the Treaty supplies no contrary limitation; not treated as affirmative authorization to seize.
-- Frisbie v. Collins, 342 U.S.519 (1952): retained and applied for the distinction between unlawful capture and the power to conduct a lawful trial.
-- United States v. Rauscher, 119 U.S.407 (1886): retained; its enforceable treaty limitation follows actual extradition on specified terms and does not make this different Treaty exclusive.
-- Cook v. United States, 288 U.S.102 (1933): distinguished; an established treaty restriction on governmental seizure controls there, and no comparable restriction is found here.
-- Air France v. Saks, 470 U.S.392 (1985), and Valentine v. United States ex rel. Neidecker, 299 U.S.5 (1936): applied to begin with the Treaty’s terms and determine the adopted obligation rather than assume it.
+- Air France v. Saks, 470 U.S.392 (1985), and Valentine v. United States ex rel. Neidecker, 299 U.S.5 (1936): applied; interpretation begins with the Treaty’s terms read in context, and no obligation is supplied that the parties did not adopt.
+- Chan v. Korean Air Lines, Ltd., 490 U.S.122 (1989): applied as a limit; courts do not insert a missing sanction from purpose alone.
+- United States v. Rauscher, 119 U.S.407 (1886): applied; an obligation necessarily implied by a treaty’s text and structure is enforceable law.
+
+### 2. The United States may not circumvent the Treaty’s surrender allocation by an officially directed seizure over Mexico’s objection
+
+**Holding and operative rule.** Where a treaty allocates to the other party the decision whether to surrender a person, the United States may not circumvent that allocation through a forcible seizure attributable to it in the other party’s territory, without that party’s consent and over its formal objection, and then prosecute the person on the custody so obtained. The bar applies only when five predicates are met: (1) the Treaty allocates the surrender decision, as Article 9 does for a party’s nationals; (2) the seizure is attributable to the United States Government; (3) it occurs in the other party’s territory; (4) that party did not consent and formally objected; and (5) the prosecution depends on custody obtained through that conduct. Extradition is not the exclusive lawful means of acquiring custody: voluntary surrender, lawful deportation, consensual transfers and conduct of private persons not attributable to the Government are judged under their own law. Each predicate is met on this record.
+
+**Authority.** Part II of Stone-Zsela’s opinion of the Court, joined by Blackmun, Stevens, O’Connor, and Souter; five votes. White, Scalia, Kennedy, and Thomas dissent.
+
+**Controlling explanation.** The Court holds that the Treaty forbids this means of defeating Article 9, not every acquisition of custody outside extradition. The undisputed findings establish that persons paid to act at DEA behest seized Alvarez-Machain in Guadalajara and brought him to the United States; official responsibility does not depend on whether regular DEA personnel performed the seizure. Mexico did not consent, protested formally and consistently demanded his return. No extradition proceeding under the Treaty produced the transfer, and the prosecution rests on the custody so obtained. When a contracting government takes a national from the other party’s territory over that party’s objection, it makes for itself the decision Article 9 assigns to the other party. Textual silence about abduction is the strongest contrary point, and the Court confines the implication accordingly: it does not reach captures by private persons without governmental attribution, transfers the other party authorizes, voluntary departure or lawful deportation. Cook supports the line, because it enforced a treaty limit on the Government’s own power of seizure. Ker involved a kidnapper acting without governmental authority and so did not address a contracting government’s own circumvention of a treaty.
+
+**Precedent treatment.**
+
+- Ker v. Illinois, 119 U.S.436 (1886): ordinary rule retained; distinguished, because the kidnapper there acted without governmental authority and no government circumvented an applicable treaty’s allocation. To the extent Ker could be read to govern such a circumvention, it is narrowed to that boundary; it is not treated as affirmative authorization to seize.
+- Frisbie v. Collins, 342 U.S.519 (1952): preserved; it involved no treaty, and its distinction between unlawful capture and the power to conduct a lawful trial remains the default outside the stated predicates.
+- United States v. Rauscher, 119 U.S.407 (1886): extended from limits that follow an actual surrender to the surrender decision the Treaty reserves before any surrender.
+- Cook v. United States, 288 U.S.102 (1933): applied; a treaty limit on the Government’s own power of seizure binds courts, and the Government may not rely on what it obtained by exceeding it.
+- Chan v. Korean Air Lines, Ltd., 490 U.S.122 (1989): distinguished; no sanction is inserted from purpose alone, because the limit follows from the allocation Article 9 makes and is confined to its five predicates.
+
+### 3. The defendant may invoke the violation defensively when Mexico formally objects
+
+**Holding and operative rule.** A defendant prosecuted on custody obtained in violation of the Treaty’s allocation may invoke the violation defensively in that prosecution when the contracting State whose rights were infringed formally objects. The holding creates no general private action for damages under treaties and does not authorize courts to supervise the conduct of diplomacy.
+
+**Authority.** Part III of Stone-Zsela’s opinion of the Court, joined by Blackmun, Stevens, O’Connor, and Souter; five votes. White, Scalia, Kennedy, and Thomas dissent.
+
+**Controlling explanation.** The Court holds that a defendant may raise this treaty limit in resisting his own prosecution, as the defendant in Rauscher raised the limit that followed his surrender and as the claimant in Cook relied on the treaty’s limit on seizure. The Government’s alternative argument, that only the offended sovereign may enforce the Treaty, is answered by the condition the Court attaches rather than by excluding the defendant. The decision Article 9 protects belongs to Mexico, so the defense is available when Mexico, the contracting State whose rights were infringed, formally objects; a court asks whether that objection was made, not whether the diplomatic exchange was wise. Here Mexico’s protest was prompt and unequivocal, it demanded return, and it was reaffirmed after the district court acted. Because the defense operates only within a prosecution and only on that condition, it neither creates a damages remedy for persons seized abroad nor draws courts into managing relations between the two Governments. Whether a treaty confers enforceable individual rights in other settings is not decided.
+
+**Precedent treatment.**
+
+- United States v. Rauscher, 119 U.S.407 (1886): applied; a defendant may invoke a treaty limit in his own prosecution.
+- Cook v. United States, 288 U.S.102 (1933): applied; a private litigant may rely on a treaty limit on the Government’s seizure in the proceeding the Government brings.
+- Ker v. Illinois, 119 U.S.436 (1886): distinguished; it presented no government-directed circumvention of an applicable treaty for a defendant to invoke.
+
+### 4. The remedy ends this prosecution and restores the treaty position without permanent immunity
+
+**Holding and operative rule.** The remedy for the violation is to end the prosecution founded on the unlawfully acquired custody and to restore the position the Treaty protects: Alvarez-Machain is discharged from that custody and returned to Mexico. The remedy is not an acquittal, a dismissal with prejudice, a finding of guilt or innocence, or damages, and it confers no permanent immunity. The United States may seek his surrender through extradition under the Treaty or another transfer Mexico authorizes, and this holding does not bar a prosecution on custody so obtained.
+
+**Authority.** Part IV of Stone-Zsela’s opinion of the Court, joined by Blackmun, Stevens, O’Connor, and Souter; five votes. White, Scalia, Kennedy, and Thomas dissent.
+
+**Controlling explanation.** The Court holds that the remedy must match the violation. The wrong is the Government’s substitution of force for the decision the Treaty reserves to Mexico, so the remedy undoes that substitution and no more. Discharge and return place the parties where they would have stood had the Treaty been followed, leaving Mexico free to surrender him, to submit the case to its own prosecutors under Article 9, or to decline. A permanent bar would give the defendant more than the Treaty secures; permitting trial notwithstanding the violation would give the Treaty no effect. The allegations of participation in the charged crimes remain unadjudicated. The district court denied dismissal on outrageous-conduct grounds, found that the Treaty violation barred trial, discharged him and ordered repatriation without separately dismissing the indictment. The Court affirms the Ninth Circuit’s judgment on that basis; it does not convert the appellate dismissal characterization into a dismissal with prejudice or revive the rejected due-process theory.
+
+**Precedent treatment.**
+
+- Cook v. United States, 288 U.S.102 (1933): applied; the Government may not retain the benefit of a seizure that exceeded its treaty authority.
+- Frisbie v. Collins, 342 U.S.519 (1952): preserved; outside the treaty circumvention addressed here, an unlawful capture does not by itself require release.
+- United States v. Rauscher, 119 U.S.407 (1886): applied by analogy; a treaty limit on prosecution operates on the Government’s authority to proceed and does not adjudicate the charged conduct.
+
+**Authority structure.** Each Part has a direct majority of five; no Marks analysis is needed. Souter’s concurrence explains his join and does not narrow any Part.
+
+**Limits and questions not reached.** The decision does not authorize abduction, require extradition for every international acquisition of custody, adjudicate guilt, or decide a constitutional, due-process, outrageous-conduct or customary-international-law bar to trial. Captures by private persons not attributable to the Government, voluntary surrender, lawful deportation and consensual transfers are judged under their own law, and Ker–Frisbie remains the default outside the stated predicates. No general private damages action under treaties is created, and courts do not supervise diplomacy. The independently rejected outrageous-conduct theory is not reconsidered, and no separate Verdugo-Urquidez docket is adjudicated.
 
 ## 7. Precedent Treatment
 
-- Ker v. Illinois, 119 U.S.436 (1886): applied to trial authority after this official international abduction because the Treaty supplies no contrary limitation; not treated as affirmative authorization to seize.
-- Frisbie v. Collins, 342 U.S.519 (1952): retained and applied for the distinction between unlawful capture and the power to conduct a lawful trial.
-- United States v. Rauscher, 119 U.S.407 (1886): retained; its enforceable treaty limitation follows actual extradition on specified terms and does not make this different Treaty exclusive.
-- Cook v. United States, 288 U.S.102 (1933): distinguished; an established treaty restriction on governmental seizure controls there, and no comparable restriction is found here.
-- Air France v. Saks, 470 U.S.392 (1985), and Valentine v. United States ex rel. Neidecker, 299 U.S.5 (1936): applied to begin with the Treaty’s terms and determine the adopted obligation rather than assume it.
+- Ker v. Illinois, 119 U.S.436 (1886): ordinary rule retained; distinguished for a government-directed circumvention of an applicable treaty’s allocation and, to the extent it could be read to govern one, narrowed to that boundary; not treated as affirmative authorization to seize.
+- Frisbie v. Collins, 342 U.S.519 (1952): preserved; its distinction between unlawful capture and the power to conduct a lawful trial remains the default outside the stated predicates.
+- United States v. Rauscher, 119 U.S.407 (1886): extended from limits that follow an actual surrender to the surrender decision the Treaty reserves, and applied to a defendant’s invocation of a treaty limit in his own prosecution.
+- Cook v. United States, 288 U.S.102 (1933): applied; a treaty limit on the Government’s own power of seizure binds courts and may be relied on in the proceeding the Government brings.
+- Air France v. Saks, 470 U.S.392 (1985), and Valentine v. United States ex rel. Neidecker, 299 U.S.5 (1936): applied; interpretation begins with the Treaty’s terms read in context, and no obligation is supplied that the parties did not adopt.
+- Chan v. Korean Air Lines, Ltd., 490 U.S.122 (1989): applied as a limit and distinguished; no sanction is inserted from purpose alone, because the bar follows from Article 9’s allocation and is confined to its five predicates.
 
 ## 8. Law After Decision
 
-The Treaty does not supply a prosecution bar on these facts; ordinary criminal proceedings may resume. Rauscher and Cook remain enforceable where a treaty supplies the relevant restriction, and Ker–Frisbie remains the default for trial authority after unlawful capture. The holding does not grant authority to abduct, settle general international legality, foreclose every other remedy, or impose a universal rule against individual treaty enforcement. Neither dissent changes controlling law.
+Effective June 15, 1992, the Treaty bars a federal prosecution that depends on custody obtained through a forcible seizure attributable to the United States in Mexico, without Mexico’s consent and over its formal objection, in circumvention of Article 9’s allocation of the decision whether to surrender a Mexican national. The defendant may invoke the bar defensively when Mexico formally objects. The remedy is discharge from that custody and return, not acquittal, dismissal with prejudice or permanent immunity, and extradition or another authorized transfer remains available. Ker–Frisbie remains the default for trial authority after unlawful capture outside these predicates, including captures by private persons not attributable to the Government, voluntary surrender, lawful deportation and consensual transfers. Rauscher and Cook remain enforceable where a treaty supplies the relevant restriction. The holding creates no general private damages action under treaties, does not supervise diplomacy and decides no constitutional, outrageous-conduct or customary-international-law bar to trial. The dissent does not change controlling law.
 
 ## 9. Separate Writings
 
-Stevens, joined by Blackmun and O’Connor, would affirm. The Treaty’s comprehensive surrender framework and reserved national choice would lose effect if a contracting government could bypass them by force. Rauscher permits enforcement of necessary structural implications, and Cook distinguishes a government’s treaty-limited power from wrongful private acquisition; the DEA’s involvement and Mexico’s protest therefore matter. Stone-Zsela separately would affirm under a narrower proposed extension of Rauscher: the United States may not use its agents to seize a Mexican national from Mexico over formal objection and thereby defeat Article9’s retained surrender decision. He acknowledges textual silence and confines the inference to that governmental bypass. He preserves Ker–Frisbie outside this boundary and would openly narrow Ker if it otherwise covered it. Return restores the pre-abduction position; dismissal is no acquittal or permanent bar after lawful transfer. He reserves private captures without attribution, consensual transfers, future extradition, and damages, and reaches no independent constitutional or international-law capture exception.
+Souter, who joins the opinion of the Court in full, concurs to state the limits of his vote. Ker does not govern because the kidnapper there acted without governmental authority; the decisive fact here is that a contracting government took for itself a decision the Treaty assigns to Mexico. The inference rests on Article 9’s reservation and Mexico’s formal protest, not on the wrongfulness of the abduction alone, and it does not imply that every foreign capture bars trial. He finds no general constitutional bar to trial after an unlawful capture, and he reads the Court’s holding as resting on the Treaty alone rather than on any general principle of international law. White, joined by Scalia, Kennedy, and Thomas, dissents. The Treaty creates obligations to surrender persons in specified circumstances and prescribes procedures when extradition is invoked; Article 9 reserves a decision within that process but does not make extradition the exclusive means of obtaining a defendant’s presence. Rauscher enforces limits attached to an actual treaty surrender, and Cook enforces an established territorial seizure restriction; neither supports inferring a prohibition this Treaty does not state, and Chan forbids adding a sanction from purpose alone. Ker and Frisbie therefore govern trial authority. Official sponsorship and Mexico’s protest make the conduct different from a private kidnapping, but they do not add a term to the Treaty, and the response to the international wrong belongs to the Executive. Because the Treaty supplies no prohibition, the dissent would not reach whether a defendant could invoke one, and it regards the Court’s conditioning of the defense on Mexico’s objection as confirming that the matter lies between the two Governments. The dissent would reverse; it does not authorize abduction, adjudicate guilt or resolve the conduct’s legality under other law.
 
 ## 10. Procedure After Action
 
-Supreme Court merits review of the Treaty ground is complete. The Ninth Circuit judgment is reversed, and the case is remanded for further proceedings with the treaty-based dismissal and repatriation barrier removed. No ruling follows on guilt, a future extradition, damages, or the independently rejected outrageous-conduct theory. No separate Verdugo-Urquidez docket event is adjudicated by this record.
+Supreme Court merits review of the Treaty ground is complete. The Ninth Circuit judgment is affirmed: the treaty bar to trial on the custody obtained through the seizure, Alvarez-Machain’s discharge and the order to repatriate him to Mexico stand, and the prosecution founded on that custody ends. The affirmance is not an acquittal, a dismissal with prejudice or a finding about guilt, and it creates no district dismissal order. The United States may seek his surrender through extradition or another transfer Mexico authorizes. No ruling follows on damages or the independently rejected outrageous-conduct theory. No separate Verdugo-Urquidez docket event is adjudicated by this record.
 
 ## 11. Source Notes
 

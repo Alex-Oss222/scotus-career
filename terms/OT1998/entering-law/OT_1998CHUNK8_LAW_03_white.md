@@ -53,7 +53,7 @@ Source: `state/holdings/criminal-procedure.md`; exact section copied mechanicall
 - **United States v. Johns:** Custody alone does not eliminate vehicle-search authority. The Court does not remove Johns's separate protection against unreasonable delay or decide a delay claim here.
 - **United States v. Ross:** Probable cause's object determines the permitted places and containers to search; it is not a license for a search beyond that object.
 - **Ornelas v. United States:** Independent review of ultimate constitutional probability questions, clear-error protection for historical facts and due weight to grounded inferences remain. The case supplies no new fact, waiver or probable-cause presumption.
-- **Whren v. United States:** Objective authority for the initial stop remains separate from search, manner, scope and duration. Its unanimity does not supply an additional vote or factual premise here.
+- **Whren v. United States:** Objective authority for the initial stop, presumptively established by probable cause, remains separate from search, manner, scope and duration. It supplies no additional vote or factual premise here.
 - **Wilson v. Arkansas and Pinson:** The distinct protections governing dwelling entry and the particular technological examination of domestic information remain. Neither is a general automobile rule or establishes Kilgore's property boundary or lawful access.
 
 No prior decision is overruled. The Court applies the inherited automobile exception to reject the added federal condition; it does not adopt a new general mechanical-defect, curtilage or premises-consent rule.

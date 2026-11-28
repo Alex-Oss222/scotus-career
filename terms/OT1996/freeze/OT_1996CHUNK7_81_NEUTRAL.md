@@ -47,8 +47,8 @@ The opinion should keep the exercise-of-right clause and attainment clause disti
 |---|---|
 | Stevens | Joined Curtiss-Wright, Lockheed's sponsor/implementation distinction and Varity's function-specific liability and individual-equity holdings. Statutory coverage and remedy remain separate. |
 | O'Connor | Joined Curtiss-Wright and Lockheed; joined Thomas's Varity dissent, emphasizing ERISA's differentiated enforcement structure and statutory function. That dissent expressly permitted remand for a preserved §510 alternative without deciding it. |
-| Scalia | Same Curtiss-Wright/Lockheed joins and Varity dissent; authored Mertens's equitable-category limitation. Broad coverage language and a separately limited remedy must each receive analysis. |
-| Kennedy | Joined the relevant Curtiss-Wright, Lockheed and Varity holdings, and Mertens's remedy rule; an amendment reservation does not alone settle an independently prohibited act. |
+| Scalia | Same Curtiss-Wright/Lockheed joins and Varity dissent; wrote the Mertens dissent's equitable-category limitation. Broad coverage language and a separately limited remedy must each receive analysis. |
+| Kennedy | Joined the relevant Curtiss-Wright, Lockheed and Varity holdings, and the Mertens dissent's remedy rule; an amendment reservation does not alone settle an independently prohibited act. |
 | Souter | Authored Curtiss-Wright and Varity; joined Lockheed's sponsor rule but reserved its benefit-payment classification. Actual statutory function and what the grant requires matter separately. |
 | Thomas | Authored Varity dissent and joined Curtiss-Wright and Lockheed; objected to the majority's §502(a)(3) construction and fiduciary classification, not to every possible §510 action. |
 | Ginsburg | Authored Lockheed and joined Curtiss-Wright and Varity; separating sponsor design, implementation, independent commands and remedy is an established position. |

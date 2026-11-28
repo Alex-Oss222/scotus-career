@@ -24,6 +24,6 @@ Targeted authority checks included the scoped Wharf and current-term entering-la
 
 ## Interface and limits of completion
 
-Each draft has the exact eleven Public Projection blocks in order. Each internal controlling-holdings section is identical to its public Holdings block. The explanation-body word counts are: Chen 211; Wharf 206; Appalachian Power 94, 193 and 46; Sullivan 77, 92 and 89; Atkinson 238 and 72. Every ordinary explanation is below 350 words. Judgment names, common authority and the Atkinson additional joins reconcile; no fractured-rationale combination is claimed. No private workflow material was found in the five Public Projections.
+Each draft has the exact eleven Public Projection blocks in order. Each internal controlling-holdings section is identical to its public Holdings block. The explanation-body word counts are: Chen 211; Wharf 206; Appalachian Power 94, 193 and 46; Sullivan 126, 92 and 89; Atkinson 238 and 72. Every ordinary explanation is below 350 words. Judgment names, common authority and the Atkinson additional joins reconcile; no fractured-rationale combination is claimed. No private workflow material was found in the five Public Projections.
 
 The reviewer edited only this review artifact. No draft, adjudication, assignment, tracker or infrastructure file was changed by the reviewer. The operator must still replace assignment placeholders sequentially, produce the final Records, and complete the generated-interface and term checks.

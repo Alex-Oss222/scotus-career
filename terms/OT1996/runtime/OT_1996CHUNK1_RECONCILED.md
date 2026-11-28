@@ -4,7 +4,7 @@ This index incorporates the identified frozen substantive handoffs in full withi
 
 | Matters | Final frozen handoff | SHA-256 | Scope note |
 |---|---|---|---|
-| 1, 3, 5 | [OT_1996CHUNK1_RECONCILED_A_READY.md](../freeze/OT_1996CHUNK1_RECONCILED_A_READY.md) | `61bd97dce8893e3b66c7df1519f2d614f8a56053b990fa1d66ad912d2fb6e669` |  |
+| 1, 3, 5 | [OT_1996CHUNK1_RECONCILED_A_READY.md](../freeze/OT_1996CHUNK1_RECONCILED_A_READY.md) | `e8e744e36e4a8896305a4e5edd0e6997ddd33a2a507338d5e991c72fa1fb1dfb` |  |
 | 2 | [OT_1996CHUNK1_RECONCILED_ROY_REPAIR.md](../freeze/OT_1996CHUNK1_RECONCILED_ROY_REPAIR.md) | `26cea88ec42eeea3d32637bd091bdec706f0ac61daace22cbfc238912323328e` | Fresh Stone-blind affected-stage reconciliation. |
 | 4, 7, 8, 9, 10, 11, 12 | [OT_1996CHUNK1_RECONCILED_B_REPAIRS_VALIDATED.md](../freeze/OT_1996CHUNK1_RECONCILED_B_REPAIRS_VALIDATED.md) | `70bf119ce28dd2b25106e909df0c8ee9818a2bf0f5aa4747bee9126f6c5c60ed` | Independent fresh review supersedes the control-context drafts as final reconciliation authority. |
 | 6 | [OT_1996CHUNK1_RECONCILED_HOPWOOD.md](../freeze/OT_1996CHUNK1_RECONCILED_HOPWOOD.md) | `8b55137f4a7f304693fce5a9a4f0e4179b90b86012dc8e8fbceb4777d77d3d44` |  |

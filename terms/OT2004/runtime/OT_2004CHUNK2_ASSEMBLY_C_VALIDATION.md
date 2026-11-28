@@ -40,7 +40,7 @@ Final counted totals after these four events: Stone-Zsela 2; Stevens 3; O'Connor
 - Exact first four required labels, original-decision lineage and January 24 event dates checked for each Record.
 - Every Public Projection contains exactly the eleven required level-two blocks in order; the case-specific level-three holdings remain inside the Holdings block.
 - Each internal controlling-holdings section equals its Public Projection Holdings text byte-for-byte after trimming boundary whitespace.
-- Ordinary controlling-explanation word counts: Bell 103, 173 and 317; Banks 238 and 66; Howell 222; Caballes 259. All comply with the 350-word ceiling.
+- Ordinary controlling-explanation word counts: Bell 103, 173 and 317; Banks 238 and 66; Howell 222; Caballes 277. All comply with the 350-word ceiling.
 - Public text checked for pending markers, modern approval dates, private workflow language and the Chief's short surname; none remains. Public surname is Stone-Zsela.
 - Exact public dispositions, named support, partial joins, separate-writing scopes, genuine nonreach and remedy conditions were compared against the final frozen grounds and approved Chief positions.
 - Section 8 negative-statement review completed across judgment, holdings, precedent treatment, resulting law and procedure. Retained negatives express actual claim limits, live remedial disputes or surviving judgment status; the identified private-boundary and speculative-proceeding boilerplate was removed.

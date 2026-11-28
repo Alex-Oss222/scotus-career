@@ -228,11 +228,14 @@ Derived reading copy only. The cited state files and effective current-term Reco
 
 **Governing question:** Available equitable categories and individual redress under ERISA §502(a)(3).
 
-**Current rule:** Section 502(a)(3)'s appropriate equitable relief means traditionally equitable categories, not compensatory damages merely because equity could award them in trust litigation. Compensation from an admitted nonfiduciary for plan losses is unavailable under that provision. The rule does not prohibit every equitable monetary remedy or decide Mertens’s expressly disclaimed antecedent nonfiduciary cause-of-action question; restitution is not reopened. Sections 409 and 502(a)(2)’s plan-centered remedy does not categorically bar §502(a)(3)’s appropriate individual equity for an actual §404 violation. Adequate relief under another ERISA provision normally makes further equity unnecessary and inappropriate, without an absolute prohibition governing every alternative pleading. Relief must redress an actual ERISA or plan obligation; veil piercing alone supplies no freestanding violation.
+**Current rule:** Section 502(a)(3)'s appropriate equitable relief means remedies historically recognized in equity, identified in ERISA's statutory trust setting by reference to the law of trusts; a remedy is not legal damages merely because it requires a payment of money. The provision permits appropriate monetary restoration traditionally available in trust litigation, including surcharge against fiduciaries where its requirements are satisfied (actual loss caused by the breach, or the elimination of unjust enrichment); where an otherwise actionable claim establishes a nonfiduciary's knowing participation in an actionable breach of trust, restoration of the loss attributable to that participation is not categorically excluded merely because the defendant did not receive the lost assets. Those remedies require an authorized statutory action and an actionable violation, a historically recognized equitable basis against the defendant, the required knowledge or fiduciary responsibility, actual loss or another recognized equitable measure, and causation and equitable limits; negligent professional advice is not knowing participation, the inquiry for a third party is more demanding than for a fiduciary, and professional status does not make a defendant a fiduciary. Punitive awards, general tort compensation, remedies available only after the merger of law and equity and every remedy an equity court could award incidentally remain outside the provision. Section 502(l) confirms that monetary recovery and equitable relief coexist in ERISA's scheme but creates no private action. The rule does not decide Mertens’s expressly disclaimed antecedent nonfiduciary cause-of-action question; restitution is not reopened. Sections 409 and 502(a)(2)’s plan-centered remedy does not categorically bar §502(a)(3)’s appropriate individual equity for an actual §404 violation. Adequate relief under another ERISA provision normally makes further equity unnecessary and inappropriate, without an absolute prohibition governing every alternative pleading. Relief must redress an actual ERISA or plan obligation; veil piercing alone supplies no freestanding violation.
 
 **Authority by component:**
 
-- The reviewed compensatory award is not appropriate equitable relief: Mertens v. Hewitt Associates — The reviewed compensatory award is not appropriate equitable relief, 1993-06-01. Scalia’s Opinion of the Court; Blackmun, Scalia, Kennedy, Souter, Thomas (5 Justices). Direct majority support for this exact proposition; no Marks synthesis.
+- Trust-law equitable categories: Mertens v. Hewitt Associates — Appropriate equitable relief in ERISA’s trust setting is identified by trust-law remedies, 1993-06-01. White’s Opinion of the Court; Stone-Zsela, White, Stevens, O’Connor, Souter (5 Justices). Direct majority support for this exact proposition; no Marks synthesis.
+- Trust-law monetary restoration and surcharge: Mertens v. Hewitt Associates — Trust-law monetary restoration, including surcharge against fiduciaries, is appropriate equitable relief, 1993-06-01. White’s Opinion of the Court; Stone-Zsela, White, Stevens, O’Connor, Souter (5 Justices). Direct majority support for this exact proposition; no Marks synthesis.
+- Conditions and the reserved action question: Mertens v. Hewitt Associates — Restoration requires an actionable claim and its equitable predicates; the antecedent action question is reserved, 1993-06-01. White’s Opinion of the Court; Stone-Zsela, White, Stevens, O’Connor, Souter (5 Justices). Direct majority support for this exact proposition; no Marks synthesis.
+- Section 502(l) confirmation: Mertens v. Hewitt Associates — The knowing-participation penalty provision confirms the remedy without creating a private action, 1993-06-01. White’s Opinion of the Court; Stone-Zsela, White, Stevens, O’Connor, Souter (5 Justices). Direct majority support for this exact proposition; no Marks synthesis.
 - Varity — Part III, individual equity and qualified adequacy principle, 1996-03-19; Souter, Stevens, Kennedy, Ginsburg and Breyer (five); Stone-Zsela’s stricter condition is noncontrolling.
 - Peacock — ERISA enforcement requires an independently violated statutory or plan obligation, 1996-02-21; Thomas, O’Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer (seven).
 
@@ -240,7 +243,7 @@ Derived reading copy only. The cited state files and effective current-term Reco
 
 **Holdings navigation:** Mertens v. Hewitt Associates, 508 U.S. 248 (1993); Varity Corp. v. Howe, 516 U.S. 489; Peacock v. Thomas, 516 U.S. 349.
 
-**Exceptions and limits:** Restoration supplies existing membership rights, not immutable benefits. The controlling rule does not classify every substituted monetary item as equitable or adopt all trust-law compensation. An adequate benefits remedy is not established merely because that statutory route exists in the abstract.
+**Exceptions and limits:** Restoration supplies existing membership rights, not immutable benefits. The controlling rule does not classify every substituted monetary item as equitable, adopt every remedy a trust court could award incidentally, or itself establish fiduciary status, knowing participation, loss or an amount of recovery. An adequate benefits remedy is not established merely because that statutory route exists in the abstract.
 
 ## Standards and Tests selection: Fiduciary benefit communications and deliberate disloyal deception
 
@@ -560,25 +563,70 @@ Source: [canonical volume](../../../state/holdings/labor-and-employment.md). Mec
 **Docket or dockets:** No. 91-1671.
 **Decided:** June 1, 1993.
 
-##### The reviewed compensatory award is not appropriate equitable relief
+##### Appropriate equitable relief in ERISA’s trust setting is identified by trust-law remedies
 
-**Holding:** Section 502(a)(3)’s appropriate equitable relief encompasses traditionally equitable categories of relief, not compensatory damages merely because a court of equity could award them in trust litigation. The requested monetary compensation from this admitted nonfiduciary for the plan’s losses is therefore unavailable under that provision; the Court does not bar every monetary equitable remedy or decide the antecedent, expressly disclaimed cause-of-action question.
+**Holding:** Section 502(a)(3)’s appropriate equitable relief means remedies historically recognized in equity. Because ERISA establishes a statutory trust regime, those remedies are identified by reference to the law of trusts as it fits the statute’s text and structure. A remedy is not legal damages merely because it requires the payment of money. The provision does not reach punitive awards, general tort compensation, remedies that became available only after the merger of law and equity, or every remedy a court of equity could award incidentally to its jurisdiction.
 
-**Proposition-level authority:** Scalia’s Opinion of the Court; Blackmun, Scalia, Kennedy, Souter, Thomas (5 Justices). Direct majority support for this exact proposition; no Marks synthesis.
+**Proposition-level authority:** White’s Opinion of the Court; Stone-Zsela, White, Stevens, O’Connor, Souter (5 Justices). Direct majority support for this exact proposition; no Marks synthesis.
 
-**Limits and questions not reached:** The expressly disclaimed antecedent cause of action is reserved, not rejected as jurisdictional. Other equitable monetary remedies are not categorically barred; restitution, unappealed claims and the separate malpractice disposition remain untouched.
+**Limits and questions not reached:** The expressly disclaimed antecedent cause of action is reserved, not rejected as jurisdictional. No fiduciary status, knowing participation, loss, causation, liability or amount is adjudicated. Punitive awards, general tort compensation and negligent professional advice are outside the remedy; professional status does not make a defendant a fiduciary. Restitution, unappealed claims and the separate malpractice disposition remain untouched.
 
-**Operative remedy or transition:** Affirm rejection of the reviewed compensatory claim under §502(a)(3); no liability finding or award.
+**Operative remedy or transition:** Vacate the Ninth Circuit’s rejection of the reviewed §502(a)(3) monetary claim and remand; no liability finding or award.
 
 **Treatment of earlier authority:**
 
-- Curtis v. Loether, 415 U.S. 189: traditional legal compensation distinction applied.
-- Chauffeurs, Teamsters & Helpers v. Terry, 494 U.S. 558: remedy classification applied; trust forum alone does not decide the statutory category.
-- Firestone Tire & Rubber Co. v. Bruch, 489 U.S. 101: trust-law guidance preserved subject to express statutory limits.
-- Clews v. Jamieson, 182 U.S. 461: equity’s monetary powers acknowledged but distinguished from the statutory category.
-- Massachusetts Mutual Life Insurance Co. v. Russell, 473 U.S. 134: enforcement-structure caution applied; its reserved question is now resolved only within this holding.
-- United States v. Burke, May 26, 1992: its fractured judgment supplies no controlling general remedial-range test.
+- Firestone Tire & Rubber Co. v. Bruch, 489 U.S. 101: trust-law guidance applied to identify the equitable remedies within the enacted text.
+- Clews v. Jamieson, 182 U.S. 461: equity’s power to restore trust losses by a monetary decree applied.
+- Curtis v. Loether, 415 U.S. 189: its distinction of legal compensation preserved for the claims it addressed; it does not reclassify equitable trust remedies.
+- Chauffeurs, Teamsters & Helpers v. Terry, 494 U.S. 558: its recognition that actions against trustees for breach of fiduciary duty were equitable applied; its jury-trial classification of a different remedy is not extended to this provision.
+- Massachusetts Mutual Life Insurance Co. v. Russell, 473 U.S. 134: its §409 enforcement-structure holding preserved; its reserved §502(a)(3) question is answered only as stated in these holdings.
 - Franklin v. Gwinnett County Public Schools, February 26, 1992: appropriate-remedy presumption distinguished because Congress expressly limited this provision to equitable relief.
+- United States v. Burke, May 26, 1992: its fractured judgment supplies no controlling general remedial-range test.
+
+##### Trust-law monetary restoration, including surcharge against fiduciaries, is appropriate equitable relief
+
+**Holding:** Section 502(a)(3) permits appropriate monetary restoration traditionally available in trust litigation, including surcharge against fiduciaries where its requirements are satisfied: actual loss caused by the breach, or the elimination of unjust enrichment the breach produced. The provision does not authorize punitive damages or general tort compensation. For a third party the inquiry is more demanding, and a defendant’s status as actuary, lawyer or other service provider does not make it a fiduciary. Where an otherwise actionable claim establishes a nonfiduciary’s knowing participation in an actionable breach of trust, monetary restoration matching the loss attributable to that participation is not categorically excluded merely because the defendant did not receive the lost assets. Hewitt’s nonfiduciary status is fixed, and the Ninth Circuit’s categorical rejection of the participants’ monetary claim cannot stand.
+
+**Proposition-level authority:** White’s Opinion of the Court; Stone-Zsela, White, Stevens, O’Connor, Souter (5 Justices). Direct majority support for this exact proposition; no Marks synthesis.
+
+**Limits and questions not reached:** The expressly disclaimed antecedent cause of action is reserved, not rejected as jurisdictional. No fiduciary status, knowing participation, loss, causation, liability or amount is adjudicated. Punitive awards, general tort compensation and negligent professional advice are outside the remedy; professional status does not make a defendant a fiduciary. Restitution, unappealed claims and the separate malpractice disposition remain untouched.
+
+**Operative remedy or transition:** Vacate the Ninth Circuit’s rejection of the reviewed §502(a)(3) monetary claim and remand; no liability finding or award.
+
+**Treatment of earlier authority:**
+
+- Clews v. Jamieson, 182 U.S. 461: equitable monetary restoration for breach of trust, including surcharge and restoration against a knowing participant, applied.
+- Firestone Tire & Rubber Co. v. Bruch, 489 U.S. 101: trust law applied to identify surcharge against fiduciaries and the remedy against a knowing participant.
+- Massachusetts Mutual Life Insurance Co. v. Russell, 473 U.S. 134: its rejection of extracontractual and punitive recovery under §409 preserved; no punitive or general compensatory remedy is recognized here.
+
+##### Restoration requires an actionable claim and its equitable predicates; the antecedent action question is reserved
+
+**Holding:** Trust-law monetary restoration under §502(a)(3) requires an authorized statutory action and an actionable violation; a historically recognized equitable basis for relief against the particular defendant; the knowledge or fiduciary responsibility that basis requires; actual loss or another recognized equitable measure; and causation and the traditional equitable limits. Negligent professional advice is not knowing participation. Section 502(a)(3) does not create a cause of action for every trust wrong. Because Hewitt expressly disclaimed the argument, the Court reserves whether §502(a)(3) supplies an action against a nonfiduciary who knowingly participates in a fiduciary’s breach; the reservation respects the parties’ presentation and is not a jurisdictional ruling.
+
+**Proposition-level authority:** White’s Opinion of the Court; Stone-Zsela, White, Stevens, O’Connor, Souter (5 Justices). Direct majority support for this exact proposition; no Marks synthesis.
+
+**Limits and questions not reached:** The expressly disclaimed antecedent cause of action is reserved, not rejected as jurisdictional. No fiduciary status, knowing participation, loss, causation, liability or amount is adjudicated. Punitive awards, general tort compensation and negligent professional advice are outside the remedy; professional status does not make a defendant a fiduciary. Restitution, unappealed claims and the separate malpractice disposition remain untouched.
+
+**Operative remedy or transition:** Vacate the Ninth Circuit’s rejection of the reviewed §502(a)(3) monetary claim and remand; no liability finding or award.
+
+**Treatment of earlier authority:**
+
+- Massachusetts Mutual Life Insurance Co. v. Russell, 473 U.S. 134: respect for ERISA’s enforcement structure applied; no cause of action is inferred for every trust wrong.
+- Franklin v. Gwinnett County Public Schools, February 26, 1992: the distinction between an existing action’s available relief and the creation of an action preserved.
+
+##### The knowing-participation penalty provision confirms the remedy without creating a private action
+
+**Holding:** Section 502(l), which measures the Secretary of Labor’s civil penalty by amounts recovered from a fiduciary for a breach or from any other person for knowing participation in it, confirms that monetary recoveries against knowing participants and equitable relief coexist in ERISA’s scheme. It does not create a private cause of action, define the elements of liability or enlarge the relief §502(a)(3) authorizes. Congress’s distinction between legal and equitable relief is preserved; trust-specific monetary restoration falls on the equitable side of that distinction.
+
+**Proposition-level authority:** White’s Opinion of the Court; Stone-Zsela, White, Stevens, O’Connor, Souter (5 Justices). Direct majority support for this exact proposition; no Marks synthesis.
+
+**Limits and questions not reached:** The expressly disclaimed antecedent cause of action is reserved, not rejected as jurisdictional. No fiduciary status, knowing participation, loss, causation, liability or amount is adjudicated. Punitive awards, general tort compensation and negligent professional advice are outside the remedy; professional status does not make a defendant a fiduciary. Restitution, unappealed claims and the separate malpractice disposition remain untouched.
+
+**Operative remedy or transition:** Vacate the Ninth Circuit’s rejection of the reviewed §502(a)(3) monetary claim and remand; no liability finding or award.
+
+**Treatment of earlier authority:**
+
+- Massachusetts Mutual Life Insurance Co. v. Russell, 473 U.S. 134: ERISA’s differentiated enforcement provisions are read together; §502(l) adds confirmation, not a new private remedy.
 
 #### Varity Corp. v. Howe, 516 U.S. 489
 
@@ -619,7 +667,7 @@ Source: [canonical volume](../../../state/holdings/labor-and-employment.md). Mec
 
 **Operative remedy or transition:** The clarified restoration decree is affirmed. Reinstatement confers only the rights of the M-F plan as it now exists. Past entitlement may be adjusted for intervening events, with relevant additional evidence and a conforming decree. Future lawful changes remain possible subject to applicable law and preserved retaliation or discrimination objections. No new payment amount or immutable lifetime entitlement is entered.
 
-**Treatment of earlier authority:** Russell's plan-centered §409 construction is preserved while its distinct §502(a)(3) question is answered. Mertens's equitable-category limit applies; its reserved antecedent action issue is not treated as an earlier action bar. Peacock's statutory-or-plan-violation requirement is met by the proved §404 breach; its later new-debtor jurisdictional holding does not govern this original action. Firestone supplies guidance within enacted limits.
+**Treatment of earlier authority:** Russell's plan-centered §409 construction is preserved while its distinct §502(a)(3) question is answered. Mertens's trust-law equitable categories apply, including its holding that §502(a)(3) permits surcharge against fiduciaries where its requirements are satisfied, so qualifying surcharge is a possible remedy for proved fiduciary deception; its reserved antecedent action issue is not treated as an earlier action bar. Peacock's statutory-or-plan-violation requirement is met by the proved §404 breach; its later new-debtor jurisdictional holding does not govern this original action. Firestone supplies guidance within enacted limits.
 
 ##### The ten retirees' independent assignment-breach ground was not adequately challenged
 

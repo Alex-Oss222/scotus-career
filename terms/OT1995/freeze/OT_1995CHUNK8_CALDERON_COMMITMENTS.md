@@ -52,7 +52,7 @@ Rise creates no sentencing-motion, abortion-severability, habeas-mootness or Rul
 Egelhoff has entered no decision or new law. Vera's direct appeals remain pending after the standing-only action. Pending matters supply no unentered holding. The three June17 matters all use this common preceding-day baseline; no June17 peer enters another's law through file order. Gray is not frozen by this handoff and must receive actual completed June17 public law before its own release.
 
 **Immutable input checksums (SHA256):**
-- Pre-June17 snapshot: `9d7fb7bcdcfef4f3793cef8a8d1a618ce61fe5881cb1b74add7da9a8f7653661`.
+- Pre-June17 snapshot: `a6b2738147c75089896d2a3a67ddba791a306101f499db2869308a887668d4a5`.
 - Complete Rise public copy: `7c24bdca1706ade3ae922f180547a816744442f28b86942fbc0558167789e9ff`.
 
 The original provisional assessment, authority research and qualification receipt remain preserved under `research/chunk8-model-c/`; they are preparation history, not an override of this freeze. This handoff carries each Associate's component position, sufficient grounds, material opposing path, own date-eligible support and join/remedy limits. Historical reconciliation and Stone assembly have not occurred here. A later materially changed neutral premise requires a fresh affected stage; it may not be silently patched into this released file.

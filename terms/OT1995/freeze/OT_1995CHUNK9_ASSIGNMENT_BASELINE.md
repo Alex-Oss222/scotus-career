@@ -23,7 +23,7 @@ Engine §8 counts each opinion once as Chief-assigned if the Chief assigned any 
 
 OT1994 accounts for 101 Records. No named recipient exceeds half; the maximum is 18. Consequently no recipient-specific consecutive-term concentration ceiling is triggered. The unnamed Anderson v. Green opinion is not assigned a fictional author; including that institutional opinion in a broader denominator would not change the conclusion.
 
-The existing OT1995 census accounts for 106 Records through June 20, 1996. Vera supplies two distinct Chief-assigned opinions, Thomas on standing/direct review and Souter on the merits. Its preserved Thomas assignment is counted once. The replacement Hale opinion counts once, to O’Connor. Mixed component assignments in Love, Bishop/Stokes, Hale, Armstrong, Rise and other coordinated opinions count once per opinion. Day supplies two distinct Chief-assigned opinions in OT1994. No current chunk 9 author is presumed.
+The existing OT1995 census accounts for 106 Records through June 20, 1996. Vera supplies two distinct Chief-assigned opinions, Thomas on standing/direct review and Souter on the merits. Its preserved Thomas assignment is counted once. The replacement Hale opinion counts once, to O’Connor. Mixed component assignments in Love, Bishop/Stokes, Hale, Rise and other coordinated opinions count once per opinion. Day supplies two distinct Chief-assigned opinions in OT1994. No current chunk 9 author is presumed.
 
 ## Assignment classification limits
 
@@ -671,11 +671,11 @@ Unattributed opinions have no named recipient; their drafting identity remains u
 
 ### United_States_v_Armstrong_merits_1996-05-13
 
-**Count classification:** O'Connor.
+**Count classification:** Breyer.
 
 [Record](../records/United_States_v_Armstrong_merits_1996-05-13.md), line 24:
 
-> **Assignment by component:** The Chief assigns Parts I–II of the coordinated Court opinion on the shared setting-aside component to O'Connor.
+> **Assignment:** The Chief Justice is in the five-Justice judgment coalition and in the unanimous setting-aside coalition, and he assigns the Opinion of the Court to Justice Breyer.
 
 ### United_States_v_Noland_merits_1996-05-13
 
@@ -807,11 +807,11 @@ Unattributed opinions have no named recipient; their drafting identity remains u
 
 ### Whren_v_United_States_merits_1996-06-10
 
-**Count classification:** Thomas.
+**Count classification:** Ginsburg.
 
 [Record](../records/Whren_v_United_States_merits_1996-06-10.md), line 42:
 
-> **Assignment:** Chief Justice Stone-Zsela assigns the entire opinion to Justice Thomas.
+> **Assignment:** Chief Justice Stone-Zsela assigns the entire opinion to Justice Ginsburg.
 
 ### United_States_v_Myers_merits_1996-06-11
 

@@ -2,8 +2,8 @@
 
 **Event:** No. 95-244; merits review under 28 U.S.C. §1254(1); June 3, 1996.
 **Stage:** Independent modeling under Engine §§3B and 5–7. Prepared for commitment by control; no historical reconciliation or Stone assembly has occurred in this context.
-**Neutral input:** `OT_1995CHUNK7_QUACKENBUSH_NEUTRAL_VALIDATED.md` at `18c4969`, SHA-256 `c88aae3ec1a053e0d271c387b0e421e320ad897abd400c1cf96e13ebb561dcfc`.
-**Common entering law:** `OT_1995CHUNK7_POST_MAY28_NEUTRAL_PROJECTION.md` at `7ee25af`, SHA-256 `7497c36109633b9d51251d4a71b6417c3f6f848698c1fb624b5fc51e0f15c614`; relevant opening holdings and Standards and Tests at `d69c51d`. Both supplied digests were verified. The cutoff is immediately before the June 3 event, with completed Court law through May 28 and admitted sources within their actual conditions and dates. No June 3 peer is authority for this case.
+**Neutral input:** `OT_1995CHUNK7_QUACKENBUSH_NEUTRAL_VALIDATED.md` at `18c4969`, SHA-256 `bb0e670a280f61dd5f56d51a79408d069cf9d082a20f4fd07bb89a3c1b1f206b`.
+**Common entering law:** `OT_1995CHUNK7_POST_MAY28_NEUTRAL_PROJECTION.md` at `7ee25af`, SHA-256 `cb852e1f14eafc6c1d975d3961f3406b6547935b44cb8ee46c4854ba787ba574`; relevant opening holdings and Standards and Tests at `d69c51d`. Both supplied digests were verified. The cutoff is immediately before the June 3 event, with completed Court law through May 28 and admitted sources within their actual conditions and dates. No June 3 peer is authority for this case.
 **Participation:** The supplied nine-Justice roster participates at argument and decision; no recusal is established. This handoff decides only the eight Associates' positions, not Stone's position or the eventual Court opinion assignment.
 
 ## Common supported disposition and propositions

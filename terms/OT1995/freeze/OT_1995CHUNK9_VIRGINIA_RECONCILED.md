@@ -27,10 +27,10 @@ All paths in this table are relative to `terms/OT1995/`. The independent neutral
 | Input | SHA-256 |
 |---|---|
 | `freeze/OT_1995CHUNK9_VIRGINIA_NEUTRAL.md` | `C638C3D7DFEEC371FC6D2235AF79CFFE16FAA99F6A7C3947A5A0F955DC787A7A` |
-| `freeze/OT_1995CHUNK9_VIRGINIA_COMMITMENTS.md` | `35F65C58668EB675F8F5966E88B2A7AA11FA57E12D476DA108A1B8C042053154` |
-| `entering-law/OT_1995CHUNK9_PRE_19960626_NEUTRAL_PROJECTION.md` | `97B97AC1D2EE59C82C97B2597AD9CC25312CE9316319493C17308DCF3D60A763` |
+| `freeze/OT_1995CHUNK9_VIRGINIA_COMMITMENTS.md` | `8526C7FF8A03E0ABE25DB601EBB175B6A275B316F886F56929EFEB189A7427C7` |
+| `entering-law/OT_1995CHUNK9_PRE_19960626_NEUTRAL_PROJECTION.md` | `957022AD9D7403B7FA32F6139B9B37D3329606B55F0FFDD8FD9A7F3F9466F559` |
 | `entering-law/OT_1995CHUNK9_JUNE26_VIRGINIA_LAW.md` | `FF22F6E487AB522E310FF204EE88DD8C2B814957AD3B43D52F66C1FE6AE643DC` |
-| `entering-law/OT_1995CHUNK9_VIRGINIA_MODEL_SOURCE_RECEIPT.md` | `53173B3AEE3D6FEF44A9388FB61A5AEF38A1E44E53B0D9CB45889B4FBCC4EB31` |
+| `entering-law/OT_1995CHUNK9_VIRGINIA_MODEL_SOURCE_RECEIPT.md` | `7E64D202BE6897FAC8E62852331C37E7DBA67B332064356DC9024635CC870384` |
 | `freeze/OT_1995CHUNK9_VIRGINIA_COMPARATOR_SCOPED.md` | `CCEA50E40EEE1AF5937F5E44C114A67342244DEBFECB3175CC13E206A72AA904` |
 
 The initial authorization permitted extraction of exactly the OT1995-093 heading-bounded block from `runtime/OT_1995CHUNK9_COMPARATOR.md`. A script mechanically loaded that file and returned only that block; no neighboring block or whole-file text entered this context. The subsequent instruction supplied the separate scoped file above, which was then used as the durable comparator input. The earlier extraction is disclosed rather than described as a wholly unopened combined file. No combined brief, current Chief Justice input, private Canonical Decision Record, other Virginia reconciliation, or another context's conclusions was read. The earlier Settle reconciliation was this context's own completed task; its conclusions were not used to predict Virginia. Settle enters here only through the subsequently supplied public neutral projection.

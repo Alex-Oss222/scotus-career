@@ -36,7 +36,7 @@
       "result": "**Result:** Reverse the First Amendment dismissal and remand, 7–2; extend the qualified affiliation rule to the pleaded existing recurring service relationship, preserving appropriate mixed-speech analysis, causal proof and lawful defenses. The separate due-process disposition is undisturbed."
     },
     "Pennsylvania_v_Labron_and_Kilgore_summary_review_1996-07-01.md": {
-      "sha256": "842019d516c90952c02d10106ab6d2dfe16686e7cfff77c0a40aabc2429964d1",
+      "sha256": "d4b25ab9f93396b4b65c621b429ce920b43fdb9c123a9ac99f099d0f2aac1123",
       "public_projection_sha256": "4da086e16a184ac4ccc223696364136e6c12744ba681fdff12ec40f3adfed1d2",
       "result": "**Result:** Grant each petition; summarily reverse each Pennsylvania Supreme Court judgment and remand, 7–2 on each judgment. Apply the automobile exception to the reviewed searches without an additional federal exigency requirement; preserve the decision's scope and any properly available independent state-law ground. Stevens and Ginsburg oppose review on distinct jurisdictional and discretionary grounds, not an affirmative additional-exigency merits holding."
     },
@@ -51,7 +51,7 @@
       "result": "**Result:** Affirm the Federal Circuit's partial contractual-liability judgment for all three transactions, including Statesman's distinct goodwill and capital-credit undertakings, 8–1; remand for contract-specific causation, damages and genuinely remaining proceedings. Ginsburg would vacate present liability affirmance and require bounded reconsideration of the undertakings under unmistakability. FIRREA remains operative; no damages amount or takings judgment is entered."
     }
   },
-  "render_input_sha256": "df933336fa4207dadc7a3fee85fd6584fbb5b3f1417925484499ab32fd748b2b",
+  "render_input_sha256": "6ead4e0212b9dd58cd194d9493283d9892b3d63fb0c1d76c1ddccdc5fc357c47",
   "case_list_current_sha256": "9e2f4673038f5aa4a4ede511f20c126bdabc60865086bcdc72853ed81f4d508a",
   "case_list_hash_note": "Current identity only; case-list was not in the opening hash receipt. No task action edits it.",
   "public_render_created": false,

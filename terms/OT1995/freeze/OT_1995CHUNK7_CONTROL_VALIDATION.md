@@ -15,7 +15,7 @@ The operator read the complete mechanically exported Stone supplement. Initial c
 | Loving | Affirm enacted military delegation within authorized offenses/punishments and intelligible boundary; Article II reinforces implementation, cannot enlarge statute. |
 | Auciello | Affirm enforcement; statutory silence then reasonable Board rule at Chevron step two; no new claim about contract formation, fraud, timely challenge or postacceptance events. |
 | Richards | Reverse and remand on nonparty due process; no revival of dismissed substantive tax question; valid class/privity/control/representation exceptions preserved. |
-| Whren | Affirm preserved subjective-motive Fourth Amendment challenge; objective cause required and purposeful racial selection separately prohibited; no enlarged search authority. |
+| Whren | Vacate in part and remand; objective probable cause makes the stop presumptively reasonable, motive alone does not rebut it, objective evidence of instrumental use can, and purposeful racial selection is separately prohibited; no enlarged search authority. |
 | Degen | Reverse; restore civil defense subject to source-authorized targeted case protections and sanctions for actual misconduct. |
 | Exxon | Affirm sustained sole-proximate-cause findings; comparative allocation and superseding cause coexist; excluded bifurcation question not reviewed. |
 

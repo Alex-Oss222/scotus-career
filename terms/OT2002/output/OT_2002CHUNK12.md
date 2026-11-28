@@ -782,7 +782,7 @@ STEVENS, J., delivered the opinion of the Court, in which O'CONNOR, SCALIA, KENN
 
 **Controlling explanation.** Congress expressly made the specified maritime drug offense and conspiracy punishable aboard a foreign vessel whose flag State permits United States enforcement. Its power to define and punish high-seas felonies supports that particular legislative reach. The law and the consent mechanism existed before the charged agreement. The alleged agreement to receive cocaine at an offshore rendezvous places the charge within the maritime relationship Congress regulated, although its intended market was Europe.
 
-The objection that sovereign consent cannot waive personal fairness is correct as a distinction but does not require a separate domestic connection here. Consent supplies the sovereign permission; the antecedent statute and its defined maritime route supply the relevant legal warning. Lanier requires that warning from existing law, and Rogers preserves the bar against unexpected retrospective enlargement. General knowledge that trafficking is wrong is insufficient by itself. Alvarez-Machain separates obtaining custody from a lawful trial and does not eliminate individual due process. Hartford Fire's supported domestic-effects antitrust application does not impose an effects element on this expressly different statute. Civil minimum-contacts rules likewise do not add that element to the charged maritime offense.
+The objection that sovereign consent cannot waive personal fairness is correct as a distinction but does not require a separate domestic connection here. Consent supplies the sovereign permission; the antecedent statute and its defined maritime route supply the relevant legal warning. Lanier requires that warning from existing law, and Rogers preserves the bar against unexpected retrospective enlargement. General knowledge that trafficking is wrong is insufficient by itself. Alvarez-Machain enforces a treaty's allocation of surrender decisions against officially directed circumvention over the other State's objection; that sovereign protection, which consent removes, neither defines nor eliminates individual due process. Hartford Fire's supported domestic-effects antitrust application does not impose an effects element on this expressly different statute. Civil minimum-contacts rules likewise do not add that element to the charged maritime offense.
 
 ##### Actual consent, its timing, and the conspiracy charge
 
@@ -796,7 +796,7 @@ Suerte's argument from the unsuccessful search confuses conspiracy with complete
 
 #### Precedent Treatment
 
-- Alvarez-Machain, June 15, 1992, is distinguished at its custody-and-treaty scope; its authority to proceed with a lawful trial does not settle the geographic reach of every criminal statute.
+- Alvarez-Machain, June 15, 1992, is distinguished at its treaty-and-custody scope: its bar reaches only custody obtained through an officially directed seizure in another State's territory over that State's formal objection, which Malta's permission excludes, and it does not settle the geographic reach of every criminal statute.
 - Hartford Fire, June 28, 1993, is distinguished as a source-specific domestic-effects antitrust application.
 - Lanier, March 31, 1997, supplies the requirement of objective warning from preexisting law, applied to this express maritime offense and consent mechanism.
 - Rogers, May 14, 2001, supplies the bar on unexpected retrospective enlargement alongside its allowance for foreseeable implementation of an existing rule.

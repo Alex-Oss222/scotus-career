@@ -1150,7 +1150,7 @@ No. 03-218; judgment below, 322 F.3d 240; 47 U.S.C. §231; Ashcroft v. American 
 <!-- source-record: sosa_v_alvarez_machain_merits_2004-06-29.md -->
 ## Event
 
-Sosa v. Alvarez-Machain, No. 03-339; consolidated with United States v. Alvarez-Machain, No. 03-485. Argued March 30, 2004; decided June 29, 2004. On writs of certiorari to the Ninth Circuit, which sustained the Alien Tort Statute damages judgment against Sosa and revived the Federal Tort Claims Act claim against the United States. DEA officials arranged a seizure by Mexican nationals, including Sosa, followed by detention in Mexico for less than a day before delivery into lawful United States custody. After acquittal, Alvarez sought civil recovery. The questions concern a domestic action for that asserted arbitrary detention and whether domestic planning removes the same foreign-detention claim from the FTCA's foreign-country exception.
+Sosa v. Alvarez-Machain, No. 03-339; consolidated with United States v. Alvarez-Machain, No. 03-485. Argued March 30, 2004; decided June 29, 2004. On writs of certiorari to the Ninth Circuit, which sustained the Alien Tort Statute damages judgment against Sosa and revived the Federal Tort Claims Act claim against the United States. DEA officials arranged a seizure by Mexican nationals, including Sosa, followed by detention in Mexico for less than a day before delivery into United States custody. This Court's 1992 judgment in United States v. Alvarez-Machain barred the prosecution founded on that custody, and he was returned to Mexico without a trial in the United States. Alvarez then sought civil recovery. The questions concern a domestic action for that asserted arbitrary detention and whether domestic planning removes the same foreign-detention claim from the FTCA's foreign-country exception.
 
 ## Participation
 
@@ -1167,7 +1167,7 @@ The Ninth Circuit's judgment is reversed in both dockets, and the cases are rema
 | No. 03-339, ATS damages against Sosa | Reversed and remanded, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Vacate the damages award resting on the rejected brief arbitrary-detention action |
 | No. 03-485, FTCA claim against the United States | Reversed and remanded, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Restore dismissal of the claim for Mexican detention under §2680(k) |
 
-Any genuinely live other theory must satisfy its own preservation, cause-of-action and immunity requirements. The judgment supplies no affirmative authority for the seizure.
+Any genuinely live other theory must satisfy its own preservation, cause-of-action and immunity requirements. No claim resting on the Extradition Treaty or on the later United States custody is before the Court. The judgment supplies no affirmative authority for the seizure.
 
 ## Opinion Topology
 
@@ -1196,11 +1196,11 @@ Part II has seven direct joins; Parts I and III have nine at their stated scopes
 
 The official-torture action reaches deliberate participation in or personal supervision of severe physical or mental suffering intentionally inflicted under official authority for interrogation, punishment or intimidation. The existing genocide action runs against an individual for personally perpetrating, planning, or directing genocide, whether or not that individual acted under state authority. The plaintiff must establish intent to destroy, in whole or in part, a national, ethnical, racial, or religious group as such, through killing members, causing serious bodily or mental harm, deliberately imposing conditions calculated to bring about the group's physical destruction in whole or in part, imposing measures intended to prevent births within the group, or forcibly transferring the group's children to another group, together with the defendant's qualifying responsibility, causation, and a lawful basis for relief. The core-war-crime action reaches personally perpetrated, planned or directed deliberate killing, torture and grave sexual violence, with the relevant armed conflict, protected victim, prohibited act and connection to the conflict. Each retains its responsibility, causation and remedy requirements; official position alone is insufficient.
 
-Those defined actions furnish the existing law against which this asserted addition must be examined. United States v. Alvarez-Machain decided the treaty-based objection to criminal trial. Its trial-authority holding neither authorized the capture nor supplied a civil action, and it does not resolve the independent predicates now presented.
+Those defined actions furnish the existing law against which this asserted addition must be examined. United States v. Alvarez-Machain sustained the treaty-based objection to criminal trial. Its defensive treaty holding barred that prosecution but supplied no civil action, and it does not resolve the independent predicates now presented.
 
 ### II. The asserted brief-detention norm does not support this additional action
 
-**Holding and operative rule:** Recognition of an additional received action requires a specifically defined, widely accepted and obligatory international prohibition whose content and actor coverage support judicial application, together with a sound domestic remedial basis. The asserted rule that any detention unauthorized by domestic law is an internationally actionable tort does not establish those predicates for the detention of less than a day in Mexico followed by lawful custody here.
+**Holding and operative rule:** Recognition of an additional received action requires a specifically defined, widely accepted and obligatory international prohibition whose content and actor coverage support judicial application, together with a sound domestic remedial basis. The asserted rule that any detention unauthorized by domestic law is an internationally actionable tort does not establish those predicates for the detention of less than a day in Mexico followed by transfer to United States custody.
 
 **Authority:** Part II of Stevens's opinion is joined by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer. Seven direct joins supply the controlling ground for rejecting this new action.
 
@@ -1226,7 +1226,7 @@ Section 2680(h)'s law-enforcement proviso removes specified intentional torts fr
 
 - Abebe-Jira v. Negewo is applied and preserved: its jurisdiction/action distinction, confined official-torture action and distinct remedy rules remain effective.
 - Kadic v. Karadzic and Doe v. Karadzic are applied and preserved at their defined genocide, core-war-crime, actor, responsibility and remedy predicates; they do not make every international norm privately enforceable.
-- United States v. Alvarez-Machain is distinguished as a treaty-based criminal trial-authority decision. Its holding supplies neither capture authorization nor this civil remedy.
+- United States v. Alvarez-Machain is distinguished as a defensive treaty decision that barred a prosecution and required return. It created no general private damages action under treaties and supplies no civil remedy here.
 - Smith v. United States is extended from its wholly Antarctic acts to the domestic planning of the same Mexican detention; its territorial and statutory-waiver analysis remains confined to its actual work.
 - Richards v. United States is applied within the FTCA's consent structure. Selection of domestic law does not remove a claim from an independently applicable exception.
 

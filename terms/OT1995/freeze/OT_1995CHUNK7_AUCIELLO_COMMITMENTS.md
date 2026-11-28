@@ -4,9 +4,9 @@
 
 **Status:** Completed independent commitments, ready for the control context to commit and freeze. No historical reconciliation, Stone position, opinion assignment or final Court judgment is supplied here.
 
-**Neutral input:** [Final validated neutral packet](OT_1995CHUNK7_AUCIELLO_NEUTRAL_VALIDATED.md), commit `18c4969`, SHA-256 `c3d24149b5a95dc2aba57e83f4ecfc0e4481fb4556460d17d05b3c3dff5bbf9b`.
+**Neutral input:** [Final validated neutral packet](OT_1995CHUNK7_AUCIELLO_NEUTRAL_VALIDATED.md), commit `18c4969`, SHA-256 `dc1459c48927bcf8f527e3befc4332ce19209bfabce94b76d6337f630a742342`.
 
-**Common entering law:** [Completed-May28 public snapshot](../entering-law/OT_1995CHUNK7_POST_MAY28_NEUTRAL_PROJECTION.md), commit `7ee25af`, SHA-256 `7497c36109633b9d51251d4a71b6417c3f6f848698c1fb624b5fc51e0f15c614`. Both working-file digests were checked against these supplied pins. Quackenbush, Smiley, Loving and Auciello share that baseline; no June 3 peer disposition was used.
+**Common entering law:** [Completed-May28 public snapshot](../entering-law/OT_1995CHUNK7_POST_MAY28_NEUTRAL_PROJECTION.md), commit `7ee25af`, SHA-256 `cb852e1f14eafc6c1d975d3961f3406b6547935b44cb8ee46c4854ba787ba574`. Both working-file digests were checked against these supplied pins. Quackenbush, Smiley, Loving and Auciello share that baseline; no June 3 peer disposition was used.
 
 **Research cutoff and boundary:** Immediately before the June 3 event. This fresh context used the authorized neutral packet and its safe source copies, the targeted opening slice at `d69c51d`, earlier bounded public authority, the complete clean pre-divergence *Curtin Matheson* text, the authorized Justice authority map, and the complete [presumption extract](../sources/chunk7_b/AUCIELLO_PRESUMPTION_SAFE_EXTRACT.md) at `ea321a0`. It received no private Stone material, current-case historical Supreme Court disposition or petition treatment, historical comparator, raw Decision Record, private continuity or same-day peer law. General model knowledge is not claimed to have been erased; these conclusions rest on the supplied neutral sources. No new factual or procedural reconstruction premise is adopted.
 

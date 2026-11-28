@@ -37,7 +37,7 @@ The earlier-law refresh uses completed June 9 authority. Fitzgerald's economic-p
 
 ## Presentation, completeness and negative-statement checks
 
-Each reviewed event has the exact eleven Public Projection blocks in the required order. Judgment votes, opinion joins and proposition authority reconcile at their stated scopes. All ordinary controlling explanations remain below the 350-word ceiling: Dow 142 words; Suerte 184 and 138; Star 87, 178, 234, 85, 200 and 121. The source-qualification block states operative statutory conditions rather than relocating explanatory reasoning to evade a ceiling.
+Each reviewed event has the exact eleven Public Projection blocks in the required order. Judgment votes, opinion joins and proposition authority reconcile at their stated scopes. All ordinary controlling explanations remain below the 350-word ceiling: Dow 142 words; Suerte 199 and 138; Star 87, 178, 234, 85, 200 and 121. The source-qualification block states operative statutory conditions rather than relocating explanatory reasoning to evade a ceiling.
 
 Public text contains no private commitments, reconciliation history, operator approval, research chronology or assignment workflow. The approval date in Star's Source Notes is the historical enactment date. Dow's undisclosed equal-division lineup remains undisclosed. Separate writings contain the selected substantive grounds and exact join scopes without inventing legal work for an unneeded writing.
 

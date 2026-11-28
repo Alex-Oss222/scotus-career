@@ -4,7 +4,7 @@ Status: the Urofsky Canonical Decision Record is durably written and its assembl
 
 Record: [Urofsky v. Gilmore](../records/Urofsky_v_Gilmore_merits_2001-02-20.md), SHA-256 `1b1f5bdfa52e3aa86725756ddea6f1967ff17df450425ec9e9677c53756b84c7`. Initial source-note review replaced retrieval-oriented wording with the public limit that exhibit descriptions are confined to published lower-court recitations; no merits, vote, opinion or remedy changed.
 
-Controlling frozen reconciliation: `OT_2000CHUNK2_RECONCILED_UROFSKY.md`, SHA-256 `27a31e27961b70ff61c7c37fc3184f53cb9347cc542faf27ca5c5ed4fb7edaf5`; accompanying receipt SHA-256 `8c6afb9d44bd78129457b70912b4e75e737f2867ea21083de6d18cab696e3653`. The full reconciliation and adopted model are copied mechanically into the audit annex. The neutral district-source addition and exact statutory terms were incorporated. No material Associate commitment changed in assembly; no fallback or historical Supreme Court merits vote was inferred.
+Controlling frozen reconciliation: `OT_2000CHUNK2_RECONCILED_UROFSKY.md`, SHA-256 `27a31e27961b70ff61c7c37fc3184f53cb9347cc542faf27ca5c5ed4fb7edaf5`; accompanying receipt SHA-256 `a5df3aaaac3123100e6f93165ec38ee322d128175c6f5a07d1f103eec98a2ff8`. The full reconciliation and adopted model are copied mechanically into the audit annex. The neutral district-source addition and exact statutory terms were incorporated. No material Associate commitment changed in assembly; no fallback or historical Supreme Court merits vote was inferred.
 
 ## Form, assignment and count
 

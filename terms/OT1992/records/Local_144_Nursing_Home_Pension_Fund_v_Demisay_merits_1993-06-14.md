@@ -22,7 +22,7 @@ October Term 1992. Argued 1993-01-11; event effective 1993-06-14. The official r
 
 ## Participation and issue-specific law entering
 
-Stone-Zsela, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas participate at argument and decision; no established case-specific recusal or other nonparticipation. White remains seated. Quorum six; five votes required. Review under 28 U.S.C.§1254(1) for federal appellate cases or §1257 for the state judgments, as applicable to the stated court below. LMRA §§302(a), (b), (c)(5), (e); Arroyo, Amax and Robinson. Actual Mertens, June 1, limits §502(a)(3) compensatory nonfiduciary relief, without deciding these different claims or authorizing LMRA supervision.
+Stone-Zsela, White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas participate at argument and decision; no established case-specific recusal or other nonparticipation. White remains seated. Quorum six; five votes required. Review under 28 U.S.C.§1254(1) for federal appellate cases or §1257 for the state judgments, as applicable to the stated court below. LMRA §§302(a), (b), (c)(5), (e); Arroyo, Amax and Robinson. Actual Mertens, June 1, identifies §502(a)(3) equitable relief through trust-law remedies, permits trust-law monetary restoration including surcharge against fiduciaries and does not categorically exclude restoration against a knowing nonfiduciary participant, without deciding these different claims or authorizing LMRA supervision.
 
 **Baseline identity:** state/HOLDINGS.md, state/STANDARDS_AND_TESTS.md and state/STANDING_STATE.md: Last completed October Term 1991; Processed through July 17, 1992, after Benten v. Kessler; Edition September 15, 2026. Current-term law supplements these opening files through the stated entering date. Outdated packet statements describing empty trackers are preparation provenance, not current law.
 
@@ -98,7 +98,7 @@ Stone assigns Scalia from the unanimous judgment coalition and joins the transac
 - Arroyo, 359 U.S.419 — lawful receipt distinguished from later diversion; contrary supervisory language is dictum.
 - Amax, 453 U.S.322 — fiduciary independence retained; supervisory language does not establish jurisdiction.
 - Robinson, 455 U.S.562 — reasonableness-review rejection retained; reserved supervisory scope resolved.
-- Mertens, June 1, 1993 — unchanged; its remedy limit does not resolve these unreviewed ERISA claims.
+- Mertens, June 1, 1993 — unchanged; its trust-law remedy holding does not resolve these unreviewed ERISA claims.
 
 ## Law after decision and reserved questions
 
@@ -116,7 +116,7 @@ These published positions remain available for future Justice-specific modeling 
 
 ### Frozen provisional conclusions and alternatives
 
-| Demisay | All eight: reverse LMRA transfer order. Arroyo distinguishes lawful receipt from later diversion; Amax fiduciary independence does not create a remedial channel. White, Blackmun and Stevens can resolve absence of a structural defect without denying all supervisory jurisdiction; O'Connor, Scalia, Kennedy, Souter, Thomas support the payment/receipt limitation. | Strong counterargument is continuing sole-benefit language; narrow alternative denies that the withdrawing employers' new promises bind the old funds. No ERISA adjudication; actual Mertens restricts compensatory nonfiduciary relief, not LMRA jurisdiction or all equitable transfers. |
+| Demisay | All eight: reverse LMRA transfer order. Arroyo distinguishes lawful receipt from later diversion; Amax fiduciary independence does not create a remedial channel. White, Blackmun and Stevens can resolve absence of a structural defect without denying all supervisory jurisdiction; O'Connor, Scalia, Kennedy, Souter, Thomas support the payment/receipt limitation. | Strong counterargument is continuing sole-benefit language; narrow alternative denies that the withdrawing employers' new promises bind the old funds. No ERISA adjudication; actual Mertens bounds equitable relief against a knowing nonfiduciary participant, not LMRA jurisdiction or all equitable transfers. |
 
 The provisional row names every non-Stone Justice, the competing lawful paths, the principal objection, sources and scope limits. The bounded source-correction and renewed compatibility conclusions in tmp/ot1992-chunk9/source-corrections.md supplement, without erasing, the original freeze; the case-specific reconciliation below incorporates any applicable correction. It is a conclusions-and-authorities record, not fictional conference dialogue.
 

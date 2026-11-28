@@ -231,7 +231,7 @@ Reversed and remanded, 9–0 in the judgment.
 - Arroyo, 359 U.S.419 — lawful receipt distinguished from later diversion; contrary supervisory language is dictum.
 - Amax, 453 U.S.322 — fiduciary independence retained; supervisory language does not establish jurisdiction.
 - Robinson, 455 U.S.562 — reasonableness-review rejection retained; reserved supervisory scope resolved.
-- Mertens, June 1, 1993 — unchanged; its remedy limit does not resolve these unreviewed ERISA claims.
+- Mertens, June 1, 1993 — unchanged; its trust-law remedy holding does not resolve these unreviewed ERISA claims.
 
 ### 7. Precedent Treatment
 

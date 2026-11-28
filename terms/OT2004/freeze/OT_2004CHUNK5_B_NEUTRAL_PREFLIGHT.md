@@ -80,6 +80,6 @@ Saved source copies: `terms/OT2004/runtime/neutral-b-sources/`. Authorized origi
 
 - terms/OT2004/runtime/OT_2004CHUNK5_NEUTRAL_B.md ? SHA-256 e6f1b8499b7f0411691cf2c94e39ee3deccdfed8d39c1175f2729a1288d1cd8d
 - terms/OT2004/entering-law/OT_2004CHUNK5_B.md ? SHA-256 a4c4c31f601d6cb7d4e309730114088a061148939296567e334ab9ab56f5faec
-- terms/OT2004/entering-law/OT_2004CHUNK5_CURRENT_PUBLIC.md ? SHA-256 c55562c025df67f565b67e99a026d3c9344e9a7a21d36ae8591abcbe216528d3
+- terms/OT2004/entering-law/OT_2004CHUNK5_CURRENT_PUBLIC.md ? SHA-256 50e6b92c0b87106c34cf3d8b67e075aea3273a0d215d634237e6c288b563542c
 - terms/OT2004/entering-law/OT_2004CHUNK5_B_PUBLIC_PRIORS.md ? SHA-256 40e32b922dc1dcab1e6dc30f7ef587e1ff4cf050f54b577019945371ffe1ec26
 - terms/OT2004/workspace/neutral-projection.md ? SHA-256 467c56f74eb24cd434076dfb14b630dde2e74ec260dbe49d8f845bd31f06a7c3

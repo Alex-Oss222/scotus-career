@@ -14,7 +14,7 @@ The operator read the actual Chunk 6 assignment statements and combined their in
 | Sheets | 56 | Stevens | [Record](../records/Sheets_v_Salt_Lake_County_merits_1996-04-29.md) |
 | Brown Group | 57 | Souter | [Record](../records/United_Food_and_Commercial_Workers_Union_Local_751_v_Brown_Group_Inc_merits_1996-05-13.md) |
 | Noland | 58 | Thomas | [Record](../records/United_States_v_Noland_merits_1996-05-13.md) |
-| Armstrong | 59 | O'Connor | [Record](../records/United_States_v_Armstrong_merits_1996-05-13.md); Chief assigns I–II, O'Connor III; one opinion |
+| Armstrong | 59 | Breyer | [Record](../records/United_States_v_Armstrong_merits_1996-05-13.md); Chief assigns all five Parts; one opinion |
 | 44 Liquormart | 60 | Kennedy | [Record](../records/44_Liquormart_Inc_v_Rhode_Island_merits_1996-05-13.md); Stevens assigns remedial V-B, remaining Chief parts make one Chief opinion |
 | Romer | 61 | Souter | [Record](../records/Romer_v_Evans_merits_1996-05-20.md) |
 | BMW | none | Stevens, Associate-assigned | [Record](../records/BMW_of_North_America_Inc_v_Gore_merits_1996-05-20.md); Chief outside reversing judgment coalition notwithstanding Part II rationale join |

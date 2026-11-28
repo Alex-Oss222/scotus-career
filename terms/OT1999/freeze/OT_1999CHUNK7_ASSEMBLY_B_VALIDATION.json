@@ -160,11 +160,11 @@
     {
       "file": "terms\\OT1999\\records\\harris-trust-and-savings-bank-v-salomon-smith-barney_merits_2000-06-12.md",
       "bytes": 35987,
-      "sha256": "4236fdb1777518355ac888a861566625b2ec171e03f31bfc1a570b4fc010e4db",
+      "sha256": "076fa3b8c420a87c07322d98e2316bd2a28b41bb720ab4dd30233baaa9537dd8",
       "public_blocks": 11,
       "holding_identity": true,
       "explanation_words": [
-        274
+        299
       ],
       "author": "Thomas",
       "pre_assignment_total": 78,
@@ -190,7 +190,7 @@
     }
   ],
   "judgment_component_arithmetic": "Each event accounts for exactly nine participating Justices; Mixon 5 reverse / 1 vacate / 3 affirm on statutory component, Sims 6 reverse / 3 affirm, Troxel 6 affirm / 2 vacate / 1 reverse; other dispositions unanimous.",
-  "reconciled_b_sha256": "bc4c2a2cde8840c6d85e2dd894c5b7503e186e5862e26f0b97b12cc74fa71f1d",
+  "reconciled_b_sha256": "dbc36699db629bcb80aa571d2362b968f9c2e131394e99b867b52631bf40f3fd",
   "no_record_edits": "Each Record was created once; no existing Record was overwritten.",
   "git": "No Git command or commit claim."
 }

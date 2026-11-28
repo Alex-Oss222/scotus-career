@@ -35,7 +35,7 @@ These are bounded source and scope limits, not a blocker to the supported state/
 - `runtime/OT_1999CHUNK9_NEUTRAL.md`: SHA-256 `25910e6f0fe0bf0b94af0af01c05093634507f2740bcc6f9797f576815d0dfbc`.
 - `preparation/OT_1999CHUNK9_JONES_CONTROL_FACTS.md`: SHA-256 `21c497e590caeeba9c31f0520b19c4f55ea78d9df472f5817178d75cd7795532`.
 - `entering-law/OT_1999CHUNK9_JONES.md`: SHA-256 `3bde5b11c86d76bfe1efebce2874bfd1788d15a36f33cb87fbb82f866de9278f`.
-- `workspace/neutral-projection.md`: SHA-256 `6170b29f776602f1334864bdf2c2db1bc7fc1053451b31183d7d8f5d99eae9ed`.
+- `workspace/neutral-projection.md`: SHA-256 `8091fd227e56f4370490a454d779a8c3e0fe719084c266c8d419a6a4b0ce3180`.
 - `freeze/OT_1999CHUNK9_JONES_NEUTRAL.md`: SHA-256 `6b3204cae597d09dadca641d187bd2d97cbac3623139407cee50ddfc0db2e4da`.
 
 The frozen packet is a durable neutral handoff, not a Court action or a revision of any completed adjudication. It contains no opinion assignment or modeled vote.

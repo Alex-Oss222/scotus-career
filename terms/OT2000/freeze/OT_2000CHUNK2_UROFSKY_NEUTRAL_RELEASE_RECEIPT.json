@@ -38,7 +38,7 @@
     },
     {
       "path": "terms/OT1994/output/OT_1994CHUNK3.md",
-      "sha256": "88fb91145c571ea5404dfab35dbdfc467b2b09e10f2b06d586d50eac6c32e85a"
+      "sha256": "4b064730bdbd59441677b6741c55356e6fea00360a96bfec273a6d3d102c77a5"
     }
   ],
   "read_scope": {
@@ -66,7 +66,7 @@
     },
     {
       "source": "terms/OT1994/output/OT_1994CHUNK3.md",
-      "source_sha256": "88fb91145c571ea5404dfab35dbdfc467b2b09e10f2b06d586d50eac6c32e85a",
+      "source_sha256": "4b064730bdbd59441677b6741c55356e6fea00360a96bfec273a6d3d102c77a5",
       "event": "United States v. National Treasury Employees Union",
       "heading": "#### Opinion Topology",
       "excerpt_sha256": "df75359ce6a454cbd977316dc00e0379ecb4e6dd124147215dab1737f36e1dd3",
@@ -74,7 +74,7 @@
     },
     {
       "source": "terms/OT1994/output/OT_1994CHUNK3.md",
-      "source_sha256": "88fb91145c571ea5404dfab35dbdfc467b2b09e10f2b06d586d50eac6c32e85a",
+      "source_sha256": "4b064730bdbd59441677b6741c55356e6fea00360a96bfec273a6d3d102c77a5",
       "event": "United States v. National Treasury Employees Union",
       "heading": "#### Separate Positions Relevant to the Decision",
       "excerpt_sha256": "19372b25c921807cc9436d84db59214b55ab0a030f89a73c2f3f61d10876c4e2",

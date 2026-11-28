@@ -43,7 +43,7 @@
     {
       "matter": 76,
       "record": "Richards_v_Wisconsin_merits_1997-04-28.md",
-      "sha256": "1f76ac620e3f86b292b8bddcbc79b588cce2d31f1cb68822a59921a8a11933f1",
+      "sha256": "8f0fc5f3b53a4fa6819703ce9b942db5cf812d7665889c031322c5f8d5373c73",
       "record_word_count": 4393,
       "public_word_count": 1794,
       "lead_author": "Breyer",
@@ -69,7 +69,7 @@
         },
         {
           "path": "entering-law/OT_1996CHUNK7_76_ENTERING_LAW.md",
-          "sha256": "2ac3538f93326fcd4a1485e5d46655b74176eb4e2ea62f89ac005bcab311f5e4"
+          "sha256": "e8e0b33feca4615f2a5f8dc0fcadaee2b6f362c262b8d55967ddc5101279dc3e"
         },
         {
           "path": "freeze/OT_1996CHUNK7_76_ASSIGNMENT_RECOUNT.json",

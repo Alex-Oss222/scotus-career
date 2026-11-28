@@ -1272,11 +1272,11 @@ Source: [Record](../../OT1995/records/United_States_v_Armstrong_merits_1996-05-1
 
 
 
-**Assignment by component:** The Chief assigns Parts I–II of the coordinated Court opinion on the shared setting-aside component to O'Connor.
+**Assignment:** The Chief Justice is in the five-Justice judgment coalition and in the unanimous setting-aside coalition, and he assigns the Opinion of the Court to Justice Breyer.
 
-The shared Part II ground exists before authorship is chosen. For Part III's distinct seven-Justice ordinary-remand component, O'Connor is the senior participating Associate in that coalition and assigns that portion to herself.
+One author carries all five Parts because the same five Justices support each of them; O'Connor, Scalia, Kennedy and Thomas join no Part, so no component assignment is needed.
 
-Before Armstrong the counts are O'Connor 16, Souter 12, Ginsburg 9, Kennedy 6, Thomas 6, Stevens 5, Stone-Zsela 2, Scalia 2 and Breyer 0. Because the Chief assigns part of this single coordinated opinion, it counts once as **Chief assignment 59, O'Connor's 17th**.
+Before Armstrong the counts are O'Connor 16, Souter 12, Ginsburg 9, Kennedy 6, Thomas 6, Stevens 5, Stone-Zsela 2, Scalia 2 and Breyer 0. Because the Chief assigns this single opinion, it counts once as **Chief assignment 59, Breyer's first**.
 
 
 
@@ -1482,7 +1482,7 @@ Source: [Record](../../OT1995/records/Whren_v_United_States_merits_1996-06-10.md
 
 
 
-**Assignment:** Chief Justice Stone-Zsela assigns the entire opinion to Justice Thomas.
+**Assignment:** Chief Justice Stone-Zsela assigns the entire opinion to Justice Ginsburg.
 
 
 

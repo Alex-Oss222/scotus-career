@@ -674,11 +674,11 @@ Every named classification is supported by the excerpted assignment statement. N
 
 ### United_States_v_Armstrong_merits_1996-05-13
 
-**Count classification:** O'Connor.
+**Count classification:** Breyer.
 
 [Record](../records/United_States_v_Armstrong_merits_1996-05-13.md), line 24:
 
-> **Assignment by component:** The Chief assigns Parts I–II of the coordinated Court opinion on the shared setting-aside component to O'Connor.
+> **Assignment:** The Chief Justice is in the five-Justice judgment coalition and in the unanimous setting-aside coalition, and he assigns the Opinion of the Court to Justice Breyer.
 
 ### United_States_v_Noland_merits_1996-05-13
 
@@ -810,11 +810,11 @@ Every named classification is supported by the excerpted assignment statement. N
 
 ### Whren_v_United_States_merits_1996-06-10
 
-**Count classification:** Thomas.
+**Count classification:** Ginsburg.
 
 [Record](../records/Whren_v_United_States_merits_1996-06-10.md), line 42:
 
-> **Assignment:** Chief Justice Stone-Zsela assigns the entire opinion to Justice Thomas.
+> **Assignment:** Chief Justice Stone-Zsela assigns the entire opinion to Justice Ginsburg.
 
 ### United_States_v_Myers_merits_1996-06-11
 

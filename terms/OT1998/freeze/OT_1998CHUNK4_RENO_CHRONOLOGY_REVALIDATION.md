@@ -70,7 +70,7 @@ The five/three disagreement remains a disagreement about the permissible statuto
 
 ## Integrity and completion
 
-The frozen Reno commitments and their runtime working copy remain byte-identical and retain SHA256 `a29b9d7e1c62494cd1e71e473137fe229e381eb0cb952caf44de8045c47db895`. Neither file was rewritten. All eight public source files linked above exist and were read at their completed public form. Their event dates precede February 24, 1999. This is a chronological and substantive compatibility receipt; it does not independently verify private Record provenance or replace the required reconciliation and assembly stages.
+The frozen Reno commitments and their runtime working copy remain byte-identical and retain SHA256 `004f52a2b8df39118e02f9bd32d44949e235eb58a210f2668d302b4bef1d6e6f`. Neither file was rewritten. All eight public source files linked above exist and were read at their completed public form. Their event dates precede February 24, 1999. This is a chronological and substantive compatibility receipt; it does not independently verify private Record provenance or replace the required reconciliation and assembly stages.
 
 A separate clean read-only cross-check of Abate and Boring reached the same no-change conclusion and introduced no new material. The operator's own review covered both decisions and the other six. No outside or pending source was used as current law.
 

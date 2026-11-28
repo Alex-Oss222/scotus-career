@@ -29,7 +29,7 @@ SHA256: `9afd8f5ebff39518ab495e32c815f0b96d0049448715620ccd682bc9bf175b36`
 
 78-event inventory: `terms/OT1995/freeze/OT_1995CHUNK10_TELECOM_INSERTION_EVENT_INVENTORY.md`
 
-SHA256: `6ae8fb3102ed16b9ac3d454bc51af1778b1eb9b61fc4d874a6dc5774cd872715`
+SHA256: `91c24903007ee1199fcd0f7c0406f4cd66dbbdef59cfb4444550f4f9293f3fb4`
 
 Validated source Record: `terms/OT1995/records/Telecommunications_Act_cable_sections_504_506_and_review_561_statutory_admission_1996-02-08.md`
 

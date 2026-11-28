@@ -17,7 +17,7 @@ Digests identify complete files, not a claim that every hashed file was substant
 |---|---|
 | `terms/OT1995/runtime/OT_1995CHUNK4_A_NEUTRAL.md` | `bca5331fe50b6ecdc1ac4a62d3d67082560e943fcc0bebe21cb8b6905fcd256d` |
 | `terms/OT1995/runtime/OT_1995CHUNK4_C_NEUTRAL.md` | `2b502ccdf372b5cb6aa50977b0be396edda063a8b1c4f1f8db7550bf03d4de33` |
-| `terms/OT1995/entering-law/OT_1995CHUNK4_A.md` | `afca2eecaab76b1ba4e1a30308a9978f5f0c8b92211560574636dd3bcf6d7452` |
+| `terms/OT1995/entering-law/OT_1995CHUNK4_A.md` | `4ea81c3bf8d7a7840c9751643af82025d2e6743bdf3d35df3ae4ba6231507120` |
 | `terms/OT1995/entering-law/OT_1995CHUNK4_C.md` | `f623a0ff0cc6fe869a25d079713f78df3175a1752c078041cdf0f7b4d5200726` |
 | `terms/OT1995/entering-law/PUBLIC_Libretti_v_United_States_merits_1995-11-07.md` | `ab68c7539c54ae38b5524e404cc0e71efdbc2e1aa0e3eb40f5b98ac516b75679` |
 | `terms/OT1995/workspace/neutral-projection.md` | `1c50950d0ad55400b49115103bdc717e92b6c1f5732e3be56d7e6f3f543019f7` |
@@ -36,5 +36,5 @@ Digests identify complete files, not a claim that every hashed file was substant
 | `terms/OT1995/sources/chunk4_a/peacock_12._Amicus_Curiae_Brief_djvu.txt` | `95ed490ad17e5ec0029bb9df642ea2a778968d59217addfd992182c87ed4935c` |
 | `terms/OT1995/sources/chunk4_a/peacock_13._Amicus_Curiae_Brief_djvu.txt` | `5fce1d093361e9842acda9421adad2902f750f25fd11883c507d2d9cefb14d9d` |
 | `terms/OT1995/sources/chunk4_a/peacock_14._Amicus_Curiae_Brief_djvu.txt` | `372fa7de79285977a2a7b0d0bcca78d8bcd3d26235aa91177944e62a75f30d90` |
-| `terms/OT1995/freeze/OT_1995CHUNK4_PEACOCK_NEUTRAL_VALIDATED.md` | `3f7a077cb698ce7b11e403d33b6b5b1db3ca4df43d8c88a0e4d4310e7294fa4f` |
+| `terms/OT1995/freeze/OT_1995CHUNK4_PEACOCK_NEUTRAL_VALIDATED.md` | `4e3e36831d804a872a8d759bd3f114ce7e901fea4f045ed0fe55262385155aaa` |
 | `terms/OT1995/freeze/OT_1995CHUNK4_BENNIS_NEUTRAL_VALIDATED.md` | `a83d9a9ded345299618f8fd4483bd8b90db738da6e627efd0d413397e1805fb3` |

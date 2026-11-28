@@ -51,7 +51,7 @@ All eleven existing later Records retain their preassembly SHA-256 fingerprints,
 | `calderon_v_thompson_merits_1998-04-29.md` | `aa0e69a66fdd5df071dfed6c1ad2b43c85a3a369210bdd47043be17b4ad294d2` |
 | `united_states_v_estate_of_romani_merits_1998-04-29.md` | `1b181c50fbf2d088c856b3811156cc14e03fcfc217d6840e6d4f9a2195f3dbcc` |
 | `perry_v_los_angeles_police_department_merits_1998-05-04.md` | `1f5ab483da523773bced7c1ef7ca19bd2148d39ea7385184f6516c4bfa7dc735` |
-| `ricci_v_village_of_arlington_heights_merits_1998-05-04.md` | `30aea35b7c43d7f93564bb5c4261fbf41e3e51943a905477d29767535a3d9b2c` |
+| `ricci_v_village_of_arlington_heights_merits_1998-05-04.md` | `1118ee5f3c16d4195cd8d812eb50e54a21d7ccc04a72bfd6cd89cb8fd7bdede9` |
 
 No Git command, including a subprocess invocation, was run in this review. The locked top-level directory was not read, listed or searched.
 

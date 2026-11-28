@@ -38,4 +38,4 @@ These identify the files from which the scoped readings above were made; they do
 | `entering-law/OT_1993CHUNK6_CURRENT_PUBLIC_AUTHORITY.md` | `1ee6ce93b9585e577a75ffdf32800ee20dfee88a3677d8772746787e382e2a5d` |
 | `entering-law/OT_1993CHUNK6_JUNE13_UPDATE.md` | `35c62c888b594dff950a5b259fee536e54d430ab4c8e8d20a1f2b443f911efc9` |
 | `terms/OT1992/output/OT_1992CHUNK2.md` | `442c2219a77d303da691e399adc18051cad37372373eb08d85818370c25889d7` |
-| `terms/OT1992/output/OT_1992CHUNK9.md` | `40a914c585ad9ed9998cd8ea7e5ffb67b40e354d6de6432356c85ec60b5e0430` |
+| `terms/OT1992/output/OT_1992CHUNK9.md` | `1780e9ae2d11b5af49d27624e4e22820b4fb4bd8ff25c80626bff7436da20b92` |

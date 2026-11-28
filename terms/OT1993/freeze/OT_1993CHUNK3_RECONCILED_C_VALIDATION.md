@@ -26,7 +26,7 @@ Actual entering-law sources reviewed include the selected Musick, Peeler holding
 
 ## File identity and deterministic checks
 
-Original freeze and runtime commitments remain byte-identical, with SHA-256 `411B7603A84F041BA4C92E95EE2B3DEB25DFEE48287FAC8BD03935830AE83C83`. They were read and never edited. Freeze and runtime `OT_1993CHUNK3_RECONCILED_C.md` are byte-identical, SHA-256 `006CBA7ADB5AACE4A3FEB34E133274818952553AF0F879A838C87EDE9B7A209E`.
+Original freeze and runtime commitments remain byte-identical, with SHA-256 `411B7603A84F041BA4C92E95EE2B3DEB25DFEE48287FAC8BD03935830AE83C83`. They were read and never edited. Freeze and runtime `OT_1993CHUNK3_RECONCILED_C.md` are byte-identical, SHA-256 `42A01F89D107BB0ABC55464284AB1AB29BB9CAB933BEE5791568D0A5176525BA`.
 
 Source text hashes, in `freeze/chunk3-sources/`:
 

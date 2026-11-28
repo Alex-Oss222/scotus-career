@@ -866,7 +866,7 @@
           "Thomas"
         ],
         "exclusion": null,
-        "sha256": "2199c5d28deaa24b27dc957145168120353105d4cc0453a489a21b678a4fd3b5",
+        "sha256": "6eecfb7520484fd6c0926a333248df3a4356d69218dc67e27ca900bad563adf8",
         "new": true,
         "claimed_counts": {
           "Stone-Zsela": 8,
@@ -1056,7 +1056,7 @@
           "Thomas"
         ],
         "exclusion": null,
-        "sha256": "4236fdb1777518355ac888a861566625b2ec171e03f31bfc1a570b4fc010e4db",
+        "sha256": "076fa3b8c420a87c07322d98e2316bd2a28b41bb720ab4dd30233baaa9537dd8",
         "new": true,
         "claimed_counts": {
           "Stone-Zsela": 8,
@@ -1070,7 +1070,7 @@
           "Breyer": 9
         },
         "explanation_words": [
-          334
+          359
         ],
         "holdings_identity": true,
         "local_links_checked": 12
@@ -1295,7 +1295,7 @@
         },
         "last": "united-states-v-hubbell_merits_2000-06-05.md",
         "words": [
-          334
+          359
         ]
       }
     ],
@@ -1501,11 +1501,11 @@
     "no_stopped_matter": true,
     "no_public_render": true,
     "sha256": {
-      "render-inputs\\OT_1999CHUNK7.md": "bba3ef247b9cbfd8e45019b4e226486462de6565824bd176847c0fa5278c14ac",
+      "render-inputs\\OT_1999CHUNK7.md": "675f34313c99165984f19182379f8a3838f01415d7ec571bf18c86aae01f3f3c",
       "workspace\\manifest.md": "57bc045b801fd8d6ad541c956adffb21bd88fbf9f0b685a97f6f81454298ee79",
       "workspace\\ledger.md": "1e6ed0b0d46166e2715ba992ac85652679e72006e97c3317c344b7454d8646e3",
-      "workspace\\continuity.md": "bb9beaf7053d2867d04749f587ba452713cd9b53eaeda43bc0979d5ba02b09b2",
-      "workspace\\neutral-projection.md": "78fbbe4f065c66b7a31a381cd59fc198098bd7589bd37890053ecb46acaac7e1"
+      "workspace\\continuity.md": "6f736b146d68627445739fb2049807ee8c596cbdd37a377d21bf7c5fc6fd5feb",
+      "workspace\\neutral-projection.md": "e41d2523411faa9ce094dac7224a27da150f739b0c589ac0263a5e278ee6babf"
     }
   }
 }

@@ -18,10 +18,10 @@ The original draft is preserved byte-identically. The final freeze updates only 
 |---|---|
 | `AGENTS.md` | `34d67c6e388c15dad71857214d1c92ed19de043138020208ee25d1e70b1abfa8` |
 | `foundation/ENGINE.md` | `11735d99fd88acfe6a497af9d67af0a6988e7b6deb8c210797e09dcdb12162d3` |
-| `terms/OT2001/freeze/OT_2001CHUNK8_JUNE28_NEUTRAL.md` | `7526e918aa0c61864e0a0c0ea7bfe7be3cd42ad00b9203b1a78e318fead68423` |
-| `terms/OT2001/entering-law/OT_2001CHUNK8_JUNE28_ENTERING_LAW.md` | `e2644d89212e0b85e1b0fa219a0572955709442d342ca5b0ea53d2bc4a6a5161` |
+| `terms/OT2001/freeze/OT_2001CHUNK8_JUNE28_NEUTRAL.md` | `2af7c3b6c622fd85514d238805035ecab0db9ec085a591db14ab89fb3e89734a` |
+| `terms/OT2001/entering-law/OT_2001CHUNK8_JUNE28_ENTERING_LAW.md` | `512fd30a6e1617931041064974fb2ca5be485bc7bd0de0be30736b4a480a7f57` |
 | `terms/OT2001/workspace/neutral-projection.md` | `2089e0dec3f2dd3d0529877b27e1070ec21a74059d70d4cf6f29439890457a4f` |
-| `terms/OT1995/output/OT_1995CHUNK6.md` | `cd350023c15358cd9dce95235d46b96da749acf3dc0490a9625bd706313eeec4` |
+| `terms/OT1995/output/OT_1995CHUNK6.md` | `771a196f8065ec698db497174547bf07f49527a448cf8dd710055e7de6769db8` |
 | `terms/OT2001/entering-law/OT_2001CHUNK8_THROUGH_JUNE24_PUBLIC_LAW.md` | `6a5299bf829732137a2a9d23eacc13f3f9d96f31f2f2459e71ce550943adc741` |
 | `terms/OT2001/entering-law/OT_2001CHUNK8_EARLS_PUBLIC_LAW.md` | `85f167d54e31868cc2a4798f3cb8ca8fc72fc434c863be32624b3e82204bbff8` |
 | `terms/OT2001/entering-law/OT_2001CHUNK8_HOPE_PUBLIC_LAW.md` | `e94c146c5c4e8090b92eb0880e112b90e635edfc7c3c90500a4e0893012539fe` |
@@ -39,9 +39,9 @@ The original draft is preserved byte-identically. The final freeze updates only 
 - Associate coverage: Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer each have a separate component-specific row in each case.
 - Stewart scope: state-law classification, actual federal independence and remaining default exceptions/remedy are kept separate; no underlying ineffective-assistance merits or automatic excuse is supplied.
 - Bass scope: discovery source, preliminary effect/purpose threshold, actual decision-stage comparison and dependent sanction/remand are separate; no ultimate neutrality or discrimination finding is supplied.
-- Alternative paths: each case addresses the strongest supported competing path and its legal or record limitation, including Stevens's and Breyer's distinct Armstrong grounds.
-- Join accounting: Bass's eight judgment commitments do not become eight joins in the general threshold or Rule 16 rationale; the seven-Justice threshold and six-Justice source alignments are stated separately.
-- Remand limits: neither case receives a compelled new evidentiary inquiry, assumed factual finding, automatic sentence remedy or execution authorization.
+- Alternative paths: each case addresses the strongest supported competing path and its legal or record limitation, including the Armstrong Court opinion and the separate positions of Stevens and O'Connor.
+- Join accounting: Bass's eight commitments to set aside the order do not become eight joins in the Rule 16 source or first-stage rationale; the eight-Justice comparison defect, the four-Justice source and first-stage alignment and the four-Justice ordinary-proceeding alignment are stated separately.
+- Remand limits: neither case receives an assumed factual finding, automatic sentence remedy or execution authorization; Bass's first-stage alignment directs a court-run threshold determination, not production.
 - Original draft preservation and freeze/runtime byte identity: verified after writing.
 - Matters correctly before the Court: no missing numerical docket, exact grant wording or unavailable research document is treated as a litigant failure or a blocker.
 

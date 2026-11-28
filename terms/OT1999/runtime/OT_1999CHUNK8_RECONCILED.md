@@ -6,7 +6,7 @@ The generated raw runtime neutral split remains the unaltered approved-brief exp
 
 ## Source: OT_1999CHUNK8_A_NONCARTER_RECONCILED.md
 
-SHA256: 8dad2ad878404180909b7e01b610cabe86f437477781bf9509694dddf013bf1e
+SHA256: 796af30496dc0fc8ed7c41b3a91c1bbda27233e1a1f47f4c1d1ec17168e04088
 Complete stage file copied.
 
 # OT1999 chunk 8 A — reconciled Bradley, Pegram and Reeves commitments
@@ -90,7 +90,7 @@ The prior simulated Spink holding expressly preserves independent fiduciary impl
 |---|---|---|
 | Stevens | Reverse; fully join the care-function rule and the conditional insufficient-breach ground. His Varity Parts I–III joins protect real administration; his Hughes Aircraft implementation join rejects an advantageous structure as an independent breach after its alleged legal predicates fail. | No immunity for an actual disloyal administrative act, deception or asset diversion. |
 | O'Connor | Reverse; fully join. Her Spink and Hughes Aircraft joins separate design and medical business from statutory fiduciary functions while preserving actual implementation duties. | Her Varity disagreement does not eliminate its controlling functional rule. No blanket rejection of pure coverage administration or state malpractice. |
-| Scalia | Reverse; fully join. His Mertens opinion requires the enacted duty and remedy categories; his John Hancock and Hughes Aircraft joins keep function, property and breach separate. | The claims-administration allegation is addressed on its assumed scope, not erased. No §502(a)(3) bar to lawful §409 restoration and no net-benefit defense to a proved breach. |
+| Scalia | Reverse; fully join. His Mertens dissent insists on the enacted duty and remedy categories; his John Hancock and Hughes Aircraft joins keep function, property and breach separate. | The claims-administration allegation is addressed on its assumed scope, not erased. No §502(a)(3) bar to lawful §409 restoration and no net-benefit defense to a proved breach. |
 | Kennedy | Reverse; fully join. His Varity joins preserve real administrative acts; his Spink and Hughes Aircraft joins support examining an independently alleged breach rather than treating a general incentive as one. | Physician involvement alone does not remove coverage administration. The medical rule requires genuine inseparability from furnishing care. |
 | Souter | Reverse; fully join. His Varity functional opinion and Hughes Aircraft joins support genuine administrative duties and the independent no-breach analysis; Travelers keeps ordinary medical regulation distinct. | Economic incentives do not excuse disloyal conduct during actual administration. No resurrected nondisclosure claim from a superseded count. |
 | Thomas | Reverse; fully join. His Hughes Aircraft join and Peacock opinion require an independently supported statutory or plan violation; the general arrangement alone supplies none here. | No jurisdictional reclassification, categorical bar to plan restoration or extra discretion condition on actual asset control. |
@@ -590,7 +590,7 @@ No current B Stone position, combined brief, raw Record or private audit was rec
 
 ## Source: OT_1999CHUNK8_B_HARRIS_RECONCILIATION_REVIEW.md
 
-SHA256: d09c372880d56498a2f3542cfae0183c356fdfec099c025f172bd35b74a9359e
+SHA256: 1c794d970b426f0c5b5c3cebd4e2084938e448e56acddf1da6a8aee5184e0bae
 Complete stage file copied.
 
 # OT1999 chunk 8 B — Harris Trust reconciliation relevance supplement
@@ -603,7 +603,7 @@ Harris Trust, No. 99-579, was decided June 12, 2000 and was already present at c
 
 All nine Justices reject categorical nonfiduciary-defendant immunity under ERISA section 502(a)(3). The enacted authorization permits appropriate traditional equitable redress of a prohibited, nonexempt section 406(a) transfer against a knowing nonfiduciary recipient, without transferring the fiduciary's direct statutory duty to that recipient. For the assumed purchaser for value, actual or constructive notice and traditional purchaser protection matter; the defense's burden allocation remains unresolved. Actual violation, exemption, party-in-interest status, notice, recoverable property or proceeds, and remedy remain for ordinary adjudication. No purchase-price or profits award, special hearing, general compensation action, comprehensive tracing rule or rule for every gratuitous recipient follows.
 
-Mertens preserves the traditional-equitable-category limit; Peacock requires an actual statutory or plan violation; Varity preserves the distinct remedial channel and its conditions. The source-specific authorization is essential. Harris establishes neither a general judicial power to override enacted limits nor a universal rule eliminating traditional equity whenever legislation is detailed. Explaining the legal basis of the existing preserved ERISA claim is not itself a new claim, but that conclusion does not decide preservation of every other claim or defense.
+Mertens preserves the trust-law equitable-category limit; Peacock requires an actual statutory or plan violation; Varity preserves the distinct remedial channel and its conditions. The source-specific authorization is essential. Harris establishes neither a general judicial power to override enacted limits nor a universal rule eliminating traditional equity whenever legislation is detailed. Explaining the legal basis of the existing preserved ERISA claim is not itself a new claim, but that conclusion does not decide preservation of every other claim or defense.
 
 ## Final reconciled grounds checked
 
@@ -861,7 +861,7 @@ The material refinement is Thomas's broader noncontrolling Apprendi position, pr
 
 ## Source: OT_1999CHUNK8_C_FINAL_RECONCILIATION_REVIEW.md
 
-SHA256: c0d0ddfcfa0c73743f23b8019dc8f604e229f9488b5129d26deffd23fa15eabe
+SHA256: cfa61d01567867d1cdebba82f915098d3d1b0ea55b7b9e560d80fc706f5ff210
 Complete stage file copied.
 
 # OT1999 chunk 8 C — final earlier-law reconciliation review
@@ -876,8 +876,8 @@ Complete stage file copied.
 
 Paths are relative to `terms/OT1999/`.
 
-- `entering-law/OT_1999CHUNK8_C_EARLIER_PUBLIC.md`, SHA-256 `7E5AEA87D2445025E2C281A6A4B70A1BBFBA40F450E28FD5B23B4804B0EB70BD`. This final projection contains Bradley, Carter, Pegram and Reeves effective June 12, and Arizona v. California, Crosby, Hawkins, Miller/French and Santa Fe effective June 19. The earlier reconciliation already examined the four June 12 decisions. This review read all five June 19 Public Projections in full, including every holding, qualification, proposition-level join, separate writing and remedy.
-- `entering-law/OT_1999CHUNK8_HARRIS_PUBLIC.md`, SHA-256 `C25279215E5215445B047177042F8B2AC3E0B2DBCBC09A2289204A8F74DA897A`. Its complete Harris Trust Public Projection was read. That June 12 holding was already present at intake but omitted from the focused slice; this express check closes that omission without treating it as a new chunk event.
+- `entering-law/OT_1999CHUNK8_C_EARLIER_PUBLIC.md`, SHA-256 `9834929A868CC7C69F40D6C91AD7B615519FF3926378735914A843E06FCF1B28`. This final projection contains Bradley, Carter, Pegram and Reeves effective June 12, and Arizona v. California, Crosby, Hawkins, Miller/French and Santa Fe effective June 19. The earlier reconciliation already examined the four June 12 decisions. This review read all five June 19 Public Projections in full, including every holding, qualification, proposition-level join, separate writing and remedy.
+- `entering-law/OT_1999CHUNK8_HARRIS_PUBLIC.md`, SHA-256 `E1BF251958ADD0EF648B8E181E78D72828FA193177A71C26D3FE236323312811`. Its complete Harris Trust Public Projection was read. That June 12 holding was already present at intake but omitted from the focused slice; this express check closes that omission without treating it as a new chunk event.
 - `freeze/OT_1999CHUNK8_C_RECONCILED.md`, unchanged SHA-256 `7675EFAB149937A0D52B61941EFB61A5C10D79F4C15AD5EA0E93DF7B89286680`. Its sixteen reconciled commitments, Thomas's broader noncontrolling position and the bounded remedies are the subject of this review.
 
 No pending Ramdass action is treated as decided. No June 19 opinion supplies law to an uncoordinated June 19 peer; the public decisions are relevant here only because both C events occur June 26. No new participation or case-specific procedural fact appears in these public additions.
@@ -939,7 +939,7 @@ All sixteen judgment directions, their sufficient grounds, qualifications and bo
 
 ## Independent receipt verification and final release
 
-The complete `freeze/OT_1999CHUNK8_C_FINAL_LAW_REVIEW.md` was read and verified. Its SHA-256 is `CA98D91FC8AB3F1BE95F76FF34E3A07F769F75D0825A2379456EDCC592789B3D`; its runtime copy is identical. The independent model reviewed the same final public-law source hashes identified above, assessed all nine newly completed events plus Harris, and found no material change to the original sixteen commitments. Its express source boundary excludes the comparator, reconciliation and current Stone material. The receipt closes the original commitment freeze's chronology condition without rewriting that freeze.
+The complete `freeze/OT_1999CHUNK8_C_FINAL_LAW_REVIEW.md` was read and verified. Its SHA-256 is `49AE7AA614A7ED0A80F47151460AFA10A29084D78728F733A3698C755E3C154E`; its runtime copy is identical. The independent model reviewed the same final public-law source hashes identified above, assessed all nine newly completed events plus Harris, and found no material change to the original sixteen commitments. Its express source boundary excludes the comparator, reconciliation and current Stone material. The receipt closes the original commitment freeze's chronology condition without rewriting that freeze.
 
 That model receipt evaluates the initial independent commitments; it does not reverse or supersede later historical reconciliation. In particular, its concise Thomas row retains the unchanged present-case judgment and sufficient rule but is not a withdrawal of the broader noncontrolling recidivism and minimum position subsequently preserved by reconciliation. Likewise, its reference to the Scalia/Thomas Dickerson alternatives does not eliminate the reconciliation's required clarification that sustaining the statute against an otherwise controlling constitutional rule requires their own judicial reconsideration premise. The present review independently checks both refinements against every added public decision and finds them compatible. There is no discrepancy requiring a replacement neutral packet, remodeled commitment or renewed substantive historical comparison.
 

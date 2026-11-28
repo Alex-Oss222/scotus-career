@@ -415,7 +415,7 @@ SHA-256 values identify the frozen inputs and saved source bytes used above. Pat
 | Input | SHA-256 |
 |---|---|
 | `freeze/OT_2004CHUNK5_SABREE_COMMITMENTS.md` | `2d108515b13f3836068aa3a0d671dea6af785a07355638fae3a5e727d8168a9c` |
-| `freeze/OT_2004CHUNK5_SABREE_NEUTRAL_PREFLIGHT.md` | `3eb27105341455d65afdb03559900d706d219c023fd44562c4b26ad487d67c82` |
+| `freeze/OT_2004CHUNK5_SABREE_NEUTRAL_PREFLIGHT.md` | `0d8b6dba8e4d4e8ec798171a2753f646c46d6a34b3395762383458581cd32372` |
 | `research/chunk5-c/sabree_ca3.txt` | `29fa373b649a3cd8966372a6c960f6c0f5c562274f159dc9503d09aa1efd3e4e` |
 | `research/chunk5-neutral/Sabree-statutory-excerpts.md` | `cf585250bc1c371454dd88cd1c7b527899cef4edf7b39b62ee69416015d3a97d` |
 | `entering-law/OT_2004CHUNK5_MARCH7_PUBLIC.md` | `913cbc1a9fb06d0693f5fedd521bf2b63b59a1b12e8e44267ac3972327019a3b` |

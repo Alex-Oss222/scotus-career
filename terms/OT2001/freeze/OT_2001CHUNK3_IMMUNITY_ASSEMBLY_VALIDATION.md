@@ -22,6 +22,6 @@ Both Records have the exact four initial labels and eleven Public Projection blo
 | [milstein-v-cooley_merits_2002-03-19.md](../records/milstein-v-cooley_merits_2002-03-19.md) | `5e581b1b204338481bcc789bb11c1756169ee31a18b7eb8b499bb6c4e7fb1db2` | 225, 238, 150 | 465 |
 | [zahrey-v-coffey_merits_2002-03-19.md](../records/zahrey-v-coffey_merits_2002-03-19.md) | `2cc9aea3ab4bb666c019672ae4be6fde29eff4a9acdb790c4f1bb739fbd75141` | 240, 218, 264 | 300 |
 
-The [public-law reading copy through March 19](../entering-law/OT_2001CHUNK3_THROUGH_MAR19_PUBLIC_LAW.md) contains 44 bounded Public Projections. Every included projection was verified as an exact single occurrence of its source Record's section. Its SHA-256 is `df90547dcd32c912d57db6c0c38a6fecf036603f0ee3a13ca2eac2ccb93c13c7`. It is a derived reading copy, not independent authority.
+The [public-law reading copy through March 19](../entering-law/OT_2001CHUNK3_THROUGH_MAR19_PUBLIC_LAW.md) contains 44 bounded Public Projections. Every included projection was verified as an exact single occurrence of its source Record's section. Its SHA-256 is `986e17181454faecb3c4fc6163298bb1c2185dd8ae7d693342f19075a977d17c`. It is a derived reading copy, not independent authority.
 
 No public render was written. No earlier Record or foundation or state file was changed. Whole-term projection rebuilding, generated Render Input and term-wide validation remain control's integration tasks. This receipt claims no repository commit.

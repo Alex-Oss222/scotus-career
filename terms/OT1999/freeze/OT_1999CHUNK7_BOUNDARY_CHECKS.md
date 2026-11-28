@@ -30,12 +30,12 @@ All six frozen/runtime pairs were compared byte for byte. Each aggregate commitm
 
 | Frozen artifact | SHA-256 |
 |---|---|
-| COMMITMENTS_A | `a2fa973dc42ca7ecc6c80480fe0cc19dffc07fce2ddfcfa2ae9bd5039375ddb0` |
-| COMMITMENTS_B | `3a1aa2ffdc7d940a1288a159292c0e467297596b1fa01a21ec9c12376d76dc4d` |
-| RECONCILED_A | `da4646a22e050b066db6994b3ed9314cf30a589b25198a077d07c1b0bdf29883` |
-| RECONCILED_B | `bc4c2a2cde8840c6d85e2dd894c5b7503e186e5862e26f0b97b12cc74fa71f1d` |
-| COMMITMENTS | `c22ea79023e7606b4e3a3680a012354d03b780f868a8db5b52463d640eea0e2e` |
-| RECONCILED | `a4a5c800f4aa2c6745db2847b201dce707de704a4583ebf08151dedf7d48328d` |
+| COMMITMENTS_A | `0b6a2424d4f763343788fce4c93b8c03de77ed75306fc7fec2e98ce1b140004d` |
+| COMMITMENTS_B | `f6fb7e8ff97e781bc8ff21519e629869f977d1b7bf8b259386dfb5718045c382` |
+| RECONCILED_A | `6582780860fe9854a9ac0236cbe946214f20b09954542a2d3ac146e441b072e2` |
+| RECONCILED_B | `dbc36699db629bcb80aa571d2362b968f9c2e131394e99b867b52631bf40f3fd` |
+| COMMITMENTS | `d6de864f2303ca05fe683db08a17e30e0098b8b33738799aa04b4eee42c666a8` |
+| RECONCILED | `5ef6650dbe55ded74b72d227bd351dd6599aa230bdeff7e36c381b6f82de8a35` |
 
 The neutral compilation was checked for its five expected source markers in A, Ohler, Raleigh, B, Troxel order and for exactly one exact-content copy of each corresponding frozen packet after CRLF/LF normalization. Neutral A, Ohler and Raleigh have the same line-ending-only distinction; neutral B and Troxel also match as raw byte substrings. The raw neutral runtime split is separately validated against the approved brief; it is not expected to equal the validated neutral compilation.
 
@@ -47,7 +47,7 @@ The neutral compilation was checked for its five expected source markers in A, O
 |---|---|
 | castillo-v-united-states_merits_2000-06-05.md | 225 |
 | eisenberg-v-montgomery-county-public-schools_merits_2000-05-30.md | 224, 202, 215 |
-| harris-trust-and-savings-bank-v-salomon-smith-barney_merits_2000-06-12.md | 274 |
+| harris-trust-and-savings-bank-v-salomon-smith-barney_merits_2000-06-12.md | 299 |
 | hartford-underwriters-v-union-planters-bank_merits_2000-05-30.md | 284 |
 | mixon-v-ohio_merits_2000-06-05.md | 158, 229 |
 | ohler-v-united-states_merits_2000-05-22.md | 270 |

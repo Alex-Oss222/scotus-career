@@ -1,5 +1,5 @@
 {
-  "snapshot_sha256": "fa1d289531ec92ca57c0b8f399c375759b41bb11d5417b8e7051b42e53f2177b",
+  "snapshot_sha256": "3b79dccfb7b680823b1c2f3b63fc2ffaeb067ea6e8aed57a2df5f6a5c1cb5cee",
   "slice_sha256": "7b5f6a88c77b191b08e9ecad611039171f8abf99b343be4e2ff42eba05491b91",
   "public_copies": [
     {
@@ -274,7 +274,7 @@
     },
     {
       "file": "Varity_Corp_v_Howe_merits_1996-03-19.md",
-      "sha256": "60fd3dddd79ff4a6ec6e6b9eeb65df796c6d54878cecfcba94d9d8ae50b3bfe8",
+      "sha256": "ba056d09f0d37236aba3746e33608771eeda499bc28f92da2d06e95f4ee5493e",
       "complete_public_text_in_prior_snapshot": false
     },
     {
@@ -394,7 +394,7 @@
     },
     {
       "file": "United_States_v_Armstrong_merits_1996-05-13.md",
-      "sha256": "43926ba1c10abe4cc7ab66e8a634aba73d7600fb4f773d0b0372fe9bef701df3",
+      "sha256": "6e7844bc80d3ce4a1c8d0b938fe0bb9b01f9b56f9d0c8d2b11fe86de72581cf1",
       "complete_public_text_in_prior_snapshot": true
     },
     {
@@ -479,7 +479,7 @@
     },
     {
       "file": "Whren_v_United_States_merits_1996-06-10.md",
-      "sha256": "f0fd2220903ed2edf4cb685226b830b2660a32d64dd9c289ecabc655db8568f9",
+      "sha256": "43302212d21911e0f229f205457e69323ad86f7198fa8ecd841812f8b1037401",
       "complete_public_text_in_prior_snapshot": true
     },
     {

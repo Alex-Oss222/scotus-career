@@ -1057,7 +1057,7 @@ Source: state/holdings/criminal-procedure-investigations.md
 
 **Operative remedy or transition:** The Seventh Circuit is affirmed, with remand for preliminary prospective restraint against this program. No replacement program, suppression, damages, or invalidation of an independently justified traffic stop is ordered.
 
-**Treatment of earlier authority:** Whren v. United States preserves action on actual probable cause despite an officer's further motive; it does not provide authority for a suspicionless program. Chandler v. Miller requires an adequate actual justification without a universal checklist. Michigan Department of State Police v. Sitz and United States v. Martinez-Fuerte retain their highway-safety and border-control rules in their settings. Delaware v. Prouse does not make systematic operation independently sufficient. Bond v. United States distinguishes lawful presence from authority for a further intrusion and supplies no new checkpoint-purpose rule.
+**Treatment of earlier authority:** Whren v. United States makes action on actual probable cause presumptively reasonable despite an officer's further motive; it does not provide authority for a suspicionless program. Chandler v. Miller requires an adequate actual justification without a universal checklist. Michigan Department of State Police v. Sitz and United States v. Martinez-Fuerte retain their highway-safety and border-control rules in their settings. Delaware v. Prouse does not make systematic operation independently sufficient. Bond v. United States distinguishes lawful presence from authority for a further intrusion and supplies no new checkpoint-purpose rule.
 
 ## Verbatim opening Holdings selection: Ferguson v. City of Charleston, 532 U.S. 67
 

@@ -54,7 +54,7 @@ No innocence, race, discriminatory intent, ineffective assistance, juror mental 
 | `entering-law/OT_1993CHUNK6_CURRENT_PUBLIC_AUTHORITY.md`, Schiro and Victor/Sandoval public modules | `1ee6ce93b9585e577a75ffdf32800ee20dfee88a3677d8772746787e382e2a5d` |
 | `entering-law/OT_1993CHUNK6_JUNE13_UPDATE.md`, Farmer and Nichols public modules | `35c62c888b594dff950a5b259fee536e54d430ab4c8e8d20a1f2b443f911efc9` |
 | `../OT1992/output/OT_1992CHUNK2.md`, complete Herrera and Graham entries | `442c2219a77d303da691e399adc18051cad37372373eb08d85818370c25889d7` |
-| `../OT1992/output/OT_1992CHUNK9.md`, complete Johnson entry | `40a914c585ad9ed9998cd8ea7e5ffb67b40e354d6de6432356c85ec60b5e0430` |
+| `../OT1992/output/OT_1992CHUNK9.md`, complete Johnson entry | `1780e9ae2d11b5af49d27624e4e22820b4fb4bd8ff25c80626bff7436da20b92` |
 | `sources/OT_1993CHUNK6/romano-supplement/Callins_v_Collins_510_US_1141_1159_LOC.txt`, complete official-report extraction | `3cd4927c8047795511401d1abca2a13f52a9a6b957e497ca3f7763d32406c4e5` |
 | Corresponding bounded official-source PDF, identity verification | `1a573859306a0ad7754cc77b38c1a6261d63ee5f3c01c891bbcd560ee7b7c8a0` |
 

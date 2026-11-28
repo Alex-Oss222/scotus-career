@@ -375,13 +375,13 @@ For the other questions in Ohio v. Robinette, No. 95-891, decided November 18, 1
 
 ##### Objective legality during and after a traffic stop
 
-**Holding:** An officer's uncommunicated investigative motive or private decision to issue only a warning does not invalidate an objectively lawful traffic stop or an exit order while lawful traffic business is being completed. Once that justification ends, further detention requires independent legal grounds; the court must examine the objective circumstances to determine whether the person could terminate the encounter, and return of a license is neither an automatic end of seizure nor an automatic license to continue it.
+**Holding:** An officer's uncommunicated investigative motive or private decision to issue only a warning does not by itself invalidate a traffic stop lawful at its inception under Whren's presumption-and-rebuttal framework or an exit order while lawful traffic business is being completed. Once that justification ends, further detention requires independent legal grounds; the court must examine the objective circumstances to determine whether the person could terminate the encounter, and return of a license is neither an automatic end of seizure nor an automatic license to continue it.
 
 **Proposition-level authority:** O'Connor's Part II.A concerning motive and the exit order has six joins: O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer. Part II.B concerning continued detention has those six plus Stone-Zsela.
 
 **Limits and questions not reached:** The actual encounter remains for application to supported historical facts. Ornelas is not extended into a general appellate-review rule for every consent issue.
 
-**Treatment of earlier authority:** Whren's objective initial-stop rule and independent duration limits remain intact; Mimms is confined to lawful traffic business. Bostick's actual-circumstances inquiry is applied. Ornelas is not extended into a general rule for all consent issues.
+**Treatment of earlier authority:** Whren's presumption and objective rebuttal govern the initial stop's legality, and its independent duration limits remain intact; Mimms is confined to lawful traffic business. Bostick's actual-circumstances inquiry is applied. Ornelas is not extended into a general rule for all consent issues.
 
 ##### No indispensable federal release warning; voluntary consent and attenuation remain distinct
 

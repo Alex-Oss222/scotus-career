@@ -21233,7 +21233,7 @@ For the tying rule in United States v. Microsoft Corp., January 22, 2002, lower-
 
 **Treatment of earlier authority:**
 
-- Mertens v. Hewitt Associates, 508 U.S. 248: its traditional-equitable-category construction controls; neither its compensation exclusion nor preserved genuine monetary equity is displaced.
+- Mertens v. Hewitt Associates, 508 U.S. 248: its trust-law equitable-category construction controls; neither its exclusion of general compensation nor its recognition of surcharge against fiduciaries and of knowing-participation restoration is displaced.
 - Harris Trust and Savings Bank v. Salomon Smith Barney Inc., 530 U.S. 238: equitable recipient relief remains available on its actual predicates and defenses; it supplies neither this missing property connection nor a universal tracing formula.
 - Varity Corp. v. Howe, 516 U.S. 489: appropriate individual equity remains within statutory categories and ordinary adequate-remedy limits.
 

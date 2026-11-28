@@ -1,6 +1,6 @@
 # OT1993 chunk 1 — final reconciliation validation
 
-**Final aggregate:** `OT_1993CHUNK1_RECONCILED.md`, 79,747 bytes, SHA256 `ca1c2180b649db9fbf0b330c6b4941192212ab4ebb991d9b098d55d36047191b`. Freeze and runtime copies are byte-identical. The runtime draft was replaced; this is the first authoritative full freeze.
+**Final aggregate:** `OT_1993CHUNK1_RECONCILED.md`, 79,747 bytes, SHA256 `d6a4957c50bcb639cd002417621a6067cd703554f061bc81d1474bb7a46874fc`. Freeze and runtime copies are byte-identical. The runtime draft was replaced; this is the first authoritative full freeze.
 
 **Final dependency addendum:** `OT_1993CHUNK1_RECONCILED_SASSOWER_DAY_ADDENDUM.md`, 5,213 bytes, SHA256 `f152dfd69c7181ee76bc978ead75e2dc84ab7cf7bf9f9664123785dadf66782f`. Freeze and runtime copies are byte-identical. It follows the actual bounded Day public-law copy and clean `OT_1993CHUNK1_SASSOWER_DAY_REFRESH.md`, and satisfies the formerly pending dependency. Earlier validation statements deferring the aggregate or Sassower describe the earlier stage and are superseded by this validation and addendum.
 

@@ -10,7 +10,7 @@
       "stage": "COMMITMENTS",
       "case": "Atwater v. City of Lago Vista",
       "file": "OT_2000CHUNK5_COMMITMENTS_ATWATER_REFRESH.md",
-      "sha256": "da4bcf76f219813df45bb5f4da09de7bee80be690f057c6c9d87fb52f086b663"
+      "sha256": "5446f55e09bb1b1271caa4c836959bccb509f08a8f7a8ba3a3198a4b04b05256"
     },
     {
       "stage": "COMMITMENTS",
@@ -88,7 +88,7 @@
       "stage": "RECONCILED",
       "case": "Atwater v. City of Lago Vista",
       "file": "OT_2000CHUNK5_RECONCILED_ATWATER_REFRESH.md",
-      "sha256": "6a03c539fc890308fd4a62cb4b17ca1dcfe4269d2843010cc00b1736fa1b149d"
+      "sha256": "ab1d44d78048387818e6dca8115ddae6683a3e53122f2c0a8bc734a92c7e233f"
     },
     {
       "stage": "RECONCILED",

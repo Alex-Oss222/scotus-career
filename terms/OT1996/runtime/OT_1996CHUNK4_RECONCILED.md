@@ -422,7 +422,7 @@ Read all eight decisions in `../entering-law/OT_1996CHUNK4_FEB18_PUBLIC_DELTA.md
 
 **Final readiness:** Source validation, independent model revalidation, actual preceding-date law review and historical reconciliation are complete for the threshold-only disposition specified here. No source or chronology blocker remains for that disposition. A future merits adjudication requires a lawful threshold determination, not an invented waiver or automatic import of these conditional views. Assembly must not copy the provisional merits propositions as current holdings, count conditional joins, or describe this result as an Ex Post Facto merits victory. Final Stone compatibility and assignments remain outside this context.
 
-<!-- frozen-part: OT_1996CHUNK4_RECONCILED_B.md; sha256: 2baeb8e67edd1664fa4cc95f12b9d4328ae5d2536467e81d102e925b1985a02d -->
+<!-- frozen-part: OT_1996CHUNK4_RECONCILED_B.md; sha256: d66c940595698caf360a62bbbbc66abe7394ccb46992f679881afa0cd8ce7d0e -->
 
 # OT1996 chunk 4 — reconciled non-Stone commitments B
 
@@ -480,10 +480,10 @@ Mimms supplies the safety/incremental-intrusion comparison; passengers can prese
 |---|---|---|
 | Stevens | Affirm; no automatic passenger-exit authority. Mimms dissent, Bostick dissent and simulated Robinette dissent support requiring objective circumstances for the added command. | His historical dissent, including 416 n.1, confirms both the rule objection and inability to concur on the unpreserved alternative. The existence of observed nervousness is not denied. No changed premise warrants departure. |
 | O'Connor | Reverse/remand; join the bounded safety rule and limits. Her Bostick and Robinette positions distinguish justified compulsory measures from consent. | Historical full join confirms that limited exit authority does not depend on calling the command voluntary. No categorical continued detention or search. |
-| Scalia | Reverse/remand; full bounded rule. His Whren/Robinette joins support objective authority and administrability within the actual intrusion. | Historical full join confirms the Mimms extension. Ornelas review disagreement does not alter this legal question. |
-| Kennedy | Affirm; require an objective circumstance supporting the passenger command. His Whren and Robinette joins accept traffic authority without arbitrary added control; Bostick remains sensitive to actual restraint. | His full join in Stevens's historical dissent and his own dissent specifically require reasoned justification for commanding an innocent passenger, while preserving practical safety latitude. No preservation escape or automatic search ground. |
+| Scalia | Reverse/remand; full bounded rule. His Whren dissent join and Robinette joins support objective authority and administrability within the actual intrusion. | Historical full join confirms the Mimms extension. Ornelas review disagreement does not alter this legal question. |
+| Kennedy | Affirm; require an objective circumstance supporting the passenger command. His Whren dissent join and Robinette joins accept traffic authority without arbitrary added control; Bostick remains sensitive to actual restraint. | His full join in Stevens's historical dissent and his own dissent specifically require reasoned justification for commanding an innocent passenger, while preserving practical safety latitude. No preservation escape or automatic search ground. |
 | Souter | Reverse/remand; full bounded rule. Bostick/Robinette permit objectively justified safety practices without extinguishing later liberty. | Historical full join supports this result while the historical Court expressly reserves forcible continued detention. |
-| Thomas | Reverse/remand; full bounded rule. His Whren opinion separates objective initial authority from motive and execution limits. | Historical full join confirms the limited extension; traffic probable cause supplies no general search authority. |
+| Thomas | Reverse/remand; full bounded rule. His Whren dissent separates objective initial authority from motive and execution limits. | Historical full join confirms the limited extension; traffic probable cause supplies no general search authority. |
 | Ginsburg | Reverse/remand; full bounded rule, preserving genuinely available independent Maryland law. Her Robinette separate position protects that distinction. | Historical full join accords with the federal exit rule. No need to turn federal correction into a ruling on every state-law ground. |
 | Breyer | Reverse/remand; full bounded rule. His Whren/Robinette joins support practical safety measures subject to distinct duration limits. | Historical full join confirms the same balance; utility alone supplies no prolonged custody or frisk rule. |
 
@@ -649,7 +649,7 @@ No material historical departure is retained. The current common explanation doe
 4. **Source/scope boundaries:** The precise source limits in the clean validation and frozen model remain. No missing original proves litigant waiver or default. No new record premise was reconstructed, and the limited holdings do not require inventing one. Expanded Brown claims, a stronger Wells remedy, an exact predecessor-statute census, disputed original Schenck facts or a new Dunn transaction classification would require the targeted clean work already identified.
 5. **Durability:** This file is a separate preserved reconciliation product. It changes no opening tracker, approved brief, frozen provisional commitment, adjudication or public render. It remains insufficient by itself to certify final chronology, Stone compatibility, assignments or a chunk commitment.
 
-<!-- frozen-part: OT_1996CHUNK4_RECONCILED_B_FEB18_REVALIDATION.md; sha256: 5eb5a50f4ba77bd63774791ebf78ceadb4966e7d4166f070e953ed99bae7c2e1 -->
+<!-- frozen-part: OT_1996CHUNK4_RECONCILED_B_FEB18_REVALIDATION.md; sha256: e589f99a3563a18bb80af365b2ab2324ee94c325c46324d73fb8d0ebe35d87ec -->
 
 # OT1996 chunk 4 — B reconciliation revalidated through February 18
 
@@ -663,8 +663,8 @@ Read the entire clean modeling addendum and mechanically copied `entering-law/OT
 
 Read-byte identifiers (SHA-256):
 
-- Original reconciled B: `2BAEB8E67EDD1664FA4CC95F12B9D4328AE5D2536467E81D102E925B1985A02D`.
-- Clean February 18 model addendum: `91E027D1ACD46C60F270352D5F62C8AA6E20FF06D733FDE49ECBE5C2960F2D21`.
+- Original reconciled B: `D66C940595698CAF360A62BBBBC66ABE7394CCB46992F679881AFA0CD8CE7D0E`.
+- Clean February 18 model addendum: `7F46105EA766ABB64E2219CE5F8243E4713FBBD758B8375A8BB0EDC8DAB199C8`.
 - February 18 public delta: `1EA1784EB10ACE37ECF06281871E0BA8E9ED3F03E235D4CA1AAE931604B32A55`.
 
 No new neutral fact is supplied or inferred. No current-matter Stone material, assembly material, original brief, raw Record, ledger or locked top-level directory was accessed. Public Stone writings in the authorized earlier-law delta were read only at their published precedential status. No raw Record link was followed, no Git command was run, and no new source passage was manually transcribed. This document makes no assignment or final Stone compatibility decision.
@@ -710,7 +710,7 @@ Wilson, Regents and Schenck may proceed from the original reconciled handoff plu
 
 Brown, Dunn and Wells retain their outstanding later-effective-law gates and all original assembly conditions; they are not certified through their decision dates here. If the remaining actual public law changes a material premise, the affected clean modeling and historical reconciliation must be renewed. No new historical departure or factual blocker arises from the February 18 delta. The original reconciled Schenck corrections remain controlling for assembly.
 
-<!-- frozen-part: OT_1996CHUNK4_RECONCILED_B_FEB19_REVALIDATION.md; sha256: ac245c27b4ea41ef110f1c0f7a6b95aa63732ff083b27735ea0b33bd2a2a7359 -->
+<!-- frozen-part: OT_1996CHUNK4_RECONCILED_B_FEB19_REVALIDATION.md; sha256: 6cbff3154419fc135479219f71bc88e45d614e1e975951299eeb06b541238584 -->
 
 # OT1996 chunk 4 — later B reconciliation revalidated against February 19 law
 
@@ -726,7 +726,7 @@ Independently checked SHA-256 identifiers:
 
 - `entering-law/OT_1996CHUNK4_AUER_PUBLIC_DELTA.md`: `12A3B6C362B88A60A94DA1FEF5CDF9B3D268D9DF069BC55D5F23AAFED648AF05`.
 - `entering-law/OT_1996CHUNK4_FEB19_PUBLIC_DELTA.md`: `4FE9DA6E0C5D19850B27E33B2A045B63CB4BC82178CBF170D1DBD4697EB88675`.
-- `freeze/OT_1996CHUNK4_COMMITMENTS_B_FEB19_REVALIDATION.md`: `B2A530A521807DE36CC277D128ADF4B064CA3434DE12C5C47BE37123A1B7C2B4`.
+- `freeze/OT_1996CHUNK4_COMMITMENTS_B_FEB19_REVALIDATION.md`: `690A934E9A02EDC38AC5D574F8BBC2FAC295772A2541EA322CE77E7DE5B510E7`.
 
 The original reconciliation's completed historical full-read receipt and Justice-specific source grounds remain incorporated. No new historical research or neutral factual premise was needed. No raw Record link, ledger, original brief, present-case Stone material, assembly material or locked top-level directory was accessed. Earlier public Stone writings were considered only at their published precedential status. No Git operation occurred. This addendum writes no assignment or Decision Record and preserves all earlier freezes.
 

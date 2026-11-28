@@ -27,12 +27,12 @@ Each packet supplies neutral alternatives and Justice-specific date-eligible aut
 | `terms/OT1998/freeze/OT_1998CHUNK10_A_WEST_FACTS_ONLY.md` | `14926b6333887d5939c23420ac1a717452a9282caa52c0ecd06f647cee4035ad` | all sanitized text |
 | `terms/OT1998/freeze/OT_1998CHUNK10_A_GRUPO_FACTS_ONLY.md` | `54caeffb9c54b00e9470a3f1280e05b8c879fedd2b4a2352c07aa57ef9a442a6` | all sanitized text |
 | `terms/OT1998/freeze/OT_1998CHUNK10_B_JONES_FACTS_ONLY.md` | `ab2dd2e20a996094faf09978946498ab731a4e0115e76cf7ad01ed929c1a8fae` | all sanitized text |
-| `terms/OT1998/entering-law/OT_1998CHUNK10_A_SELECTED_HOLDINGS.md` | `fb07dd6d674f7ac0704bb4867dfbb8e87eca03af80398dbc4954a09c0d346a21` | West: Lane, McCarthy, Landgraf and bounded Franklin; Grupo: Mertens |
-| `terms/OT1998/entering-law/OT_1998CHUNK10_A_STANDARDS.md` | `57cf5ecb2183e62c1437ef14128540df8ca4d0ecf2d33253416549bb819b7606` | West: 1991 Act, Lane; Grupo: ERISA remedies; roster |
-| `terms/OT1998/entering-law/OT_1998CHUNK10_A_PRIOR_PUBLIC.md` | `b0148d9a029d3f963adbbc213812e9dcda5e08f1e4d9c7ac86770f29de46700d` | Lane and Mertens entries only |
+| `terms/OT1998/entering-law/OT_1998CHUNK10_A_SELECTED_HOLDINGS.md` | `c9901968e4fc1f44837b9bf4a62c1cb5b2ecf9b236163b5ed4e7a0e75418eaff` | West: Lane, McCarthy, Landgraf and bounded Franklin; Grupo: Mertens |
+| `terms/OT1998/entering-law/OT_1998CHUNK10_A_STANDARDS.md` | `fa33eb30c44297962f4dbc0b8577987c6f58646a042bbb679f6b9ce70a66e15c` | West: 1991 Act, Lane; Grupo: ERISA remedies; roster |
+| `terms/OT1998/entering-law/OT_1998CHUNK10_A_PRIOR_PUBLIC.md` | `6ae6c8082cc67aaf00d2502afaaa01592d24adf5867a297906847f93f6c006ee` | Lane and Mertens entries only |
 | `terms/OT1998/entering-law/OT_1998CHUNK10_A_CURRENT_LAW.md` | `ac410b24bf336374f6f3976abf383e57b8f6f957d0e963b1c1c63387b512ee32` | Blue Fox law and procedure; headings/navigation inspected; no June14 peer law applied to West |
 | `terms/OT1998/entering-law/department_of_the_army_v_blue_fox_merits_1999-01-20.md` | `a2b94676eadbd32d4bee5d8796f2ada29d9e9a63f4d0fa7ee5d98da0bd661501` | all bounded public text |
-| `terms/OT1998/entering-law/OT_1998CHUNK10_B_SELECTED_HOLDINGS.md` | `a56f62277428aa3e3d4e8854e824c6b9b3751666b2ced081480fd2c3b8172d56` | Olano, Johnson, Tuilaepa, Simmons, Shannon, Sochor, Espinosa, Stringer |
+| `terms/OT1998/entering-law/OT_1998CHUNK10_B_SELECTED_HOLDINGS.md` | `f26a427fc15fff24e294debb122bb75fcbbc641b235e3d6ddef3fc80cf485046` | Olano, Johnson, Tuilaepa, Simmons, Shannon, Sochor, Espinosa, Stringer |
 | `terms/OT1998/entering-law/OT_1998CHUNK10_B_STANDARDS.md` | `b14d3343a8ece3faadaf6ca51175c8da366fad33213de14d531de037f57b8dd3` | five exact Jones-relevant Standards entries |
 | `terms/OT1998/entering-law/OT_1998CHUNK10_B_CURRENT.md` | `09c290b7b0d69af840b6ee71e596d36b4ff07c9606465d00e3cdeaf850547be5` | Neder, March carjacking Jones and institutional paragraph |
 | `terms/OT1998/workspace/neutral-projection.md` | `0bd7fd4d96afbacb46aa80f762325293de4f57c10177eebc33b3d581e583dc50` | opening chronology, selected navigation/public summaries, roster and Lilly remedial component; never raw Records/ledger |
@@ -55,7 +55,7 @@ Each packet supplies neutral alternatives and Justice-specific date-eligible aut
 | Packet | SHA256 | Status |
 |---|---|---|
 | [OT_1998CHUNK10_WEST_VALIDATED_NEUTRAL.md](OT_1998CHUNK10_WEST_VALIDATED_NEUTRAL.md) | `cca2b20450f2308ec5fc01491050692361a8b0b2295250c71e6096ba37e44cb1` | ready; released |
-| [OT_1998CHUNK10_GRUPO_VALIDATED_NEUTRAL.md](OT_1998CHUNK10_GRUPO_VALIDATED_NEUTRAL.md) | `fd8f60f4d365f539d250c53ab7b74d7cbe8321765825f8c8ec80cb05a5326f7f` | ready; released |
+| [OT_1998CHUNK10_GRUPO_VALIDATED_NEUTRAL.md](OT_1998CHUNK10_GRUPO_VALIDATED_NEUTRAL.md) | `74cb08cba8761317192104da9980f186baaeb88d27c32e55277ec012af89475f` | ready; released |
 | [OT_1998CHUNK10_JONES_VALIDATED_NEUTRAL.md](OT_1998CHUNK10_JONES_VALIDATED_NEUTRAL.md) | `670d7a8d5918ee83e9531eb3e9f3166967ec7d5cf6c2f113bfb2157885c154e6` | ready; released |
 
 All three packet local source links were checked and resolve. Deterministic checks verify paths and fingerprints only; they do not decide legal meaning or model commitments.

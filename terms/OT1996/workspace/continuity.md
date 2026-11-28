@@ -464,15 +464,15 @@ Authority: [Record](../records/Ohio_v_Robinette_merits_1996-11-18.md).
 
 ##### II. Objective legality during and after a traffic stop
 
-**Holding and operative rule:** An officer's uncommunicated investigative motive or private decision to issue only a warning does not invalidate an objectively lawful traffic stop or an exit order while lawful traffic business is being completed. Once that justification ends, further detention requires independent legal grounds; the court must examine the objective circumstances to determine whether the person could terminate the encounter, and return of a license is neither an automatic end of seizure nor an automatic license to continue it.
+**Holding and operative rule:** An officer's uncommunicated investigative motive or private decision to issue only a warning does not by itself invalidate a traffic stop lawful at its inception under Whren's presumption-and-rebuttal framework or an exit order while lawful traffic business is being completed. Once that justification ends, further detention requires independent legal grounds; the court must examine the objective circumstances to determine whether the person could terminate the encounter, and return of a license is neither an automatic end of seizure nor an automatic license to continue it.
 
 **Authority:** Part II.A's rule concerning motive and the exit order has six direct joins: O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer. Part II.B's distinct continued-detention rule has those six plus Stone-Zsela, seven. Stone-Zsela supplies no additional reason for Part II.A.
 
-**Controlling explanation:** The Court holds that an objectively justified beginning and a lawful continuation are separate questions. Whren rejects subjective purpose as an extra condition for an ordinary probable-cause traffic stop while preserving limits on manner, scope and duration. Mimms permits an exit order during a lawful traffic stop without a separate justification for that direction. The Ohio court could not deem the direction unlawful merely because the deputy privately intended a warning or hoped to ask unrelated questions.
+**Controlling explanation:** The Court holds that an objectively justified beginning and a lawful continuation are separate questions. Whren makes an ordinary probable-cause traffic stop presumptively reasonable, holds that motive alone does not rebut that presumption, and preserves limits on manner, scope and duration; the initial stop must satisfy that framework, and the unchallenged speeding stop here raised no objective showing of instrumental use. Mimms permits an exit order during a lawful traffic stop without a separate justification for that direction. The Ohio court could not deem the direction unlawful merely because the deputy privately intended a warning or hoped to ask unrelated questions.
 
 That correction does not establish that detention lawfully continued through the later consent request. Bostick requires an objective assessment of whether the person could decline the request or terminate the encounter. The returned license and completed warning bear on that inquiry, but so do the immediacy and actual wording of further questioning, tone, positioning and continuity of official authority. Neither the officer's secret willingness to permit refusal nor Robinette's subjective impression alone decides the seizure question. Supported trial findings matter; the Court does not replace the record with a categorical conclusion in either direction. Ornelas's distinction between historical fact and ultimate constitutional sufficiency remains applicable within its decided scope; this decision announces no universal appellate-review rule for every mixed or consent question. The encounter's classification remains for proper application below.
 
-**Precedent treatment:** Whren's objective initial-stop rule and independent duration limits remain intact; Mimms is confined to lawful traffic business. Bostick's actual-circumstances inquiry is applied. Ornelas is not extended into a general rule for all consent issues.
+**Precedent treatment:** Whren's presumption and objective rebuttal govern the initial stop's legality, and its independent duration limits remain intact; Mimms is confined to lawful traffic business. Bostick's actual-circumstances inquiry is applied. Ornelas is not extended into a general rule for all consent issues.
 
 ##### III. No indispensable federal release warning; voluntary consent and attenuation remain distinct
 
@@ -502,7 +502,7 @@ Royer and Brown keep consent's voluntariness separate from its causal independen
 
 - **Michigan v. Long:** Applies the presumption permitting review of interwoven federal grounds absent a plain independent-state-law basis.
 - **Arizona v. Evans:** Retains that jurisdictional rule and the distinction between correcting a federal rule and deciding its unresolved factual application; its court-record-error exclusion rule is not extended here.
-- **Whren v. United States:** Applies objective legality to the initial traffic business and preserves independent limits on manner, scope and duration.
+- **Whren v. United States:** Applies its presumption of objective legality to the unchallenged initial stop and preserves independent limits on manner, scope and duration.
 - **Pennsylvania v. Mimms:** Applies the permission to order a driver out during a lawful stop; no indefinite post-stop detention authority follows.
 - **Florida v. Bostick:** Requires assessment of the actual objective capacity to decline requests or terminate the encounter, without a categorical seizure or release rule.
 - **Ornelas v. United States:** Preserves its historical-fact/ultimate-sufficiency distinction within its actual scope; no general review rule for all consent questions is added.
@@ -4147,7 +4147,7 @@ The employees allege that the transfer of cargo-handling work and their discharg
 
 **Controlling explanation:** The court of appeals dismissed the welfare theory because the benefits did not vest. Rejection of that ground does not decide every alternative argument the lower courts have not addressed. Whether a participant already eligible for the particular welfare benefit can invoke interference with attainment requires first consideration below. So do properly preserved questions concerning specific intent, eligibility, causation, mixed motives or business justification, proper defendants and relief. The Court adopts no new business-necessity test or presumption that a benefits-reducing transfer is unlawful.
 
-Varity's function-specific fiduciary holdings and qualified individual-equity rule do not resolve this independent §510 theory. Mertens preserves the limits of the remedy actually authorized by §502; statutory coverage does not itself authorize compensatory damages. No employer or administrator status automatically establishes liability, and the circuit's nonemployer-conspiracy footnote is not adopted as a new holding of this Court.
+Varity's function-specific fiduciary holdings and qualified individual-equity rule do not resolve this independent §510 theory. Mertens preserves the limits of the remedy actually authorized by §502; statutory coverage does not itself authorize compensatory damages, and trust restoration requires its own equitable predicates. No employer or administrator status automatically establishes liability, and the circuit's nonemployer-conspiracy footnote is not adopted as a new holding of this Court.
 
 The pension claim's reinstatement, Railroad Retirement Act exclusion, association-standing ruling, conditional request for individual class representatives, FELA and Rule 23 rulings, and fee-sanction remand are not independently reopened. The limitations contention declined below because it was first raised at appellate argument is not revived. These boundaries follow the granted welfare question; they do not affirm or reverse unrelated lower rulings by implication.
 
@@ -5539,7 +5539,7 @@ Discovery must address the relevant connection, not become a wholesale inquiry i
 - **Tumey v. Ohio:** Applied for the constitutional requirement of a neutral adjudicator; no case-specific violation is yet found.
 - **Ward v. Village of Monroeville:** Applied for that requirement notwithstanding ordinary assumptions of judicial regularity.
 - **Aetna Life Insurance Co. v. Lavoie:** Applied to distinguish a disqualifying judicial interest or bias from an unproved allegation; the ultimate constitutional issue remains open.
-- **United States v. Armstrong:** Its source- and claim-sensitive preliminary inquiry is respected; the selective-prosecution test and comparator requirement do not replace Rule 6.
+- **United States v. Armstrong:** Its source- and claim-sensitive preliminary inquiry is respected; the selective-prosecution test and comparator showing do not replace Rule 6.
 - **Liteky v. United States:** Its federal §455(a) appearance rule is distinguished from the constitutional standard for relief from a state conviction; appearance alone does not resolve this habeas claim.
 
 #### Law After Decision

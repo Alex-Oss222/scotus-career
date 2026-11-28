@@ -75,7 +75,7 @@ The [initial commitments](../freeze/OT_1993CHUNK1_COMMITMENTS.md) and [unaffecte
 | O'Connor | Remand under the provides-for construction to assess the 1977 amendment; no blanket exemption or agency immunity | Reconciliation corrected the provisional outright exemption; joins Thomas's limited dissent |
 | Scalia | Affirm on enacted component limitation and permissible statutory range of the agency reading | Full join; no legislative-history premise required; history retained |
 | Kennedy | Contract-specific remand under the future-guarantee reading and amendment inquiry | Reconciliation narrowed the provisional exemption; joins Thomas's dissent |
-| Souter | Affirm under component text, risk distinction and limited scope of Mertens | Full join; history retained |
+| Souter | Affirm under component text, risk distinction and the bounded trust-remedy scope of his Mertens concurrence | Full join; history retained |
 | Thomas | Remand under provides-for, while rejecting categorical general-account exclusion and agency reading | Reconciliation changed provisional affirmance: generic textual preference did not answer the alternative reading on unchanged facts; authors limited dissent |
 | Ginsburg | Affirm under text, actual guarantee distinction and United Benefit | Authors Court opinion; historical result retained; no earlier personal Supreme Court opinion is invented |
 

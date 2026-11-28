@@ -12,10 +12,10 @@ Applicable rules: Engine §3C's isolated reconciliation boundary; §§5–7's pr
 
 | Input or rule file | SHA-256 |
 |---|---|
-| [Final neutral packet](OT_1997CHUNK12_NEUTRAL_BREWSTER_AUG17.md) | `C3A2D933BC48FAAE6542C1BD3FDE1F253671E101498A613C3DFADBC02EC395C7` |
-| [Independent commitments](OT_1997CHUNK12_COMMITMENTS_BREWSTER.md) | `2DD3E67E581788F9C14BFCF5D8C7BBFA6A72D0A23F283BFEFC63E23BD7CC57C7` |
+| [Final neutral packet](OT_1997CHUNK12_NEUTRAL_BREWSTER_AUG17.md) | `1FC4763144BB5CEA9F689C8A1AC522F7B8E65721EB3469C49542BE1952B46AC6` |
+| [Independent commitments](OT_1997CHUNK12_COMMITMENTS_BREWSTER.md) | `5E1BE02565670DF8F0574C13E86F7D2F7A4D406072A9A74C4F3B94C51C3C001B` |
 | [Clean scoped comparator](OT_1997CHUNK12_COMPARATOR_BREWSTER.md) | `B25F1AA099FAC0AACA3B50B5CEFB355B33B501A081731C472451C1DFFF71CCC0` |
-| [August 17 entering law](../entering-law/OT_1997CHUNK12_BEFORE_1998-08-17.md) | `905786F4AB48F25A898013E3F096CD4C1C88A5DD60DDA0517879CC22C4EB504C` |
+| [August 17 entering law](../entering-law/OT_1997CHUNK12_BEFORE_1998-08-17.md) | `A12A968E567656F7995AD572D2449E474E9F44598A805519A485BE94CE15589C` |
 | [Public.Resource lower text](../research/chunk12_neutral_lower/brewster.txt) | `1AD8AE8FCD56CBFEC94B0F04FCEC1288CE3B47A3EB31F26B0223A0485C8AFC0A` |
 | [CAP lower text](../research/chunk12_neutral_lower/brewster_cap.txt) | `5F3ECB804BC5D6D5597E828188028BB2E9349445057A693EFFDD7FE801F01025` |
 | AGENTS.md | `A9B88CB515E8F305D7C85DEEE83777701C5F09BFDE66AE660A843E685FA49881` |
@@ -112,8 +112,8 @@ Read the final frozen neutral packet, the relevant holdings, standards and publi
 
 | Authorized input | SHA-256 checked before modeling |
 |---|---|
-| [Final Brewster neutral packet](OT_1997CHUNK12_NEUTRAL_BREWSTER_AUG17.md) | `C3A2D933BC48FAAE6542C1BD3FDE1F253671E101498A613C3DFADBC02EC395C7` |
-| [August 17 entering law](../entering-law/OT_1997CHUNK12_BEFORE_1998-08-17.md) | `905786F4AB48F25A898013E3F096CD4C1C88A5DD60DDA0517879CC22C4EB504C` |
+| [Final Brewster neutral packet](OT_1997CHUNK12_NEUTRAL_BREWSTER_AUG17.md) | `1FC4763144BB5CEA9F689C8A1AC522F7B8E65721EB3469C49542BE1952B46AC6` |
+| [August 17 entering law](../entering-law/OT_1997CHUNK12_BEFORE_1998-08-17.md) | `A12A968E567656F7995AD572D2449E474E9F44598A805519A485BE94CE15589C` |
 | [Current-Term Neutral Projection](../workspace/neutral-projection.md) | `8827077E16081509F3146ADE77EF59F766B58256F1E1EA5E0A03853925E7263E` |
 
 The current-case historical Supreme Court disposition, comparator, reconciliation, controlled Stone position, briefs, private Records, audits and other commitments were not opened. Earlier public holdings and published separate positions appearing inside the authorized snapshot were distinguished from controlling law. No Git command or subprocess was used. No top-level `stone/` path was accessed, listed or searched. New files were confined to this term. This is a durable frozen file, not a claim that a repository commit was made.

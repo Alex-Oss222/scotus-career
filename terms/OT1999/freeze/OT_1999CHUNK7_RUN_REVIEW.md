@@ -54,7 +54,7 @@ After the twelve new opinions, the total is 79: Stone-Zsela and Stevens have eig
 
 ## Projection and integration checks
 
-- All twelve Records have the four required opening labels, an ISO event date, one Public Projection and exactly the eleven public blocks in order. Their internal controlling holdings and public Holdings blocks are identical. Every checked controlling explanation remains within the ordinary 350-word ceiling; even the review's conservative counts including adjoining limits remain at or below 334.
+- All twelve Records have the four required opening labels, an ISO event date, one Public Projection and exactly the eleven public blocks in order. Their internal controlling holdings and public Holdings blocks are identical. Every checked controlling explanation remains within the ordinary 350-word ceiling; the review's conservative counts including adjoining limits remain at or below 359.
 - Each event in the generated [Render Input](../render-inputs/OT_1999CHUNK7.md) is exactly its source Record's complete Public Projection. The twelve identities, order, May 22–June 12 range and absence of stopped-matter metadata agree.
 - Each new Record appears once in the ledger and once as completed in the manifest. The manifest retains 104 scheduled rows; the ledger contains 88 source/event rows, comprising 84 Court events and four admitted sources.
 - Both workspace projections preserve the complete current holding, precedent-treatment, resulting-law, judgment/remedy and procedure blocks, with only heading depth normalized. Every material published noncontrolling position from the Records is preserved. The Court's law is not enlarged by those positions.

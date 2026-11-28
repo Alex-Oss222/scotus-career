@@ -61,7 +61,7 @@ The following SHA-256 values identify the actual authorized input and principal 
 - `runtime/OT_2004CHUNK5_NEUTRAL_C.md`: `90281847f044a0a507607fad37214c724c0add00e042203febe1b76e13e32995`
 - `entering-law/OT_2004CHUNK5_C.md`: `5690e997e256531c524874db9dda44f4f92017d4f8d4cb86d1dd4eda67ba30e7`
 - `entering-law/OT_2004CHUNK5_C_PUBLIC_PRIORS.md`: `6eca373cb1e0ef5472d400fff70d4a9497c7f1a9e478b90a679712e573b2a6da`
-- `entering-law/OT_2004CHUNK5_CURRENT_PUBLIC.md`: `c55562c025df67f565b67e99a026d3c9344e9a7a21d36ae8591abcbe216528d3`
+- `entering-law/OT_2004CHUNK5_CURRENT_PUBLIC.md`: `50e6b92c0b87106c34cf3d8b67e075aea3273a0d215d634237e6c288b563542c`
 - `entering-law/OT_2004CHUNK5_MARCH7_PUBLIC.md`: `913cbc1a9fb06d0693f5fedd521bf2b63b59a1b12e8e44267ac3972327019a3b`
 - `entering-law/OT_2004CHUNK5_MARCH22_PUBLIC.md`: `3bab61042ef010d826149b58a96ee8381a9e0032b21c2a455f0e42656f675a8a`
 - `workspace/neutral-projection.md`: `467c56f74eb24cd434076dfb14b630dde2e74ec260dbe49d8f845bd31f06a7c3`

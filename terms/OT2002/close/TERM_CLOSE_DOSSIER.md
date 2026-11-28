@@ -47,7 +47,7 @@ All 180 scheduled inventory rows are completed, implemented by 185 canonical Cou
 | [output/OT_2002CHUNK9.md](../output/OT_2002CHUNK9.md) (cross-check only) | `36dc691db38bdd4d9a9776b9a733d6334450e64a5a548b5f66ed3ddfcdaec986` |
 | [output/OT_2002CHUNK10.md](../output/OT_2002CHUNK10.md) (cross-check only) | `e9eaea026af4e43a74d27c4584722887434ee0638e30103cc0477a1e457ab791` |
 | [output/OT_2002CHUNK11.md](../output/OT_2002CHUNK11.md) (cross-check only) | `71a520735ba0625a2352edd05c8fcd1ca31be56564b0289b9d23af74cabd5e6e` |
-| [output/OT_2002CHUNK12.md](../output/OT_2002CHUNK12.md) (cross-check only) | `155bd06e68bb21f729372347eec8f03504ace5a1ca01dddc96862583f796c00c` |
+| [output/OT_2002CHUNK12.md](../output/OT_2002CHUNK12.md) (cross-check only) | `84a863e4e5c819ef1d0ef7ffae63f160124b4320a217722de59485127c9fdb80` |
 | [output/OT_2002CHUNK13.md](../output/OT_2002CHUNK13.md) (cross-check only) | `c8d84aea7cdb16611682017ef00f6b1f75d36448873f9c6e7ea8a5d2c5459ecd` |
 | [output/OT_2002CHUNK14.md](../output/OT_2002CHUNK14.md) (cross-check only) | `6ec5557372c95a5566a54995532f34f61c937c62a274b720643027df0fef6450` |
 | [output/OT_2002CHUNK15.md](../output/OT_2002CHUNK15.md) (cross-check only) | `df7117389beb9c42b9a70bcb85b202fbce92695edbf165b051d4f7b503a13a56` |
@@ -62,7 +62,7 @@ All 180 scheduled inventory rows are completed, implemented by 185 canonical Cou
 | [render-inputs/OT_2002CHUNK9.md](../render-inputs/OT_2002CHUNK9.md) | `db7fe24c23dd077dd2668122cc5433df2b4319434ea16c3f78abbdfc868c8060` |
 | [render-inputs/OT_2002CHUNK10.md](../render-inputs/OT_2002CHUNK10.md) | `936d38baa087cfb58526894a6f35506257c3970927fe771530bc009a8e0ecc40` |
 | [render-inputs/OT_2002CHUNK11.md](../render-inputs/OT_2002CHUNK11.md) | `26aa648bee0fe3564a7b2daf6df619821ec409df8c14cb9f948e00f0c1f26053` |
-| [render-inputs/OT_2002CHUNK12.md](../render-inputs/OT_2002CHUNK12.md) | `632d8787211215dda04bd29ecabacf071edd83ca13b257d015b9747b04fbf741` |
+| [render-inputs/OT_2002CHUNK12.md](../render-inputs/OT_2002CHUNK12.md) | `3da356bdd0fa5665370434f754a8348c8b9558e4ce7f7fa6cdbbd915246ac0c7` |
 | [render-inputs/OT_2002CHUNK13.md](../render-inputs/OT_2002CHUNK13.md) | `28425dca97d41159bc8a76f88b338e791ece84ec87c4b8f6bdfe0878ff61367b` |
 | [render-inputs/OT_2002CHUNK14.md](../render-inputs/OT_2002CHUNK14.md) | `775042f3be98fdbbe1c2f0213fbafc4cd6343cf367499f26463762ec57c92a53` |
 | [render-inputs/OT_2002CHUNK15.md](../render-inputs/OT_2002CHUNK15.md) | `7c6704faa3393aec5eb19855530a6dfe3cbaa095d3a866e1b16701078f000f68` |
@@ -226,7 +226,7 @@ The following 185 validated Records are the complete Court-event source set inco
 | 2003-06-09 | [Nguyen v. United States; Phan v. United States, Nos. 01-10873 and 02-5034](../records/Nguyen-v-United-States_merits_2003-06-09.md) | `c1bedc8035a595f080acb4acf6bb7ac241751d71d76a7540fcf3754f4f9d8f3d` |
 | 2003-06-09 | [Satellite Broadcasting & Communications Association v. FCC; judgment below 275 F.3d 337](../records/Satellite-Broadcasting-and-Communications-Association-v-FCC_merits_2003-06-09.md) | `739f18caefc866ade5ab9eb9b4f01fb4e4038b95f66168b5180bb922cf7c24d7` |
 | 2003-06-09 | [State v. Oakley; Wisconsin No. 99-3328-CR; 2001 WI 103, reconsideration 2001 WI 123.](../records/State-v-Oakley_merits_2003-06-09.md) | `3b72517ebd842380250299cdfdbed41e6a5371eb1d5af6af19a554466ff695ee` |
-| 2003-06-09 | [United States v. Suerte; Fifth Circuit No. 01-20626; district No. H-00-CR-659-1.](../records/United-States-v-Suerte_merits_2003-06-09.md) | `074433a905afccf15247522ff04be61e81c1a6db444aba1461774289448b9b8f` |
+| 2003-06-09 | [United States v. Suerte; Fifth Circuit No. 01-20626; district No. H-00-CR-659-1.](../records/United-States-v-Suerte_merits_2003-06-09.md) | `c44395a38f59ce23b9fe6553a55633503c1174c221960a30abf09cee6eb84e57` |
 | 2003-06-16 | [Bechhoefer v. United States Department of Justice, DEA; 209 F.3d 57; lower dockets 96-6229 and 01-6244.](../records/Bechhoefer-v-United-States-Department-of-Justice-DEA_dismissal_2003-06-16.md) | `3eef211bdcab0e2a9a2c5e40a24ce4288bea7144045873dd6045eb06a3816585` |
 | 2003-06-16 | [Center for Reproductive Law and Policy v. Bush; Second Circuit No. 01-6168; 304 F.3d 183](../records/Center-for-Reproductive-Law-and-Policy-v-Bush_merits_2003-06-16.md) | `77ad1ee99984d1dc1b0abc15ad133a11df53c297801fd0ebaad3f2a31b50a11f` |
 | 2003-06-16 | [Federal Election Commission v. Beaumont; No. 02-403; 539 U.S. 146.](../records/Federal-Election-Commission-v-Beaumont_merits_2003-06-16.md) | `c66ef32eb057571c900ae4f2259efdbde999d3557847303ad224fef0bcf361d0` |

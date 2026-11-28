@@ -15,7 +15,7 @@ The last check deliberately returns status 3, not a complete validation status: 
 
 ## Output and boundaries
 
-The generated [chunk Render Input](../render-inputs/OT_1997CHUNK12.md) has SHA-256 `52c7ba54e7a700de51827317e0cf78f71e787ccb937ef172b89534b9e08da8da`. It contains twelve completed events and no stopped entry. Public rendering is a separate task; no chunk-12 output render was created.
+The generated [chunk Render Input](../render-inputs/OT_1997CHUNK12.md) has SHA-256 `09e8812c9c2231079975c146175379caad05da83c8aca5a360114978976cad02`. It contains twelve completed events and no stopped entry. Public rendering is a separate task; no chunk-12 output render was created.
 
 Per-case frozen receipts preserve the neutral, independent-model, reconciliation and assembly boundaries. Stone entered each matching assembly only after the final reconciled handoff existed. Unrecovered original materials and exact procedural dates remain specifically bounded in the individual Records; absence of a research source was not treated as a litigant default.
 

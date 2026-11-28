@@ -73,7 +73,7 @@ The Chief is in the unanimous judgment coalition and assigns Souter. Souter’s 
 
 **Precedent treatment:**
 
-- Mertens v. Hewitt Associates, 508 U.S. 248 — the reviewed §502(a)(3) compensation limit remains; it does not bar benefits due under §502(a)(1)(B).
+- Mertens v. Hewitt Associates, 508 U.S. 248 — its trust-law limits on §502(a)(3) equitable relief remain; they do not bar benefits due under §502(a)(1)(B).
 - John Hancock Mutual Life Insurance Co. v. Harris Trust & Savings Bank — the distinction between legal status and ultimate liability is preserved; no new breach or remedy follows merely from identifying amendment power.
 
 ### Operative text, qualifications, and limits
@@ -84,7 +84,7 @@ ERISA §402(b)(3), 29 U.S.C. §1102(b)(3), requires every plan to provide a proc
 
 - Nationwide Mutual Insurance Co. v. Darden, 503 U.S. 318 — ordinary legal meaning informs ERISA where the enacted text supplies no contrary rule; no employee-classification test is imported into amendment authority.
 - John Hancock Mutual Life Insurance Co. v. Harris Trust & Savings Bank (December 13, 1993) — status and function remain separate from breach and relief; procedural sufficiency establishes no final amendment or immunity.
-- Mertens v. Hewitt Associates, 508 U.S. 248 — the reviewed §502(a)(3) compensation limit remains; it does not bar benefits due under §502(a)(1)(B).
+- Mertens v. Hewitt Associates, 508 U.S. 248 — its trust-law limits on §502(a)(3) equitable relief remain; they do not bar benefits due under §502(a)(1)(B).
 - John Hancock Mutual Life Insurance Co. v. Harris Trust & Savings Bank — the distinction between legal status and ultimate liability is preserved; no new breach or remedy follows merely from identifying amendment power.
 
 Section 402(b)(3) permits this corporate identification and amendment mechanism. Legal sufficiency and actual authorized amendment remain distinct inquiries. No universal ERISA procedure-violation remedy, amendment immunity, or vesting rule is adopted.
@@ -111,9 +111,9 @@ Mode: disclosed same-context rotating fallback, not fresh or blind. Earlier unre
 
 | Justice | Final named commitment and specific reconciliation |
 |---|---|
-| **Stevens** | C0–C3; reverse/remand. Darden and John Hancock support ordinary legal identity and separating status from ultimate relief. His Mertens dissent does not require a natural-person identification rule. The historical same-text join confirms the original commitment; no changed premise justifies departure. No join in conclusive ratification or permanent vesting. |
-| **O'Connor** | C0–C3; reverse/remand. The express corporate-person definition and separate amendment-performance inquiry are consistent with her Darden and Milwaukee Brewery joins and unaffected by her different Mertens remedy view. Her historical same-record position supplies direct confirmation, not an authorship assignment. No join in final approval or disclosure damages. |
-| **Scalia** | C0–C3; reverse/remand. Mertens's statutory-category approach, Darden, and John Hancock are consistent with this reading. Corporate identity is sufficient; unauthorized acts are not. The historical join confirms the frozen rule and remand. No equitable exception replacing the enacted procedure. |
+| **Stevens** | C0–C3; reverse/remand. Darden and John Hancock support ordinary legal identity and separating status from ultimate relief. His Mertens majority join does not require a natural-person identification rule. The historical same-text join confirms the original commitment; no changed premise justifies departure. No join in conclusive ratification or permanent vesting. |
+| **O'Connor** | C0–C3; reverse/remand. The express corporate-person definition and separate amendment-performance inquiry are consistent with her Darden and Milwaukee Brewery joins and unaffected by her Mertens remedy view. Her historical same-record position supplies direct confirmation, not an authorship assignment. No join in final approval or disclosure damages. |
+| **Scalia** | C0–C3; reverse/remand. His Mertens dissent's statutory-category approach, Darden, and John Hancock are consistent with this reading. Corporate identity is sufficient; unauthorized acts are not. The historical join confirms the frozen rule and remand. No equitable exception replacing the enacted procedure. |
 | **Kennedy** | C0–C3; reverse/remand. Darden, Mertens, and Milwaukee Brewery preserve the statutory question and consequential factual inquiry separately. The historical judgment rests on those same available distinctions. No join in a final corporate-approval finding or displacement of actual contractual promises. |
 | **Souter** | C0–C3; reverse/remand. His Darden opinion and Mertens/John Hancock joins support the ordinary legal identity and distinct function/remedy analysis. The historical same-clause position confirms that the valid procedure does not prove it was followed. No new finding of adoption, ratification, or fiduciary breach. |
 | **Thomas** | C0–C3; reverse/remand. Darden and Mertens supply statutory-category discipline; naming a corporation does not fail merely because humans must act for it. His historical join addresses the identical procedural fork and confirms it. No judicially devised procedure, automatic company success, or unconditional later ratification. |
@@ -192,7 +192,7 @@ Souter delivers the opinion of a unanimous Court. Stone-Zsela, Stevens, O’Conn
 
 **Precedent treatment:**
 
-- Mertens v. Hewitt Associates, 508 U.S. 248 — the reviewed §502(a)(3) compensation limit remains; it does not bar benefits due under §502(a)(1)(B).
+- Mertens v. Hewitt Associates, 508 U.S. 248 — its trust-law limits on §502(a)(3) equitable relief remain; they do not bar benefits due under §502(a)(1)(B).
 - John Hancock Mutual Life Insurance Co. v. Harris Trust & Savings Bank — the distinction between legal status and ultimate liability is preserved; no new breach or remedy follows merely from identifying amendment power.
 
 ### Operative text, qualifications, and limits
@@ -203,7 +203,7 @@ ERISA §402(b)(3), 29 U.S.C. §1102(b)(3), requires every plan to provide a proc
 
 - Nationwide Mutual Insurance Co. v. Darden, 503 U.S. 318 — ordinary legal meaning informs ERISA where the enacted text supplies no contrary rule; no employee-classification test is imported into amendment authority.
 - John Hancock Mutual Life Insurance Co. v. Harris Trust & Savings Bank (December 13, 1993) — status and function remain separate from breach and relief; procedural sufficiency establishes no final amendment or immunity.
-- Mertens v. Hewitt Associates, 508 U.S. 248 — the reviewed §502(a)(3) compensation limit remains; it does not bar benefits due under §502(a)(1)(B).
+- Mertens v. Hewitt Associates, 508 U.S. 248 — its trust-law limits on §502(a)(3) equitable relief remain; they do not bar benefits due under §502(a)(1)(B).
 - John Hancock Mutual Life Insurance Co. v. Harris Trust & Savings Bank — the distinction between legal status and ultimate liability is preserved; no new breach or remedy follows merely from identifying amendment power.
 
 ## Law After Decision

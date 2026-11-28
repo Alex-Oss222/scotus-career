@@ -37,7 +37,7 @@ These hashes identify the reading copies. Relevance-bounded entering-law review 
 | Input relative to term | SHA-256 |
 |---|---|
 | `freeze/OT_2001CHUNK6_LATE_A_COMMITMENTS.md` | `bdd0faf80db490f1921ac48518c0974c5da43bcd064d2ba6dd8eeda1a0f1943e` |
-| `freeze/OT_2001CHUNK6_LATE_A_MODEL_VALIDATION.md` | `a7cb64af69f5bf8bf86e21f144ab8fe651571e40f9fa0bed6184b6be44cfc0fa` |
+| `freeze/OT_2001CHUNK6_LATE_A_MODEL_VALIDATION.md` | `e8dab95ddb9bbc26be99317ced9c22524246633a97ddb4910597f911b021e1fa` |
 | `freeze/OT_2001CHUNK6_A_LATE_NEUTRAL.md` | `e69cd533364ff395074a991358c2c2239ee5ae12009b3b33969ca9e1e9fb5a43` |
 | `freeze/OT_2001CHUNK6_FRANCONIA_VALIDATED_NEUTRAL.md` | `e2c3b669fcb2f5ec8b0aaa897a29b3db12c15255dbfaeda4d3655e9e54e478a3` |
 | `freeze/OT_2001CHUNK6_FRANCONIA_SOURCE_EXTRACT.md` | `a63a53e2ab558f27a03915a0d9700b931be1d316ca0f927ed83ba666c05540ab` |
@@ -48,7 +48,7 @@ These hashes identify the reading copies. Relevance-bounded entering-law review 
 | `entering-law/OT_2001CHUNK6_A_PUBLIC_POSITIONS.md` | `10a1887496f09e5a9b5d5d644b9682f62b1f9d031465850e51acd172c3a7ee7d` |
 | `entering-law/OT_2001CHUNK6_B.md` | `0049abfda8e1d61d440671ec0c64e2ee259c03f80d5523c5dde8ea3c6e6e1aed` |
 | `entering-law/OT_2001CHUNK6_B_HOLDINGS.md` | `895f8f778958cada14f9bef4271600da9d6fc8ce00b74ce30e6b9153e416dfdc` |
-| `entering-law/OT_2001CHUNK6_B_CURRENT_LAW.md` | `026bd16f642749f0ec398fbe09d06606db148dc31df74366cbb5b07b5d5ae950` |
+| `entering-law/OT_2001CHUNK6_B_CURRENT_LAW.md` | `80268b5afb8dae03373e09a73a6e8eef6eead06410129063da068517dc346d9e` |
 | `entering-law/OT_2001CHUNK6_B_FRANCONIA_PRIOR_PUBLIC.md` | `2d80df43b652d18f79346d2c18e86d1b9c2e2b0fb3a157a5ef4703480637ecd6` |
 | `sources/chunk6-comparator/echazabal_00-1406.ZS.txt` | `abc0762637420d2f1d36606be13d5e8474f2ebf49bf553e799a9099b1128fedb` |
 | `sources/chunk6-comparator/echazabal_00-1406.ZO.txt` | `4f063d025e216c5546c22d1b72f62e76f01c709698a9d8c09a97b3caa9fb4cc9` |

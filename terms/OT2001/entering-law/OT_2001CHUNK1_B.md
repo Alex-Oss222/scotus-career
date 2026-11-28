@@ -631,7 +631,7 @@ The trial findings establish increased drug use and discipline difficulties, ath
 - **United States v. Johns:** Custody alone does not eliminate vehicle-search authority. The Court does not remove Johns's separate protection against unreasonable delay or decide a delay claim here.
 - **United States v. Ross:** Probable cause's object determines the permitted places and containers to search; it is not a license for a search beyond that object.
 - **Ornelas v. United States:** Independent review of ultimate constitutional probability questions, clear-error protection for historical facts and due weight to grounded inferences remain. The case supplies no new fact, waiver or probable-cause presumption.
-- **Whren v. United States:** Objective authority for the initial stop remains separate from search, manner, scope and duration. Its unanimity does not supply an additional vote or factual premise here.
+- **Whren v. United States:** Objective authority for the initial stop, presumptively established by probable cause, remains separate from search, manner, scope and duration. It supplies no additional vote or factual premise here.
 - **Wilson v. Arkansas and Pinson:** The distinct protections governing dwelling entry and the particular technological examination of domestic information remain. Neither is a general automobile rule or establishes Kilgore's property boundary or lawful access.
 
 No prior decision is overruled. The Court applies the inherited automobile exception to reject the added federal condition; it does not adopt a new general mechanical-defect, curtilage or premises-consent rule.
@@ -676,31 +676,31 @@ No prior decision is overruled. The Court applies the inherited automobile excep
 **Docket or dockets:** No. 95-5841.
 **Decided:** June 10, 1996.
 
-##### Investigative motive and customary enforcement in an ordinary traffic stop
+##### Presumptive reasonableness of a probable-cause stop and objective rebuttal of instrumental use
 
-**Holding:** An ordinary initial traffic stop supported by objective probable cause of a traffic violation does not become unreasonable under the Fourth Amendment because officers also investigate an unrelated offense. Validity does not additionally depend on whether reasonable officers ordinarily would enforce the violation absent that other aim. Independent constitutional limits on manner, scope, and duration remain; detention or search materially exceeding what the traffic violation reasonably justifies requires independent grounds.
+**Holding:** An initial traffic stop supported by probable cause to believe that an observed traffic violation occurred is presumptively reasonable under the Fourth Amendment; the officer need not show the absence of an additional investigative motive, and an unrelated investigative aim alone does not make the stop unreasonable. The presumption is rebutted only by specific, articulable, objective evidence supporting a reasonable inference that traffic authority was used as an instrument for an unrelated investigation lacking its own sufficient grounds, judged on material deviation from established enforcement practices, the nature and seriousness of the violation, departure from the officer's ordinary assignment or authority, comparable enforcement patterns, contemporaneous conduct and statements, and deliberate selection on an impermissible criterion. No factor is conclusive; motive alone, ordinary enforcement discretion or an internal policy violation alone is insufficient; and the threshold showing precedes any further inquiry without unrestricted discovery. Once it is made, the Government must prove by a preponderance either independent lawful investigative grounds or that an objectively reasonable traffic-enforcement decision would have produced materially the same stop without the unsupported objective. That inquiry is not controlled by departmental custom; courts independently examine whether the traffic purpose is genuine and sufficient, and a department cannot constitutionalize arbitrary enforcement. Limits on scope, duration and search apply under either branch.
 
-**Proposition-level authority:** Opinion of the Court (Thomas), unanimous, including the application and qualifications.
+**Proposition-level authority:** Opinion of the Court (Ginsburg), joined by Stone-Zsela, Stevens, O'Connor and Breyer; five Justices. Thomas, joined by Scalia, Kennedy and Souter, dissents.
 
-**Material application:** The accepted observations of waiting unusually long at a stop sign, failing to signal, and unreasonable speed supply traffic probable cause. Petitioners' proposed objective “would-have” test receives the same rejection as a subjective-motive prerequisite: variable local priorities, uniforms, assignments, markings, and enforcement customs do not change constitutional authority for the known violation. A separate balance of ordinary traffic-safety gains against plainclothes-intervention anxiety supplies no additional requirement.
+**Material application:** The accepted observations of waiting unusually long at a stop sign, failing to signal, and unreasonable speed supply traffic probable cause under 18 D.C.M.R. §§2213.4, 2204.3 and 2200.3, so the stop by plainclothes officers investigating drugs is presumptively reasonable. General Order 303.1's limits on plainclothes traffic enforcement, which require a violation so grave as to pose an immediate threat to others' safety, and the surrounding circumstances raise a substantial issue under the rebuttal standard; the driving may supply a genuine safety justification. The lower courts decide whether the threshold is met and, if so, whether the Government establishes either justification.
 
-**Limits and questions not reached:** Inventory and administrative-inspection authority retain their genuine-purpose and standardized or other source-specific constraints; motive is not irrelevant to every constitutional question. General Order 303.1 compliance, its immediate-safety-threat exception for otherwise unauthorized plainclothes or unmarked enforcement, and its extreme-circumstances oral-warning exception are not adjudicated. Neither speed nor missing execution details establish an exception or constitutional execution finding. The later search is not independently presented.
+**Limits and questions not reached:** Petitioners' broader objective “would-have” test is not adopted; departmental practice is evidence, not the constitutional measure, and a departure from it is not proof of instrumental use. Inventory and administrative-inspection authority retain their genuine-purpose and standardized or other source-specific constraints; motive is not irrelevant to every constitutional question. General Order 303.1 compliance, its immediate-safety-threat exception and its extreme-circumstances oral-warning exception are not adjudicated. Neither speed nor missing execution details establish an exception or constitutional execution finding. The later search is not independently presented.
 
-**Treatment of earlier authority:** *Scott* applies objective assessment of justified action; *Robinson*, *Gustafson*, and *Villamonte-Marquez* retain their distinct lawful-arrest, search, and customs-inspection predicates without creating new power. *Prouse* distinguishes suspicionless discretionary stops; *Martinez-Fuerte* and *Brignoni-Ponce* do not require a further balance for this ordinary probable-cause stop. *Bertine* and *Wells* preserve inventory constraints and forbid investigatory ruses; *Burger* preserves purpose-limited administrative inspection. *Abel* and *Bannister*'s regular-procedure and no-pretext observations do not establish the proposed customary-enforcement condition. *Wilson* preserves reasonable-execution review with its supported danger, futility, escape, and evidence-destruction qualifications, leaving suspicion quantum and automatic suppression open. *Garner*, *Welsh*, and *Winston* retain their distinct deadly-force, home-entry, and bodily-intrusion limits.
+**Treatment of earlier authority:** *Scott* applies objective assessment of justified action; probable cause supplies a presumption without making motive alone a ground of invalidity. *Robinson*, *Gustafson*, and *Villamonte-Marquez* retain their distinct lawful-arrest, search, and customs-inspection predicates without creating new power. *Prouse* distinguishes suspicionless discretionary stops, and its concern with unconstrained discretion informs the rebuttal; *Martinez-Fuerte* and *Brignoni-Ponce* do not require a further balance for this ordinary probable-cause stop. *Bertine* and *Wells* preserve inventory constraints, and their prohibition of investigatory ruses is applied to the instrumental use of traffic authority; *Burger* preserves purpose-limited administrative inspection. *Abel* and *Bannister*'s regular-procedure and no-pretext observations neither establish the would-have rule nor bar the rebuttal. *Wilson* preserves reasonable-execution review with its supported danger, futility, escape, and evidence-destruction qualifications, leaving suspicion quantum and automatic suppression open. *Garner*, *Welsh*, and *Winston* retain their distinct deadly-force, home-entry, and bodily-intrusion limits.
 
-##### Review of the accepted predicate and separation of discriminatory selection
+##### Review of the threshold and justification, and separation of discriminatory selection
 
-**Holding:** The accepted traffic observations permit resolution under *Ornelas*: historical facts, credibility, and genuinely factual subsidiary findings or inferences receive clear-error review, with genuine due weight to grounded contextual inferences; the legal standard and ultimate constitutional sufficiency properly at issue receive independent judgment. No new factual inquiry is required to decide this legal-rule challenge.
+**Holding:** *Ornelas* governs review of the threshold and justification determinations: historical facts, credibility, and genuinely factual subsidiary findings or inferences receive clear-error review, with genuine due weight to grounded contextual inferences; the legal standard and ultimate constitutional sufficiency receive independent judgment. The Fourth Amendment rule requires no proof of racial discrimination; purposeful racial selection remains independently forbidden by equal protection, and disparities alone do not prove intent.
 
-**Proposition-level authority:** The same unanimous Court opinion.
+**Proposition-level authority:** The same five-Justice Court opinion.
 
-**Material application:** Due weight means substantive consideration of supported trial and local-officer context, not a numerical weight, officer-credibility presumption, or intermediate standard insulating constitutional conclusions. Direct review imports no habeas presumption or clear-and-convincing burden and supplies no supposed antecedent drug probable cause.
+**Material application:** Due weight means substantive consideration of supported trial and local-officer context, not a numerical weight, officer-credibility presumption, or intermediate standard insulating constitutional conclusions. Independent judgment supplies neither another violation nor supposed antecedent drug probable cause, and officer experience does not establish the safety exception.
 
-**Limits and questions not reached:** Purposeful racial selection remains independently forbidden by equal protection; traffic probable cause does not establish nondiscrimination. No discrimination finding, police-stop discovery entitlement, immunity rule, suppression consequence, or damages remedy is decided, and assumed adequacy of another remedy is not a ground for judgment.
+**Limits and questions not reached:** Traffic probable cause does not establish nondiscrimination. No discrimination finding, police-stop discovery entitlement, immunity rule, suppression consequence, or damages remedy is decided, and assumed adequacy of another remedy is not a ground for judgment.
 
-**Operative remedy or transition:** Affirm rejection of suppression on the initial-stop ground, 9–0. The completed vacatur of lesser-included §841 convictions and §860 resentencing, including nonreimposition of Whren's fine, remain undisturbed. Later sentencing appeals are not resolved. No new trial, hearing, release, sentencing proceeding, or determination of every admissibility ground follows.
+**Operative remedy or transition:** Vacate the rejection of suppression on the initial-stop ground and remand, 5–4. If the Government establishes a lawful initial seizure, the remaining convictions stand against this challenge; otherwise the exclusionary-rule consequences are for the lower courts. The completed vacatur of lesser-included §841 convictions and §860 resentencing, including nonreimposition of Whren's fine, remain undisturbed. Later sentencing appeals are not resolved. No acquittal, suppression, new trial, release, sentencing proceeding, or determination of every admissibility ground follows.
 
-**Treatment of earlier authority:** *Ornelas*'s review allocation is applied unchanged. *Kimberlin* permits circumstantial proof when motive is an underlying element without adding one here. *Armstrong* remains confined to federal charging and discovery; its requirements and unresolved discrimination remedy do not become police-stop rules.
+**Treatment of earlier authority:** *Ornelas*'s review allocation is applied unchanged. *Kimberlin* permits circumstantial proof of a legally material improper aim, with specific support and lawful discovery limits, and informs the rebuttal threshold without making motive alone an element. *Armstrong*'s Rule 16 reading and staged charging-selection inquiry keep their federal prosecutorial-discovery scope, and its unresolved discrimination remedy does not become a police-stop rule.
 
 #### Ohio v. Robinette
 
@@ -712,13 +712,13 @@ For the other questions in Ohio v. Robinette, No. 95-891, decided November 18, 1
 
 ##### Objective legality during and after a traffic stop
 
-**Holding:** An officer's uncommunicated investigative motive or private decision to issue only a warning does not invalidate an objectively lawful traffic stop or an exit order while lawful traffic business is being completed. Once that justification ends, further detention requires independent legal grounds; the court must examine the objective circumstances to determine whether the person could terminate the encounter, and return of a license is neither an automatic end of seizure nor an automatic license to continue it.
+**Holding:** An officer's uncommunicated investigative motive or private decision to issue only a warning does not by itself invalidate a traffic stop lawful at its inception under Whren's presumption-and-rebuttal framework or an exit order while lawful traffic business is being completed. Once that justification ends, further detention requires independent legal grounds; the court must examine the objective circumstances to determine whether the person could terminate the encounter, and return of a license is neither an automatic end of seizure nor an automatic license to continue it.
 
 **Proposition-level authority:** O'Connor's Part II.A concerning motive and the exit order has six joins: O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer. Part II.B concerning continued detention has those six plus Stone-Zsela.
 
 **Limits and questions not reached:** The actual encounter remains for application to supported historical facts. Ornelas is not extended into a general appellate-review rule for every consent issue.
 
-**Treatment of earlier authority:** Whren's objective initial-stop rule and independent duration limits remain intact; Mimms is confined to lawful traffic business. Bostick's actual-circumstances inquiry is applied. Ornelas is not extended into a general rule for all consent issues.
+**Treatment of earlier authority:** Whren's presumption and objective rebuttal govern the initial stop's legality, and its independent duration limits remain intact; Mimms is confined to lawful traffic business. Bostick's actual-circumstances inquiry is applied. Ornelas is not extended into a general rule for all consent issues.
 
 ##### No indispensable federal release warning; voluntary consent and attenuation remain distinct
 
@@ -1164,7 +1164,7 @@ For the other questions decided in this same case, docket and date, see Civil Ri
 
 **Proposition-level authority:** Opinion of the Court (Scalia). The eight Associates join the complete Court opinion. Stone-Zsela additionally joins this precise unlawful-initiation conclusion and its preservation of genuinely new violations and distinct later restraints, without adopting every supporting formulation.
 
-**Limits and questions not reached:** Stops 1, 2 and 11 retain their independent observed grounds; later restraint and insurance citations remain separate. A valid sticker is relevant but not conclusive. Post-initiation refusal or observation cannot repair an initially unsupported stop. No fixed staleness period, motive test, universal silence rule or probable-cause requirement for every investigative stop is adopted.
+**Limits and questions not reached:** Stops 1, 2 and 11 retain their independent observed grounds, which make them presumptively reasonable under Whren; no pretext challenge to them was preserved, and their 1991–1992 conduct predates Whren's rebuttal framework. Later restraint and insurance citations remain separate. A valid sticker is relevant but not conclusive. Post-initiation refusal or observation cannot repair an initially unsupported stop. No fixed staleness period, motive-only test, universal silence rule or probable-cause requirement for every investigative stop is adopted.
 
 **Treatment of earlier authority:** Prouse and Bostick supply the antecedent-seizure distinction; Ornelas supplies legal review with protected facts; Whren preserves independent objective predicates and separate execution questions.
 
@@ -1789,7 +1789,7 @@ No automatic civil liability, general fruit-of-the-statement rule, mandatory war
 
 **Operative remedy or transition:** The Seventh Circuit is affirmed, with remand for preliminary prospective restraint against this program. No replacement program, suppression, damages, or invalidation of an independently justified traffic stop is ordered.
 
-**Treatment of earlier authority:** Whren v. United States preserves action on actual probable cause despite an officer's further motive; it does not provide authority for a suspicionless program. Chandler v. Miller requires an adequate actual justification without a universal checklist. Michigan Department of State Police v. Sitz and United States v. Martinez-Fuerte retain their highway-safety and border-control rules in their settings. Delaware v. Prouse does not make systematic operation independently sufficient. Bond v. United States distinguishes lawful presence from authority for a further intrusion and supplies no new checkpoint-purpose rule.
+**Treatment of earlier authority:** Whren v. United States makes action on actual probable cause presumptively reasonable despite an officer's further motive; it does not provide authority for a suspicionless program. Chandler v. Miller requires an adequate actual justification without a universal checklist. Michigan Department of State Police v. Sitz and United States v. Martinez-Fuerte retain their highway-safety and border-control rules in their settings. Delaware v. Prouse does not make systematic operation independently sufficient. Bond v. United States distinguishes lawful presence from authority for a further intrusion and supplies no new checkpoint-purpose rule.
 
 ### Temporary preservation of a home pending a warrant
 
@@ -1977,11 +1977,11 @@ No automatic civil liability, general fruit-of-the-statement rule, mandatory war
 
 ##### Whether investigative motive invalidates a supported stop or establishes later custody and search authority
 
-**Holding:** An ordinary traffic stop supported by objective probable cause is not unconstitutional solely because the officer also investigates another offense. The stop does not itself authorize later custody, impoundment or search, each of which must satisfy its own legal requirements.
+**Holding:** An ordinary traffic stop supported by objective probable cause is presumptively reasonable and is not unconstitutional solely because the officer also investigates another offense; an objectively supported pretext challenge proceeds under Whren's rebuttal framework. The stop does not itself authorize later custody, impoundment or search, each of which must satisfy its own legal requirements.
 
 **Proposition-level authority:** The unanimous reasoned per curiam merits opinion controls all three criminal-procedure propositions in this entry.
 
-**Treatment of earlier authority:** Whren v. United States supplies the ordinary stop rule while preserving independent restraint and search limits. Knowles v. Iowa keeps search authority distinct from a lawful encounter.
+**Treatment of earlier authority:** Whren v. United States supplies the presumption for an ordinary stop on probable cause and its objective rebuttal while preserving independent restraint and search limits. Knowles v. Iowa keeps search authority distinct from a lawful encounter.
 
 ##### Whether added custody for a known fine-only offense requires an actual enforcement function
 
@@ -13626,25 +13626,70 @@ No Supreme Court precedent is overruled, limited, or extended beyond its own ter
 **Docket or dockets:** No. 91-1671.
 **Decided:** June 1, 1993.
 
-##### The reviewed compensatory award is not appropriate equitable relief
+##### Appropriate equitable relief in ERISA’s trust setting is identified by trust-law remedies
 
-**Holding:** Section 502(a)(3)’s appropriate equitable relief encompasses traditionally equitable categories of relief, not compensatory damages merely because a court of equity could award them in trust litigation. The requested monetary compensation from this admitted nonfiduciary for the plan’s losses is therefore unavailable under that provision; the Court does not bar every monetary equitable remedy or decide the antecedent, expressly disclaimed cause-of-action question.
+**Holding:** Section 502(a)(3)’s appropriate equitable relief means remedies historically recognized in equity. Because ERISA establishes a statutory trust regime, those remedies are identified by reference to the law of trusts as it fits the statute’s text and structure. A remedy is not legal damages merely because it requires the payment of money. The provision does not reach punitive awards, general tort compensation, remedies that became available only after the merger of law and equity, or every remedy a court of equity could award incidentally to its jurisdiction.
 
-**Proposition-level authority:** Scalia’s Opinion of the Court; Blackmun, Scalia, Kennedy, Souter, Thomas (5 Justices). Direct majority support for this exact proposition; no Marks synthesis.
+**Proposition-level authority:** White’s Opinion of the Court; Stone-Zsela, White, Stevens, O’Connor, Souter (5 Justices). Direct majority support for this exact proposition; no Marks synthesis.
 
-**Limits and questions not reached:** The expressly disclaimed antecedent cause of action is reserved, not rejected as jurisdictional. Other equitable monetary remedies are not categorically barred; restitution, unappealed claims and the separate malpractice disposition remain untouched.
+**Limits and questions not reached:** The expressly disclaimed antecedent cause of action is reserved, not rejected as jurisdictional. No fiduciary status, knowing participation, loss, causation, liability or amount is adjudicated. Punitive awards, general tort compensation and negligent professional advice are outside the remedy; professional status does not make a defendant a fiduciary. Restitution, unappealed claims and the separate malpractice disposition remain untouched.
 
-**Operative remedy or transition:** Affirm rejection of the reviewed compensatory claim under §502(a)(3); no liability finding or award.
+**Operative remedy or transition:** Vacate the Ninth Circuit’s rejection of the reviewed §502(a)(3) monetary claim and remand; no liability finding or award.
 
 **Treatment of earlier authority:**
 
-- Curtis v. Loether, 415 U.S. 189: traditional legal compensation distinction applied.
-- Chauffeurs, Teamsters & Helpers v. Terry, 494 U.S. 558: remedy classification applied; trust forum alone does not decide the statutory category.
-- Firestone Tire & Rubber Co. v. Bruch, 489 U.S. 101: trust-law guidance preserved subject to express statutory limits.
-- Clews v. Jamieson, 182 U.S. 461: equity’s monetary powers acknowledged but distinguished from the statutory category.
-- Massachusetts Mutual Life Insurance Co. v. Russell, 473 U.S. 134: enforcement-structure caution applied; its reserved question is now resolved only within this holding.
-- United States v. Burke, May 26, 1992: its fractured judgment supplies no controlling general remedial-range test.
+- Firestone Tire & Rubber Co. v. Bruch, 489 U.S. 101: trust-law guidance applied to identify the equitable remedies within the enacted text.
+- Clews v. Jamieson, 182 U.S. 461: equity’s power to restore trust losses by a monetary decree applied.
+- Curtis v. Loether, 415 U.S. 189: its distinction of legal compensation preserved for the claims it addressed; it does not reclassify equitable trust remedies.
+- Chauffeurs, Teamsters & Helpers v. Terry, 494 U.S. 558: its recognition that actions against trustees for breach of fiduciary duty were equitable applied; its jury-trial classification of a different remedy is not extended to this provision.
+- Massachusetts Mutual Life Insurance Co. v. Russell, 473 U.S. 134: its §409 enforcement-structure holding preserved; its reserved §502(a)(3) question is answered only as stated in these holdings.
 - Franklin v. Gwinnett County Public Schools, February 26, 1992: appropriate-remedy presumption distinguished because Congress expressly limited this provision to equitable relief.
+- United States v. Burke, May 26, 1992: its fractured judgment supplies no controlling general remedial-range test.
+
+##### Trust-law monetary restoration, including surcharge against fiduciaries, is appropriate equitable relief
+
+**Holding:** Section 502(a)(3) permits appropriate monetary restoration traditionally available in trust litigation, including surcharge against fiduciaries where its requirements are satisfied: actual loss caused by the breach, or the elimination of unjust enrichment the breach produced. The provision does not authorize punitive damages or general tort compensation. For a third party the inquiry is more demanding, and a defendant’s status as actuary, lawyer or other service provider does not make it a fiduciary. Where an otherwise actionable claim establishes a nonfiduciary’s knowing participation in an actionable breach of trust, monetary restoration matching the loss attributable to that participation is not categorically excluded merely because the defendant did not receive the lost assets. Hewitt’s nonfiduciary status is fixed, and the Ninth Circuit’s categorical rejection of the participants’ monetary claim cannot stand.
+
+**Proposition-level authority:** White’s Opinion of the Court; Stone-Zsela, White, Stevens, O’Connor, Souter (5 Justices). Direct majority support for this exact proposition; no Marks synthesis.
+
+**Limits and questions not reached:** The expressly disclaimed antecedent cause of action is reserved, not rejected as jurisdictional. No fiduciary status, knowing participation, loss, causation, liability or amount is adjudicated. Punitive awards, general tort compensation and negligent professional advice are outside the remedy; professional status does not make a defendant a fiduciary. Restitution, unappealed claims and the separate malpractice disposition remain untouched.
+
+**Operative remedy or transition:** Vacate the Ninth Circuit’s rejection of the reviewed §502(a)(3) monetary claim and remand; no liability finding or award.
+
+**Treatment of earlier authority:**
+
+- Clews v. Jamieson, 182 U.S. 461: equitable monetary restoration for breach of trust, including surcharge and restoration against a knowing participant, applied.
+- Firestone Tire & Rubber Co. v. Bruch, 489 U.S. 101: trust law applied to identify surcharge against fiduciaries and the remedy against a knowing participant.
+- Massachusetts Mutual Life Insurance Co. v. Russell, 473 U.S. 134: its rejection of extracontractual and punitive recovery under §409 preserved; no punitive or general compensatory remedy is recognized here.
+
+##### Restoration requires an actionable claim and its equitable predicates; the antecedent action question is reserved
+
+**Holding:** Trust-law monetary restoration under §502(a)(3) requires an authorized statutory action and an actionable violation; a historically recognized equitable basis for relief against the particular defendant; the knowledge or fiduciary responsibility that basis requires; actual loss or another recognized equitable measure; and causation and the traditional equitable limits. Negligent professional advice is not knowing participation. Section 502(a)(3) does not create a cause of action for every trust wrong. Because Hewitt expressly disclaimed the argument, the Court reserves whether §502(a)(3) supplies an action against a nonfiduciary who knowingly participates in a fiduciary’s breach; the reservation respects the parties’ presentation and is not a jurisdictional ruling.
+
+**Proposition-level authority:** White’s Opinion of the Court; Stone-Zsela, White, Stevens, O’Connor, Souter (5 Justices). Direct majority support for this exact proposition; no Marks synthesis.
+
+**Limits and questions not reached:** The expressly disclaimed antecedent cause of action is reserved, not rejected as jurisdictional. No fiduciary status, knowing participation, loss, causation, liability or amount is adjudicated. Punitive awards, general tort compensation and negligent professional advice are outside the remedy; professional status does not make a defendant a fiduciary. Restitution, unappealed claims and the separate malpractice disposition remain untouched.
+
+**Operative remedy or transition:** Vacate the Ninth Circuit’s rejection of the reviewed §502(a)(3) monetary claim and remand; no liability finding or award.
+
+**Treatment of earlier authority:**
+
+- Massachusetts Mutual Life Insurance Co. v. Russell, 473 U.S. 134: respect for ERISA’s enforcement structure applied; no cause of action is inferred for every trust wrong.
+- Franklin v. Gwinnett County Public Schools, February 26, 1992: the distinction between an existing action’s available relief and the creation of an action preserved.
+
+##### The knowing-participation penalty provision confirms the remedy without creating a private action
+
+**Holding:** Section 502(l), which measures the Secretary of Labor’s civil penalty by amounts recovered from a fiduciary for a breach or from any other person for knowing participation in it, confirms that monetary recoveries against knowing participants and equitable relief coexist in ERISA’s scheme. It does not create a private cause of action, define the elements of liability or enlarge the relief §502(a)(3) authorizes. Congress’s distinction between legal and equitable relief is preserved; trust-specific monetary restoration falls on the equitable side of that distinction.
+
+**Proposition-level authority:** White’s Opinion of the Court; Stone-Zsela, White, Stevens, O’Connor, Souter (5 Justices). Direct majority support for this exact proposition; no Marks synthesis.
+
+**Limits and questions not reached:** The expressly disclaimed antecedent cause of action is reserved, not rejected as jurisdictional. No fiduciary status, knowing participation, loss, causation, liability or amount is adjudicated. Punitive awards, general tort compensation and negligent professional advice are outside the remedy; professional status does not make a defendant a fiduciary. Restitution, unappealed claims and the separate malpractice disposition remain untouched.
+
+**Operative remedy or transition:** Vacate the Ninth Circuit’s rejection of the reviewed §502(a)(3) monetary claim and remand; no liability finding or award.
+
+**Treatment of earlier authority:**
+
+- Massachusetts Mutual Life Insurance Co. v. Russell, 473 U.S. 134: ERISA’s differentiated enforcement provisions are read together; §502(l) adds confirmation, not a new private remedy.
 
 ### Federal supervision of employee benefit trusts
 
@@ -13668,7 +13713,7 @@ No Supreme Court precedent is overruled, limited, or extended beyond its own ter
 - Arroyo, 359 U.S. 419 — lawful receipt distinguished from later diversion; contrary supervisory language is dictum.
 - Amax, 453 U.S. 322 — fiduciary independence retained; supervisory language does not establish jurisdiction.
 - Robinson, 455 U.S. 562 — reasonableness-review rejection retained; reserved supervisory scope resolved.
-- Mertens, June 1, 1993 — unchanged; its remedy limit does not resolve these unreviewed ERISA claims.
+- Mertens, June 1, 1993 — unchanged; its trust-law remedy holding does not resolve these unreviewed ERISA claims.
 
 ### Employment discrimination and proof of pretext
 
@@ -14072,7 +14117,7 @@ For the other questions in Livadas v. Bradshaw, 1994-06-13, No. 92-1920, see Civ
 
 **Treatment of earlier authority:**
 
-- Mertens v. Hewitt Associates, 508 U.S. 248 — the reviewed §502(a)(3) compensation limit remains; it does not bar benefits due under §502(a)(1)(B).
+- Mertens v. Hewitt Associates, 508 U.S. 248 — its trust-law limits on §502(a)(3) equitable relief remain; they do not bar benefits due under §502(a)(1)(B).
 - John Hancock Mutual Life Insurance Co. v. Harris Trust & Savings Bank — the distinction between legal status and ultimate liability is preserved; no new breach or remedy follows merely from identifying amendment power.
 
 **Limits and questions not reached:** ERISA §402(b)(3), 29 U.S.C. §1102(b)(3), requires every plan to provide a procedure for amending it and for identifying the persons with amendment authority. Section 3(9), §1002(9), includes a corporation among persons, as well as an individual, partnership, joint venture, mutual company, joint-stock company, trust, estate, unincorporated organization, association, and employee organization. The plan Constitution reserves to the Company the right at any time and from time to time to modify or amend any or all provisions, in whole or in part, and separately reserves termination. Delaware §141(a) places corporate business and affairs under the board’s management or direction except as otherwise provided by that chapter or the certificate of incorporation. No charter, bylaw, delegation, or approval is established as a fact here. Section 402(a)(1)’s written-instrument and named-fiduciary requirements remain distinct from sponsor amendment authority. Sections 1022 and 1024 retain actual summary, disclosure, and instrument-access duties; an SPD is not proof of authorized amendment. Section 502(a)(1)(B) benefits enforcement is distinct from §502(a)(3)’s appropriate-equitable-relief category.
@@ -14564,7 +14609,7 @@ The diagnostic-center administrative instructions separately exclude investment 
 
 **Operative remedy or transition:** The clarified restoration decree is affirmed. Reinstatement confers only the rights of the M-F plan as it now exists. Past entitlement may be adjusted for intervening events, with relevant additional evidence and a conforming decree. Future lawful changes remain possible subject to applicable law and preserved retaliation or discrimination objections. No new payment amount or immutable lifetime entitlement is entered.
 
-**Treatment of earlier authority:** Russell's plan-centered §409 construction is preserved while its distinct §502(a)(3) question is answered. Mertens's equitable-category limit applies; its reserved antecedent action issue is not treated as an earlier action bar. Peacock's statutory-or-plan-violation requirement is met by the proved §404 breach; its later new-debtor jurisdictional holding does not govern this original action. Firestone supplies guidance within enacted limits.
+**Treatment of earlier authority:** Russell's plan-centered §409 construction is preserved while its distinct §502(a)(3) question is answered. Mertens's trust-law equitable categories apply, including its holding that §502(a)(3) permits surcharge against fiduciaries where its requirements are satisfied, so qualifying surcharge is a possible remedy for proved fiduciary deception; its reserved antecedent action issue is not treated as an earlier action bar. Peacock's statutory-or-plan-violation requirement is met by the proved §404 breach; its later new-debtor jurisdictional holding does not govern this original action. Firestone supplies guidance within enacted limits.
 
 ##### The ten retirees' independent assignment-breach ground was not adequately challenged
 
@@ -15952,7 +15997,7 @@ For the advisory-letter and regulatory-text holdings in Christensen, May 1, 2000
 
 **Proposition-level authority:** Thomas's Opinion of the Court, joined by all eight other Justices; nine direct joins cover the complete holding and bounded remand.
 
-**Material application:** Those limits prevent the rule from becoming general investment-loss insurance. Restitution of tainted property or proceeds and disgorgement of resulting profits differ from ordinary compensation. Rescission and comparable equitable relief likewise require their actual predicates; calling price recovery restitution does not settle its classification. Notice concerns this assumed purchaser for value. The Court decides neither that every gratuitous recipient must have notice nor which party bears the purchaser-defense burden.
+**Material application:** Those limits prevent the rule from becoming general investment-loss insurance. Restitution of tainted property or proceeds and disgorgement of resulting profits are gain-based remedies; they differ from ordinary compensation and from the loss restoration Mertens recognized against a knowing participant in an actionable breach, which this case does not present. Rescission and comparable equitable relief likewise require their actual predicates; calling price recovery restitution does not settle its classification. Notice concerns this assumed purchaser for value. The Court decides neither that every gratuitous recipient must have notice nor which party bears the purchaser-defense burden.
 
 **Limits and questions not reached:** Party-in-interest status, transaction prohibition, PTE75-1 or another exemption, notice, purchaser protection and burden, actual recoverable property/proceeds and the form or amount of equity remain open. No general damages action, universal monitoring duty, comprehensive future tracing formula, automatic fiduciary status or finding of initial worthlessness is adopted. No new finding about adequate alternative relief is made.
 
@@ -15962,7 +16007,7 @@ For the advisory-letter and regulatory-text holdings in Christensen, May 1, 2000
 
 **Treatment of earlier authority:**
 
-- **Mertens v. Hewitt Associates:** Applies its traditional-equitable-category limit while answering the distinct nonfiduciary-defendant question it reserved; ordinary compensation remains unavailable.
+- **Mertens v. Hewitt Associates:** Applies its trust-law identification of equitable categories while answering, for a knowing party-in-interest recipient, the distinct nonfiduciary-defendant question it reserved; its loss restoration against a knowing participant is distinguished from the gain-based relief sought here, and ordinary compensation remains unavailable.
 - **Varity Corp. v. Howe:** Preserves the distinct individual-equity channel and its existing conditions; the Court neither classifies every monetary item as equity nor makes a new alternative-remedy adequacy finding.
 - **Peacock v. Thomas:** Applies the requirement of an actual ERISA or plan violation; equitable recipient redress rests on the alleged prohibited transfer, not a freestanding trust-law wrong.
 - **Hartford Underwriters Insurance Co. v. Union Planters Bank, N.A.:** Preserves its source-specific restriction to section 506(c)'s designated claimant. Section 502(a)(3)'s identification of plaintiffs does not enact a categorical fiduciary-defendant restriction.

@@ -1,7 +1,7 @@
 {
   "status": "Final twelve-entry structural, protection, actual-table and assignment recount checks passed; legal review supplied separately",
   "record": "terms\\OT1997\\records\\brewster_v_board_of_education_merits_1998-08-17.md",
-  "raw_sha256": "430854d29f76315b3887b6185c3151fb2930cdfab486b34fcd0706135cc0e62b",
+  "raw_sha256": "e8e702a757a66fec43566d10de5fc93fe0e3e7eda8836f7d7e4f966b90e12ee1",
   "public_blocks": [
     "Event",
     "Participation",
@@ -155,7 +155,7 @@
     {
       "file": "diamondstone_v_macaluso_merits_1998-06-25.md",
       "date": "1998-06-25",
-      "raw_sha256": "12aad28f139edd75b584d9b33441df09bd76a4756be2d34534d22431d21421ef",
+      "raw_sha256": "271ebd47231462447a78227a308dcf74ea762ba02ebe2945bc5980bc213b7eda",
       "actual_authors": [
         "Scalia"
       ],
@@ -357,7 +357,7 @@
     {
       "file": "bauchman_v_west_high_school_merits_1998-06-26.md",
       "date": "1998-06-26",
-      "raw_sha256": "4adc1eba7bdca15d367045a18913fb2f2b950c5cfbeca70cded41e8239ddb4aa",
+      "raw_sha256": "9c96f68bb68542b1d66e2832b539c48c39668066e180ae8924b2f13d34f2a1b9",
       "actual_authors": [
         "Ginsburg"
       ],
@@ -414,7 +414,7 @@
     {
       "file": "burlington_industries_inc_v_ellerth_merits_1998-06-26.md",
       "date": "1998-06-26",
-      "raw_sha256": "040de466623dc9b6826693a80891c28b2bfaf791ce2189eddd22b352c68007dd",
+      "raw_sha256": "8237f1da9e685b059c8d63dd2caf3484f9f0311af3651cee0fb91c976d522946",
       "actual_authors": [
         "Stone-Zsela"
       ],
@@ -473,7 +473,7 @@
     {
       "file": "monge_v_california_merits_1998-06-26.md",
       "date": "1998-06-26",
-      "raw_sha256": "3297c0cdf107554278184443c315703651f2af011139d11ed669de45aa3a512e",
+      "raw_sha256": "b914310011042421598e2f6e73d0ba7277eeb134aa846fad6c67abfe323c98c6",
       "actual_authors": [
         "Thomas"
       ],
@@ -523,7 +523,7 @@
     {
       "file": "camilo_robles_v_hoyos_merits_1998-07-20.md",
       "date": "1998-07-20",
-      "raw_sha256": "9cd9b659713e671a4113031baa439e736552f1a7b255e36f84f5b6c02087649e",
+      "raw_sha256": "014166760575dce2b12ff02ac892482a8df0597252a2b79942783be3cd999383",
       "actual_authors": [
         "Scalia"
       ],
@@ -580,7 +580,7 @@
     {
       "file": "berryman_v_rieger_jurisdiction_and_sanctions_1998-08-03.md",
       "date": "1998-08-03",
-      "raw_sha256": "790106a7a40a7b1d8af89fad1bbb02486ce6dd46994c9435e00d272f925de6ef",
+      "raw_sha256": "d185964eba6d1bb21a6d4007745c6398773fd1318b68f0f626f8f89a029cd7d9",
       "actual_authors": [
         "O'Connor"
       ],
@@ -638,7 +638,7 @@
     {
       "file": "brewster_v_board_of_education_merits_1998-08-17.md",
       "date": "1998-08-17",
-      "raw_sha256": "430854d29f76315b3887b6185c3151fb2930cdfab486b34fcd0706135cc0e62b",
+      "raw_sha256": "e8e702a757a66fec43566d10de5fc93fe0e3e7eda8836f7d7e4f966b90e12ee1",
       "actual_authors": [
         "Breyer"
       ],

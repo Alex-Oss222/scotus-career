@@ -10,7 +10,7 @@ No April 1 vote, commitment, coalition, opinion, assignment, factual resolution 
 
 The controlling reading handoff is [OT_1995CHUNK5_NEUTRAL_AFTER_1996-03-27.md](../entering-law/OT_1995CHUNK5_NEUTRAL_AFTER_1996-03-27.md), supplied as committed `099e65e`, with independently verified SHA-256:
 
-`0ad975aeaa2169a6a87abeea843e7b622be801d8cef5cd7338558f67e7815d68`.
+`a793cea5d076c7183d32270ad87f92cef32069697ab83ddf01cf8f94fc5c77ae`.
 
 It supplements the [opening Holdings/Standards slice](../entering-law/OT_1995CHUNK5.md), the coordinated law through June 29, 1995, and the earlier actual current-term decisions and enacted sources already included in the neutral baseline. The snapshot reports 55 completed Court events and four enacted sources, including seven completed chunk-five Court events. This worker checked the full March 26-to-March 27 snapshot delta after separately reading each of the seven intervening public decisions in full. Earlier March 19–26 public deltas had already been checked during the same neutral preparation; no primary-source preflight was unnecessarily repeated.
 
@@ -100,7 +100,7 @@ Only this new certificate was written. The immutable preparation, all frozen val
 | `freeze/OT_1995CHUNK5_HABEAS_STATUTE_SOURCE_ADDENDUM.md` | `b320a585ed6a52a33901df71b36677930782bad55bc5520a3b323376f23f5b71` |
 | `freeze/OT_1995CHUNK5_LONCHAR_BAREFOOT_SOURCE_ADDENDUM.md` | `fb699ebef8d01cc91fbd2f5b3d38dd5c91c9c16f28da004874b57966004a287a` |
 | `freeze/OT_1995CHUNK5_APRIL1_PREPARATION.md` | `57188356c4693984f771ac70db69f08895548bfb6c216c5aea603ca0d7eaa962` |
-| `entering-law/PUBLIC_Varity_Corp_v_Howe_merits_1996-03-19.md` | `aa39fe98afa630547fcf918c5113c4c089f353570d272ab16a7ca18c57bde0c1` |
+| `entering-law/PUBLIC_Varity_Corp_v_Howe_merits_1996-03-19.md` | `169ee632e96d71be52daff3fa5df9710bc3f12b3fa7230c7a072f517302c5350` |
 | `entering-law/PUBLIC_Meghrig_v_KFC_Western_Inc_merits_1996-03-19.md` | `d8dd49204799048234205b4c254d3783145a6f7053f43d68c287d865e317e685` |
 | `entering-law/PUBLIC_Wisconsin_v_City_of_New_York_merits_1996-03-20.md` | `57e6e873debb69c6bf5c82817fd3a50d6c04755ed40a11c0b91be2b9a8ab3109` |
 | `entering-law/PUBLIC_Barnett_Bank_of_Marion_County_v_Nelson_merits_1996-03-26.md` | `8499d463ba6a21bf3a56886650642a39caf8b075d9a1e30dbcb2b65863309de2` |

@@ -11883,7 +11883,7 @@ For the tying rule in United States v. Microsoft Corp., January 22, 2002, lower-
 
 **Treatment of earlier authority:**
 
-- Mertens v. Hewitt Associates, 508 U.S. 248: its traditional-equitable-category construction controls; neither its compensation exclusion nor preserved genuine monetary equity is displaced.
+- Mertens v. Hewitt Associates, 508 U.S. 248: its trust-law equitable-category construction controls; neither its exclusion of general compensation nor its recognition of surcharge against fiduciaries and of knowing-participation restoration is displaced.
 - Harris Trust and Savings Bank v. Salomon Smith Barney Inc., 530 U.S. 238: equitable recipient relief remains available on its actual predicates and defenses; it supplies neither this missing property connection nor a universal tracing formula.
 - Varity Corp. v. Howe, 516 U.S. 489: appropriate individual equity remains within statutory categories and ordinary adequate-remedy limits.
 
@@ -20058,25 +20058,70 @@ No Supreme Court precedent is overruled, limited, or extended beyond its own ter
 **Docket or dockets:** No. 91-1671.
 **Decided:** June 1, 1993.
 
-##### The reviewed compensatory award is not appropriate equitable relief
+##### Appropriate equitable relief in ERISA’s trust setting is identified by trust-law remedies
 
-**Holding:** Section 502(a)(3)’s appropriate equitable relief encompasses traditionally equitable categories of relief, not compensatory damages merely because a court of equity could award them in trust litigation. The requested monetary compensation from this admitted nonfiduciary for the plan’s losses is therefore unavailable under that provision; the Court does not bar every monetary equitable remedy or decide the antecedent, expressly disclaimed cause-of-action question.
+**Holding:** Section 502(a)(3)’s appropriate equitable relief means remedies historically recognized in equity. Because ERISA establishes a statutory trust regime, those remedies are identified by reference to the law of trusts as it fits the statute’s text and structure. A remedy is not legal damages merely because it requires the payment of money. The provision does not reach punitive awards, general tort compensation, remedies that became available only after the merger of law and equity, or every remedy a court of equity could award incidentally to its jurisdiction.
 
-**Proposition-level authority:** Scalia’s Opinion of the Court; Blackmun, Scalia, Kennedy, Souter, Thomas (5 Justices). Direct majority support for this exact proposition; no Marks synthesis.
+**Proposition-level authority:** White’s Opinion of the Court; Stone-Zsela, White, Stevens, O’Connor, Souter (5 Justices). Direct majority support for this exact proposition; no Marks synthesis.
 
-**Limits and questions not reached:** The expressly disclaimed antecedent cause of action is reserved, not rejected as jurisdictional. Other equitable monetary remedies are not categorically barred; restitution, unappealed claims and the separate malpractice disposition remain untouched.
+**Limits and questions not reached:** The expressly disclaimed antecedent cause of action is reserved, not rejected as jurisdictional. No fiduciary status, knowing participation, loss, causation, liability or amount is adjudicated. Punitive awards, general tort compensation and negligent professional advice are outside the remedy; professional status does not make a defendant a fiduciary. Restitution, unappealed claims and the separate malpractice disposition remain untouched.
 
-**Operative remedy or transition:** Affirm rejection of the reviewed compensatory claim under §502(a)(3); no liability finding or award.
+**Operative remedy or transition:** Vacate the Ninth Circuit’s rejection of the reviewed §502(a)(3) monetary claim and remand; no liability finding or award.
 
 **Treatment of earlier authority:**
 
-- Curtis v. Loether, 415 U.S. 189: traditional legal compensation distinction applied.
-- Chauffeurs, Teamsters & Helpers v. Terry, 494 U.S. 558: remedy classification applied; trust forum alone does not decide the statutory category.
-- Firestone Tire & Rubber Co. v. Bruch, 489 U.S. 101: trust-law guidance preserved subject to express statutory limits.
-- Clews v. Jamieson, 182 U.S. 461: equity’s monetary powers acknowledged but distinguished from the statutory category.
-- Massachusetts Mutual Life Insurance Co. v. Russell, 473 U.S. 134: enforcement-structure caution applied; its reserved question is now resolved only within this holding.
-- United States v. Burke, May 26, 1992: its fractured judgment supplies no controlling general remedial-range test.
+- Firestone Tire & Rubber Co. v. Bruch, 489 U.S. 101: trust-law guidance applied to identify the equitable remedies within the enacted text.
+- Clews v. Jamieson, 182 U.S. 461: equity’s power to restore trust losses by a monetary decree applied.
+- Curtis v. Loether, 415 U.S. 189: its distinction of legal compensation preserved for the claims it addressed; it does not reclassify equitable trust remedies.
+- Chauffeurs, Teamsters & Helpers v. Terry, 494 U.S. 558: its recognition that actions against trustees for breach of fiduciary duty were equitable applied; its jury-trial classification of a different remedy is not extended to this provision.
+- Massachusetts Mutual Life Insurance Co. v. Russell, 473 U.S. 134: its §409 enforcement-structure holding preserved; its reserved §502(a)(3) question is answered only as stated in these holdings.
 - Franklin v. Gwinnett County Public Schools, February 26, 1992: appropriate-remedy presumption distinguished because Congress expressly limited this provision to equitable relief.
+- United States v. Burke, May 26, 1992: its fractured judgment supplies no controlling general remedial-range test.
+
+##### Trust-law monetary restoration, including surcharge against fiduciaries, is appropriate equitable relief
+
+**Holding:** Section 502(a)(3) permits appropriate monetary restoration traditionally available in trust litigation, including surcharge against fiduciaries where its requirements are satisfied: actual loss caused by the breach, or the elimination of unjust enrichment the breach produced. The provision does not authorize punitive damages or general tort compensation. For a third party the inquiry is more demanding, and a defendant’s status as actuary, lawyer or other service provider does not make it a fiduciary. Where an otherwise actionable claim establishes a nonfiduciary’s knowing participation in an actionable breach of trust, monetary restoration matching the loss attributable to that participation is not categorically excluded merely because the defendant did not receive the lost assets. Hewitt’s nonfiduciary status is fixed, and the Ninth Circuit’s categorical rejection of the participants’ monetary claim cannot stand.
+
+**Proposition-level authority:** White’s Opinion of the Court; Stone-Zsela, White, Stevens, O’Connor, Souter (5 Justices). Direct majority support for this exact proposition; no Marks synthesis.
+
+**Limits and questions not reached:** The expressly disclaimed antecedent cause of action is reserved, not rejected as jurisdictional. No fiduciary status, knowing participation, loss, causation, liability or amount is adjudicated. Punitive awards, general tort compensation and negligent professional advice are outside the remedy; professional status does not make a defendant a fiduciary. Restitution, unappealed claims and the separate malpractice disposition remain untouched.
+
+**Operative remedy or transition:** Vacate the Ninth Circuit’s rejection of the reviewed §502(a)(3) monetary claim and remand; no liability finding or award.
+
+**Treatment of earlier authority:**
+
+- Clews v. Jamieson, 182 U.S. 461: equitable monetary restoration for breach of trust, including surcharge and restoration against a knowing participant, applied.
+- Firestone Tire & Rubber Co. v. Bruch, 489 U.S. 101: trust law applied to identify surcharge against fiduciaries and the remedy against a knowing participant.
+- Massachusetts Mutual Life Insurance Co. v. Russell, 473 U.S. 134: its rejection of extracontractual and punitive recovery under §409 preserved; no punitive or general compensatory remedy is recognized here.
+
+##### Restoration requires an actionable claim and its equitable predicates; the antecedent action question is reserved
+
+**Holding:** Trust-law monetary restoration under §502(a)(3) requires an authorized statutory action and an actionable violation; a historically recognized equitable basis for relief against the particular defendant; the knowledge or fiduciary responsibility that basis requires; actual loss or another recognized equitable measure; and causation and the traditional equitable limits. Negligent professional advice is not knowing participation. Section 502(a)(3) does not create a cause of action for every trust wrong. Because Hewitt expressly disclaimed the argument, the Court reserves whether §502(a)(3) supplies an action against a nonfiduciary who knowingly participates in a fiduciary’s breach; the reservation respects the parties’ presentation and is not a jurisdictional ruling.
+
+**Proposition-level authority:** White’s Opinion of the Court; Stone-Zsela, White, Stevens, O’Connor, Souter (5 Justices). Direct majority support for this exact proposition; no Marks synthesis.
+
+**Limits and questions not reached:** The expressly disclaimed antecedent cause of action is reserved, not rejected as jurisdictional. No fiduciary status, knowing participation, loss, causation, liability or amount is adjudicated. Punitive awards, general tort compensation and negligent professional advice are outside the remedy; professional status does not make a defendant a fiduciary. Restitution, unappealed claims and the separate malpractice disposition remain untouched.
+
+**Operative remedy or transition:** Vacate the Ninth Circuit’s rejection of the reviewed §502(a)(3) monetary claim and remand; no liability finding or award.
+
+**Treatment of earlier authority:**
+
+- Massachusetts Mutual Life Insurance Co. v. Russell, 473 U.S. 134: respect for ERISA’s enforcement structure applied; no cause of action is inferred for every trust wrong.
+- Franklin v. Gwinnett County Public Schools, February 26, 1992: the distinction between an existing action’s available relief and the creation of an action preserved.
+
+##### The knowing-participation penalty provision confirms the remedy without creating a private action
+
+**Holding:** Section 502(l), which measures the Secretary of Labor’s civil penalty by amounts recovered from a fiduciary for a breach or from any other person for knowing participation in it, confirms that monetary recoveries against knowing participants and equitable relief coexist in ERISA’s scheme. It does not create a private cause of action, define the elements of liability or enlarge the relief §502(a)(3) authorizes. Congress’s distinction between legal and equitable relief is preserved; trust-specific monetary restoration falls on the equitable side of that distinction.
+
+**Proposition-level authority:** White’s Opinion of the Court; Stone-Zsela, White, Stevens, O’Connor, Souter (5 Justices). Direct majority support for this exact proposition; no Marks synthesis.
+
+**Limits and questions not reached:** The expressly disclaimed antecedent cause of action is reserved, not rejected as jurisdictional. No fiduciary status, knowing participation, loss, causation, liability or amount is adjudicated. Punitive awards, general tort compensation and negligent professional advice are outside the remedy; professional status does not make a defendant a fiduciary. Restitution, unappealed claims and the separate malpractice disposition remain untouched.
+
+**Operative remedy or transition:** Vacate the Ninth Circuit’s rejection of the reviewed §502(a)(3) monetary claim and remand; no liability finding or award.
+
+**Treatment of earlier authority:**
+
+- Massachusetts Mutual Life Insurance Co. v. Russell, 473 U.S. 134: ERISA’s differentiated enforcement provisions are read together; §502(l) adds confirmation, not a new private remedy.
 
 ### Federal supervision of employee benefit trusts
 
@@ -20100,7 +20145,7 @@ No Supreme Court precedent is overruled, limited, or extended beyond its own ter
 - Arroyo, 359 U.S. 419 — lawful receipt distinguished from later diversion; contrary supervisory language is dictum.
 - Amax, 453 U.S. 322 — fiduciary independence retained; supervisory language does not establish jurisdiction.
 - Robinson, 455 U.S. 562 — reasonableness-review rejection retained; reserved supervisory scope resolved.
-- Mertens, June 1, 1993 — unchanged; its remedy limit does not resolve these unreviewed ERISA claims.
+- Mertens, June 1, 1993 — unchanged; its trust-law remedy holding does not resolve these unreviewed ERISA claims.
 
 ### Employment discrimination and proof of pretext
 
@@ -20504,7 +20549,7 @@ For the other questions in Livadas v. Bradshaw, 1994-06-13, No. 92-1920, see Civ
 
 **Treatment of earlier authority:**
 
-- Mertens v. Hewitt Associates, 508 U.S. 248 — the reviewed §502(a)(3) compensation limit remains; it does not bar benefits due under §502(a)(1)(B).
+- Mertens v. Hewitt Associates, 508 U.S. 248 — its trust-law limits on §502(a)(3) equitable relief remain; they do not bar benefits due under §502(a)(1)(B).
 - John Hancock Mutual Life Insurance Co. v. Harris Trust & Savings Bank — the distinction between legal status and ultimate liability is preserved; no new breach or remedy follows merely from identifying amendment power.
 
 **Limits and questions not reached:** ERISA §402(b)(3), 29 U.S.C. §1102(b)(3), requires every plan to provide a procedure for amending it and for identifying the persons with amendment authority. Section 3(9), §1002(9), includes a corporation among persons, as well as an individual, partnership, joint venture, mutual company, joint-stock company, trust, estate, unincorporated organization, association, and employee organization. The plan Constitution reserves to the Company the right at any time and from time to time to modify or amend any or all provisions, in whole or in part, and separately reserves termination. Delaware §141(a) places corporate business and affairs under the board’s management or direction except as otherwise provided by that chapter or the certificate of incorporation. No charter, bylaw, delegation, or approval is established as a fact here. Section 402(a)(1)’s written-instrument and named-fiduciary requirements remain distinct from sponsor amendment authority. Sections 1022 and 1024 retain actual summary, disclosure, and instrument-access duties; an SPD is not proof of authorized amendment. Section 502(a)(1)(B) benefits enforcement is distinct from §502(a)(3)’s appropriate-equitable-relief category.
@@ -20996,7 +21041,7 @@ The diagnostic-center administrative instructions separately exclude investment 
 
 **Operative remedy or transition:** The clarified restoration decree is affirmed. Reinstatement confers only the rights of the M-F plan as it now exists. Past entitlement may be adjusted for intervening events, with relevant additional evidence and a conforming decree. Future lawful changes remain possible subject to applicable law and preserved retaliation or discrimination objections. No new payment amount or immutable lifetime entitlement is entered.
 
-**Treatment of earlier authority:** Russell's plan-centered §409 construction is preserved while its distinct §502(a)(3) question is answered. Mertens's equitable-category limit applies; its reserved antecedent action issue is not treated as an earlier action bar. Peacock's statutory-or-plan-violation requirement is met by the proved §404 breach; its later new-debtor jurisdictional holding does not govern this original action. Firestone supplies guidance within enacted limits.
+**Treatment of earlier authority:** Russell's plan-centered §409 construction is preserved while its distinct §502(a)(3) question is answered. Mertens's trust-law equitable categories apply, including its holding that §502(a)(3) permits surcharge against fiduciaries where its requirements are satisfied, so qualifying surcharge is a possible remedy for proved fiduciary deception; its reserved antecedent action issue is not treated as an earlier action bar. Peacock's statutory-or-plan-violation requirement is met by the proved §404 breach; its later new-debtor jurisdictional holding does not govern this original action. Firestone supplies guidance within enacted limits.
 
 ##### The ten retirees' independent assignment-breach ground was not adequately challenged
 
@@ -22384,7 +22429,7 @@ For the advisory-letter and regulatory-text holdings in Christensen, May 1, 2000
 
 **Proposition-level authority:** Thomas's Opinion of the Court, joined by all eight other Justices; nine direct joins cover the complete holding and bounded remand.
 
-**Material application:** Those limits prevent the rule from becoming general investment-loss insurance. Restitution of tainted property or proceeds and disgorgement of resulting profits differ from ordinary compensation. Rescission and comparable equitable relief likewise require their actual predicates; calling price recovery restitution does not settle its classification. Notice concerns this assumed purchaser for value. The Court decides neither that every gratuitous recipient must have notice nor which party bears the purchaser-defense burden.
+**Material application:** Those limits prevent the rule from becoming general investment-loss insurance. Restitution of tainted property or proceeds and disgorgement of resulting profits are gain-based remedies; they differ from ordinary compensation and from the loss restoration Mertens recognized against a knowing participant in an actionable breach, which this case does not present. Rescission and comparable equitable relief likewise require their actual predicates; calling price recovery restitution does not settle its classification. Notice concerns this assumed purchaser for value. The Court decides neither that every gratuitous recipient must have notice nor which party bears the purchaser-defense burden.
 
 **Limits and questions not reached:** Party-in-interest status, transaction prohibition, PTE75-1 or another exemption, notice, purchaser protection and burden, actual recoverable property/proceeds and the form or amount of equity remain open. No general damages action, universal monitoring duty, comprehensive future tracing formula, automatic fiduciary status or finding of initial worthlessness is adopted. No new finding about adequate alternative relief is made.
 
@@ -22394,7 +22439,7 @@ For the advisory-letter and regulatory-text holdings in Christensen, May 1, 2000
 
 **Treatment of earlier authority:**
 
-- **Mertens v. Hewitt Associates:** Applies its traditional-equitable-category limit while answering the distinct nonfiduciary-defendant question it reserved; ordinary compensation remains unavailable.
+- **Mertens v. Hewitt Associates:** Applies its trust-law identification of equitable categories while answering, for a knowing party-in-interest recipient, the distinct nonfiduciary-defendant question it reserved; its loss restoration against a knowing participant is distinguished from the gain-based relief sought here, and ordinary compensation remains unavailable.
 - **Varity Corp. v. Howe:** Preserves the distinct individual-equity channel and its existing conditions; the Court neither classifies every monetary item as equity nor makes a new alternative-remedy adequacy finding.
 - **Peacock v. Thomas:** Applies the requirement of an actual ERISA or plan violation; equitable recipient redress rests on the alleged prohibited transfer, not a freestanding trust-law wrong.
 - **Hartford Underwriters Insurance Co. v. Union Planters Bank, N.A.:** Preserves its source-specific restriction to section 506(c)'s designated claimant. Section 502(a)(3)'s identification of plaintiffs does not enact a categorical fiduciary-defendant restriction.
@@ -40736,14 +40781,17 @@ A showing that the requested reassignment conflicts with an established seniorit
 
 **Governing question:** Whether the United States–Mexico Extradition Treaty bars prosecution following a DEA-sponsored forcible transfer protested by Mexico.
 
-**Current rule:** The Treaty does not prohibit that abduction or make extradition the exclusive means of obtaining a defendant's presence. Absent a treaty restriction barring prosecution, Ker–Frisbie permits trial notwithstanding the forcible transfer and protest. Rauscher and Cook remain enforceable when a treaty does supply a relevant restriction.
+**Current rule:** The Treaty is operative federal law under Article VI, read for its text, context, the parties' reciprocal obligations, practice and the function of each provision; courts neither manufacture restrictions the parties did not adopt nor read it to let one party nullify a decision reserved to the other. Article 9 allocates to the requested State the decision whether to surrender its own nationals. The United States may not circumvent that allocation and then prosecute on the resulting custody when (1) the Treaty allocates the surrender decision; (2) the seizure is attributable to the United States Government; (3) it occurs in the other State's territory; (4) that State did not consent and formally objected; and (5) the prosecution depends on custody obtained through that conduct. The defendant may invoke the violation defensively when the contracting State whose rights were infringed formally objects. The remedy ends the prosecution founded on that custody and restores the treaty position by discharge and return; it is not an acquittal, a dismissal with prejudice or permanent immunity, and extradition or another authorized transfer remains available. Outside these predicates Ker–Frisbie permits trial notwithstanding an unlawful capture, and voluntary surrender, lawful deportation, consensual transfers and conduct of private persons not attributable to the Government are judged under their own law. Rauscher and Cook remain enforceable when a treaty supplies a relevant restriction.
 
 **Authority by component:**
-- Treaty construction and trial consequence: United States v. Alvarez-Machain, “This Treaty does not bar prosecution after the abduction”, June 15, 1992; White, joined by Scalia, Kennedy, Souter and Thomas (five).
+- Operative treaty allocation: Canonical Decision Record `United_States_v_Alvarez_Machain_merits_1992-06-15.md`, Controlling holdings / 1. The Treaty’s allocation of surrender decisions is operative federal law, June 15, 1992; Part I of Stone-Zsela's opinion of the Court, joined by Blackmun, Stevens, O'Connor and Souter (five). White, Scalia, Kennedy and Thomas dissent.
+- Bar on officially directed circumvention and its five predicates: Canonical Decision Record `United_States_v_Alvarez_Machain_merits_1992-06-15.md`, Controlling holdings / 2. The United States may not circumvent the Treaty’s surrender allocation by an officially directed seizure over Mexico’s objection, June 15, 1992; Part II of Stone-Zsela's opinion, same five Justices.
+- Defensive invocation when the injured State formally objects: Canonical Decision Record `United_States_v_Alvarez_Machain_merits_1992-06-15.md`, Controlling holdings / 3. The defendant may invoke the violation defensively when Mexico formally objects, June 15, 1992; Part III of Stone-Zsela's opinion, same five Justices.
+- Remedy: Canonical Decision Record `United_States_v_Alvarez_Machain_merits_1992-06-15.md`, Controlling holdings / 4. The remedy ends this prosecution and restores the treaty position without permanent immunity, June 15, 1992; Part IV of Stone-Zsela's opinion, same five Justices.
 
-**Present operation effective:** United States v. Alvarez-Machain, June 15, 1992.
+**Present operation effective:** United States v. Alvarez-Machain, June 15, 1992, enforcing Article 9's allocation of surrender decisions against officially directed circumvention over Mexico's objection.
 
-**Exceptions and limits:** The holding does not authorize abduction, decide its general international legality, foreclose all other remedies or establish a universal bar to individual treaty enforcement.
+**Exceptions and limits:** The holding does not authorize abduction, require extradition for every international acquisition of custody, create a general private damages action under treaties, authorize judicial supervision of diplomacy, or decide a constitutional, due-process, outrageous-conduct or customary-international-law bar to trial. Ker's ordinary rule is retained; to the extent Ker could be read to govern a government-directed circumvention of an applicable treaty's allocation, it is narrowed to that boundary. Whether a treaty confers enforceable individual rights in other settings is not decided.
 
 **Holdings navigation:** United States v. Alvarez-Machain, 504 U.S. 655 (1992) — International abduction and treaty limits on prosecution.
 
@@ -42204,18 +42252,21 @@ Section 853(e), including as incorporated through section 982, authorizes preser
 
 ### Discovery for an indirect racial selective-prosecution claim
 
-**Governing question:** Discovery of federal charging selection and the relevant Rule 16 scope.
+**Governing question:** Discovery of federal charging selection, the relevant Rule 16 scope and the staged inquiry.
 
-**Current rule:** Rule 16(a)(1)(C)’s material-preparation-of-the-defense branch does not authorize discovery to prepare a selective-prosecution challenge to the decision to prosecute. Before obtaining discovery on an indirect racial-selection theory through any properly established authority, the defendant must offer some credible evidence tending to show discriminatory effect and purpose, including a reliable inference that persons of another race relevantly similarly situated for federal prosecution could have been prosecuted but were not. This is less than a prima facie merits case. Relevant similarity is not identity: grounded statistics, circumstantial comparison and a specifically justified alternative when comparator names cannot reasonably be obtained may support the inference. A selected numerator alone, demographic generalization or hope that discovery creates the missing link does not. A protective order or reduced request scope cannot supply the threshold or original authority.
+**Current rule:** A selective-prosecution claim is governed by Wayte’s effect-and-purpose standard, with no proportionality requirement. Rule 16(a)(1)(C)’s material-preparation-of-the-defense provision reaches existing, material records in the Government’s possession, custody or control for a properly presented constitutional defense capable of defeating the prosecution, including a selective-prosecution defense, unless subdivision (a)(2), subdivision (a)(3) or a privilege protects them; it does not authorize compelled creation of nonexistent statistics or compilations, and the protective-order provision is not a source of disclosure authority. Discovery proceeds in three stages. First, the defendant must present specific and reliable evidence that raises a substantial question of discriminatory effect and purpose in the relevant enforcement setting and identifies the information needed to resolve it; full comparator evidence is not indispensable when its reasonable unavailability is shown, and generalized allegations, demographic assumptions or a selected count of those prosecuted do not suffice. Second, the court may order focused disclosure of existing, material, unprotected records within a bounded offense class and period, explaining materiality, why less intrusive evidence is inadequate and how confidentiality and privileges are protected, and accounting for federal eligibility, quantities, strength of the evidence, criminal history, weapons and enforcement priorities. Third, the claim is decided on the merits; a disclosure order establishes neither discrimination nor dismissal. Direct evidence of a discriminatory directive can justify inquiry without comparators; statistics alone must connect to the selection mechanism.
 
 **Authority by component:**
 
-- Confined Rule 16 nonauthorization: I. Rule 16 does not authorize discovery to prepare a selective-prosecution claim, 1996-05-13; O’Connor Part I with Scalia, Kennedy, Souter, Thomas and Ginsburg (six).
-- Preliminary effect/purpose showing and comparator flexibility: II. The existing showing does not support discovery of discriminatory federal selection, same date; O’Connor Part II with Stone-Zsela, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer (eight).
+- Wayte standard and no proportionality requirement: I. Wayte's effect-and-purpose standard governs the selective-prosecution claim, 1996-05-13; Breyer Part I with Stone-Zsela, Stevens, Souter and Ginsburg (five).
+- Rule 16 reach and limits: II. Rule 16(a)(1)(C) reaches existing, material records for a properly presented constitutional defense capable of defeating the prosecution, same date; Breyer Part II with Stone-Zsela, Stevens, Souter and Ginsburg (five).
+- Three stages: III. Discovery proceeds through a threshold inquiry, focused disclosure of existing records and the merits, same date; Breyer Part III with Stone-Zsela, Stevens, Souter and Ginsburg (five).
+- Explanation, distinctions, directives and statistics: IV. A disclosure order must account for executive interests and legitimate selection distinctions, same date; Breyer Part IV with Stone-Zsela, Stevens, Souter and Ginsburg (five).
+- Disposition and sanctions: V. The order and dependent dismissal are set aside, and this record justifies a limited inquiry, though not the original order, same date; Breyer Part V with Stone-Zsela, Stevens, Souter and Ginsburg (five); setting aside the order and dismissal, nine.
 
 **Present operation effective:** Armstrong, 1996-05-13.
 
-**Exceptions and limits:** The rule neither decides every guilt-unrelated affirmative defense nor supplies an alternative discovery source. Rule 16’s intended-use and defendant-origin triggers remain separate; aggregate data, criteria and internal deliberations are not automatically identical categories. No universal naming requirement, fixed comparator checklist or transfer to police-stop discovery follows. Whether direct admissions of discriminatory purpose dispense with comparator proof remains open.
+**Exceptions and limits:** Rule 16’s application to nonconstitutional defenses unrelated to guilt and any authority beyond the Rule are not decided. Rule 16’s intended-use and defendant-origin triggers remain separate; aggregate records, general criteria and internal case deliberations are not automatically identical categories. The staged inquiry is not routine supervision of charging policy. The listed distinctions are not a mandatory checklist, and no universal naming requirement or transfer to police-stop claims follows. If records do not exist, the court reassesses rather than ordering their creation; refusal of a valid order warrants a sanction fitted to the violation, not automatic dismissal. Whether direct evidence of discriminatory purpose dispenses with comparison on the merits remains open.
 
 **Holdings navigation:** United States v. Armstrong, 517 U.S. 456.
 
@@ -42239,17 +42290,18 @@ Section 853(e), including as incorporated through section 982, authorizes preser
 
 ### Objective probable cause for an ordinary initial traffic stop
 
-**Governing question:** An ordinary initial traffic stop supported by objective probable cause despite another investigative purpose.
+**Governing question:** An ordinary initial traffic stop supported by objective probable cause despite another investigative purpose, and objective rebuttal of its use as an instrument for an unrelated investigation.
 
-**Current rule:** Objective probable cause of a traffic violation supports an ordinary initial stop notwithstanding an unrelated investigative aim. Validity does not additionally depend on whether reasonable officers ordinarily would enforce that violation absent that aim, or on compliance with customary assignment and enforcement policies. Manner, scope and duration remain independently constrained: a materially greater detention or search requires independent grounds. This rule does not remove purpose-specific conditions from inventory and administrative exceptions; inventories retain standardized criteria or established routine and genuine inventory purposes rather than investigatory rummaging. Purposeful racial selection remains independently prohibited by Equal Protection.
+**Current rule:** Probable cause to believe that an observed traffic violation occurred makes an initial stop presumptively reasonable; the officer need not show the absence of an additional investigative motive, and an unrelated investigative aim alone does not make the stop unreasonable. The presumption is rebutted only by specific, articulable, objective evidence supporting a reasonable inference that traffic authority was used as an instrument for an unrelated investigation lacking its own sufficient grounds, judged on material deviation from established enforcement practices, the nature and seriousness of the violation, departure from the officer’s ordinary assignment or authority, comparable enforcement patterns, contemporaneous conduct and statements, and deliberate selection on an impermissible criterion. No factor is conclusive; motive alone, ordinary enforcement discretion or an internal policy violation alone is insufficient; the threshold showing precedes any further inquiry and opens no unrestricted discovery. After the threshold, the Government must prove by a preponderance independent lawful investigative grounds or that an objectively reasonable traffic-enforcement decision would have produced materially the same stop without the unsupported objective; departmental custom does not control that inquiry, and courts examine it independently; safety, dangerous driving and consistently applied enforcement priorities can justify the stop, but a department cannot constitutionalize arbitrary enforcement. Manner, scope and duration remain independently constrained in either branch: a materially greater detention or search requires independent grounds. This rule does not remove purpose-specific conditions from inventory and administrative exceptions; inventories retain standardized criteria or established routine and genuine inventory purposes rather than investigatory rummaging. Purposeful racial selection remains independently prohibited by Equal Protection, and disparities alone do not prove intent.
 
 **Authority by component:**
 
-- Objective initial-stop rule: Objective traffic probable cause supports this ordinary initial stop; independent execution and discrimination limits: Policy, execution and discrimination limits, 1996-06-10; Thomas’s unanimous opinion.
+- Presumption, objective rebuttal and Government justification: I. Probable cause of an observed violation makes the stop presumptively reasonable; II. Specific objective evidence of instrumental use can rebut the presumption; III. After the threshold showing, the Government must justify the stop, 1996-06-10; Ginsburg’s opinion with Stone-Zsela, Stevens, O’Connor and Breyer (five); Thomas, joined by Scalia, Kennedy and Souter, dissenting.
+- Independent equal-protection prohibition and application: IV. Equal protection remains an independent prohibition; V. The credited record presents a substantial question for the lower courts, same date; the same five.
 
 **Present operation effective:** Whren, 1996-06-10.
 
-**Open question:** No discovery entitlement, immunity, suppression consequence or damages remedy for discriminatory selection is decided. Armstrong’s federal-charging threshold is not transferred to stop claims; traffic probable cause does not authorize every later intrusion.
+**Open question:** No discovery entitlement, immunity, suppression consequence or damages remedy for discriminatory selection is decided. Armstrong’s Rule 16 reading and staged inquiry for federal prosecutorial discovery are not transferred to police-seizure challenges; traffic probable cause does not authorize every later intrusion.
 
 **Holdings navigation:** Whren v. United States, 517 U.S. 806.
 
@@ -47711,13 +47763,16 @@ Section 440(d) separately removes §212(c) eligibility for the same enumerated �
 
 **Governing question:** Available equitable categories and individual redress under ERISA §502(a)(3).
 
-**Current rule:** Section 502(a)(3)'s appropriate equitable relief means traditionally equitable categories, not compensatory damages merely because equity could award them in trust litigation. Compensation from an admitted nonfiduciary for plan losses is unavailable under that provision. The rule does not prohibit every equitable monetary remedy. For a prohibited, nonexempt section 406(a) transfer, section 502(a)(3)’s authorized plaintiffs may seek appropriate traditional equity from a nonfiduciary party-in-interest recipient, although the direct section 406(a) duty remains the fiduciary’s. For a purchaser for value, actual or constructive notice of the circumstances making the transfer unlawful is required; a purchaser for value without notice retains traditional protection. Restitution of transferred property or proceeds, resulting profits and rescission require their actual equitable predicates and are distinct from ordinary compensation. Sections 409 and 502(a)(2)’s plan-centered remedy does not categorically bar §502(a)(3)’s appropriate individual equity for an actual §404 violation. Adequate relief under another ERISA provision normally makes further equity unnecessary and inappropriate, without an absolute prohibition governing every alternative pleading. Relief must redress an actual ERISA or plan obligation; veil piercing alone supplies no freestanding violation.
+**Current rule:** Section 502(a)(3)'s appropriate equitable relief means remedies historically recognized in equity, identified in ERISA's statutory trust setting by reference to the law of trusts; a remedy is not legal damages merely because it requires a payment of money. The provision permits appropriate monetary restoration traditionally available in trust litigation, including surcharge against fiduciaries where its requirements are satisfied (actual loss caused by the breach, or the elimination of unjust enrichment); where an otherwise actionable claim establishes a nonfiduciary's knowing participation in an actionable breach of trust, restoration of the loss attributable to that participation is not categorically excluded merely because the defendant did not receive the lost assets. Those remedies require an authorized statutory action and an actionable violation, a historically recognized equitable basis against the defendant, the required knowledge or fiduciary responsibility, actual loss or another recognized equitable measure, and causation and equitable limits; negligent professional advice is not knowing participation, the inquiry for a third party is more demanding than for a fiduciary, and professional status does not make a defendant a fiduciary. Punitive awards, general tort compensation, remedies available only after the merger of law and equity and every remedy an equity court could award incidentally remain outside the provision. Section 502(l) confirms that monetary recovery and equitable relief coexist in ERISA's scheme but creates no private action. Whether section 502(a)(3) supplies an action against a nonfiduciary who knowingly participates in a fiduciary's breach was reserved in Mertens. For a prohibited, nonexempt section 406(a) transfer, section 502(a)(3)’s authorized plaintiffs may seek appropriate traditional equity from a nonfiduciary party-in-interest recipient, although the direct section 406(a) duty remains the fiduciary’s. For a purchaser for value, actual or constructive notice of the circumstances making the transfer unlawful is required; a purchaser for value without notice retains traditional protection. Restitution of transferred property or proceeds and resulting profits are gain-based; they and rescission require their actual equitable predicates and are distinct from ordinary compensation and from loss restoration against a knowing participant in a fiduciary's breach. Sections 409 and 502(a)(2)’s plan-centered remedy does not categorically bar §502(a)(3)’s appropriate individual equity for an actual §404 violation. Adequate relief under another ERISA provision normally makes further equity unnecessary and inappropriate, without an absolute prohibition governing every alternative pleading. Relief must redress an actual ERISA or plan obligation; veil piercing alone supplies no freestanding violation.
 
 An accrued contractual payment obligation does not become equitable merely because relief is styled injunction, specific performance or restitution. A constructive trust or equitable lien ordinarily requires identifiable property or proceeds, an equitable entitlement and the necessary connection to the defendant holding the property, subject to the remedy's defenses. Personal collection from other assets is different. An accounting for profits has distinct predicates; this rule supplies no universal tracing formula for all monetary equity.
 
 **Authority by component:**
 
-- The reviewed compensatory award is not appropriate equitable relief: Mertens v. Hewitt Associates — The reviewed compensatory award is not appropriate equitable relief, 1993-06-01. Scalia’s Opinion of the Court; Blackmun, Scalia, Kennedy, Souter, Thomas (5 Justices). Direct majority support for this exact proposition; no Marks synthesis.
+- Trust-law equitable categories: Mertens v. Hewitt Associates — Appropriate equitable relief in ERISA’s trust setting is identified by trust-law remedies, 1993-06-01. White’s Opinion of the Court; Stone-Zsela, White, Stevens, O’Connor, Souter (5 Justices). Direct majority support for this exact proposition; no Marks synthesis.
+- Trust-law monetary restoration and surcharge: Mertens v. Hewitt Associates — Trust-law monetary restoration, including surcharge against fiduciaries, is appropriate equitable relief, 1993-06-01. White’s Opinion of the Court; Stone-Zsela, White, Stevens, O’Connor, Souter (5 Justices). Direct majority support for this exact proposition; no Marks synthesis.
+- Conditions and the reserved action question: Mertens v. Hewitt Associates — Restoration requires an actionable claim and its equitable predicates; the antecedent action question is reserved, 1993-06-01. White’s Opinion of the Court; Stone-Zsela, White, Stevens, O’Connor, Souter (5 Justices). Direct majority support for this exact proposition; no Marks synthesis.
+- Section 502(l) confirmation: Mertens v. Hewitt Associates — The knowing-participation penalty provision confirms the remedy without creating a private action, 1993-06-01. White’s Opinion of the Court; Stone-Zsela, White, Stevens, O’Connor, Souter (5 Justices). Direct majority support for this exact proposition; no Marks synthesis.
 - Varity — Part III, individual equity and qualified adequacy principle, 1996-03-19; Souter, Stevens, Kennedy, Ginsburg and Breyer (five); Stone-Zsela’s stricter condition is noncontrolling.
 - Peacock — ERISA enforcement requires an independently violated statutory or plan obligation, 1996-02-21; Thomas, O’Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer (seven).
 
@@ -47729,7 +47784,7 @@ An accrued contractual payment obligation does not become equitable merely becau
 
 **Holdings navigation:** Mertens v. Hewitt Associates, 508 U.S. 248 (1993); Varity Corp. v. Howe, 516 U.S. 489; Peacock v. Thomas, 516 U.S. 349.
 
-**Exceptions and limits:** Restoration supplies existing membership rights, not immutable benefits. The controlling rule does not classify every substituted monetary item as equitable or adopt all trust-law compensation. An adequate benefits remedy is not established merely because that statutory route exists in the abstract.
+**Exceptions and limits:** Restoration supplies existing membership rights, not immutable benefits. The controlling rule does not classify every substituted monetary item as equitable, adopt every remedy a trust court could award incidentally, or itself establish fiduciary status, knowing participation, loss or an amount of recovery. An adequate benefits remedy is not established merely because that statutory route exists in the abstract.
 
 **Open question:** Harris Trust leaves the purchaser-defense burden, gratuitous-recipient notice, actual transaction and exemption predicates, recoverable property and specific equity unresolved. It supplies no comprehensive tracing rule, universal monitoring duty, automatic fiduciary status or new finding of adequate alternative relief.
 

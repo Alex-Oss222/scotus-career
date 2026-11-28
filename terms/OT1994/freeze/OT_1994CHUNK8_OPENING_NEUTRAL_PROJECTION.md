@@ -1538,7 +1538,7 @@ Authority: [Record](../records/Curtiss_Wright_Corp_v_Schoonejongen_merits_1995-0
 
 **Precedent treatment:**
 
-- Mertens v. Hewitt Associates, 508 U.S. 248 — the reviewed §502(a)(3) compensation limit remains; it does not bar benefits due under §502(a)(1)(B).
+- Mertens v. Hewitt Associates, 508 U.S. 248 — its trust-law limits on §502(a)(3) equitable relief remain; they do not bar benefits due under §502(a)(1)(B).
 - John Hancock Mutual Life Insurance Co. v. Harris Trust & Savings Bank — the distinction between legal status and ultimate liability is preserved; no new breach or remedy follows merely from identifying amendment power.
 
 ### Operative text, qualifications, and limits
@@ -1547,7 +1547,7 @@ ERISA §402(b)(3), 29 U.S.C. §1102(b)(3), requires every plan to provide a proc
 
 - Nationwide Mutual Insurance Co. v. Darden, 503 U.S. 318 — ordinary legal meaning informs ERISA where the enacted text supplies no contrary rule; no employee-classification test is imported into amendment authority.
 - John Hancock Mutual Life Insurance Co. v. Harris Trust & Savings Bank (December 13, 1993) — status and function remain separate from breach and relief; procedural sufficiency establishes no final amendment or immunity.
-- Mertens v. Hewitt Associates, 508 U.S. 248 — the reviewed §502(a)(3) compensation limit remains; it does not bar benefits due under §502(a)(1)(B).
+- Mertens v. Hewitt Associates, 508 U.S. 248 — its trust-law limits on §502(a)(3) equitable relief remain; they do not bar benefits due under §502(a)(1)(B).
 - John Hancock Mutual Life Insurance Co. v. Harris Trust & Savings Bank — the distinction between legal status and ultimate liability is preserved; no new breach or remedy follows merely from identifying amendment power.
 
 Section 402(b)(3) permits this corporate identification and amendment mechanism. Legal sufficiency and actual authorized amendment remain distinct inquiries. No universal ERISA procedure-violation remedy, amendment immunity, or vesting rule is adopted.

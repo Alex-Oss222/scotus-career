@@ -1,6 +1,6 @@
 # Roy — historical reconciliation repair receipt
 
-**Status:** Matter 2 is not finally reconciled. The initial commitments remain frozen and unmodified in `OT_1996CHUNK1_COMMITMENTS_A.md`, SHA-256 `040a109a8d149187662a6a3b8a5bafd82d4776ca9404b508f02fa5c005589f73`. This receipt is for the operator/reconciliation stage. It must not be supplied to the fresh neutral/model context because it contains the historical comparator and provisional commitments. Supply that context only the companion clean `ROY_NEUTRAL_SOURCE_SUPPLEMENT.md`, the authorized original neutral material and entering law. No Stone material was read.
+**Status:** Matter 2 is not finally reconciled. The initial commitments remain frozen and unmodified in `OT_1996CHUNK1_COMMITMENTS_A.md`, SHA-256 `7a327e73c6cc1b0392a91d0d97c807897eb93b314e306d0d2b3a0305f0ac9d82`. This receipt is for the operator/reconciliation stage. It must not be supplied to the fresh neutral/model context because it contains the historical comparator and provisional commitments. Supply that context only the companion clean `ROY_NEUTRAL_SOURCE_SUPPLEMENT.md`, the authorized original neutral material and entering law. No Stone material was read.
 
 ## Exact defect requiring repair
 
@@ -26,4 +26,4 @@ The complete historical *California v. Roy*, 519 U.S. 2, including the per curia
 
 ## Unaffected handoff
 
-Matters 1, 3 and 5 are independently finalized in `OT_1996CHUNK1_RECONCILED_A_READY.md`, SHA-256 `61bd97dce8893e3b66c7df1519f2d614f8a56053b990fa1d66ad912d2fb6e669`. Eight Justice rows per matter are present. That handoff is ready for assembly and is not reopened by this Roy repair. No Court Record, tracker or workspace projection was created by this reconciliation context.
+Matters 1, 3 and 5 are independently finalized in `OT_1996CHUNK1_RECONCILED_A_READY.md`, SHA-256 `e8e744e36e4a8896305a4e5edd0e6997ddd33a2a507338d5e991c72fa1fb1dfb`. Eight Justice rows per matter are present. That handoff is ready for assembly and is not reopened by this Roy repair. No Court Record, tracker or workspace projection was created by this reconciliation context.

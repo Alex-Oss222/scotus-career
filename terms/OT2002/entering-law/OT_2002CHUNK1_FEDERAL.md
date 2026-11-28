@@ -6757,7 +6757,7 @@ Pre-AEDPA Rule 9(b) distinguishes repeated grounds after merits determination fr
 - **Tumey v. Ohio:** Applied for the constitutional requirement of a neutral adjudicator; no case-specific violation is yet found.
 - **Ward v. Village of Monroeville:** Applied for that requirement notwithstanding ordinary assumptions of judicial regularity.
 - **Aetna Life Insurance Co. v. Lavoie:** Applied to distinguish a disqualifying judicial interest or bias from an unproved allegation; the ultimate constitutional issue remains open.
-- **United States v. Armstrong:** Its source- and claim-sensitive preliminary inquiry is respected; the selective-prosecution test and comparator requirement do not replace Rule 6.
+- **United States v. Armstrong:** Its source- and claim-sensitive preliminary inquiry is respected; the selective-prosecution test and comparator showing do not replace Rule 6.
 - **Liteky v. United States:** Its federal §455(a) appearance rule is distinguished from the constitutional standard for relief from a state conviction; appearance alone does not resolve this habeas claim.
 
 ### Temporal reach of federal habeas amendments
@@ -11166,7 +11166,7 @@ For the tying rule in United States v. Microsoft Corp., January 22, 2002, lower-
 
 **Treatment of earlier authority:**
 
-- Mertens v. Hewitt Associates, 508 U.S. 248: its traditional-equitable-category construction controls; neither its compensation exclusion nor preserved genuine monetary equity is displaced.
+- Mertens v. Hewitt Associates, 508 U.S. 248: its trust-law equitable-category construction controls; neither its exclusion of general compensation nor its recognition of surcharge against fiduciaries and of knowing-participation restoration is displaced.
 - Harris Trust and Savings Bank v. Salomon Smith Barney Inc., 530 U.S. 238: equitable recipient relief remains available on its actual predicates and defenses; it supplies neither this missing property connection nor a universal tracing formula.
 - Varity Corp. v. Howe, 516 U.S. 489: appropriate individual equity remains within statutory categories and ordinary adequate-remedy limits.
 

@@ -12,7 +12,7 @@ Independently checked SHA-256 identifiers:
 
 - `entering-law/OT_1996CHUNK4_AUER_PUBLIC_DELTA.md`: `12A3B6C362B88A60A94DA1FEF5CDF9B3D268D9DF069BC55D5F23AAFED648AF05`.
 - `entering-law/OT_1996CHUNK4_FEB19_PUBLIC_DELTA.md`: `4FE9DA6E0C5D19850B27E33B2A045B63CB4BC82178CBF170D1DBD4697EB88675`.
-- `freeze/OT_1996CHUNK4_COMMITMENTS_B_FEB19_REVALIDATION.md`: `B2A530A521807DE36CC277D128ADF4B064CA3434DE12C5C47BE37123A1B7C2B4`.
+- `freeze/OT_1996CHUNK4_COMMITMENTS_B_FEB19_REVALIDATION.md`: `690A934E9A02EDC38AC5D574F8BBC2FAC295772A2541EA322CE77E7DE5B510E7`.
 
 The original reconciliation's completed historical full-read receipt and Justice-specific source grounds remain incorporated. No new historical research or neutral factual premise was needed. No raw Record link, ledger, original brief, present-case Stone material, assembly material or locked top-level directory was accessed. Earlier public Stone writings were considered only at their published precedential status. No Git operation occurred. This addendum writes no assignment or Decision Record and preserves all earlier freezes.
 

@@ -481,25 +481,79 @@ For the other questions in *United States v. Williams*, May 4, 1992, No. 90-1972
 **Docket or dockets:** No. 91-712.
 **Decided:** June 15, 1992.
 
-##### Whether the United States–Mexico Extradition Treaty bars prosecution following this officially sponsored, protested abduction
+##### Whether the Treaty’s allocation of surrender decisions to the requested State is operative law
 
-**Holding:** The United States–Mexico Extradition Treaty does not prohibit this abduction or make extradition its exclusive means of obtaining a defendant’s presence. Because the Treaty supplies no restriction barring this prosecution, the Ker–Frisbie rule permits trial notwithstanding the DEA-sponsored forcible transfer and Mexico’s protest; the treaty-based dismissal and repatriation order must be reversed.
+**Holding:** The United States–Mexico Extradition Treaty is law of the United States under Article VI, and courts give its terms operative effect by reading them for their text, their context, the parties’ reciprocal obligations, their practice and the function each provision performs. Article 9 allocates to the requested State the decision whether to surrender its own nationals and, if it declines, to submit the case to its own prosecuting authorities. Courts neither manufacture restrictions the parties did not adopt nor read the Treaty to let one party nullify a decision it expressly reserves to the other.
 
-**Proposition-level authority:** White's opinion of the Court, joined by Scalia, Kennedy, Souter and Thomas; five Justices adopt the treaty construction, application and remedy. Stone, Blackmun, Stevens and O'Connor dissent from the 5–4 reversal.
+**Proposition-level authority:** Part I of Stone-Zsela's opinion of the Court, joined by Blackmun, Stevens, O'Connor and Souter; five direct joins. White, Scalia, Kennedy and Thomas dissent from the 5–4 affirmance.
 
-**Material application:** Article 9 preserves discretion over surrender of nationals and submission for domestic prosecution when surrender is declined within that process. It does not require every acquisition of custody to use extradition. Undisputed DEA sponsorship and Mexico's protest do not supply the missing Treaty restriction.
+**Material application:** Article 9 reserves to Mexico the decision whether to surrender its national or submit the case to its own prosecutors. The Treaty's silence about abduction does not deprive that reservation of operative content.
 
-**Limits and questions not reached:** The decision does not authorize abduction, decide guilt or independent capture legality, foreclose every other remedy, or establish a universal bar to individual treaty enforcement. No extradition under the Treaty produced this transfer. The independently rejected outrageous-conduct theory is not reconsidered, and no separate Verdugo-Urquidez docket is adjudicated.
+**Limits and questions not reached:** The decision does not authorize abduction, require extradition for every international acquisition of custody, adjudicate guilt, or decide a constitutional, due-process, outrageous-conduct or customary-international-law bar to trial. Captures by private persons not attributable to the Government, voluntary surrender, lawful deportation and consensual transfers are judged under their own law, and Ker–Frisbie remains the default outside the stated predicates. No general private damages action under treaties is created, and courts do not supervise diplomacy. The independently rejected outrageous-conduct theory is not reconsidered, and no separate Verdugo-Urquidez docket is adjudicated.
 
-**Operative remedy or transition:** The Ninth Circuit treaty-based trial bar, appellate dismissal direction and repatriation disposition are reversed and remanded, permitting prosecution. No diplomatic return is ordered. The district order had discharged respondent and ordered repatriation without separately dismissing the indictment; the appellate characterization is not a new district disposition.
+**Operative remedy or transition:** The Ninth Circuit's judgment sustaining the treaty bar to trial, the discharge and the repatriation order is affirmed, 5–4; the prosecution founded on the custody obtained through the seizure ends. The district order had discharged respondent and ordered repatriation without separately dismissing the indictment; the affirmance creates no district dismissal order, dismissal with prejudice, acquittal or permanent immunity, and extradition or another transfer Mexico authorizes remains available.
 
 **Treatment of earlier authority:**
 
-- Ker v. Illinois, 119 U.S. 436 (1886): applied to trial authority after this official international abduction because the Treaty supplies no contrary limitation; not treated as affirmative authorization to seize.
-- Frisbie v. Collins, 342 U.S. 519 (1952): retained and applied for the distinction between unlawful capture and the power to conduct a lawful trial.
-- United States v. Rauscher, 119 U.S. 407 (1886): retained; its enforceable treaty limitation follows actual extradition on specified terms and does not make this different Treaty exclusive.
-- Cook v. United States, 288 U.S. 102 (1933): distinguished; an established treaty restriction on governmental seizure controls there, and no comparable restriction is found here.
-- Air France v. Saks, 470 U.S. 392 (1985), and Valentine v. United States ex rel. Neidecker, 299 U.S. 5 (1936): applied to begin with the Treaty’s terms and determine the adopted obligation rather than assume it.
+- Air France v. Saks, 470 U.S. 392 (1985), and Valentine v. United States ex rel. Neidecker, 299 U.S. 5 (1936): applied; interpretation begins with the Treaty’s terms read in context, and no obligation is supplied that the parties did not adopt.
+- Chan v. Korean Air Lines, Ltd., 490 U.S. 122 (1989): applied as a limit; courts do not insert a missing sanction from purpose alone.
+- United States v. Rauscher, 119 U.S. 407 (1886): applied; an obligation necessarily implied by a treaty’s text and structure is enforceable law.
+
+##### Whether the United States–Mexico Extradition Treaty bars prosecution following this officially sponsored, protested abduction
+
+**Holding:** Where a treaty allocates to the other party the decision whether to surrender a person, the United States may not circumvent that allocation through a forcible seizure attributable to it in the other party’s territory, without that party’s consent and over its formal objection, and then prosecute the person on the custody so obtained. The bar applies only when five predicates are met: (1) the Treaty allocates the surrender decision, as Article 9 does for a party’s nationals; (2) the seizure is attributable to the United States Government; (3) it occurs in the other party’s territory; (4) that party did not consent and formally objected; and (5) the prosecution depends on custody obtained through that conduct. Extradition is not the exclusive lawful means of acquiring custody: voluntary surrender, lawful deportation, consensual transfers and conduct of private persons not attributable to the Government are judged under their own law. Each predicate is met on this record.
+
+**Proposition-level authority:** Part II of Stone-Zsela's opinion of the Court, joined by Blackmun, Stevens, O'Connor and Souter; five direct joins. White, Scalia, Kennedy and Thomas dissent from the 5–4 affirmance.
+
+**Material application:** Persons paid to act at DEA behest seized Alvarez-Machain in Guadalajara and brought him to the United States; official responsibility does not depend on whether regular DEA personnel performed the seizure. Mexico did not consent, formally protested and consistently demanded his return. No extradition proceeding under the Treaty produced the transfer, and the prosecution depends on the custody so obtained.
+
+**Limits and questions not reached:** The decision does not authorize abduction, require extradition for every international acquisition of custody, adjudicate guilt, or decide a constitutional, due-process, outrageous-conduct or customary-international-law bar to trial. Captures by private persons not attributable to the Government, voluntary surrender, lawful deportation and consensual transfers are judged under their own law, and Ker–Frisbie remains the default outside the stated predicates. No general private damages action under treaties is created, and courts do not supervise diplomacy. The independently rejected outrageous-conduct theory is not reconsidered, and no separate Verdugo-Urquidez docket is adjudicated.
+
+**Operative remedy or transition:** The Ninth Circuit's judgment sustaining the treaty bar to trial, the discharge and the repatriation order is affirmed, 5–4; the prosecution founded on the custody obtained through the seizure ends. The district order had discharged respondent and ordered repatriation without separately dismissing the indictment; the affirmance creates no district dismissal order, dismissal with prejudice, acquittal or permanent immunity, and extradition or another transfer Mexico authorizes remains available.
+
+**Treatment of earlier authority:**
+
+- Ker v. Illinois, 119 U.S. 436 (1886): ordinary rule retained; distinguished, because the kidnapper there acted without governmental authority and no government circumvented an applicable treaty’s allocation. To the extent Ker could be read to govern such a circumvention, it is narrowed to that boundary; it is not treated as affirmative authorization to seize.
+- Frisbie v. Collins, 342 U.S. 519 (1952): preserved; it involved no treaty, and its distinction between unlawful capture and the power to conduct a lawful trial remains the default outside the stated predicates.
+- United States v. Rauscher, 119 U.S. 407 (1886): extended from limits that follow an actual surrender to the surrender decision the Treaty reserves before any surrender.
+- Cook v. United States, 288 U.S. 102 (1933): applied; a treaty limit on the Government’s own power of seizure binds courts, and the Government may not rely on what it obtained by exceeding it.
+- Chan v. Korean Air Lines, Ltd., 490 U.S. 122 (1989): distinguished; no sanction is inserted from purpose alone, because the limit follows from the allocation Article 9 makes and is confined to its five predicates.
+
+##### Whether the defendant may invoke the violation in his own prosecution
+
+**Holding:** A defendant prosecuted on custody obtained in violation of the Treaty’s allocation may invoke the violation defensively in that prosecution when the contracting State whose rights were infringed formally objects. The holding creates no general private action for damages under treaties and does not authorize courts to supervise the conduct of diplomacy.
+
+**Proposition-level authority:** Part III of Stone-Zsela's opinion of the Court, joined by Blackmun, Stevens, O'Connor and Souter; five direct joins. White, Scalia, Kennedy and Thomas dissent from the 5–4 affirmance.
+
+**Material application:** Mexico formally objected: its protest was prompt and unequivocal and demanded return, so Alvarez-Machain may invoke the bar defensively. The Government's argument that only the offended sovereign may enforce the Treaty is answered by that condition rather than by excluding the defendant.
+
+**Limits and questions not reached:** The decision does not authorize abduction, require extradition for every international acquisition of custody, adjudicate guilt, or decide a constitutional, due-process, outrageous-conduct or customary-international-law bar to trial. Captures by private persons not attributable to the Government, voluntary surrender, lawful deportation and consensual transfers are judged under their own law, and Ker–Frisbie remains the default outside the stated predicates. No general private damages action under treaties is created, courts do not supervise diplomacy, and whether a treaty confers enforceable individual rights in other settings is not decided. The independently rejected outrageous-conduct theory is not reconsidered, and no separate Verdugo-Urquidez docket is adjudicated.
+
+**Operative remedy or transition:** The Ninth Circuit's judgment sustaining the treaty bar to trial, the discharge and the repatriation order is affirmed, 5–4; the prosecution founded on the custody obtained through the seizure ends. The district order had discharged respondent and ordered repatriation without separately dismissing the indictment; the affirmance creates no district dismissal order, dismissal with prejudice, acquittal or permanent immunity, and extradition or another transfer Mexico authorizes remains available.
+
+**Treatment of earlier authority:**
+
+- United States v. Rauscher, 119 U.S. 407 (1886): applied; a defendant may invoke a treaty limit in his own prosecution.
+- Cook v. United States, 288 U.S. 102 (1933): applied; a private litigant may rely on a treaty limit on the Government’s seizure in the proceeding the Government brings.
+- Ker v. Illinois, 119 U.S. 436 (1886): distinguished; it presented no government-directed circumvention of an applicable treaty for a defendant to invoke.
+
+##### What remedy follows from the violation
+
+**Holding:** The remedy for the violation is to end the prosecution founded on the unlawfully acquired custody and to restore the position the Treaty protects: Alvarez-Machain is discharged from that custody and returned to Mexico. The remedy is not an acquittal, a dismissal with prejudice, a finding of guilt or innocence, or damages, and it confers no permanent immunity. The United States may seek his surrender through extradition under the Treaty or another transfer Mexico authorizes, and this holding does not bar a prosecution on custody so obtained.
+
+**Proposition-level authority:** Part IV of Stone-Zsela's opinion of the Court, joined by Blackmun, Stevens, O'Connor and Souter; five direct joins. White, Scalia, Kennedy and Thomas dissent from the 5–4 affirmance.
+
+**Material application:** Alvarez-Machain is discharged from the custody obtained through the seizure and returned to Mexico, which may surrender him, submit the case to its own prosecutors under Article 9 or decline. The allegations of participation in the charged crimes remain unadjudicated.
+
+**Limits and questions not reached:** The decision does not authorize abduction, require extradition for every international acquisition of custody, adjudicate guilt, or decide a constitutional, due-process, outrageous-conduct or customary-international-law bar to trial. Captures by private persons not attributable to the Government, voluntary surrender, lawful deportation and consensual transfers are judged under their own law, and Ker–Frisbie remains the default outside the stated predicates. No general private damages action under treaties is created, and courts do not supervise diplomacy. The independently rejected outrageous-conduct theory is not reconsidered, and no separate Verdugo-Urquidez docket is adjudicated.
+
+**Operative remedy or transition:** The Ninth Circuit's judgment sustaining the treaty bar to trial, the discharge and the repatriation order is affirmed, 5–4; the prosecution founded on the custody obtained through the seizure ends. The district order had discharged respondent and ordered repatriation without separately dismissing the indictment; the affirmance creates no district dismissal order, dismissal with prejudice, acquittal or permanent immunity, and extradition or another transfer Mexico authorizes remains available.
+
+**Treatment of earlier authority:**
+
+- Cook v. United States, 288 U.S. 102 (1933): applied; the Government may not retain the benefit of a seizure that exceeded its treaty authority.
+- Frisbie v. Collins, 342 U.S. 519 (1952): preserved; outside the treaty circumvention addressed here, an unlawful capture does not by itself require release.
+- United States v. Rauscher, 119 U.S. 407 (1886): applied by analogy; a treaty limit on prosecution operates on the Government’s authority to proceed and does not adjudicate the charged conduct.
 
 ### Official-right extortion
 
@@ -2746,37 +2800,57 @@ No precedent is overruled. The separate writings' broader or contrary theories a
 **Docket or dockets:** No. 95-157.
 **Decided:** May 13, 1996.
 
-##### Rule 16 authority for selective-prosecution discovery
+##### Wayte's effect-and-purpose standard governs the selective-prosecution claim
 
-**Holding:** Rule 16(a)(1)(C)'s defense-preparation materiality provision does not authorize discovery to prepare this selective-prosecution challenge to the decision to prosecute. The holding concerns that claim alone, rather than all affirmative defenses unrelated to guilt or every possible source of constitutionally warranted inquiry.
+**Holding:** A claim that federal prosecutors selected defendants for prosecution because of race is governed by Wayte's equal-protection standard: the defendant must ultimately prove that the charging decision had a discriminatory effect and was motivated by a discriminatory purpose. The Constitution does not require that prosecutions be proportional to offending or arrest rates among racial groups, and the showing that opens limited discovery is distinct from the proof that establishes a violation.
 
-**Proposition-level authority:** Opinion of the Court (O'Connor), Part I, joined by Scalia, Kennedy, Souter, Thomas and Ginsburg; six. Souter and Ginsburg join only the stated selective-prosecution scope. Breyer supplies a different source analysis; Stone-Zsela does not join Part I. Stevens's separate agreement that the Rule supplies no entitlement is not a join in the Court's reasoning.
+**Proposition-level authority:** Opinion of the Court (Breyer), Part I, joined by Stone-Zsela, Stevens, Souter and Ginsburg; five. O'Connor, Scalia, Kennedy and Thomas agree in their separate opinion that Wayte's effect-and-purpose standard governs, without joining.
 
-**Material application:** The other disjunctive triggers—Government intent to use the material in its evidence in chief and acquisition from or ownership by the defendant—are not established. Protective and sanction powers regulate an existing duty rather than create it. No established entitlement under Rule 17(c), *Brady*, or compulsory process supplies the missing source on this showing. The Court makes no waiver finding and does not attribute its construction to the Government or lower courts.
+**Treatment of earlier authority:** *Wayte* supplies the effect-and-purpose standard, and the discovery question it reserved is resolved here; no proportionality requirement is added. *Yick Wo*'s discriminatory-administration inference remains available on a properly connected pattern. *McCleskey* requires connection to the challenged decision without categorically excluding statistics, and the showing that opens limited discovery is distinct from merits proof.
 
-##### Preliminary showing of discriminatory selection
+##### Rule 16(a)(1)(C) reaches existing, material records for a properly presented constitutional defense capable of defeating the prosecution
 
-**Holding:** Discovery on this indirect racial-selection theory requires some credible evidence tending to show discriminatory effect and purpose, including a reliable basis to infer that relevantly similarly situated persons of another race eligible for federal prosecution could have been prosecuted but were not. This is less than a prima facie merits case. Grounded statistics, circumstantial comparisons, and a specifically justified alternative evidentiary basis when comparator names cannot reasonably be obtained may establish the inference; neither perfect identity, universal naming, nor a fixed checklist is required.
+**Holding:** Rule 16(a)(1)(C)'s provision for items material to the preparation of the defendant's defense includes a properly presented constitutional defense capable of defeating the prosecution. The selective-prosecution defense presented here is one such defense. The Rule authorizes inspection of existing, material records in the Government's possession, custody or control that subdivision (a)(2), subdivision (a)(3) or a privilege does not protect; it does not authorize an order compelling the Government to create statistics or compilations that do not exist, and subdivision (d)(1)'s protective-order provision is not a source of disclosure authority.
 
-**Proposition-level authority:** Part II, joined by Stone-Zsela, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; eight. The shared rule assumes discovery may be available on an appropriate showing without establishing another source of authority.
+**Proposition-level authority:** Part II, joined by Stone-Zsela, Stevens, Souter and Ginsburg; five. O'Connor, Scalia, Kennedy and Thomas would hold that the provision does not authorize discovery to prepare this claim.
 
-**Material application:** The selected sample of 24 Black federal defendants supplies a numerator, not an eligible charging population or sufficiently comparable offenders passed over. State-practice experience and relayed treatment observations, considered cumulatively with the developed Government response, fail to connect the comparison to relevant quantities, firearms, evidence, and criminal histories. Government proffers identify gaps without establishing neutrality or disproving the sample's bounded count. Insufficiency does not prove comparators nonexistent. Access difficulty is real; discovery may complete a grounded inference but cannot create its missing connection solely from hope.
+**Material application:** The three disjunctive triggers perform different work, and a constitutional objection that would bar the prosecution, such as a proved selective-prosecution claim, is a defense. Paragraph (a)(2) protects internal Government documents made in connection with the investigation or prosecution of the case and limits witness statements through §3500; paragraph (a)(3) preserves the grand-jury exceptions; privileges remain. The Rule permits inspection of what exists and imposes no duty to compile data or explain decisions. The Court makes no waiver finding and does not attribute its construction to the Government or lower courts.
 
-**Limits and questions not reached:** The request fails on discriminatory effect; no independent purpose deficiency or ultimate discrimination finding is decided. Whether direct discriminatory admissions dispense with similarly situated comparison remains open. No completed-merits burden, categorical direct-evidence rule, universally available comparator database, guaranteed state-record access, or enforceable subpoena access is presumed.
+**Limits and questions not reached:** No question about nonconstitutional defenses unrelated to guilt is decided, and the Court does not decide whether inherent authority independently supports disclosure.
 
-**Treatment of earlier authority:** *Wayte* supplies effect-and-purpose limits but reserved discovery. *Wade* supplies meaningful preliminary screening by analogy from sentencing, not an already controlling charging rule. *Kimberlin* preserves statistical and circumstantial proof alongside lawful limits; *Klinger* ties similarity to the challenged treatment without requiring identity. *McCleskey* requires connection to the challenged decision without categorically excluding statistics or requiring merits proof for discovery. *Yick Wo*'s supported-pattern inference remains available; this record lacks its comparison connection.
+##### Discovery proceeds through a threshold inquiry, focused disclosure of existing records and the merits
 
-##### Consequences for the order, dependent dismissal, and remand
+**Holding:** Selective-prosecution discovery proceeds in three stages. First, the court conducts a threshold inquiry: the defendant must present specific and reliable evidence that raises a substantial question of discriminatory effect and purpose in the relevant enforcement setting and identifies the information needed to resolve it; full comparator evidence is not indispensable when the defendant shows that it is reasonably unavailable. Second, if the threshold is met, the court may order focused disclosure of existing, material, unprotected records within a bounded offense class and period. Third, the claim is decided on the merits under Wayte; a disclosure order establishes neither discrimination nor dismissal.
 
-**Holding:** The unsupported discovery order and dismissal for refusing it cannot stand. The case returns for ordinary pretrial proceedings without a directed renewed inquiry or automatic discovery; a later lawful, adequately supported request remains possible under its own source, threshold, and protective conditions.
+**Proposition-level authority:** Part III, joined by Stone-Zsela, Stevens, Souter and Ginsburg; five. O'Connor, Scalia, Kennedy and Thomas dissent.
 
-**Proposition-level authority:** Setting aside the existing order and dismissal has the eight-Justice Part II coalition. Part III's formal reversal and ordinary remand has O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; seven. Stone-Zsela would expressly vacate and direct conditional staged inquiry; Stevens would affirm. Those positions do not alter the controlling mandate.
+**Material application:** Generalized allegations, demographic assumptions and a selected count of those prosecuted do not meet the threshold, which concerns the enforcement setting actually at issue. Where comparator information lies with the Government and cannot reasonably be obtained elsewhere, the defendant must show that unavailability and offer other specific evidence connecting the disparity to the selection. Disclosure completes a grounded inference rather than searching for one, begins with the least intrusive adequate records and protects (a)(2) and (a)(3) material and privileges.
 
-**Operative remedy or transition:** Reverse the Ninth Circuit and remand, 7–2; the setting-aside component is 8–1. No new evidence-gathering opportunity, guilt determination, conviction, sentence, state-prosecution order, acquittal, or retrial after acquittal is directed. The Court assigns no dismissal-prejudice label.
+**Limits and questions not reached:** The threshold is less than a prima facie merits case. Government explanations are tested at the merits rather than accepted as findings at the threshold; a disclosure order neither presumes discrimination nor authorizes dismissal.
 
-**Limits and questions not reached:** Appropriateness of the sanction on the assumption of a valid discovery order and the remedy for proved selective prosecution are not decided.
+**Treatment of earlier authority:** *Wade*'s Part B requirement of a substantial threshold showing before discovery or an evidentiary hearing is retained as the first-stage screen in the charging setting. *Klinger* ties similarity to the challenged treatment without requiring identity; *Kimberlin* preserves statistical and circumstantial proof with specific support and lawful, tailored discovery limits.
 
-**Treatment of earlier authority:** *Williams*'s grand-jury duty, prejudice requirements, and without-prejudice remedy do not automatically govern this distinct sanction. *Carlisle* preserves rule-consistent supervision without converting Rule 16 nonauthorization into universal immunity from constitutional review.
+##### A disclosure order must account for executive interests and legitimate selection distinctions
+
+**Holding:** The staged inquiry is not routine supervision of charging policy. An order for disclosure must explain why the records are material to the claim, why less intrusive evidence is inadequate and how confidentiality and privileges are protected, and it must account for legitimate distinctions bearing on federal selection, including federal eligibility, drug quantities, strength of the evidence, criminal history, weapons and enforcement priorities. Direct evidence of a discriminatory directive can justify inquiry without comparators; statistics alone must connect to the mechanism by which defendants are selected for federal prosecution.
+
+**Proposition-level authority:** Part IV, joined by Stone-Zsela, Stevens, Souter and Ginsburg; five. O'Connor, Scalia, Kennedy and Thomas dissent.
+
+**Limits and questions not reached:** The listed distinctions are not a mandatory checklist. Protective orders, redaction and ex parte review accommodate confidentiality within an authorized disclosure but do not authorize one. Whether direct evidence of discriminatory purpose dispenses with similarly situated comparison on the merits is not decided.
+
+##### The order and dependent dismissal are set aside, and this record justifies a limited inquiry, though not the original order
+
+**Holding:** The discovery order and the dismissal for refusing it are set aside, and the Ninth Circuit's judgment is vacated. The 24-case sample, the declarant Reed's state and federal experience, the severity of the federal charging consequences and the limits of the Government's initial explanations justify a limited inquiry, though not every component of the original order. On remand the district court must identify appropriately bounded existing records bearing on federal referral and selection criteria, including available anonymized information concerning relevantly comparable cases; if suitable records do not exist, it reassesses the alternatives, and the Government has no duty to produce what it lacks. If the Government refuses a valid order, the sanction is fitted to the violation, and dismissal is not automatic.
+
+**Proposition-level authority:** Part V, joined by Stone-Zsela, Stevens, Souter and Ginsburg; five. O'Connor, Scalia, Kennedy and Thomas concur in setting aside the order and dismissal on their separate ground, so that component is unanimous; they would reverse and remand for ordinary pretrial proceedings without a directed inquiry.
+
+**Material application:** The order issued before the staged inquiry and without the required explanation, and to the extent it required compilation or explanation rather than inspection of existing records, Rule 16 supplied no authority for it. Beller's selected sample, Reed's firsthand state and federal experience, the severity of the federal consequences and the limits of the Government's contested initial explanations, with the comparator information held by the Government and not reasonably obtainable elsewhere, justify a limited inquiry, though not every component of the original order; the sample alone supplies a numerator, not an eligible charging population.
+
+**Operative remedy or transition:** Vacate the Ninth Circuit's judgment and remand, 5–4; the setting-aside component is 9–0. On remand the district court must identify appropriately bounded existing records bearing on federal referral and selection criteria, including available anonymized information concerning relevantly comparable cases; if suitable records do not exist, it reassesses the alternatives, and the Government has no duty to produce what it lacks. No new evidentiary submission, guilt determination, conviction, sentence, state-prosecution order, acquittal, or retrial after acquittal is directed, and no dismissal-prejudice label is assigned.
+
+**Limits and questions not reached:** No discrimination is found and no particular record is ordered produced; the appropriate sanction after refusal of a valid order beyond its fit to the violation and the remedy for proved selective prosecution are not decided.
+
+**Treatment of earlier authority:** *Williams*'s bounded grand-jury disclosure duty and separate supervisory-dismissal conditions remain intact; neither governs this disclosure duty, its without-prejudice remedy assigns no prejudice label here, and a sanction for refusing a valid order is fitted to the violation. *Carlisle* confines supervision to the governing rules; neither protective-order provisions nor general supervisory power substitutes for the Rule's inspection authority.
 
 ### Bank false statements and statutory elements
 
@@ -5138,13 +5212,33 @@ The sentence-review holding and the application and remand in United States v. R
 **Docket or dockets:** No. 01-1471.
 **Decided:** June 28, 2002.
 
-##### Armstrong's confined Rule 16 source holding governs this request
+##### The aggregate showing does not support the discovery order as entered
 
-**Holding:** Rule 16(a)(1)(C)'s defense-preparation materiality branch does not authorize discovery to prepare this selective-prosecution challenge to the decision to prosecute; Armstrong's holding remains confined to that claim rather than every affirmative defense unrelated to guilt. The distinct intended-use and defendant-origin branches are not established on this record, and protective or sanction powers cannot create an otherwise missing disclosure duty.
+**Holding:** Bass's national charging totals and completed-plea figures do not distinguish relevantly comparable eligible defendants of another race, the local capital-eligible charging and central death-authorization stages, or plea offers from accepted pleas. On that showing the discovery order the District Court entered and the Sixth Circuit sustained cannot stand: the judgment sustaining it is reversed and the order is set aside, without any finding that comparators do not exist or that any selection decision was race-neutral.
 
-**Proposition-level authority:** Part I of the Court's per curiam opinion has six direct joins: O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg. Stone-Zsela and Breyer join only Parts II–III; Stevens concurs in the judgment on his separate ground.
+**Proposition-level authority:** Part I of the Court’s per curiam opinion, joined by all nine Justices: Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
 
-**Limits and questions not reached:** No alternative discovery source is categorically rejected or established. The following distinct Rule 16 triggers, exclusions and protections retain their own operation.
+**Limits and questions not reached:** No source question is decided, and neither discrimination nor neutral administration is found. Local capital-eligible charging and national death authorization are distinct stages, and no local-only evidence rule follows. Completed plea figures combine offers and acceptance; Bass received and rejected an offer, without a finding of equal terms. No separate purpose deficiency is found, and whether direct discriminatory admissions dispense with comparators remains undecided.
+
+**Treatment of earlier authority:** Wayte’s effect-and-purpose standard frames the comparison, without a proportionality requirement. Klinger and Kimberlin preserve grounded statistical or circumstantial comparisons without perfect identity or universal naming. McCleskey requires connection to the challenged decision without excluding statistics; Yick Wo preserves supported pattern inference. Brown v. City of Oneonta’s police-classification rule supplies no selection-discovery source or inference.
+
+##### The dependent death-notice exclusion falls with the order
+
+**Holding:** The exclusion of the death notice, imposed because the Government declined to comply with the order set aside in Part I, loses its predicate and is set aside. Restoring the Government's ability to proceed with its notice under ordinary law decides no guilt, capital eligibility, punishment or execution.
+
+**Proposition-level authority:** Part II of the per curiam opinion, joined by the same nine Justices.
+
+**Limits and questions not reached:** The particular sanction appropriate for refusing a valid discovery order and relief for proved discrimination are not decided. Restoring the ability to proceed with the notice resolves no guilt, capital-eligibility, punishment or execution question.
+
+**Treatment of earlier authority:** Armstrong’s rules that an unsupported order and its dependent sanction fall together, and that a sanction for refusing a valid order is fitted to the violation, apply. Carlisle confines supervision to governing legal authority.
+
+##### Armstrong's first-stage threshold inquiry governs further proceedings
+
+**Holding:** Under Armstrong's staged framework, the comparative limits of Bass's proffer do not defeat a confined first-stage threshold inquiry aimed at the missing comparisons, and the District Court conducts that inquiry on remand. It determines whether specific, reliable evidence raises a substantial question of discriminatory effect and purpose at an identified selection stage, whether the comparisons the survey lacks are reasonably unavailable to Bass, and which existing records would supply them; only on a supported determination may it consider a focused order under Rule 16(a)(1)(C) for existing, material and nonprotected records.
+
+**Proposition-level authority:** Part III of the per curiam opinion, joined by Stone-Zsela, Stevens, Souter, Ginsburg and Breyer: five direct rationale votes. O’Connor, Scalia, Kennedy and Thomas dissent; they would return the prosecution to ordinary pretrial proceedings.
+
+**Limits and questions not reached:** The first stage is a court-run determination, not production; the original order is not reinstated, and the Court orders no production. Any later focused order reaches only existing, material and nonprotected records, explains materiality, the inadequacy of less intrusive evidence and confidentiality, and compels no creation of statistics; protective-order provisions supply no disclosure authority, and if the needed records do not exist the court reassesses. The following distinct Rule 16 triggers, exclusions and protections retain their own operation.
 
 Rule 16(a)(1)(C) concerns books, papers, documents, photographs, tangible objects, buildings or places within the Government's possession, custody or control. On a defendant's request, inspection and copying or photographing depend on one of three alternatives: materiality to preparation of the defense, intended use by the Government in its evidence in chief, or acquisition from or ownership by the defendant. Those triggers remain distinct.
 
@@ -5152,25 +5246,9 @@ Paragraph (a)(2) excludes internal attorney or agent reports, memoranda and othe
 
 Rule 16(d)(1) permits protective relief on sufficient showing, including an ex parte written showing whose full text must be sealed and preserved if relief is granted. Paragraph (d)(2) permits discovery, a continuance, exclusion and other just responses to noncompliance. These powers regulate an existing obligation; their existence is not a finding that a duty, exception, privilege or sanction predicate is established here.
 
-**Treatment of earlier authority:** Armstrong’s confined defense-preparation construction governs this selection challenge, without excluding every affirmative defense unrelated to guilt. The other two disclosure branches are not established; protective and sanction powers regulate a duty rather than create it.
+**Operative remedy or transition:** Reverse the judgment sustaining the present order and set aside the order and its dependent death-notice exclusion, 9–0; remand for the first-stage threshold inquiry under Armstrong, 5–4. If the Government declines to comply with a later valid order, any sanction must be fitted to the violation; exclusion of the death notice is not automatic.
 
-**Independent alternative holding:** Before obtaining discovery on this indirect racial-selection theory under an available lawful source, a defendant must present some credible evidence tending to show discriminatory effect and purpose, including a reliable inference of different treatment of relevantly similarly situated persons of another race at the challenged federal selection stage; this is less than a prima facie merits case. Grounded statistics, circumstantial comparisons and a specifically justified alternative when comparator names cannot reasonably be obtained may suffice without perfect identity, universal naming or a fixed matching checklist, but Bass's aggregate charging and completed-plea figures lack the required effect comparison.
-
-**Proposition-level authority for alternative holding:** Part II has eight direct joins: Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. Stevens agrees that the present order fails through his distinct supported-pattern and bounded-discretion analysis, not by joining this entire rationale.
-
-**Limits, remedy, transition, or precedent treatment:** The effect defect independently defeats the present order; no separate purpose deficiency or ultimate finding of neutrality or discrimination is made. Local capital-eligible charging and national death authorization are distinct stages, and no local-only evidence rule follows. Completed plea figures combine offers and acceptance; Bass received and rejected an offer, without a finding of equal terms. Information asymmetry does not establish a missing comparative inference. Direct discriminatory admissions and whether they dispense with comparators remain undecided. Armstrong, Kimberlin and Klinger preserve attainable, grounded statistical or circumstantial comparisons without perfect identity or universal naming. Wayte and Wade preserve meaningful preliminary screening, not a completed-merits burden. McCleskey requires connection to the challenged decision without excluding statistics; Yick Wo preserves supported pattern inference. Brown v. City of Oneonta’s police-classification rule supplies no missing selection-discovery source or inference.
-
-##### The unsupported order cannot sustain its dependent death-notice sanction
-
-**Holding:** The Sixth Circuit's judgment sustaining the discovery order is reversed, and the refusal-based exclusion of the death notice loses its unsupported predicate and must be set aside. Ordinary pretrial proceedings continue; a later request remains possible only under an available lawful source, a sufficiently grounded preliminary showing and warranted proportionate protective conditions, without any directed new inquiry.
-
-**Proposition-level authority:** Part III of the per curiam opinion, joined by Stone-Zsela, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; eight direct rationale votes. Stevens agrees the dependent sanction falls on his distinct judgment ground.
-
-**Limits and questions not reached:** The proper sanction for refusing a valid discovery order and relief for proved discrimination are not decided. Restoring the ability to proceed with the notice resolves no guilt, capital-eligibility, punishment or execution question.
-
-**Operative remedy or transition:** Reverse the judgment sustaining the present order and set aside its dependent death-notice exclusion, 9–0. No evidence collection or hearing is directed; any different later request requires its own lawful source, sufficient foundation and appropriate protections.
-
-**Treatment of earlier authority:** Armstrong’s dependent-sanction and ordinary-proceeding principles apply. Carlisle confines supervision to governing legal authority; neither creates a disclosure duty or immunity from constitutional scrutiny.
+**Treatment of earlier authority:** Armstrong’s Rule 16(a)(1)(C) construction and three-stage framework are applied, and its first stage is directed on this record. Wade’s Part B substantial threshold for discovery informs the first stage. Kimberlin preserves circumstantial proof within meaningful procedural limits. Carlisle confines supervision to governing legal authority.
 
 
 ### Retrial after rejection of a constitutional prosecution bar
@@ -6159,7 +6237,7 @@ Pre-AEDPA Rule 9(b) distinguishes repeated grounds after merits determination fr
 - **Tumey v. Ohio:** Applied for the constitutional requirement of a neutral adjudicator; no case-specific violation is yet found.
 - **Ward v. Village of Monroeville:** Applied for that requirement notwithstanding ordinary assumptions of judicial regularity.
 - **Aetna Life Insurance Co. v. Lavoie:** Applied to distinguish a disqualifying judicial interest or bias from an unproved allegation; the ultimate constitutional issue remains open.
-- **United States v. Armstrong:** Its source- and claim-sensitive preliminary inquiry is respected; the selective-prosecution test and comparator requirement do not replace Rule 6.
+- **United States v. Armstrong:** Its source- and claim-sensitive preliminary inquiry is respected; the selective-prosecution test and comparator showing do not replace Rule 6.
 - **Liteky v. United States:** Its federal §455(a) appearance rule is distinguished from the constitutional standard for relief from a state conviction; appearance alone does not resolve this habeas claim.
 
 ### Temporal reach of federal habeas amendments

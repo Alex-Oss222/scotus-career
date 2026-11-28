@@ -2792,11 +2792,11 @@ Authority: [controlling holdings and authority limits](../records/Arkansas_v_Sul
 
 #### 1. Federal motive rules do not dispense with separate authority for each intrusion
 
-The Court holds that an ordinary traffic stop supported by objective probable cause is not invalid solely because the officer also investigates another offense. State courts must follow this Court's controlling federal constitutional interpretation; greater protection must rest on an actual independent state-law ground, not a different reading of the same federal rule.
+The Court holds that an ordinary traffic stop supported by objective probable cause is presumptively reasonable and is not invalid solely because the officer also investigates another offense. A pretext objection proceeds under Whren's rebuttal framework, on specific, articulable, objective evidence that the authority was used as an instrument for an unrelated investigation lacking its own grounds. State courts must follow this Court's controlling federal constitutional interpretation; greater protection must rest on an actual independent state-law ground, not a different reading of the same federal rule.
 
 **Authority for all three holdings:** The per curiam opinion is joined by all nine participating Justices.
 
-Whren supplies the ordinary stop rule while preserving independent limits on detention and search. Oregon v. Hass distinguishes a state's own protections from its duty to follow controlling federal law. The lower court's motive-only federal rationale and asserted power to disregard that hierarchy cannot stand. The reported federal basis, rather than an invented independent state ground, supports review; Quarles supplies the analogous otherwise-evading-review route. Correcting that legal error does not establish the validity of every subsequent act.
+Whren makes the ordinary stop on probable cause presumptively reasonable, holds that motive alone does not rebut that presumption, and preserves independent limits on detention and search. Any preserved, objectively supported showing that the stop was an instrument for an unrelated investigation lacking its own grounds may be addressed on remand under that framework; the reported motive finding alone does not make it. Oregon v. Hass distinguishes a state's own protections from its duty to follow controlling federal law. The lower court's motive-only federal rationale and asserted power to disregard that hierarchy cannot stand. The reported federal basis, rather than an invented independent state ground, supports review; Quarles supplies the analogous otherwise-evading-review route. Correcting that legal error does not establish the validity of every subsequent act.
 
 #### 2. Added fine-only custody requires a supported enforcement function
 
@@ -2812,7 +2812,7 @@ Bertine and Wells supply the inventory conditions that Whren preserves. Knowles 
 
 **Precedent treatment:**
 
-- Whren v. United States: applied to reject a motive-only objection to the ordinary probable-cause stop while preserving independent detention and inventory limits.
+- Whren v. United States: applied; its presumption defeats a motive-only objection to the ordinary probable-cause stop, an objectively supported rebuttal remains available under its framework, and independent detention and inventory limits are preserved.
 - Ricci v. Village of Arlington Heights and Atwater v. City of Lago Vista: applied to require a supported enforcement function for added fine-only custody; neither becomes a universal citation duty or a final finding about Sullivan's custody.
 - Colorado v. Bertine and Florida v. Wells: preserved as independent authority, caretaking and standardized-practice limits on inventories.
 - Knowles v. Iowa: applied to keep search authority distinct and to reject automatic search consequences from a lawful stop.

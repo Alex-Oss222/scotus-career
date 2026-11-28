@@ -4,7 +4,7 @@
 
 **Certified scope:** The supplied chronology's public-law refresh is complete through the actual April 1 releases and their committed dated neutral snapshot. All ten supported earlier chunk-five public decisions were read in full, and every change in the authorized snapshot sequence was reviewed. The April 1 snapshot identifies Bowersox as the next eligible inventory event. No material conflict or omission affecting this law refresh was found. This is a law-freshness certificate, not certification of the missing Bowersox record or general modeling readiness; it supplies no present relief, duration, service finding, individual position, or assignment.
 
-**Final snapshot:** `../entering-law/OT_1995CHUNK5_NEUTRAL_AFTER_1996-04-01.md`, supplied committed reference `24a465e`, independently verified SHA-256 **`1c68b0b42370c388cb73031ae6385c98b6a91fd95bd7aa212af8c7af03c4f11a`**. The commit reference is supplied provenance; no Git operation was performed for this certificate.
+**Final snapshot:** `../entering-law/OT_1995CHUNK5_NEUTRAL_AFTER_1996-04-01.md`, supplied committed reference `24a465e`, independently verified SHA-256 **`a948dff692a5e8f89151847b48e9cd0bda9e8c06331b4fe28be0dcbfd8c51392`**. The commit reference is supplied provenance; no Git operation was performed for this certificate.
 
 This certificate supplements the unchanged Bowersox neutral validation, habeas statutory source addendum and Bowersox primary-source addendum. It supplies the actual intervening-law check those artifacts reserved. Prepared positions and historical outcomes are not law entering this event.
 
@@ -24,7 +24,7 @@ The authorized March 18 baseline was compared sequentially with the dated March 
 
 Eighteen exact public-section checks passed: the final snapshot reproduces the complete Judgment & Remedy, Opinion Topology, Holdings, Precedent Treatment, Law After Decision, Separate Writings and Procedure After Action bodies for Lonchar and Shieh, and the Opinion Topology, Precedent Treatment, Law After Decision and Separate Writings bodies for O'Connor. O'Connor's remaining operative summary was checked against its complete public decision. All ten public-source hashes remain unchanged from the completed readings.
 
-`../sources/chunk5_bowersox_clean/APRIL9_LAW_FRESHNESS_SOURCES.json` preserves the ten source hashes, snapshot chain, exact-block check results and immutable-input verification. Its SHA-256 is `873c3d79c456ded83f709f6ee882b9fff99f595536539ad000a41098b583bbf3`. Mechanical identity checks establish the copied text and source identity; the scope assessment below is a legal reading of the public decisions.
+`../sources/chunk5_bowersox_clean/APRIL9_LAW_FRESHNESS_SOURCES.json` preserves the ten source hashes, snapshot chain, exact-block check results and immutable-input verification. Its SHA-256 is `92cdcec6c0f6904178a07e458cd12291b667d5e8a7c2043a9bf3d4aefec0405f`. Mechanical identity checks establish the copied text and source identity; the scope assessment below is a legal reading of the public decisions.
 
 No current Bowersox Supreme Court opinion, historical comparator, private commitment, private Stone material, raw Decision Record, ledger, continuity file, combined brief or agent-status list was consulted.
 

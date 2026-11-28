@@ -4,12 +4,12 @@
   "final_snapshot_commit_reference_as_supplied": "24a465e",
   "final_snapshot": {
     "path": "terms/OT1995/entering-law/OT_1995CHUNK5_NEUTRAL_AFTER_1996-04-01.md",
-    "sha256": "1c68b0b42370c388cb73031ae6385c98b6a91fd95bd7aa212af8c7af03c4f11a"
+    "sha256": "a948dff692a5e8f89151847b48e9cd0bda9e8c06331b4fe28be0dcbfd8c51392"
   },
   "public_decisions_read_in_full": [
     {
       "path": "terms/OT1995/entering-law/PUBLIC_Varity_Corp_v_Howe_merits_1996-03-19.md",
-      "sha256": "aa39fe98afa630547fcf918c5113c4c089f353570d272ab16a7ca18c57bde0c1",
+      "sha256": "169ee632e96d71be52daff3fa5df9710bc3f12b3fa7230c7a072f517302c5350",
       "read_in_full": true
     },
     {
@@ -65,19 +65,19 @@
     },
     {
       "path": "terms/OT1995/entering-law/OT_1995CHUNK5_NEUTRAL_AFTER_1996-03-25.md",
-      "sha256": "81f43ef9732499cddbfb2f0423e3911d7f862c1bf54f6208c90a87f325effdbb"
+      "sha256": "f689f7bc4643e189deaef802e9883289cfd56df3b7159c0747c77d8566a08c9a"
     },
     {
       "path": "terms/OT1995/entering-law/OT_1995CHUNK5_NEUTRAL_AFTER_1996-03-26.md",
-      "sha256": "69ab077857e7c87ca9924f68ee623ae9199cc9e0a1a499ea27df73ebaa2d98fe"
+      "sha256": "a6cc4b2f5339a89c92c6c41ce7fe29d332aaffe048bf39d46de0427fa0d41360"
     },
     {
       "path": "terms/OT1995/entering-law/OT_1995CHUNK5_NEUTRAL_AFTER_1996-03-27.md",
-      "sha256": "0ad975aeaa2169a6a87abeea843e7b622be801d8cef5cd7338558f67e7815d68"
+      "sha256": "a793cea5d076c7183d32270ad87f92cef32069697ab83ddf01cf8f94fc5c77ae"
     },
     {
       "path": "terms/OT1995/entering-law/OT_1995CHUNK5_NEUTRAL_AFTER_1996-04-01.md",
-      "sha256": "1c68b0b42370c388cb73031ae6385c98b6a91fd95bd7aa212af8c7af03c4f11a"
+      "sha256": "a948dff692a5e8f89151847b48e9cd0bda9e8c06331b4fe28be0dcbfd8c51392"
     }
   ],
   "snapshot_review": "All changes between the authorized March 18 baseline and supplied March 25, March 26, March 27 and April 1 snapshots were personally reviewed. No material public-law conflict or omitted supplied earlier event found.",

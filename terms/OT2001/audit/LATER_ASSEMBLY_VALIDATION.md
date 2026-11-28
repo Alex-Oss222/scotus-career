@@ -12,10 +12,10 @@ Final counted leads: Stone 1; Stevens 1; O'Connor 2; Scalia 2; Kennedy 2; Souter
 |---|---|---|
 | j-e-m-ag-supply-inc-v-pioneer-hi-bred-international-inc_merits_2001-12-10.md | Souter | 66c7629817507ba24d0b54b141a69ac76c5649cfb1c6da02988edf2c7a48f300 |
 | schrader-v-blackwell_merits_2001-12-10.md | Stevens | 6da20b9e7f344b10404d16f8638a43f518ffe6a46ed7cc31770973c8a5389a8e |
-| united-states-v-knights_merits_2001-12-10.md | Scalia | 7961efa37dd9ca722b0ae29d3854a51708fa0171661a2891c29ce65c65b0d195 |
+| united-states-v-knights_merits_2001-12-10.md | Scalia | d534d9c1ff907a710fcd300f98db0cd79da6d75f8219b437680b57ddc6d4b7ca |
 | dusenbery-v-united-states_merits_2002-01-08.md | Stone-Zsela | b58911fb054fb54ffe77286c08d9a93430577f8365ee133ad66a744c9a61fb1d |
-| great-west-life-annuity-insurance-co-v-knudson_merits_2002-01-08.md | Thomas | f3d68af444a29bbd08542ac7ac27f5b8cfdf2246e00eaffb4ebde6198fce2fa7 |
-| searles-v-van-bebber_merits_2002-01-08.md | Scalia | d2ef0d72179faabd6f5c2e8dfca1336d04129db36baa0e241f8d35146a60b0d7 |
+| great-west-life-annuity-insurance-co-v-knudson_merits_2002-01-08.md | Thomas | 880906d60765841b786d034d9e77c2e502f38da44751a75c4986db9c873da2d9 |
+| searles-v-van-bebber_merits_2002-01-08.md | Scalia | 8333004610b4f659f4091a7d3f463784eb68b553d370b3352154379efff85d5a |
 | toyota-motor-manufacturing-kentucky-inc-v-williams_merits_2002-01-08.md | Ginsburg | 42cbbb068c5b8a64341f47a430587fcb2f1dd2b8f6b50ed00b737f40cf3f55a4 |
 | chao-v-mallard-bay-drilling-inc_merits_2002-01-09.md | O'Connor | 253bbab86464c82e178bc7b72257ebb31ef09952d7f5fc285abf278273078d1c |
 

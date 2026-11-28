@@ -91,7 +91,7 @@ These SHA-256 digests identify input bytes at completion, not repository-history
 | Input | SHA-256 |
 |---|---|
 | `terms/OT1998/freeze/OT_1998CHUNK6_B_PROC_COMMITMENTS.md` | `097899c51837adc58dfb799be69d99cadfd9bdafba4ccdaae28180a7e3f855dc` |
-| `terms/OT1998/freeze/OT_1998CHUNK6_B_FRESH_PREFLIGHT.md` | `a21a0aff8f7a581e96de15a6db63447e2645040a6f369d4c95f4b951d671263b` |
+| `terms/OT1998/freeze/OT_1998CHUNK6_B_FRESH_PREFLIGHT.md` | `512a20e65cea0ef4710603ea0856e93754debe30c811213742e5e14ea563753b` |
 | `terms/OT1998/runtime/OT_1998CHUNK6_B_NEUTRAL.md` | `a280e2f1866225cbe329ebb914233ecb1026261f58615c55c5fa1b2f6384b058` |
 | `terms/OT1998/entering-law/OT_1998CHUNK6_B_FRESH_SELECTED.md` | `6fe5cd5a485c7a58681b4cf51363b2800bbc3761ccabd3c4d18014e995794d0d` |
 | `terms/OT1998/runtime/OT_1998CHUNK6_B_PROC_COMPARATOR.md` | `cc4936f88c36488c4649db20240585eecba1948501f78f1b5b2a74136e731a6d` |

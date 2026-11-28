@@ -2,13 +2,13 @@
 
 Status: Brentwood, CoBank and McArthur are durably written and individually validated, following the eight events in the early and middle receipts. Eleven chunk-2 events are now assembled. Operator repository verification, coordinated workspace integration and whole-chunk checks remain pending. No repository command, workspace mutation or public rendering occurred in this assembly task.
 
-The controlling final reconciliation is `OT_2000CHUNK2_RECONCILED_LATER.md`, SHA-256 `405a138cb32f940c66199bdb5940687fd005dc63aa9ecb61381b3b5a3342fc48`. Each Record mechanically copies its complete final case reconciliation and adopted model section, expressly giving final corrections priority. No material Associate ground changed in assembly, no historical author was imported and no standing fallback was used.
+The controlling final reconciliation is `OT_2000CHUNK2_RECONCILED_LATER.md`, SHA-256 `6033a63236327247d888e01e3028d6cb8dfd7514a68e86fb1737283a4aaab34c`. Each Record mechanically copies its complete final case reconciliation and adopted model section, expressly giving final corrections priority. No material Associate ground changed in assembly, no historical author was imported and no standing fallback was used.
 
 | Record | SHA-256 | Legal form and counted author |
 |---|---|---|
 | [Brentwood](../records/Brentwood_Academy_v_Tennessee_Secondary_School_Athletic_Association_merits_2001-02-20.md) | `690c3da5850ea1b32d120fd2b17c43b80518a882773971658eb47adf32916985` | One signed lead, Stevens +1; Kennedy dissent adds none |
 | [CoBank](../records/Director_of_Revenue_of_Missouri_v_CoBank_ACB_merits_2001-02-20.md) | `6ca14e8d5557dc930fd5ddace7e2f1a96f46bdf9d041c9d48e32dee81faeba41` | One signed lead, Breyer +1; no separate writing |
-| [McArthur](../records/Illinois_v_McArthur_merits_2001-02-20.md) | `5045d8f166ddbf4cacdeffe26e3e0c6d6b0e3d1823ceebd522fe4645de170442` | One signed lead, Kennedy +1; Souter concurrence and separate Stone and Stevens dissents add none |
+| [McArthur](../records/Illinois_v_McArthur_merits_2001-02-20.md) | `8f8f225fbd49fd9705b3e6564db1fce39ac960ad66bfc4792dcca1f836807704` | One signed lead, Kennedy +1; Souter concurrence and separate Stone and Stevens dissents add none |
 
 ## Sequential count verification
 

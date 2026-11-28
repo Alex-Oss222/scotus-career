@@ -339,7 +339,7 @@ Sources: [majority opinion](https://www.law.cornell.edu/supct/html/03-407.ZO.htm
 
 ### Shared rule and lawful remand
 
-An arrest's objective probable-cause basis may rest on an offense different from, and not closely related to, the officer's announced offense, when facts actually known at arrest satisfy that offense's elements and the constitutional probable-cause standard. The legal label does not erase contemporaneously known facts; later-acquired evidence cannot create an earlier justification. Whren rejects subjective-motive additions to objective initial authority; Pringle requires a supported contextual inference. An offense-relationship test would make the same facts authorize one officer's seizure and invalidate another's solely because they named different statutes.
+An arrest's objective probable-cause basis may rest on an offense different from, and not closely related to, the officer's announced offense, when facts actually known at arrest satisfy that offense's elements and the constitutional probable-cause standard. The legal label does not erase contemporaneously known facts; later-acquired evidence cannot create an earlier justification. Whren rejects subjective motive alone as a ground for defeating objective initial authority; Pringle requires a supported contextual inference. An offense-relationship test would make the same facts authorize one officer's seizure and invalidate another's solely because they named different statutes.
 
 That correction does not itself validate the actual impersonation or obstruction theories, which the Ninth Circuit excluded rather than resolved. Reverse and remand for those applications and preserved defenses. The in-world Ricci and Atwater limits remain operative for any properly presented added station transport and confinement for a known fine-only offense. Initial probable cause is not blanket permission for every later restraint. Conduct-date immunity remains tied to November 22, 1997; later decisions cannot supply earlier notice.
 
@@ -347,11 +347,11 @@ That correction does not itself validate the actual impersonation or obstruction
 |---|---|
 | Stevens | Reverse and remand; Whren and Pringle joins support objective known-fact authority, while his Atwater join preserves greater-restraint limits. |
 | O'Connor | Reverse and remand; her Pringle opinion and Whren join require the actual inference and offense elements, and her Atwater join preserves the separate function of added custody. |
-| Scalia | Reverse and remand; his Whren and Pringle joins reject legal-label dependence. He joins no factual finding establishing the alternate offenses. |
-| Kennedy | Reverse and remand; his Whren and Pringle joins support the alternate-offense inquiry. He respects Atwater's binding scope without newly adopting its original rationale. |
-| Souter | Reverse and remand; his Whren and Pringle joins require actual contemporaneous information and state-law elements, not a merely conceivable later justification. |
-| Thomas | Reverse and remand; his Whren opinion and Pringle join reject motive and labeling conditions while retaining the actual source and bounds of authority. |
-| Ginsburg | Reverse and remand; her Atwater opinion and Whren/Pringle joins support legal-label neutrality with independent assessment of greater restraint. |
+| Scalia | Reverse and remand; his Whren dissent join and Pringle join reject legal-label dependence. He joins no factual finding establishing the alternate offenses. |
+| Kennedy | Reverse and remand; his Whren dissent join and Pringle join support the alternate-offense inquiry. He respects Atwater's binding scope without newly adopting its original rationale. |
+| Souter | Reverse and remand; his Whren dissent join and Pringle join require actual contemporaneous information and state-law elements, not a merely conceivable later justification. |
+| Thomas | Reverse and remand; his Whren dissent and Pringle join reject motive and labeling conditions while retaining the actual source and bounds of authority. |
+| Ginsburg | Reverse and remand; her Whren and Atwater opinions and Pringle join support legal-label neutrality with independent assessment of greater restraint. |
 | Breyer | Reverse and remand; his Whren, Pringle and Atwater joins support an administrable objective inquiry tied to the known facts and actual restraint. |
 
 All eight provisional votes remain. The historical unanimity among Associates confirms the closely-related-offense ruling, but its broad wording about custodial authority cannot displace this timeline's distinct Ricci/Atwater holdings. That is a scope qualification required by current law, not a vote departure or reason to restore the rejected relation requirement. No separate writing is needed when the shared opinion retains the governing custody boundary. The historical Chief's absence determines no participation here.

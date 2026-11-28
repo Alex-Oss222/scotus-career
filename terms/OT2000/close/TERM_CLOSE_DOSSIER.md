@@ -45,8 +45,8 @@ The existing line-ending convention is preserved for every state file: HOLDINGS.
 |---|---|
 | [Case inventory](../case-list.md) | `bd496d64f4938c3cabddd9282136e2c5cbe76c6dffa1f7366fc931602f23b118` |
 | [Final manifest](../workspace/manifest.md) | `510d7d11fbb79a8abe326af3e1620358b96b6017649518e649f32e3e72b78f10` |
-| [Final continuity](../workspace/continuity.md) | `c5c2587ebc54213d80c5097835ba2aecf36d0be5e122acd6507b2a384afca007` |
-| [Neutral projection](../workspace/neutral-projection.md) | `90f2622663a89b4271a5551c9e33600d720a0493ff49c05799b0e788935bb635` |
+| [Final continuity](../workspace/continuity.md) | `62076350d584dd4a7a9f6d07684cc2e1f34bd35e528bb34fbd3eb000d9d724df` |
+| [Neutral projection](../workspace/neutral-projection.md) | `ff6bc8ed4e55fb9fb64034d959e0e3182b2a2b78feaef06e9d853dea1fedbf9a` |
 | [Ledger](../workspace/ledger.md) | `b3a0bad686ccd1663b71e117f56eee863d5c38b7dad9b476e8ce7aba4fc0de06` |
 | [Confirming audit](AUDIT.md) | `67d13f0998ceb2df7fad44c49c53c3c26d2f3ae1c1add88008426872fd237dd2` |
 
@@ -61,7 +61,7 @@ The linked Records are incorporated as the adjudicative source. Ordering same-da
 | 2000-11-07 | [Cleveland v. United States, No. 99-804; 531 U.S. 12.](../records/Cleveland_v_United_States_merits_2000-11-07.md) | `182ef551f0c38a3ac249d52997763e99d9c1df52dc3f0dcdda2fa23c905b2cfc` |
 | 2000-11-27 | [Sinkfield v. Kelley, Nos. 00-132 and 00-133; 531 U.S. 28.](../records/Sinkfield_v_Kelley_merits_2000-11-27.md) | `de15e95c61d1a8a279feefae9bc2ab97f669da233a924fb53ea58286ae840954` |
 | 2000-11-27 | [Wasson v. Sonoma County Junior College; Ninth Circuit No. 98-15967; 203 F.3d 659; no separate Supreme Court docket supplied.](../records/Wasson_v_Sonoma_County_Junior_College_merits_2000-11-27.md) | `6a4697ce34b4e7248a2dcb7f374a6aa3baf97168c41515e94ebf4529148c36db` |
-| 2000-11-28 | [City of Indianapolis v. Edmond, No. 99-1030; 531 U.S. 32.](../records/City_of_Indianapolis_v_Edmond_merits_2000-11-28.md) | `3ce1227acfc06e219ca73f1670ecd034ae035ccff9349c89b083af2a2b854abe` |
+| 2000-11-28 | [City of Indianapolis v. Edmond, No. 99-1030; 531 U.S. 32.](../records/City_of_Indianapolis_v_Edmond_merits_2000-11-28.md) | `66c0bb32c1b18edd57bf529e2ac16487f39516476d62ed1ded24406e47603988` |
 | 2000-11-28 | [Eastern Associated Coal Corp. v. United Mine Workers of America, No. 99-1038; 531 U.S. 57.](../records/Eastern_Associated_Coal_v_United_Mine_Workers_merits_2000-11-28.md) | `b7f0e5331688e71c1f001e1c498a2008c8650589e941e7832ecf1f7e19307484` |
 | 2000-12-04 | [Bush v. Palm Beach County Canvassing Board, No. 00-836; 531 U.S. 70.](../records/Bush_v_Palm_Beach_County_Canvassing_Board_merits_2000-12-04.md) | `ad7e7caf68619ba3cf0f9477fdcab610a3a85c8fae00f42c9732eb6e103da7ee` |
 | 2000-12-11 | [Daggett v. Commission on Governmental Ethics & Election Practices; consolidated First Circuit Nos. 99-2243, 99-2274, 00-1061, and 00-1066; 205 F.3d 445; no separate Supreme Court docket supplied.](../records/Daggett_v_Commission_on_Governmental_Ethics_merits_2000-12-11.md) | `60fd4296e9b51f82598d974f2a5def79c4d1d68789b5685d54c5525719f7a1e2` |
@@ -81,7 +81,7 @@ The linked Records are incorporated as the adjudicative source. Ordering same-da
 | 2001-01-22 | [Kansas v. United States; Tenth Circuit No. 98-3341, 214 F.3d 1196; no separate Supreme Court docket supplied.](../records/Kansas_v_United_States_merits_2001-01-22.md) | `793a27f7f67bd166279ea00b8c6758927acec1074f1607c9611e64a8b7e900e9` |
 | 2001-02-20 | [Brentwood Academy v. Tennessee Secondary School Athletic Association, No. 99-901.](../records/Brentwood_Academy_v_Tennessee_Secondary_School_Athletic_Association_merits_2001-02-20.md) | `690c3da5850ea1b32d120fd2b17c43b80518a882773971658eb47adf32916985` |
 | 2001-02-20 | [Director of Revenue of Missouri v. CoBank ACB, No. 99-1792.](../records/Director_of_Revenue_of_Missouri_v_CoBank_ACB_merits_2001-02-20.md) | `6ca14e8d5557dc930fd5ddace7e2f1a96f46bdf9d041c9d48e32dee81faeba41` |
-| 2001-02-20 | [Illinois v. McArthur, No. 99-1132.](../records/Illinois_v_McArthur_merits_2001-02-20.md) | `5045d8f166ddbf4cacdeffe26e3e0c6d6b0e3d1823ceebd522fe4645de170442` |
+| 2001-02-20 | [Illinois v. McArthur, No. 99-1132.](../records/Illinois_v_McArthur_merits_2001-02-20.md) | `8f8f225fbd49fd9705b3e6564db1fce39ac960ad66bfc4792dcca1f836807704` |
 | 2001-02-20 | [Urofsky v. Gilmore; Fourth Circuit No. 98-1481, 216 F.3d 401; no separate Supreme Court docket supplied.](../records/Urofsky_v_Gilmore_merits_2001-02-20.md) | `1b1f5bdfa52e3aa86725756ddea6f1967ff17df450425ec9e9677c53756b84c7` |
 | 2001-02-21 | [Board of Trustees of the University of Alabama v. Garrett, No. 99-1240; 531 U.S. 356.](../records/Board_of_Trustees_of_University_of_Alabama_v_Garrett_merits_2001-02-21.md) | `00170df3eaed9d479f728785896e4e6b19ea39053f0d1570a3103924771e9d7d` |
 | 2001-02-21 | [Buckman Co. v. Plaintiffs' Legal Committee, No. 98-1768; 531 U.S. 341.](../records/Buckman_Co_v_Plaintiffs_Legal_Committee_merits_2001-02-21.md) | `d2a5eb63b268bc73884cc551bdd2a78bef31f8c30d25fec2aa814e8f2106bc1b` |
@@ -113,7 +113,7 @@ The linked Records are incorporated as the adjudicative source. Ordering same-da
 | 2001-04-23 | [Children's Healthcare Is a Legal Duty, Inc. v. Min De Parle; Eighth Circuit No. 98-3521; judgment below, 212 F.3d 1084.](../records/Childrens_Healthcare_Is_a_Legal_Duty_v_Min_De_Parle_merits_2001-04-23.md) | `7305f6677d3531b3c960af8a837974ed0b6e4429a7fd6562c5c208c75a98f736` |
 | 2001-04-23 | [Clark County School District v. Breeden, No. 00-866; 532 U.S. 268.](../records/Clark_County_School_District_v_Breeden_summary-disposition_2001-04-23.md) | `485865f12620a260ffdd91e09d2dd8db4010755fb57f24eaab20aa345e16a8b9` |
 | 2001-04-24 | [Alexander v. Sandoval, No. 99-1908; historical record citation, 532 U.S. 275.](../records/Alexander_v_Sandoval_merits_2001-04-24.md) | `45698198cfbe91a59f76fa4947bec3317d438fe16bed1a0ec23d11bd0d338294` |
-| 2001-04-24 | [Atwater v. City of Lago Vista, No. 99-1408; historical record citation, 532 U.S. 318.](../records/Atwater_v_City_of_Lago_Vista_merits_2001-04-24.md) | `4927cae9ce6d68829c51e429ed65ae8472fbe661705174052ccf42dc337db9b0` |
+| 2001-04-24 | [Atwater v. City of Lago Vista, No. 99-1408; historical record citation, 532 U.S. 318.](../records/Atwater_v_City_of_Lago_Vista_merits_2001-04-24.md) | `1ea4753bb0ab913e1423397c8673bc990280febc0ec4bda6d5ecadb9ca0e5e27` |
 | 2001-04-24 | [Sterling v. Borough of Minersville; Third Circuit No. 99-1768; 232 F.3d 190; no additional Supreme Court docket supplied.](../records/Sterling_v_Borough_of_Minersville_merits_2001-04-24.md) | `cfae680e78985e2f3b4884d45e092065d41bd5d970959d6dd064aa7b12911814` |
 | 2001-04-25 | [Daniels v. United States, No. 99-9136; historical record citation, 532 U.S. 374.](../records/Daniels_v_United_States_merits_2001-04-25.md) | `d2260be42e6ad93c826a8a60dfe557e2cac21556a28aaa6c4eb6293628ea61c1` |
 | 2001-04-25 | [Lackawanna County District Attorney v. Coss, No. 99-1884; October Term 2000.](../records/Lackawanna_County_District_Attorney_v_Coss_merits_2001-04-25.md) | `cae4f80c6efa77406c33df17dba76a6412d755bef6f4e519599d14c7dce5a3c6` |
@@ -129,7 +129,7 @@ The linked Records are incorporated as the adjudicative source. Ordering same-da
 | 2001-05-21 | [United States v. Hatter, No. 99-1978.](../records/United_States_v_Hatter_merits_2001-05-21.md) | `cee6b4d3ad14e44fdb80d321eb23c2d8a320d628018fee0ef07f8fc8198d40fc` |
 | 2001-05-21 | [Wharf (Holdings) Ltd. v. United International Holdings, Inc.; No. 00-347.](../records/Wharf_Holdings_Ltd_v_United_International_Holdings_Inc_merits_2001-05-21.md) | `6d88c08fe36801e6c1bc4f434d8de60eaa291e1347141f5d41e845d3361f07ad` |
 | 2001-05-29 | [Appalachian Power Co. v. EPA; D.C. Circuit Nos. 98-1512, 98-1536, 98-1537, 98-1538, 98-1540 and 98-1542; 208 F.3d 1015.](../records/Appalachian_Power_Co_v_EPA_merits_2001-05-29.md) | `56d0bfb5b18f29b7cd9ccea5f13aea81af0e86b6f4f19938e768ac6a29ecaaab` |
-| 2001-05-29 | [Arkansas v. Sullivan; No. 00-262.](../records/Arkansas_v_Sullivan_summary-merits_2001-05-29.md) | `8441f3fd5b8ae0e407f3f86a6996ac473455a3212cc6d2d0c149fdc5d106b695` |
+| 2001-05-29 | [Arkansas v. Sullivan; No. 00-262.](../records/Arkansas_v_Sullivan_summary-merits_2001-05-29.md) | `525ff14c55c309f35678237104d930c0bd1979055ab18b8fc2799a1fc1d9ea53` |
 | 2001-05-29 | [Atkinson Trading Co. v. Shirley; No. 00-454.](../records/Atkinson_Trading_Co_v_Shirley_merits_2001-05-29.md) | `afbf32d550176491d81aa3d7a7aec91a5a7b771a02f1b0cc50a538be212e5b44` |
 | 2001-05-29 | [Becker v. Montgomery, No. 00-6374.](../records/Becker_v_Montgomery_merits_2001-05-29.md) | `a5404f08f3cef2bf29afffd22fe86682b2e3dd3f5f221cd7c252faf79c3ca769` |
 | 2001-05-29 | [Booth v. Churner, No. 99-1964.](../records/Booth_v_Churner_merits_2001-05-29.md) | `1a1d0fc3482bcebf06f9adb2ee7155a7f192aa93cd029538e2131561e6770063` |
@@ -181,12 +181,12 @@ The authoritative set is the current audited Record set listed above. This publi
 
 | Chunk | Events | Public render | SHA-256 |
 |---|---:|---|---|
-| 1 | 12 | [OT_2000CHUNK1](../output/OT_2000CHUNK1.md) | `c9d4183a710fa7bc8e37dfac02f084a798d8fb53dc6d4dbd09b978d3c2bb4330` |
+| 1 | 12 | [OT_2000CHUNK1](../output/OT_2000CHUNK1.md) | `6c6a72bf623838870fa0ca3844978d895416a0b4cd253eecdfc2ae4f1f46136b` |
 | 2 | 15 | [OT_2000CHUNK2](../output/OT_2000CHUNK2.md) | `cbe96fae76241cf91ee402d83db978b2c6e8b9a7355ff96ca97d0963a7efd362` |
 | 3 | 14 | [OT_2000CHUNK3](../output/OT_2000CHUNK3.md) | `ee1629fdc843fbffad5f47e8b88241c60e374901447001a484fd65b56231a137` |
 | 4 | 15 | [OT_2000CHUNK4](../output/OT_2000CHUNK4.md) | `7a398f6e78ca44d271f09487280af6a5d5dc510944dad5ebe76ce9db79b043ce` |
 | 5 | 14 | [OT_2000CHUNK5](../output/OT_2000CHUNK5.md) | `9a1e43e0b5e6611f283b5629d10672a5a1f7d1cc0984594bdc72bfa9079af068` |
-| 6 | 15 | [OT_2000CHUNK6](../output/OT_2000CHUNK6.md) | `b730a12a20175e0efcba397001e843d0f9501a44b2ef4848164bbf023e1afbe6` |
+| 6 | 15 | [OT_2000CHUNK6](../output/OT_2000CHUNK6.md) | `83cbd8b532fe6b93c1a27c77dabdb032ab869ac4bad7e25e7c106750b903134f` |
 | 7 | 14 | [OT_2000CHUNK7](../output/OT_2000CHUNK7.md) | `3e9d42c93c51a69cf7fc8b4d7607e62a1e9bf7376eefe803e6d8adc45be7da7b` |
 | 8 | 15 | [OT_2000CHUNK8](../output/OT_2000CHUNK8.md) | `968fdab84cd728a161d31dc2c7a32969572a665795e52eaeb58bda0b1bcefabf` |
 

@@ -6,7 +6,7 @@ The identically generated runtime copy is a navigation handoff only. Follow the 
 
 | Event scope | Events | Independent freeze | First-add commit | SHA-256 |
 |---|---:|---|---|---|
-| Peacock | 1 | [Canonical constituent](../freeze/OT_1995CHUNK4_PEACOCK_COMMITMENTS.md) | c7b8be1 | eb25330e565a6e119eaf07663c68e73f6702cef26ec1ac6947ff4469f567232d |
+| Peacock | 1 | [Canonical constituent](../freeze/OT_1995CHUNK4_PEACOCK_COMMITMENTS.md) | c7b8be1 | 2e2059d2a09e09dc2af2f3c08517d73750fcdc6511d63616adb2584baf5f34f5 |
 | Jones; Maine/Massachusetts; Voting Rights Coalition | 3 | [Canonical constituent](../freeze/OT_1995CHUNK4_A3_COMMITMENTS.md) | 7e071fa | 8159f68942d756508eacabeffa847525f36a0c7b1d89cab23d0809c32ec2e05b |
 | Matsushita | 1 | [Canonical constituent](../freeze/OT_1995CHUNK4_MATSUSHITA_COMMITMENTS.md) | 62203ea | 66b2e52c37d16714fe743a90602cdb6101b71ba954a11e17adb3bc622b856000 |
 | Hiles | 1 | [Canonical constituent](../freeze/OT_1995CHUNK4_HILES_COMMITMENTS.md) | 62203ea | c4c77e80316a2096b0b5bfb8c79884c450903e4cd13d82163424e218b7c536ba |

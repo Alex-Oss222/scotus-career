@@ -111,7 +111,7 @@ The Court may affirm the federal dismissals, distinguish CAPTA from Suter and re
 
 ### Distinguishing discovery sources and bias standards
 
-Armstrong’s eight-Justice threshold concerns an indirect selective-prosecution theory and credible evidence of effect and purpose; it supplies neither Rule 6 authority nor mandatory race comparators for judicial bias. Bracy invokes Habeas Rule 6 and identifies trial-specific links to Maloney’s established corruption. Simulated Liteky’s five-Justice ordinary objective-appearance rule interprets federal recusal §455(a); it does not by itself establish a constitutional violation by a state judge or automatic habeas relief. Discovery must develop the pleaded constitutional bias connection under its own elements, while ultimate bias and remedy remain undecided.
+Armstrong’s five-Justice staged threshold concerns an indirect selective-prosecution theory and specific, reliable evidence bearing on effect and purpose; it supplies neither Rule 6 authority nor mandatory race comparators for judicial bias. Bracy invokes Habeas Rule 6 and identifies trial-specific links to Maloney’s established corruption. Simulated Liteky’s five-Justice ordinary objective-appearance rule interprets federal recusal §455(a); it does not by itself establish a constitutional violation by a state judge or automatic habeas relief. Discovery must develop the pleaded constitutional bias connection under its own elements, while ultimate bias and remedy remain undecided.
 
 - **Verified primary case source:** [Official U.S. Reports — record, procedural history and identifiers](https://www.supremecourt.gov/opinions/boundvolumes/520bv.pdf#page=994). The historical outcome is segregated in Section III.
 

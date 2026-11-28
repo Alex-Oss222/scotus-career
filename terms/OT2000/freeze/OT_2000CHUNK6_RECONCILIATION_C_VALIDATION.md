@@ -54,7 +54,7 @@ No final Court arithmetic, assignment balance, Record-to-Public-Projection ident
 | freeze/OT_2000CHUNK6_NEUTRAL_PENRY_REFRESH_VALIDATION.md | `a0f869e5b6690bd12df0d345470706b3bc394fdcf1da08de028cb258f8f4a33a` |
 | freeze/OT_2000CHUNK6_COMMITMENTS_penry_refresh.md | `0e760eabb5426098e2b697859d81709447824f0e77c02129f51aac94588a8e31` |
 | runtime/OT_2000CHUNK6_COMPARATOR.md | `966803c83bfa21c75d0c969563eb2ff564e8d4767093d97ac6526ff9853c351d` |
-| entering-law/OT_2000CHUNK6_C.md | `681dcf1ffe7ca09ba9a8b6ff7f92dfb9ad3cf7515ff0275565edd06bbe0fd30a` |
+| entering-law/OT_2000CHUNK6_C.md | `86e25bca37b31ffed1b9549ba37320deef0473728de2db873a76c54011590ac2` |
 | entering-law/OT_2000CHUNK6_C_PENRY_STATE.txt | `b975de94c0253cbaf994d6bc491dda478ccd50eeec17bda5ce92b407f9b6d52c` |
 | sources/chunk6-control/USREPORTS-532-742.txt | `7191b79387fbb0fa34fe4a8ad124acfda3689c49cb8d743e97a8d3354bb6c0d0` |
 | sources/chunk6-control/USREPORTS-532-661.txt | `f846331b144ee429ef7d6116f460e52566c664056a7bad641a8315306015310d` |

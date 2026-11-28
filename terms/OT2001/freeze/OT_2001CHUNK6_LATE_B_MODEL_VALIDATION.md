@@ -45,7 +45,7 @@ SHA-256 identifies the actual files available to this scoped context. A fingerpr
 | terms/OT2001/freeze/OT_2001CHUNK6_B_BARNES_NEUTRAL.md | 0e4e3a038d2a147548935c946e1aa2dbd7f4e9cc1a01aa1ad3cf8282f835d9b7 |
 | terms/OT2001/entering-law/OT_2001CHUNK6_B.md | 0049abfda8e1d61d440671ec0c64e2ee259c03f80d5523c5dde8ea3c6e6e1aed |
 | terms/OT2001/entering-law/OT_2001CHUNK6_B_HOLDINGS.md | 895f8f778958cada14f9bef4271600da9d6fc8ce00b74ce30e6b9153e416dfdc |
-| terms/OT2001/entering-law/OT_2001CHUNK6_B_CURRENT_LAW.md | 026bd16f642749f0ec398fbe09d06606db148dc31df74366cbb5b07b5d5ae950 |
+| terms/OT2001/entering-law/OT_2001CHUNK6_B_CURRENT_LAW.md | 80268b5afb8dae03373e09a73a6e8eef6eead06410129063da068517dc346d9e |
 | terms/OT2001/entering-law/OT_2001CHUNK6_B_SUPPLEMENT.md | 29364622d94654f0d31f4717ba3853718358971a9bee221587b870d23de86daf |
 | terms/OT2001/entering-law/OT_2001CHUNK6_B_ADDITIONAL_PUBLIC.md | d46b7bec135ec0bcf0cc089b2ce0a445f541aefd9747ff391fafa46cfab19349 |
 | terms/OT2001/entering-law/OT_2001CHUNK6_B_ASSET_SOURCES.md | 1262692dcf0dc5222d0521d184079c5de1f0958aaa0445e3e78f81f8765684d8 |

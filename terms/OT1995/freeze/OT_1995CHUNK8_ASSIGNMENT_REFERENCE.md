@@ -4,7 +4,7 @@
 
 Engine section 8 bookkeeping only; this file supplies no substantive entering law. The existing detailed prior-term Record-by-Record review in [chunk 6](OT_1995CHUNK6_ASSIGNMENT_REFERENCE.md), continued in [chunk 7](OT_1995CHUNK7_ASSIGNMENT_REFERENCE.md), establishes 93 named Chief assignments in OT1994: Stone-Zsela 8, Stevens 10, O'Connor 13, Scalia 5, Kennedy 13, Souter 18, Thomas 5, Ginsburg 13, Breyer 8. No author received more than half. The consecutive-term concentration ceiling therefore does not constrain a particular recipient in OT1995. These are preserved assignment statements, not newly verified Git history.
 
-The completed chunk 7 release receipt and actual Richards, Whren, Degen, and Exxon assignment paragraphs establish the current baseline of 73 named Chief assignments. The four most recent are Richards/Stone 70, Whren/Thomas 71, Degen/Scalia 72, and Exxon/Stevens 73. Assignment order does not change same-day entering law.
+The completed chunk 7 release receipt and actual Richards, Whren, Degen, and Exxon assignment paragraphs establish the current baseline of 73 named Chief assignments. The four most recent are Richards/Stone 70, Whren/Ginsburg 71, Degen/Scalia 72, and Exxon/Stevens 73. Assignment order does not change same-day entering law.
 
 | Justice | Named Chief assignments before chunk 8 |
 |---|---:|

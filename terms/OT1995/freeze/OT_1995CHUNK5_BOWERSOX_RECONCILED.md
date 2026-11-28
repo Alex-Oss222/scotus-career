@@ -4,7 +4,7 @@
 
 **Stage C result:** Preserve each Associate's frozen commitment **only to R**, the bounded reservation and immediate examination in §2 of `OT_1995CHUNK5_BOWERSOX_COMMITMENTS.md`. No Associate is committed here to final vacatur, final denial, a new Supreme Court execution stay, or protection through the scheduled appeal. The application remains pending. This handoff supplies neither a Court poll nor an author, assignment, final assembly or Stone position. Root must freeze it before assembly.
 
-**Input identity:** The complete independent handoff at supplied commit `dc233fe` has verified SHA-256 `07549b81a1eceff48b5dff74c5d644f3a3c2bdacecf156dfe29bb403e2c08947`. The final April 1 public snapshot at supplied commit `24a465e` has verified SHA-256 `1c68b0b42370c388cb73031ae6385c98b6a91fd95bd7aa212af8c7af03c4f11a`; the April 9 freshness certificate at supplied commit `c1d8d9b` has verified SHA-256 `b52b2146792a21222088d8d70d42476a9ecb23f3dcaed03ed2228803dd91326d`. Commit references are supplied provenance; this reader used no Git operation.
+**Input identity:** The complete independent handoff at supplied commit `dc233fe` has verified SHA-256 `07549b81a1eceff48b5dff74c5d644f3a3c2bdacecf156dfe29bb403e2c08947`. The final April 1 public snapshot at supplied commit `24a465e` has verified SHA-256 `a948dff692a5e8f89151847b48e9cd0bda9e8c06331b4fe28be0dcbfd8c51392`; the April 9 freshness certificate at supplied commit `c1d8d9b` has verified SHA-256 `b52b2146792a21222088d8d70d42476a9ecb23f3dcaed03ed2228803dd91326d`. Commit references are supplied provenance; this reader used no Git operation.
 
 ## 1. Complete historical comparator and its actual premises
 

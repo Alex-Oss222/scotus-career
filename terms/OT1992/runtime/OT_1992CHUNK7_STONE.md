@@ -416,7 +416,7 @@
 
 #### B. JUDGMENT AND REMEDY
 
-**Stone’s Proposed Judgment or Disposition:** VACATE the portion of the appellate judgment rejecting the § 502(a)(3) claim for monetary make-whole relief against a knowingly participating nonfiduciary, and REMAND. Leave the unreviewed claims, parties, and restitution ruling undisturbed.
+**Stone’s Proposed Judgment or Disposition:** VACATE the portion of the appellate judgment rejecting the § 502(a)(3) claim for monetary make-whole relief against a knowingly participating nonfiduciary, and REMAND. Leave the unreviewed claims, parties, and restitution ruling undisturbed. Join in full an opinion for the Court that adopts this trust-law construction within its stated limits, including the traditional surcharge remedy against fiduciaries on which it rests, and that reserves the disclaimed antecedent cause-of-action question.
 
 **Stone’s Remedy and Remand Position:** Allow the preserved knowing-participation claim to proceed under the statutory and equitable limitations stated below. The lower court must determine breach, knowing participation, causal loss, and the appropriate amount and recipient of any authorized recovery through ordinary proceedings. No liability or payment is adjudged now. Do not reopen Hewitt’s nonfiduciary status, the unchallenged restitution theory, the dismissed additional defendants and claims, or the separate disposition of the pendent malpractice claim.
 
@@ -426,7 +426,7 @@
 
 **Threshold and Merits Reach:** Reach the preserved monetary-redress issue on review of dismissal, accepting well-pleaded facts for that purpose without making findings.
 
-**Stone’s Legal Position and Treatment of Precedent:** Resolve an open statutory question by construing the existing express cause and remedy. The proposed trust-specific monetary construction is stated openly; no same-matter historical Supreme Court holding is treated as an already binding precedent to be overruled.
+**Stone’s Legal Position and Treatment of Precedent:** Resolve an open statutory question by construing the express remedy in ERISA’s trust-law setting, and join a Court opinion that adopts that construction within the limits stated below. The proposed trust-specific monetary construction is stated openly; no same-matter historical Supreme Court holding is treated as an already binding precedent to be overruled.
 
 **Stone’s Proposed Holding:** Appropriate equitable relief under § 502(a)(3) includes traditional monetary make-whole redress for losses caused by a nonfiduciary’s knowing participation in an ERISA fiduciary’s breach. The availability of that trust remedy does not authorize ordinary professional-negligence damages, punitive awards, or every monetary remedy that an equity court could incidentally grant.
 
@@ -436,15 +436,15 @@
 
 ##### Issue 2: Statutory authorization, the disclaimed alternative ground, and limits of remand
 
-**Threshold and Merits Reach:** Resolve only the statutory authorization necessary to Stone’s proposed remand, while expressly acknowledging the respondent’s disclaimer and preserving all independent factual defenses.
+**Threshold and Merits Reach:** Reserve the statutory-authorization question the respondent expressly disclaimed; Stone’s proposed remand rests on the remedial question presented, and all independent factual defenses are preserved.
 
-**Stone’s Legal Position and Treatment of Precedent:** State the proposed bounded interpretation of the enacted cause of action; do not imply an additional federal common-law malpractice action or change jurisdictional rules.
+**Stone’s Legal Position and Treatment of Precedent:** Leave the antecedent cause-of-action question undecided rather than answering it for or against the preserved claim; do not imply an additional federal common-law malpractice action or change jurisdictional rules.
 
-**Stone’s Proposed Holding:** For the limited preserved claim, § 502(a)(3)’s express authority to redress an ERISA fiduciary violation permits the traditional equitable claim against a person who knowingly participates in that violation and causes the asserted trust loss. This conclusion does not derive a cause of action from statutory silence or impose general fiduciary status on the participant.
+**Stone’s Proposed Holding:** None at this stage beyond reservation: whether § 502(a)(3) supplies an action against a nonfiduciary who knowingly participates in a fiduciary’s breach is reserved, not decided. The reservation derives no cause of action from statutory silence and imposes no general fiduciary status on the participant.
 
-**Essential Reasoning and Record Application:** Stone states only the coverage construction needed for his remand. Section 502(a)(3)'s express authority to redress the fiduciary's statutory violation, read with the traditional knowing-participation remedy, supplies the source. Section 502(l)'s treatment of knowing participants is contextual support, not an independent private action. Hewitt expressly disclaimed the separate lack-of-action ground for affirmance; that presentation limit is not a jurisdictional defect. Stone does not infer authority merely from statutory silence and reserves unbriefed questions beyond this preserved claim. Actual knowledge, participation, causation, equitable limits, and ordinary proof rules bound the proposed remedy; fixed party and claim dismissals remain undisturbed.
+**Essential Reasoning and Record Application:** Hewitt expressly disclaimed the separate lack-of-action ground for affirmance; that presentation limit is not a jurisdictional defect, and it leaves the antecedent question unbriefed. Stone therefore rests his proposed remand on the remedial question presented and does not answer the coverage question either way. Section 502(l)'s treatment of knowing participants is contextual support for the remedial reading, not an independent private action. Stone does not infer authority from statutory silence and reserves unbriefed questions beyond this preserved claim. Actual knowledge, participation, causation, equitable limits, and ordinary proof rules bound the proposed remedy; fixed party and claim dismissals remain undisturbed.
 
-**Boundary or Reserved Question:** No claim against every actuary or other service provider, no liability from professional status or negligence alone, and no revival of unappealed claims. The statutory claim concerns redress for the identified fiduciary violation, not a free-standing duty judicially imposed on all nonfiduciaries.
+**Boundary or Reserved Question:** No claim against every actuary or other service provider, no liability from professional status or negligence alone, and no revival of unappealed claims. Any statutory claim, a question reserved here, would concern redress for the identified fiduciary violation, not a free-standing duty judicially imposed on all nonfiduciaries.
 
 **Position-source discipline:** The supplied current Master Jurisprudence informs this proposed reasoning only. It supplies no governing rule, factual finding, approval history, or adopted Court holding. The proposed disposition and the legal authorities identified in Section I must remain separate from the historical comparator.
 

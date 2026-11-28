@@ -39,7 +39,7 @@ These SHA-256 values cover each entire preexisting Record, including the four op
 | Preexisting Record | Initial SHA-256 |
 |---|---|
 | Associates Commercial Corp. v. Rash | `a1b49333252b125ae22dc863bd22b3b2f8cd0b862c2dfb11a2f6e2831e4b97f2` |
-| Bracy v. Gramley | `4635f519242a603501c74faeb473780d20eebbf60dd5f01b48cdd4c06427ceb4` |
+| Bracy v. Gramley | `852f878e47fc6bd40d1d0f96183952523addcc60e32be3a5a2e81d2ed004b59f` |
 | Chalmers v. Tulon Co. of Richmond | `f7ed6f3950da55e499c050a24b1774e6a22001bc811f4b4c40c532fe67c8eb9f` |
 | Crawford-El v. Britton | `58e3263982134f0dd6a91de20b5aadb09091d0224cff3a73b8fd2a1352aa8588` |
 | Gilbert v. Homar | `518bb2e58ab7edbade8160de218afc39efbc355113dd3646a85f92d195925eb0` |

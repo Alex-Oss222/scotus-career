@@ -474,7 +474,7 @@ This section is comparison material only. It is not simulated law and does not c
 
 ### Issue 1: Ordinary crime-control checkpoints
 
-* **Controlling Simulated Law:** Whren v. United States sustains an ordinary traffic stop supported by probable cause while preserving purpose-limited administrative and inventory doctrines. Chandler v. Miller requires a concrete special need for its suspicionless testing program. Bond v. United States does not permit lawful presence to supply independent search authority.
+* **Controlling Simulated Law:** Whren v. United States makes an ordinary traffic stop supported by probable cause presumptively reasonable while preserving purpose-limited administrative and inventory doctrines. Chandler v. Miller requires a concrete special need for its suspicionless testing program. Bond v. United States does not permit lawful presence to supply independent search authority.
 * **Current Reusable Doctrine:** The objective traffic-stop rule and special-needs rule operate in their own domains. A brief intrusion alone does not establish authority for suspicionless seizure.
 * **Other Governing Law:** Fourth Amendment; 42 U.S.C. §1983; preliminary-injunction and prospective-relief principles.
 * **Material Other Authority:** Michigan Department of State Police v. Sitz; United States v. Martinez-Fuerte; Delaware v. Prouse, each within its actual checkpoint setting.

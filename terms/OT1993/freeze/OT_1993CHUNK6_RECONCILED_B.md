@@ -2,7 +2,7 @@
 
 Stage: isolated historical reconciliation; matters 65–68; event date and research cutoff: 1994-06-13, before any uncoordinated June 13 decision. This is an internal handoff, not a Decision Record, final Court disposition, assignment, or public law.
 
-Freeze status: durable, immutable reconciliation handoff once sealed. The provisional freeze is preserved byte-for-byte. Its verified SHA256 is `2eedd42c03a7e768d4f38d4b19d707201a147f0d1c3331d5543600282fb588e2`. The user's prohibition on Git commands governs; no Git command or commit was attempted. Repository commitment remains an operator step, not a claim made by this content seal.
+Freeze status: durable, immutable reconciliation handoff once sealed. The provisional freeze is preserved byte-for-byte. Its verified SHA256 is `9d5ace86d9933dc805e399be6bd6109955950213a3a89a9a115b8f6882f3b4d2`. The user's prohibition on Git commands governs; no Git command or commit was attempted. Repository commitment remains an operator step, not a claim made by this content seal.
 
 ## Scope, isolation, and sources of authority
 
@@ -205,7 +205,7 @@ The register below was generated from the exact permitted files immediately befo
 | `foundation/RENDER_CONTRACT.md` | `9fc4c1ab9d4291daf8d4088790b649efe044a888bf525ed9f821a4922b9eaa26` |
 | `foundation/COURT_COMPOSITION.md` | `1d5f10f2060f661abc44060e62b8ebcb9afd348c1dbfc2cfe51eca0d4ebf6c99` |
 | `terms/OT1993/entering-law/OT_1993CHUNK6_VALIDATED_NEUTRAL_B.md` | `f9664c4268053df5f23c3a7cd6b32adef3620f32c9f2cbde84a30822f4fc8531` |
-| `terms/OT1993/freeze/OT_1993CHUNK6_COMMITMENTS_B.md` | `2eedd42c03a7e768d4f38d4b19d707201a147f0d1c3331d5543600282fb588e2` |
+| `terms/OT1993/freeze/OT_1993CHUNK6_COMMITMENTS_B.md` | `9d5ace86d9933dc805e399be6bd6109955950213a3a89a9a115b8f6882f3b4d2` |
 | `terms/OT1993/runtime/OT_1993CHUNK6_COMPARATOR_B.md` | `bacb916292efb88b89e329845d0957542a9b8c9901d4c36ec9dc12ad399e7852` |
 | `terms/OT1993/entering-law/OT_1993CHUNK6.md` | `078cb263fbc3bc1414173a551906050183f9b28dc3cfcec05f12419775d9f2bf` |
 | `terms/OT1993/entering-law/OT_1993CHUNK6_CURRENT_NEUTRAL.md` | `5849ccc82c81d47655288b6e95db387330be8efbdfd321b2baec893ff11e8fff` |

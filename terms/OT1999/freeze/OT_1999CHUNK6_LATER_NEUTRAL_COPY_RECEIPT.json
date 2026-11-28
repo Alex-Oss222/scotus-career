@@ -99,7 +99,7 @@
   },
   "MCIVER": {
     "packet": "OT_1999CHUNK6_MCIVER_NEUTRAL_VALIDATED.md",
-    "packet_sha256": "e498a2362845c3a97cc7947311651c5390b5458d7cae1c73013eb80820db1ae9",
+    "packet_sha256": "4d930c3e796473fb70422ecadd1bc8948101c46947dbe39232d1da82417a673b",
     "copied_sources": [
       {
         "source": "OT_1999CHUNK6_MCIVER.md",

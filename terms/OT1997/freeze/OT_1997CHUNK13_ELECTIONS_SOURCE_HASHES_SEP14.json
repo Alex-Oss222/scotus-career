@@ -20,11 +20,11 @@
     "bytes": 52742
   },
   "terms/OT1997/entering-law/OT_1997CHUNK13_ELECTIONS.md": {
-    "sha256": "e8018edd22a3ace68806f23b58737fc5341407ed1941a53ba48a0def14117da5",
+    "sha256": "ff59546fb68ca964124384e3ce93af48ae9ed83ec455e748155eaf2870e90742",
     "bytes": 1243749
   },
   "terms/OT1997/freeze/SOURCE_OT_1997CHUNK13_ELECTIONS.md": {
-    "sha256": "e8018edd22a3ace68806f23b58737fc5341407ed1941a53ba48a0def14117da5",
+    "sha256": "ff59546fb68ca964124384e3ce93af48ae9ed83ec455e748155eaf2870e90742",
     "bytes": 1243749
   },
   "terms/OT1997/entering-law/OT_1997CHUNK13_ELECTIONS_FOCUS.md": {
@@ -36,11 +36,11 @@
     "bytes": 25262
   },
   "terms/OT1997/entering-law/OT_1997CHUNK13_ELECTIONS_CURRENT.md": {
-    "sha256": "f45e01ff01cac26d3bc53b2fa13fb618d91af2aa1c5eb7d24503dc17c8c831c4",
+    "sha256": "0562cc42afbcd90feca2e2418a64d4f060ef5733867ca7f2201076d1db1bed3d",
     "bytes": 84426
   },
   "terms/OT1997/freeze/SOURCE_OT_1997CHUNK13_ELECTIONS_CURRENT.md": {
-    "sha256": "f45e01ff01cac26d3bc53b2fa13fb618d91af2aa1c5eb7d24503dc17c8c831c4",
+    "sha256": "0562cc42afbcd90feca2e2418a64d4f060ef5733867ca7f2201076d1db1bed3d",
     "bytes": 84426
   },
   "terms/OT1997/research/chunk13-elections/clifton.html": {

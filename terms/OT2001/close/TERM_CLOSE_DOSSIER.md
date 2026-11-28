@@ -31,19 +31,19 @@ All 127 scheduled events are completed; no scheduled inventory item remains open
 | Incorporated source | SHA-256 |
 |---|---|
 | [case-list.md](../case-list.md) | `bc8ec5368711ef4378bca228059ac3307e893eab958607d7d7cfbc0177900e63` |
-| [workspace/manifest.md](../workspace/manifest.md) | `d82a360a6e9478929609abf3d5c4861966f7c6056b09a04cc298d337691378d5` |
-| [workspace/continuity.md](../workspace/continuity.md) | `ea44e2f8417514f0396a171d9108d762b92356c3f290a0099bbf68ca5b7b4f94` |
-| [workspace/ledger.md](../workspace/ledger.md) | `b2427ebb1f5e2711b640e2d8fb5aef54e9b5bd0d44b2228abfca26fa9cdff3ab` |
-| [workspace/neutral-projection.md](../workspace/neutral-projection.md) | `e4e150eb9949bc1337909758816202b041f36ee9301295904756117b22fc64e5` |
+| [workspace/manifest.md](../workspace/manifest.md) | `e661f47c5ced485af992c0df588fc69d7ddd42fe8f1460edb57c3ca3bcee8aae` |
+| [workspace/continuity.md](../workspace/continuity.md) | `d8cb82024b7f131bda2e128a674672ecaaa4885a69d97852f5a9a401f189c150` |
+| [workspace/ledger.md](../workspace/ledger.md) | `e4bfe3a40cf3da19cc551997ab34a92d313d40549c609850da6f0812ae467c9d` |
+| [workspace/neutral-projection.md](../workspace/neutral-projection.md) | `9a96408bc2adcf9ab40c1e8801b2c5256a94af609302d793095bd7f3d14ead55` |
 | [close/AUDIT.md](AUDIT.md) | `d1e98368048e933bccf618481c54bcfec63514bdd98ac1aed26c2bd436b4f562` |
-| [Chunk 1 public render](../output/OT_2001CHUNK1.md) (cross-check only) | `59e178727994f96cd2ef4eea065ea3d7f999921c2211c9955daef00970b4985e` |
+| [Chunk 1 public render](../output/OT_2001CHUNK1.md) (cross-check only) | `c052f75769465a9b72e3164acb8aaa48ab79fc0770b5ccaf6e1eb8eb9cd955ef` |
 | [Chunk 2 public render](../output/OT_2001CHUNK2.md) (cross-check only) | `d70c42bcbe65da89d48338f1eaf4582cd80006e39cc8244493513fc2eca9cfa2` |
 | [Chunk 3 public render](../output/OT_2001CHUNK3.md) (cross-check only) | `8010905c6979166b6f1bd90d6f843303812f06322a125a02f889811222d2086e` |
 | [Chunk 4 public render](../output/OT_2001CHUNK4.md) (cross-check only) | `41166825daa01560c41e20682cd300bbe6c4cbab5b47f2cbf41d8b77d9b3978a` |
 | [Chunk 5 public render](../output/OT_2001CHUNK5.md) (cross-check only) | `07bae58944df000bb7dfb8d8fd99020ca98bb01780a9cf8860f4a991c0452430` |
 | [Chunk 6 public render](../output/OT_2001CHUNK6.md) (cross-check only) | `0bd5eeb4a3ed9945fa13bebe16a046844e9b035ab55c8e3d45a1e590d51301c9` |
 | [Chunk 7 public render](../output/OT_2001CHUNK7.md) (cross-check only) | `eab1be9cfd31d803ac60657573ea7ba67302f36f8cd1d1608918990ee6b22270` |
-| [Chunk 8 public render](../output/OT_2001CHUNK8.md) (cross-check only) | `b9539fc590cef485f4d948c5a1d308b0b95e9f502f5ba21af38677c0f5fc2d18` |
+| [Chunk 8 public render](../output/OT_2001CHUNK8.md) (cross-check only) | `63743f6af6fe26fab2c8c79b9fc6828812619355d71cee364ec45b2162678e88` |
 
 ## Canonical Decision Records in effective order
 
@@ -61,10 +61,10 @@ The following 127 validated Records are the complete authoritative Court-event s
 | 2001-11-27 | [Correctional Services Corp. v. Malesko; No. 00-860](../records/correctional-services-corp-v-malesko_merits_2001-11-27.md) | `f0834a5a482f80aeab7bebb3c63022f52f5e76ce1c93117862fc410e9b06c9fd` |
 | 2001-12-10 | [J. E. M. Ag Supply, Inc. v. Pioneer Hi-Bred International, Inc.; No. 99-1996](../records/j-e-m-ag-supply-inc-v-pioneer-hi-bred-international-inc_merits_2001-12-10.md) | `e96437f09ffa812db2750dfa201db2c88fcd72b09d743bd5e63d829b0a974ff4` |
 | 2001-12-10 | [Schrader v. Blackwell; 241 F.3d 783 (6th Cir. 2001)](../records/schrader-v-blackwell_merits_2001-12-10.md) | `6da20b9e7f344b10404d16f8638a43f518ffe6a46ed7cc31770973c8a5389a8e` |
-| 2001-12-10 | [United States v. Knights; No. 00-1260](../records/united-states-v-knights_merits_2001-12-10.md) | `7961efa37dd9ca722b0ae29d3854a51708fa0171661a2891c29ce65c65b0d195` |
+| 2001-12-10 | [United States v. Knights; No. 00-1260](../records/united-states-v-knights_merits_2001-12-10.md) | `d534d9c1ff907a710fcd300f98db0cd79da6d75f8219b437680b57ddc6d4b7ca` |
 | 2002-01-08 | [Dusenbery v. United States; No. 00-6567](../records/dusenbery-v-united-states_merits_2002-01-08.md) | `b58911fb054fb54ffe77286c08d9a93430577f8365ee133ad66a744c9a61fb1d` |
-| 2002-01-08 | [Great-West Life & Annuity Insurance Co. v. Knudson; No. 99-1786](../records/great-west-life-annuity-insurance-co-v-knudson_merits_2002-01-08.md) | `f3d68af444a29bbd08542ac7ac27f5b8cfdf2246e00eaffb4ebde6198fce2fa7` |
-| 2002-01-08 | [Searles v. Van Bebber; 251 F.3d 869 (10th Cir. 2001)](../records/searles-v-van-bebber_merits_2002-01-08.md) | `d2ef0d72179faabd6f5c2e8dfca1336d04129db36baa0e241f8d35146a60b0d7` |
+| 2002-01-08 | [Great-West Life & Annuity Insurance Co. v. Knudson; No. 99-1786](../records/great-west-life-annuity-insurance-co-v-knudson_merits_2002-01-08.md) | `880906d60765841b786d034d9e77c2e502f38da44751a75c4986db9c873da2d9` |
+| 2002-01-08 | [Searles v. Van Bebber; 251 F.3d 869 (10th Cir. 2001)](../records/searles-v-van-bebber_merits_2002-01-08.md) | `8333004610b4f659f4091a7d3f463784eb68b553d370b3352154379efff85d5a` |
 | 2002-01-08 | [Toyota Motor Manufacturing, Kentucky, Inc. v. Williams; No. 00-1089](../records/toyota-motor-manufacturing-kentucky-inc-v-williams_merits_2002-01-08.md) | `42cbbb068c5b8a64341f47a430587fcb2f1dd2b8f6b50ed00b737f40cf3f55a4` |
 | 2002-01-09 | [Chao v. Mallard Bay Drilling, Inc.; No. 00-927](../records/chao-v-mallard-bay-drilling-inc_merits_2002-01-09.md) | `253bbab86464c82e178bc7b72257ebb31ef09952d7f5fc285abf278273078d1c` |
 | 2002-01-09 | [Kelly v. South Carolina; No. 00-9280; 534 U.S. 246.](../records/kelly-v-south-carolina_merits_2002-01-09.md) | `a9495e5bf22a1a83c9a5d54549c7d18b7e357baff2f04e5df7d003886c5f94d6` |
@@ -177,7 +177,7 @@ The following 127 validated Records are the complete authoritative Court-event s
 | 2002-06-27 | [Republican Party of Minnesota v. White; No. 01-521.](../records/republican-party-of-minnesota-v-white_merits_2002-06-27.md) | `2823bb1ee049287c91fa27cc66306e2a26f4bb89f130af01997ceb34492032bd` |
 | 2002-06-27 | [Zelman v. Simmons-Harris; Hanna Perkins School v. Simmons-Harris; Taylor v. Simmons-Harris; Nos. 00-1751, 00-1777 and 00-1779.](../records/zelman-v-simmons-harris_merits_2002-06-27.md) | `6ada061099bc420d40529866f758973bdef97ba965b53658e9e4184362cb350f` |
 | 2002-06-28 | [Stewart v. Smith; No. 01-339.](../records/stewart-v-smith_merits_2002-06-28.md) | `e1f1402a61835c942cb32b5914b86268f91ce5dd05730f9fe525b8f2ff4fe2e4` |
-| 2002-06-28 | [United States v. Bass; No. 01-1471.](../records/united-states-v-bass_merits_2002-06-28.md) | `1ab46f2447bfb758a31050792cf756ec7ae6632a65b95ebfffeeb8656aaafe60` |
+| 2002-06-28 | [United States v. Bass; No. 01-1471.](../records/united-states-v-bass_merits_2002-06-28.md) | `7183e683e20759401ce061204e2f3a8115c334997e104a2b2d9723a4aa5421e5` |
 
 ## Admitted sources and institutional continuation
 
@@ -211,7 +211,7 @@ Publication is complete. The completed audit supplies the comprehensive term-che
 - `python tools/holdings_volumes.py split` generated all 23 volumes. Their existing LF endings were preserved in the final files. The first `check` identified a single extra terminal blank line in the continuous candidate; `python tools/holdings_volumes.py build` regenerated that view, and the subsequent `python tools/holdings_volumes.py check` passed.
 - The three published trackers match their candidates byte-for-byte after the common header replacements and the single terminal empty-line normalization in Holdings. No other candidate content changed.
 - All 27 state files have the common OT2001 cutoff and November 11, 2026 edition. HOLDINGS.md, STANDARDS_AND_TESTS.md and holdings/INDEX.md retain CRLF. STANDING_STATE.md and all 23 volumes retain LF. All volume sections match the continuous view.
-- `python tools/build_close_indexes.py OT2001` generated the term index and all three close indexes from 127 Records. An independent read-only reconstruction confirms their exact content: 127 term-index rows, 104 separate-writing event headings, 62 expressly recorded departure entries and one expressly recorded consequence entry.
+- `python tools/build_close_indexes.py OT2001` generated the term index and all three close indexes from 127 Records. An independent read-only reconstruction confirms their exact content: 127 term-index rows, 104 separate-writing event headings, 65 expressly recorded departure entries and one expressly recorded consequence entry.
 - All 31 tracker, volume and generated-index files contain no GitHub repository URLs. The 491 local file references in these artifacts and the pre-receipt dossier resolve. Publication receipts below add links only to the files whose bytes were verified.
 - All 1,305 protected source files match the prepublication integrity aggregate below, including every Record, public render, generated Render Input, workspace projection, brief, runtime split, frozen handoff, entering-law slice, governing file and tool in the stated scope. The canonical audit remains unchanged.
 - A separate read-only verification confirmed candidate identity, all required line endings and headers, volume synchronization, and exact mechanical index generation. No Git command was run.
@@ -249,10 +249,10 @@ These digests identify the completed publication before staging cleanup. This do
 | [state/holdings/maritime-law.md](../../../state/holdings/maritime-law.md) | `95ae70f4544b98d13877c0281e7896dd5b5bbc80075b02b91d641650b57c7b3d` |
 | [state/holdings/property-and-economic-rights.md](../../../state/holdings/property-and-economic-rights.md) | `a6c440b258cceee53105fb083afe27222c64cf0d3dcc74a2e9ef883c2732253c` |
 | [state/holdings/tort-law.md](../../../state/holdings/tort-law.md) | `21fcf9631293f93d7c5eb35ee402b7856c03e2709fa7642b4281029801802d79` |
-| [terms/OT2001/INDEX.md](../INDEX.md) | `2f2d1f56982248c38fe80490702ac30600003dbee1f37bb8413529caad1d3e0e` |
+| [terms/OT2001/INDEX.md](../INDEX.md) | `5c27d8ab2cc952ed5df7915145dfebd5615e9d31236c9317d13b16ec3c7bfb48` |
 | [terms/OT2001/close/CONSEQUENCES.md](CONSEQUENCES.md) | `0f6d836a3f7761d17dcc7f1fe4ce3cccae563d72297bfb7faf015cebf00950e3` |
-| [terms/OT2001/close/DEPARTURES.md](DEPARTURES.md) | `e9d45ec2fe2c599cf66261665aacb00b7518432cd97ad7c5fc671a97c2fa4b39` |
-| [terms/OT2001/close/SEPARATE_WRITINGS.md](SEPARATE_WRITINGS.md) | `48c8e52a72c93b579d0a1a5b07f9c31c4474715abbed44432917db4550146e87` |
+| [terms/OT2001/close/DEPARTURES.md](DEPARTURES.md) | `c35a4d10aaa653a8f22aae147ad4a0db2d16c1652c80cf4a7a0a7f03824e0993` |
+| [terms/OT2001/close/SEPARATE_WRITINGS.md](SEPARATE_WRITINGS.md) | `de14427dc6ba60b373f5cdd5c49f6e43abbb0e931d539085a200ddc5a9a65e52` |
 
 ## Source integrity baseline
 

@@ -10398,7 +10398,7 @@ The public must receive adequate notice of the wreck's location. For the third c
 
 **Limits and questions not reached:** The later tow to the United States supplies no original nexus; the Government's alternative actual-nexus theory is not adjudicated.
 
-**Treatment of earlier authority:** Alvarez-Machain distinguishes custody from lawful trial authority; it does not resolve every statute's territorial reach. Hartford Fire's domestic-effects antitrust setting supplies no effects element here. Lanier requires warning from antecedent law, and Rogers preserves the bar on unforeseeable retrospective enlargement alongside foreseeable implementation of existing rules.
+**Treatment of earlier authority:** Alvarez-Machain's treaty bar reaches only custody obtained through an officially directed seizure in another State's territory that circumvents a treaty's surrender allocation over that State's formal objection, which flag-state consent excludes; it does not resolve every statute's territorial reach. Hartford Fire's domestic-effects antitrust setting supplies no effects element here. Lanier requires warning from antecedent law, and Rogers preserves the bar on unforeseeable retrospective enlargement alongside foreseeable implementation of existing rules.
 
 ##### Whether later enforcement consent and unsuccessful loading defeat restoration of the conspiracy indictment
 

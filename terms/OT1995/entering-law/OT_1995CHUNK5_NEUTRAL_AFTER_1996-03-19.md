@@ -192,7 +192,7 @@ Authority: [Limited review, both July orders and complete statutory context](../
 **Precedent treatment.**
 
 * **Massachusetts Mutual Life Insurance Co. v. Russell, 473 U.S. 134:** Its plan-centered §409 construction is preserved. The Court answers the distinct §502(a)(3) individual-action question Russell expressly reserved.
-* **Mertens v. Hewitt Associates, 508 U.S. 248:** Its traditionally equitable-category limit is applied without converting the reserved antecedent action issue into a prior rejection. Its unchallenged restitution disposition and reservation of other monetary equity remain intact.
+* **Mertens v. Hewitt Associates, 508 U.S. 248:** Its trust-law identification of traditionally equitable categories, including surcharge against fiduciaries, is applied without converting the reserved antecedent action issue into a prior rejection. Its exclusion of punitive and general tort compensation and its unchallenged restitution disposition remain intact.
 * **John Hancock Mutual Life Insurance Co. v. Harris Trust & Savings Bank, 510 U.S. 86:** Its particular-function inquiry is applied to administration. The insurance-asset holding and the reservation concerning agency litigation positions remain separate; no deference ruling is needed here.
 * **Curtiss-Wright Corp. v. Schoonejongen, 514 U.S. 73:** Its distinction between retained amendment power and authorized exercise is preserved. The decision supplies neither an immunity for administrative deception nor lifetime vesting.
 * **Firestone Tire & Rubber Co. v. Bruch, 489 U.S. 101:** Trust-law guidance informs fiduciary loyalty within ERISA's actual text. The Court does not replace ordinary benefits-review rules with a general fiduciary remedy.

@@ -4,7 +4,7 @@
   "coverage_status": "Complete as to Records presently on disk at the stated strict-before cutoff.",
   "slice": "terms/OT1995/entering-law/OT_1995CHUNK8_REVISION_EGELHOFF.md",
   "slice_sha256": "7b5f6a88c77b191b08e9ecad611039171f8abf99b343be4e2ff42eba05491b91",
-  "baseline_sha256": "c3321f991b9473ebde797d105a65f47280ff14c2b702b6ff7e21ab2b6b418521",
+  "baseline_sha256": "b4978a17bff5facf76c30be482eb6928524c116853f959c81469c1e9e5f1b8ea",
   "selected": {
     "holdings-area": [
       "criminal-procedure",
@@ -24,7 +24,7 @@
     "standing-heading": []
   },
   "inputs": {
-    "terms/OT1995/entering-law/OT_1995CHUNK8_B_OPENING.md": "c3321f991b9473ebde797d105a65f47280ff14c2b702b6ff7e21ab2b6b418521",
+    "terms/OT1995/entering-law/OT_1995CHUNK8_B_OPENING.md": "b4978a17bff5facf76c30be482eb6928524c116853f959c81469c1e9e5f1b8ea",
     "state/holdings/criminal-procedure.md": "cd91b0b05e90260218d2aa54bf270a5abb64c2b97ce1beaebb5abfb87955796b",
     "state/holdings/civil-rights.md": "b0e75c4475d25c3dfe177bc76214d66717b1436707e8678b41f753e5c8d6679b",
     "state/holdings/federal-courts.md": "5dd61b8a52bd0739f7d94540d1b7c2a405d21276bcf685738adece118f91b552",
@@ -176,7 +176,7 @@
     {
       "path": "terms/OT1995/records/Locomotive_Engineers_v_Atchison_Topeka_and_Santa_Fe_Railroad_Co_merits_1996-01-08.md",
       "date": "1996-01-08",
-      "record_sha256": "dfd9e59a7566accced25798dd55b578d469eebc1aef27dd8b4e9452ccd7f6887",
+      "record_sha256": "b25c9ff84b58815c078e6471889b49bd5fb092c140a73c8a448608aff7fda7c2",
       "projection_sha256": "0a934c0fbc8f575a8b824b4cdbb423d197fc6c0db9055fd9d5500574b1448b1b"
     },
     {
@@ -284,7 +284,7 @@
     {
       "path": "terms/OT1995/records/Peacock_v_Thomas_merits_1996-02-21.md",
       "date": "1996-02-21",
-      "record_sha256": "65c6a0d544052cff24d3418f9258b960099845ffe6d4f102e751bc2336230949",
+      "record_sha256": "85d87f0a92323a590e82c7345aa7061069d45505573522c0cb0feccb15798dbe",
       "projection_sha256": "de7cf1fa1fda4a2beb8fcaa975dd46c6bbf9ac27fcf57b44b9af2b620f0892e5"
     },
     {
@@ -356,14 +356,14 @@
     {
       "path": "terms/OT1995/records/Meghrig_v_KFC_Western_Inc_merits_1996-03-19.md",
       "date": "1996-03-19",
-      "record_sha256": "0bb6dca0fe35ac5a7f2bcb7d205a64a699792990947f8d477c3dd5b15f1a7d77",
+      "record_sha256": "6e819d52711defc1a28f5bc22b05cce162cbb2e20e6fbf1870ff05445f36b9c4",
       "projection_sha256": "82a75bf53f687564d800a27a840d505007797a8f4829de6fb63d8efbbfb9ad84"
     },
     {
       "path": "terms/OT1995/records/Varity_Corp_v_Howe_merits_1996-03-19.md",
       "date": "1996-03-19",
-      "record_sha256": "16689ca28f9dd62dba8d9f09afee1fe509a9e0c6808990fb47361329bf3bea17",
-      "projection_sha256": "60fd3dddd79ff4a6ec6e6b9eeb65df796c6d54878cecfcba94d9d8ae50b3bfe8"
+      "record_sha256": "09d696851a7f953fbf86c97c94becdc84d0c7d544fbff8bbf38d9f34ea2e06a7",
+      "projection_sha256": "ba056d09f0d37236aba3746e33608771eeda499bc28f92da2d06e95f4ee5493e"
     },
     {
       "path": "terms/OT1995/records/Wisconsin_v_City_of_New_York_merits_1996-03-20.md",
@@ -386,7 +386,7 @@
     {
       "path": "terms/OT1995/records/Morse_v_Republican_Party_of_Virginia_merits_1996-03-27.md",
       "date": "1996-03-27",
-      "record_sha256": "cdc356da0bae67dc5c935fd4ce3c376adb8ad40fc6b71646d3a47c12aa8a913b",
+      "record_sha256": "935531d57a678db5710968a3492f3b22008e2ed7b589e5b20260074fa8c78736",
       "projection_sha256": "b8ca2604e07e8cab76fe9d00970bc79494a7e8ad0803ad1695710b505ce92182"
     },
     {
@@ -434,7 +434,7 @@
     {
       "path": "terms/OT1995/records/Bowersox_v_Williams_interim_application_order_1996-04-09.md",
       "date": "1996-04-09",
-      "record_sha256": "c6e09551706edcbc45fef20ca934e90b59932507c83825e00f74983cd3026623",
+      "record_sha256": "f2264970b613ffa906ec20bb4347000d6e733f62fc51f25c71afd2703ce9e006",
       "projection_sha256": "bb489323d379ea39168498b2f745a4e5d948c08491b976b847eaf08e47d2d0b6"
     },
     {
@@ -506,8 +506,8 @@
     {
       "path": "terms/OT1995/records/United_States_v_Armstrong_merits_1996-05-13.md",
       "date": "1996-05-13",
-      "record_sha256": "5adccc587d2b442ce2f06023dada55a5de443946f3f4f9d7cabe6b018437002c",
-      "projection_sha256": "43926ba1c10abe4cc7ab66e8a634aba73d7600fb4f773d0b0372fe9bef701df3"
+      "record_sha256": "2751a1bb7662252f21cefa89a4a097c2cb06963745ce19d45fcf4de768baf1a8",
+      "projection_sha256": "6e7844bc80d3ce4a1c8d0b938fe0bb9b01f9b56f9d0c8d2b11fe86de72581cf1"
     },
     {
       "path": "terms/OT1995/records/United_States_v_Noland_merits_1996-05-13.md",
@@ -572,25 +572,25 @@
     {
       "path": "terms/OT1995/records/Smiley_v_Citibank_South_Dakota_NA_merits_1996-06-03.md",
       "date": "1996-06-03",
-      "record_sha256": "00a6c4ed86e993103f01b5d00b2f5e6bdc67a7ef201a05ab1e91e9efa349451c",
+      "record_sha256": "1f733be45e066a689030bcd724159ab9624654083aefa3ebdfe6366dd27acdc7",
       "projection_sha256": "571b043c07699a3b3b5e2eaf46b9032df59cf8f2a59a2b149fb459493808b793"
     },
     {
       "path": "terms/OT1995/records/Degen_v_United_States_merits_1996-06-10.md",
       "date": "1996-06-10",
-      "record_sha256": "e29d97176f4d1bfe3575675081eb77ac41ac310d2819864b0c8d4505a3f2d9e2",
+      "record_sha256": "be5cee32e4c05ad9acc01df515f022756d95b3a8ee208511eadce3255342f492",
       "projection_sha256": "ed226b66dd3ca316cb96fb1120269d4d1863fe51e6b3a44c8f35a20dbadd15c4"
     },
     {
       "path": "terms/OT1995/records/Exxon_Co_USA_v_Sofec_Inc_merits_1996-06-10.md",
       "date": "1996-06-10",
-      "record_sha256": "30a921a40f6db4986b1a11fef45aac05c6c4d30b87b05deaf903ec558e8a5c31",
+      "record_sha256": "f4e372b1038969c625f5d8f6ca3cf82e9d9057373a45a8e31e6bc3befa2ed842",
       "projection_sha256": "946aedf6885034d410958d06cb411a7c8ce1fbfbe5d94a9076ffc8d0b327fdf4"
     },
     {
       "path": "terms/OT1995/records/Lockheed_Corp_v_Spink_merits_1996-06-10.md",
       "date": "1996-06-10",
-      "record_sha256": "ca40858c50161eb4879a70cc980a3f94e729f9311ff25de93dd73076c4d63ff4",
+      "record_sha256": "9acd2de4b27bc602b619f2d38e733a85de211ee609c9af2ffd4a525e868c6dd3",
       "projection_sha256": "b40163b70acdddc78ddce2d15080c8cec4bed6ff6324cc5a8871c371fffbc088"
     },
     {
@@ -608,13 +608,13 @@
     {
       "path": "terms/OT1995/records/Whren_v_United_States_merits_1996-06-10.md",
       "date": "1996-06-10",
-      "record_sha256": "aaa5d90c66aa10a82d189d74789154fc82df58a1925fd4be93fe98f345afd487",
-      "projection_sha256": "f0fd2220903ed2edf4cb685226b830b2660a32d64dd9c289ecabc655db8568f9"
+      "record_sha256": "7f2026096886e8f6bef29db312f07a3ca969847ad8d80ba53b9d08d72735f8d5",
+      "projection_sha256": "43302212d21911e0f229f205457e69323ad86f7198fa8ecd841812f8b1037401"
     },
     {
       "path": "terms/OT1995/records/United_States_v_Myers_merits_1996-06-11.md",
       "date": "1996-06-11",
-      "record_sha256": "d68c3f63f5e3e3deb9267393c13c14f106e7d8543ffe80b8f723a976257c3332",
+      "record_sha256": "d541f5ac33407d15cf0e0b5b9d5238b723a72c8d932a4bad81c11c2f4d4638b7",
       "projection_sha256": "05077d837bc93c49cc9b18d47964d5926e13d9dc736a90f0885291c6753a38f8"
     }
   ],

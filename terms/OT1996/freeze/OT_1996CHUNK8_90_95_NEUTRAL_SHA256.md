@@ -3,7 +3,7 @@
 No Git operation. Five matters (90, 91, 93, 94, 95) prepared; 92 requires fresh neutral validation. Frozen source files must not be edited.
 
 - `OT_1996CHUNK8_90_91_93_94_95_NEUTRAL.md` — `90ca072122a151e722d86ef9c851ff2fd6c83fd193d28c726a2a0fff3304d7ff`
-- `OT_1996CHUNK8_90_95.md` — `5d50c391c959b1d5d8ec32a840417e0dd1ec76313387269c224590b3b56547ce`
+- `OT_1996CHUNK8_90_95.md` — `c0472612d947ecd113c69ab9577519fa853f48201b0c22de09520d2fa0b733ab`
 - `OT_1996CHUNK8_90_95_PREFLIGHT.md` — `fdcd226b1ca078a7bddbde84d9eb441b0a1637e18011908f7e722f2a8349b536`
 - `OT_1996CHUNK8_90_95_SELECTED.md` — `5665ebd6cd4a00a6b1181a043d151ba873630237e67ab61fbe9e69f73ad65d7d`
 - `sources_90_95\Antoine.pdf` — `ecde19aa0216fef3e38b7c86d5844d76bb0f6ea645f1c8e7e7ea6c4f97e78f2f`

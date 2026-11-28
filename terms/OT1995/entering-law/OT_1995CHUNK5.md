@@ -551,25 +551,70 @@ No Supreme Court precedent is overruled, limited, or extended beyond its own ter
 **Docket or dockets:** No. 91-1671.
 **Decided:** June 1, 1993.
 
-##### The reviewed compensatory award is not appropriate equitable relief
+##### Appropriate equitable relief in ERISA’s trust setting is identified by trust-law remedies
 
-**Holding:** Section 502(a)(3)’s appropriate equitable relief encompasses traditionally equitable categories of relief, not compensatory damages merely because a court of equity could award them in trust litigation. The requested monetary compensation from this admitted nonfiduciary for the plan’s losses is therefore unavailable under that provision; the Court does not bar every monetary equitable remedy or decide the antecedent, expressly disclaimed cause-of-action question.
+**Holding:** Section 502(a)(3)’s appropriate equitable relief means remedies historically recognized in equity. Because ERISA establishes a statutory trust regime, those remedies are identified by reference to the law of trusts as it fits the statute’s text and structure. A remedy is not legal damages merely because it requires the payment of money. The provision does not reach punitive awards, general tort compensation, remedies that became available only after the merger of law and equity, or every remedy a court of equity could award incidentally to its jurisdiction.
 
-**Proposition-level authority:** Scalia’s Opinion of the Court; Blackmun, Scalia, Kennedy, Souter, Thomas (5 Justices). Direct majority support for this exact proposition; no Marks synthesis.
+**Proposition-level authority:** White’s Opinion of the Court; Stone-Zsela, White, Stevens, O’Connor, Souter (5 Justices). Direct majority support for this exact proposition; no Marks synthesis.
 
-**Limits and questions not reached:** The expressly disclaimed antecedent cause of action is reserved, not rejected as jurisdictional. Other equitable monetary remedies are not categorically barred; restitution, unappealed claims and the separate malpractice disposition remain untouched.
+**Limits and questions not reached:** The expressly disclaimed antecedent cause of action is reserved, not rejected as jurisdictional. No fiduciary status, knowing participation, loss, causation, liability or amount is adjudicated. Punitive awards, general tort compensation and negligent professional advice are outside the remedy; professional status does not make a defendant a fiduciary. Restitution, unappealed claims and the separate malpractice disposition remain untouched.
 
-**Operative remedy or transition:** Affirm rejection of the reviewed compensatory claim under §502(a)(3); no liability finding or award.
+**Operative remedy or transition:** Vacate the Ninth Circuit’s rejection of the reviewed §502(a)(3) monetary claim and remand; no liability finding or award.
 
 **Treatment of earlier authority:**
 
-- Curtis v. Loether, 415 U.S. 189: traditional legal compensation distinction applied.
-- Chauffeurs, Teamsters & Helpers v. Terry, 494 U.S. 558: remedy classification applied; trust forum alone does not decide the statutory category.
-- Firestone Tire & Rubber Co. v. Bruch, 489 U.S. 101: trust-law guidance preserved subject to express statutory limits.
-- Clews v. Jamieson, 182 U.S. 461: equity’s monetary powers acknowledged but distinguished from the statutory category.
-- Massachusetts Mutual Life Insurance Co. v. Russell, 473 U.S. 134: enforcement-structure caution applied; its reserved question is now resolved only within this holding.
-- United States v. Burke, May 26, 1992: its fractured judgment supplies no controlling general remedial-range test.
+- Firestone Tire & Rubber Co. v. Bruch, 489 U.S. 101: trust-law guidance applied to identify the equitable remedies within the enacted text.
+- Clews v. Jamieson, 182 U.S. 461: equity’s power to restore trust losses by a monetary decree applied.
+- Curtis v. Loether, 415 U.S. 189: its distinction of legal compensation preserved for the claims it addressed; it does not reclassify equitable trust remedies.
+- Chauffeurs, Teamsters & Helpers v. Terry, 494 U.S. 558: its recognition that actions against trustees for breach of fiduciary duty were equitable applied; its jury-trial classification of a different remedy is not extended to this provision.
+- Massachusetts Mutual Life Insurance Co. v. Russell, 473 U.S. 134: its §409 enforcement-structure holding preserved; its reserved §502(a)(3) question is answered only as stated in these holdings.
 - Franklin v. Gwinnett County Public Schools, February 26, 1992: appropriate-remedy presumption distinguished because Congress expressly limited this provision to equitable relief.
+- United States v. Burke, May 26, 1992: its fractured judgment supplies no controlling general remedial-range test.
+
+##### Trust-law monetary restoration, including surcharge against fiduciaries, is appropriate equitable relief
+
+**Holding:** Section 502(a)(3) permits appropriate monetary restoration traditionally available in trust litigation, including surcharge against fiduciaries where its requirements are satisfied: actual loss caused by the breach, or the elimination of unjust enrichment the breach produced. The provision does not authorize punitive damages or general tort compensation. For a third party the inquiry is more demanding, and a defendant’s status as actuary, lawyer or other service provider does not make it a fiduciary. Where an otherwise actionable claim establishes a nonfiduciary’s knowing participation in an actionable breach of trust, monetary restoration matching the loss attributable to that participation is not categorically excluded merely because the defendant did not receive the lost assets. Hewitt’s nonfiduciary status is fixed, and the Ninth Circuit’s categorical rejection of the participants’ monetary claim cannot stand.
+
+**Proposition-level authority:** White’s Opinion of the Court; Stone-Zsela, White, Stevens, O’Connor, Souter (5 Justices). Direct majority support for this exact proposition; no Marks synthesis.
+
+**Limits and questions not reached:** The expressly disclaimed antecedent cause of action is reserved, not rejected as jurisdictional. No fiduciary status, knowing participation, loss, causation, liability or amount is adjudicated. Punitive awards, general tort compensation and negligent professional advice are outside the remedy; professional status does not make a defendant a fiduciary. Restitution, unappealed claims and the separate malpractice disposition remain untouched.
+
+**Operative remedy or transition:** Vacate the Ninth Circuit’s rejection of the reviewed §502(a)(3) monetary claim and remand; no liability finding or award.
+
+**Treatment of earlier authority:**
+
+- Clews v. Jamieson, 182 U.S. 461: equitable monetary restoration for breach of trust, including surcharge and restoration against a knowing participant, applied.
+- Firestone Tire & Rubber Co. v. Bruch, 489 U.S. 101: trust law applied to identify surcharge against fiduciaries and the remedy against a knowing participant.
+- Massachusetts Mutual Life Insurance Co. v. Russell, 473 U.S. 134: its rejection of extracontractual and punitive recovery under §409 preserved; no punitive or general compensatory remedy is recognized here.
+
+##### Restoration requires an actionable claim and its equitable predicates; the antecedent action question is reserved
+
+**Holding:** Trust-law monetary restoration under §502(a)(3) requires an authorized statutory action and an actionable violation; a historically recognized equitable basis for relief against the particular defendant; the knowledge or fiduciary responsibility that basis requires; actual loss or another recognized equitable measure; and causation and the traditional equitable limits. Negligent professional advice is not knowing participation. Section 502(a)(3) does not create a cause of action for every trust wrong. Because Hewitt expressly disclaimed the argument, the Court reserves whether §502(a)(3) supplies an action against a nonfiduciary who knowingly participates in a fiduciary’s breach; the reservation respects the parties’ presentation and is not a jurisdictional ruling.
+
+**Proposition-level authority:** White’s Opinion of the Court; Stone-Zsela, White, Stevens, O’Connor, Souter (5 Justices). Direct majority support for this exact proposition; no Marks synthesis.
+
+**Limits and questions not reached:** The expressly disclaimed antecedent cause of action is reserved, not rejected as jurisdictional. No fiduciary status, knowing participation, loss, causation, liability or amount is adjudicated. Punitive awards, general tort compensation and negligent professional advice are outside the remedy; professional status does not make a defendant a fiduciary. Restitution, unappealed claims and the separate malpractice disposition remain untouched.
+
+**Operative remedy or transition:** Vacate the Ninth Circuit’s rejection of the reviewed §502(a)(3) monetary claim and remand; no liability finding or award.
+
+**Treatment of earlier authority:**
+
+- Massachusetts Mutual Life Insurance Co. v. Russell, 473 U.S. 134: respect for ERISA’s enforcement structure applied; no cause of action is inferred for every trust wrong.
+- Franklin v. Gwinnett County Public Schools, February 26, 1992: the distinction between an existing action’s available relief and the creation of an action preserved.
+
+##### The knowing-participation penalty provision confirms the remedy without creating a private action
+
+**Holding:** Section 502(l), which measures the Secretary of Labor’s civil penalty by amounts recovered from a fiduciary for a breach or from any other person for knowing participation in it, confirms that monetary recoveries against knowing participants and equitable relief coexist in ERISA’s scheme. It does not create a private cause of action, define the elements of liability or enlarge the relief §502(a)(3) authorizes. Congress’s distinction between legal and equitable relief is preserved; trust-specific monetary restoration falls on the equitable side of that distinction.
+
+**Proposition-level authority:** White’s Opinion of the Court; Stone-Zsela, White, Stevens, O’Connor, Souter (5 Justices). Direct majority support for this exact proposition; no Marks synthesis.
+
+**Limits and questions not reached:** The expressly disclaimed antecedent cause of action is reserved, not rejected as jurisdictional. No fiduciary status, knowing participation, loss, causation, liability or amount is adjudicated. Punitive awards, general tort compensation and negligent professional advice are outside the remedy; professional status does not make a defendant a fiduciary. Restitution, unappealed claims and the separate malpractice disposition remain untouched.
+
+**Operative remedy or transition:** Vacate the Ninth Circuit’s rejection of the reviewed §502(a)(3) monetary claim and remand; no liability finding or award.
+
+**Treatment of earlier authority:**
+
+- Massachusetts Mutual Life Insurance Co. v. Russell, 473 U.S. 134: ERISA’s differentiated enforcement provisions are read together; §502(l) adds confirmation, not a new private remedy.
 
 ### Federal supervision of employee benefit trusts
 
@@ -593,7 +638,7 @@ No Supreme Court precedent is overruled, limited, or extended beyond its own ter
 - Arroyo, 359 U.S. 419 — lawful receipt distinguished from later diversion; contrary supervisory language is dictum.
 - Amax, 453 U.S. 322 — fiduciary independence retained; supervisory language does not establish jurisdiction.
 - Robinson, 455 U.S. 562 — reasonableness-review rejection retained; reserved supervisory scope resolved.
-- Mertens, June 1, 1993 — unchanged; its remedy limit does not resolve these unreviewed ERISA claims.
+- Mertens, June 1, 1993 — unchanged; its trust-law remedy holding does not resolve these unreviewed ERISA claims.
 
 ### Employment discrimination and proof of pretext
 
@@ -916,7 +961,7 @@ For the other questions in Livadas v. Bradshaw, 1994-06-13, No. 92-1920, see Civ
 
 **Treatment of earlier authority:**
 
-- Mertens v. Hewitt Associates, 508 U.S. 248 — the reviewed §502(a)(3) compensation limit remains; it does not bar benefits due under §502(a)(1)(B).
+- Mertens v. Hewitt Associates, 508 U.S. 248 — its trust-law limits on §502(a)(3) equitable relief remain; they do not bar benefits due under §502(a)(1)(B).
 - John Hancock Mutual Life Insurance Co. v. Harris Trust & Savings Bank — the distinction between legal status and ultimate liability is preserved; no new breach or remedy follows merely from identifying amendment power.
 
 **Limits and questions not reached:** ERISA §402(b)(3), 29 U.S.C. §1102(b)(3), requires every plan to provide a procedure for amending it and for identifying the persons with amendment authority. Section 3(9), §1002(9), includes a corporation among persons, as well as an individual, partnership, joint venture, mutual company, joint-stock company, trust, estate, unincorporated organization, association, and employee organization. The plan Constitution reserves to the Company the right at any time and from time to time to modify or amend any or all provisions, in whole or in part, and separately reserves termination. Delaware §141(a) places corporate business and affairs under the board’s management or direction except as otherwise provided by that chapter or the certificate of incorporation. No charter, bylaw, delegation, or approval is established as a fact here. Section 402(a)(1)’s written-instrument and named-fiduciary requirements remain distinct from sponsor amendment authority. Sections 1022 and 1024 retain actual summary, disclosure, and instrument-access duties; an SPD is not proof of authorized amendment. Section 502(a)(1)(B) benefits enforcement is distinct from §502(a)(3)’s appropriate-equitable-relief category.
@@ -11984,25 +12029,79 @@ For the other questions in *United States v. Williams*, May 4, 1992, No. 90-1972
 **Docket or dockets:** No. 91-712.
 **Decided:** June 15, 1992.
 
-##### Whether the United States–Mexico Extradition Treaty bars prosecution following this officially sponsored, protested abduction
+##### Whether the Treaty’s allocation of surrender decisions to the requested State is operative law
 
-**Holding:** The United States–Mexico Extradition Treaty does not prohibit this abduction or make extradition its exclusive means of obtaining a defendant’s presence. Because the Treaty supplies no restriction barring this prosecution, the Ker–Frisbie rule permits trial notwithstanding the DEA-sponsored forcible transfer and Mexico’s protest; the treaty-based dismissal and repatriation order must be reversed.
+**Holding:** The United States–Mexico Extradition Treaty is law of the United States under Article VI, and courts give its terms operative effect by reading them for their text, their context, the parties’ reciprocal obligations, their practice and the function each provision performs. Article 9 allocates to the requested State the decision whether to surrender its own nationals and, if it declines, to submit the case to its own prosecuting authorities. Courts neither manufacture restrictions the parties did not adopt nor read the Treaty to let one party nullify a decision it expressly reserves to the other.
 
-**Proposition-level authority:** White's opinion of the Court, joined by Scalia, Kennedy, Souter and Thomas; five Justices adopt the treaty construction, application and remedy. Stone, Blackmun, Stevens and O'Connor dissent from the 5–4 reversal.
+**Proposition-level authority:** Part I of Stone-Zsela's opinion of the Court, joined by Blackmun, Stevens, O'Connor and Souter; five direct joins. White, Scalia, Kennedy and Thomas dissent from the 5–4 affirmance.
 
-**Material application:** Article 9 preserves discretion over surrender of nationals and submission for domestic prosecution when surrender is declined within that process. It does not require every acquisition of custody to use extradition. Undisputed DEA sponsorship and Mexico's protest do not supply the missing Treaty restriction.
+**Material application:** Article 9 reserves to Mexico the decision whether to surrender its national or submit the case to its own prosecutors. The Treaty's silence about abduction does not deprive that reservation of operative content.
 
-**Limits and questions not reached:** The decision does not authorize abduction, decide guilt or independent capture legality, foreclose every other remedy, or establish a universal bar to individual treaty enforcement. No extradition under the Treaty produced this transfer. The independently rejected outrageous-conduct theory is not reconsidered, and no separate Verdugo-Urquidez docket is adjudicated.
+**Limits and questions not reached:** The decision does not authorize abduction, require extradition for every international acquisition of custody, adjudicate guilt, or decide a constitutional, due-process, outrageous-conduct or customary-international-law bar to trial. Captures by private persons not attributable to the Government, voluntary surrender, lawful deportation and consensual transfers are judged under their own law, and Ker–Frisbie remains the default outside the stated predicates. No general private damages action under treaties is created, and courts do not supervise diplomacy. The independently rejected outrageous-conduct theory is not reconsidered, and no separate Verdugo-Urquidez docket is adjudicated.
 
-**Operative remedy or transition:** The Ninth Circuit treaty-based trial bar, appellate dismissal direction and repatriation disposition are reversed and remanded, permitting prosecution. No diplomatic return is ordered. The district order had discharged respondent and ordered repatriation without separately dismissing the indictment; the appellate characterization is not a new district disposition.
+**Operative remedy or transition:** The Ninth Circuit's judgment sustaining the treaty bar to trial, the discharge and the repatriation order is affirmed, 5–4; the prosecution founded on the custody obtained through the seizure ends. The district order had discharged respondent and ordered repatriation without separately dismissing the indictment; the affirmance creates no district dismissal order, dismissal with prejudice, acquittal or permanent immunity, and extradition or another transfer Mexico authorizes remains available.
 
 **Treatment of earlier authority:**
 
-- Ker v. Illinois, 119 U.S. 436 (1886): applied to trial authority after this official international abduction because the Treaty supplies no contrary limitation; not treated as affirmative authorization to seize.
-- Frisbie v. Collins, 342 U.S. 519 (1952): retained and applied for the distinction between unlawful capture and the power to conduct a lawful trial.
-- United States v. Rauscher, 119 U.S. 407 (1886): retained; its enforceable treaty limitation follows actual extradition on specified terms and does not make this different Treaty exclusive.
-- Cook v. United States, 288 U.S. 102 (1933): distinguished; an established treaty restriction on governmental seizure controls there, and no comparable restriction is found here.
-- Air France v. Saks, 470 U.S. 392 (1985), and Valentine v. United States ex rel. Neidecker, 299 U.S. 5 (1936): applied to begin with the Treaty’s terms and determine the adopted obligation rather than assume it.
+- Air France v. Saks, 470 U.S. 392 (1985), and Valentine v. United States ex rel. Neidecker, 299 U.S. 5 (1936): applied; interpretation begins with the Treaty’s terms read in context, and no obligation is supplied that the parties did not adopt.
+- Chan v. Korean Air Lines, Ltd., 490 U.S. 122 (1989): applied as a limit; courts do not insert a missing sanction from purpose alone.
+- United States v. Rauscher, 119 U.S. 407 (1886): applied; an obligation necessarily implied by a treaty’s text and structure is enforceable law.
+
+##### Whether the United States–Mexico Extradition Treaty bars prosecution following this officially sponsored, protested abduction
+
+**Holding:** Where a treaty allocates to the other party the decision whether to surrender a person, the United States may not circumvent that allocation through a forcible seizure attributable to it in the other party’s territory, without that party’s consent and over its formal objection, and then prosecute the person on the custody so obtained. The bar applies only when five predicates are met: (1) the Treaty allocates the surrender decision, as Article 9 does for a party’s nationals; (2) the seizure is attributable to the United States Government; (3) it occurs in the other party’s territory; (4) that party did not consent and formally objected; and (5) the prosecution depends on custody obtained through that conduct. Extradition is not the exclusive lawful means of acquiring custody: voluntary surrender, lawful deportation, consensual transfers and conduct of private persons not attributable to the Government are judged under their own law. Each predicate is met on this record.
+
+**Proposition-level authority:** Part II of Stone-Zsela's opinion of the Court, joined by Blackmun, Stevens, O'Connor and Souter; five direct joins. White, Scalia, Kennedy and Thomas dissent from the 5–4 affirmance.
+
+**Material application:** Persons paid to act at DEA behest seized Alvarez-Machain in Guadalajara and brought him to the United States; official responsibility does not depend on whether regular DEA personnel performed the seizure. Mexico did not consent, formally protested and consistently demanded his return. No extradition proceeding under the Treaty produced the transfer, and the prosecution depends on the custody so obtained.
+
+**Limits and questions not reached:** The decision does not authorize abduction, require extradition for every international acquisition of custody, adjudicate guilt, or decide a constitutional, due-process, outrageous-conduct or customary-international-law bar to trial. Captures by private persons not attributable to the Government, voluntary surrender, lawful deportation and consensual transfers are judged under their own law, and Ker–Frisbie remains the default outside the stated predicates. No general private damages action under treaties is created, and courts do not supervise diplomacy. The independently rejected outrageous-conduct theory is not reconsidered, and no separate Verdugo-Urquidez docket is adjudicated.
+
+**Operative remedy or transition:** The Ninth Circuit's judgment sustaining the treaty bar to trial, the discharge and the repatriation order is affirmed, 5–4; the prosecution founded on the custody obtained through the seizure ends. The district order had discharged respondent and ordered repatriation without separately dismissing the indictment; the affirmance creates no district dismissal order, dismissal with prejudice, acquittal or permanent immunity, and extradition or another transfer Mexico authorizes remains available.
+
+**Treatment of earlier authority:**
+
+- Ker v. Illinois, 119 U.S. 436 (1886): ordinary rule retained; distinguished, because the kidnapper there acted without governmental authority and no government circumvented an applicable treaty’s allocation. To the extent Ker could be read to govern such a circumvention, it is narrowed to that boundary; it is not treated as affirmative authorization to seize.
+- Frisbie v. Collins, 342 U.S. 519 (1952): preserved; it involved no treaty, and its distinction between unlawful capture and the power to conduct a lawful trial remains the default outside the stated predicates.
+- United States v. Rauscher, 119 U.S. 407 (1886): extended from limits that follow an actual surrender to the surrender decision the Treaty reserves before any surrender.
+- Cook v. United States, 288 U.S. 102 (1933): applied; a treaty limit on the Government’s own power of seizure binds courts, and the Government may not rely on what it obtained by exceeding it.
+- Chan v. Korean Air Lines, Ltd., 490 U.S. 122 (1989): distinguished; no sanction is inserted from purpose alone, because the limit follows from the allocation Article 9 makes and is confined to its five predicates.
+
+##### Whether the defendant may invoke the violation in his own prosecution
+
+**Holding:** A defendant prosecuted on custody obtained in violation of the Treaty’s allocation may invoke the violation defensively in that prosecution when the contracting State whose rights were infringed formally objects. The holding creates no general private action for damages under treaties and does not authorize courts to supervise the conduct of diplomacy.
+
+**Proposition-level authority:** Part III of Stone-Zsela's opinion of the Court, joined by Blackmun, Stevens, O'Connor and Souter; five direct joins. White, Scalia, Kennedy and Thomas dissent from the 5–4 affirmance.
+
+**Material application:** Mexico formally objected: its protest was prompt and unequivocal and demanded return, so Alvarez-Machain may invoke the bar defensively. The Government's argument that only the offended sovereign may enforce the Treaty is answered by that condition rather than by excluding the defendant.
+
+**Limits and questions not reached:** The decision does not authorize abduction, require extradition for every international acquisition of custody, adjudicate guilt, or decide a constitutional, due-process, outrageous-conduct or customary-international-law bar to trial. Captures by private persons not attributable to the Government, voluntary surrender, lawful deportation and consensual transfers are judged under their own law, and Ker–Frisbie remains the default outside the stated predicates. No general private damages action under treaties is created, courts do not supervise diplomacy, and whether a treaty confers enforceable individual rights in other settings is not decided. The independently rejected outrageous-conduct theory is not reconsidered, and no separate Verdugo-Urquidez docket is adjudicated.
+
+**Operative remedy or transition:** The Ninth Circuit's judgment sustaining the treaty bar to trial, the discharge and the repatriation order is affirmed, 5–4; the prosecution founded on the custody obtained through the seizure ends. The district order had discharged respondent and ordered repatriation without separately dismissing the indictment; the affirmance creates no district dismissal order, dismissal with prejudice, acquittal or permanent immunity, and extradition or another transfer Mexico authorizes remains available.
+
+**Treatment of earlier authority:**
+
+- United States v. Rauscher, 119 U.S. 407 (1886): applied; a defendant may invoke a treaty limit in his own prosecution.
+- Cook v. United States, 288 U.S. 102 (1933): applied; a private litigant may rely on a treaty limit on the Government’s seizure in the proceeding the Government brings.
+- Ker v. Illinois, 119 U.S. 436 (1886): distinguished; it presented no government-directed circumvention of an applicable treaty for a defendant to invoke.
+
+##### What remedy follows from the violation
+
+**Holding:** The remedy for the violation is to end the prosecution founded on the unlawfully acquired custody and to restore the position the Treaty protects: Alvarez-Machain is discharged from that custody and returned to Mexico. The remedy is not an acquittal, a dismissal with prejudice, a finding of guilt or innocence, or damages, and it confers no permanent immunity. The United States may seek his surrender through extradition under the Treaty or another transfer Mexico authorizes, and this holding does not bar a prosecution on custody so obtained.
+
+**Proposition-level authority:** Part IV of Stone-Zsela's opinion of the Court, joined by Blackmun, Stevens, O'Connor and Souter; five direct joins. White, Scalia, Kennedy and Thomas dissent from the 5–4 affirmance.
+
+**Material application:** Alvarez-Machain is discharged from the custody obtained through the seizure and returned to Mexico, which may surrender him, submit the case to its own prosecutors under Article 9 or decline. The allegations of participation in the charged crimes remain unadjudicated.
+
+**Limits and questions not reached:** The decision does not authorize abduction, require extradition for every international acquisition of custody, adjudicate guilt, or decide a constitutional, due-process, outrageous-conduct or customary-international-law bar to trial. Captures by private persons not attributable to the Government, voluntary surrender, lawful deportation and consensual transfers are judged under their own law, and Ker–Frisbie remains the default outside the stated predicates. No general private damages action under treaties is created, and courts do not supervise diplomacy. The independently rejected outrageous-conduct theory is not reconsidered, and no separate Verdugo-Urquidez docket is adjudicated.
+
+**Operative remedy or transition:** The Ninth Circuit's judgment sustaining the treaty bar to trial, the discharge and the repatriation order is affirmed, 5–4; the prosecution founded on the custody obtained through the seizure ends. The district order had discharged respondent and ordered repatriation without separately dismissing the indictment; the affirmance creates no district dismissal order, dismissal with prejudice, acquittal or permanent immunity, and extradition or another transfer Mexico authorizes remains available.
+
+**Treatment of earlier authority:**
+
+- Cook v. United States, 288 U.S. 102 (1933): applied; the Government may not retain the benefit of a seizure that exceeded its treaty authority.
+- Frisbie v. Collins, 342 U.S. 519 (1952): preserved; outside the treaty circumvention addressed here, an unlawful capture does not by itself require release.
+- United States v. Rauscher, 119 U.S. 407 (1886): applied by analogy; a treaty limit on prosecution operates on the Government’s authority to proceed and does not adjudicate the charged conduct.
 
 ### Juvenile sentencing
 
@@ -16364,11 +16463,14 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 
 **Governing question:** What instructions govern ERISA equitable categories and nonfiduciary compensation?
 
-**Current rule:** Section 502(a)(3)'s appropriate equitable relief means traditionally equitable categories, not compensatory damages merely because equity could award them in trust litigation. Compensation from an admitted nonfiduciary for plan losses is unavailable under that provision. The rule does not prohibit every equitable monetary remedy or decide the expressly disclaimed antecedent cause-of-action question; restitution is not reopened.
+**Current rule:** Section 502(a)(3)'s appropriate equitable relief means remedies historically recognized in equity, identified in ERISA's statutory trust setting by reference to the law of trusts; a remedy is not legal damages merely because it requires a payment of money. The provision permits appropriate monetary restoration traditionally available in trust litigation, including surcharge against fiduciaries where its requirements are satisfied (actual loss caused by the breach, or the elimination of unjust enrichment); where an otherwise actionable claim establishes a nonfiduciary's knowing participation in an actionable breach of trust, restoration of the loss attributable to that participation is not categorically excluded merely because the defendant did not receive the lost assets. Those remedies require an authorized statutory action and an actionable violation, a historically recognized equitable basis against the defendant, the required knowledge or fiduciary responsibility, actual loss or another recognized equitable measure, and causation and equitable limits; negligent professional advice is not knowing participation, and professional status does not make a defendant a fiduciary. Punitive awards, general tort compensation, remedies available only after the merger of law and equity and every remedy an equity court could award incidentally remain outside the provision. Section 502(l) confirms that monetary recovery and equitable relief coexist in ERISA's scheme but creates no private action. The rule does not decide the expressly disclaimed antecedent cause-of-action question; restitution is not reopened.
 
 **Authority by component:**
 
-- The reviewed compensatory award is not appropriate equitable relief: [Mertens v. Hewitt Associates — The reviewed compensatory award is not appropriate equitable relief](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1992/records/mertens_merits_1993-06-01.md), 1993-06-01. Scalia’s Opinion of the Court; Blackmun, Scalia, Kennedy, Souter, Thomas (5 Justices). Direct majority support for this exact proposition; no Marks synthesis.
+- Trust-law equitable categories: [Mertens v. Hewitt Associates — Appropriate equitable relief in ERISA’s trust setting is identified by trust-law remedies](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1992/records/mertens_merits_1993-06-01.md), 1993-06-01. White’s Opinion of the Court; Stone-Zsela, White, Stevens, O’Connor, Souter (5 Justices). Direct majority support for this exact proposition; no Marks synthesis.
+- Trust-law monetary restoration and surcharge: [Mertens v. Hewitt Associates — Trust-law monetary restoration, including surcharge against fiduciaries, is appropriate equitable relief](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1992/records/mertens_merits_1993-06-01.md), 1993-06-01. White’s Opinion of the Court; Stone-Zsela, White, Stevens, O’Connor, Souter (5 Justices). Direct majority support for this exact proposition; no Marks synthesis.
+- Conditions and the reserved action question: [Mertens v. Hewitt Associates — Restoration requires an actionable claim and its equitable predicates; the antecedent action question is reserved](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1992/records/mertens_merits_1993-06-01.md), 1993-06-01. White’s Opinion of the Court; Stone-Zsela, White, Stevens, O’Connor, Souter (5 Justices). Direct majority support for this exact proposition; no Marks synthesis.
+- Section 502(l) confirmation: [Mertens v. Hewitt Associates — The knowing-participation penalty provision confirms the remedy without creating a private action](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1992/records/mertens_merits_1993-06-01.md), 1993-06-01. White’s Opinion of the Court; Stone-Zsela, White, Stevens, O’Connor, Souter (5 Justices). Direct majority support for this exact proposition; no Marks synthesis.
 
 **Present operation effective:** 1993-06-01; Mertens v. Hewitt Associates, for the components identified above.
 
@@ -17457,14 +17559,17 @@ For federally compliant packages, amended §5(b) reaches common-law duties impos
 
 **Governing question:** Whether the United States–Mexico Extradition Treaty bars prosecution following a DEA-sponsored forcible transfer protested by Mexico.
 
-**Current rule:** The Treaty does not prohibit that abduction or make extradition the exclusive means of obtaining a defendant's presence. Absent a treaty restriction barring prosecution, Ker–Frisbie permits trial notwithstanding the forcible transfer and protest. Rauscher and Cook remain enforceable when a treaty does supply a relevant restriction.
+**Current rule:** The Treaty is operative federal law under Article VI, read for its text, context, the parties' reciprocal obligations, practice and the function of each provision; courts neither manufacture restrictions the parties did not adopt nor read it to let one party nullify a decision reserved to the other. Article 9 allocates to the requested State the decision whether to surrender its own nationals. The United States may not circumvent that allocation and then prosecute on the resulting custody when (1) the Treaty allocates the surrender decision; (2) the seizure is attributable to the United States Government; (3) it occurs in the other State's territory; (4) that State did not consent and formally objected; and (5) the prosecution depends on custody obtained through that conduct. The defendant may invoke the violation defensively when the contracting State whose rights were infringed formally objects. The remedy ends the prosecution founded on that custody and restores the treaty position by discharge and return; it is not an acquittal, a dismissal with prejudice or permanent immunity, and extradition or another authorized transfer remains available. Outside these predicates Ker–Frisbie permits trial notwithstanding an unlawful capture, and voluntary surrender, lawful deportation, consensual transfers and conduct of private persons not attributable to the Government are judged under their own law. Rauscher and Cook remain enforceable when a treaty supplies a relevant restriction.
 
 **Authority by component:**
-- Treaty construction and trial consequence: [United States v. Alvarez-Machain, “This Treaty does not bar prosecution after the abduction”](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1991/records/United_States_v_Alvarez_Machain_merits_1992-06-15.md), June 15, 1992; White, joined by Scalia, Kennedy, Souter and Thomas (five).
+- Operative treaty allocation: Canonical Decision Record `United_States_v_Alvarez_Machain_merits_1992-06-15.md`, Controlling holdings / 1. The Treaty’s allocation of surrender decisions is operative federal law, June 15, 1992; Part I of Stone-Zsela's opinion of the Court, joined by Blackmun, Stevens, O'Connor and Souter (five). White, Scalia, Kennedy and Thomas dissent.
+- Bar on officially directed circumvention and its five predicates: Canonical Decision Record `United_States_v_Alvarez_Machain_merits_1992-06-15.md`, Controlling holdings / 2. The United States may not circumvent the Treaty’s surrender allocation by an officially directed seizure over Mexico’s objection, June 15, 1992; Part II of Stone-Zsela's opinion, same five Justices.
+- Defensive invocation when the injured State formally objects: Canonical Decision Record `United_States_v_Alvarez_Machain_merits_1992-06-15.md`, Controlling holdings / 3. The defendant may invoke the violation defensively when Mexico formally objects, June 15, 1992; Part III of Stone-Zsela's opinion, same five Justices.
+- Remedy: Canonical Decision Record `United_States_v_Alvarez_Machain_merits_1992-06-15.md`, Controlling holdings / 4. The remedy ends this prosecution and restores the treaty position without permanent immunity, June 15, 1992; Part IV of Stone-Zsela's opinion, same five Justices.
 
-**Present operation effective:** United States v. Alvarez-Machain, June 15, 1992.
+**Present operation effective:** United States v. Alvarez-Machain, June 15, 1992, enforcing Article 9's allocation of surrender decisions against officially directed circumvention over Mexico's objection.
 
-**Exceptions and limits:** The holding does not authorize abduction, decide its general international legality, foreclose all other remedies or establish a universal bar to individual treaty enforcement.
+**Exceptions and limits:** The holding does not authorize abduction, require extradition for every international acquisition of custody, create a general private damages action under treaties, authorize judicial supervision of diplomacy, or decide a constitutional, due-process, outrageous-conduct or customary-international-law bar to trial. Ker's ordinary rule is retained; to the extent Ker could be read to govern a government-directed circumvention of an applicable treaty's allocation, it is narrowed to that boundary. Whether a treaty confers enforceable individual rights in other settings is not decided.
 
 **Holdings navigation:** [United States v. Alvarez-Machain, 504 U.S. 655 (1992) — International abduction and treaty limits on prosecution](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#united-states-v-alvarez-machain-504-us-655-1992).
 

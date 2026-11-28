@@ -46,7 +46,7 @@ Parents act at financial risk. Their choice alone establishes neither public ina
 | Blackmun | Affirm; Burlington join and the actual Zobrest distinction support the authorized equitable remedy. | Historical agreement confirmed; no unconditional subsidy. |
 | Stevens | Affirm on the same rule and findings; Burlington and Zobrest. | Confirmed; reimbursement depends on appropriate education. |
 | O'Connor | Affirm; Burlington join and Zobrest authorship. | Confirmed; lack of public approval is not an unexpressed funding prohibition. |
-| Scalia | Affirm; section 1415(e)(2) and binding Burlington; Mertens's respect for the enacted remedy category is compatible. | Confirmed; no general purpose-based override of an express statutory prohibition. |
+| Scalia | Affirm; section 1415(e)(2) and binding Burlington; his Mertens dissent's respect for the enacted remedy category is compatible. | Confirmed; no general purpose-based override of an express statutory prohibition. |
 | Kennedy | Affirm; Burlington and the statutory remedial grant. | Confirmed; no new compensatory remedy or alteration of Rowley. |
 | Souter | Affirm; Burlington and his Zobrest join. | Confirmed; equity and appropriateness remain independent requirements. |
 | Thomas | Affirm on the same statutory ground. | Confirmed; public-agency duties are not all imposed directly on private institutions. |
@@ -106,7 +106,7 @@ O'Connor, Scalia, and Thomas would reverse the pre-seizure ruling, but do not sh
 
 | Justice | Final judgment and compatible grounds | Reconciliation against history |
 |---|---|---|
-| Blackmun | Affirm all three reviewed grounds: status, insurance, and rejection of the overbroad agency reading. Mertens's enacted category limit and the actual text support the narrow exclusion. | Confirmed; his prior remedy ruling does not answer breach or damages here. |
+| Blackmun | Affirm all three reviewed grounds: status, insurance, and rejection of the overbroad agency reading. The limited statutory category his Mertens dissent join respected and the actual text support the narrow exclusion. | Confirmed; his Mertens dissent join does not answer breach or damages here. |
 | Stevens | Affirm on the same bounded grounds; text and United Benefit distinguish actual guarantees from the disputed free funds. | Confirmed; no enlargement to every insurer asset. |
 | O'Connor | Remand under the provides-for interpretation and 1977-amendment inquiry; reject a blanket exclusion and agency reading. | Revised from an outright exemption to the narrower remedy her comparator supports. Boston & Maine's contextual interpretation does not justify skipping the amendment. |
 | Scalia | Affirm on enacted text and the component limitation; no legislative-history premise is required. | Confirmed; his Mertens approach preserves a defined statutory boundary without turning it into a vote rule. |

@@ -44,13 +44,13 @@ Each entry independently adopts the common judgment, T and R at precisely the sc
 
 ### Scalia
 
-**Commitment:** Reverse on T and R. His **Mertens opinion, June 1, 1993**, requires the actual statutory remedial category rather than the entire historical power of an equity court. His **DOE v. Ohio, Part II-A**, join likewise respects distinct enacted liability and remedial provisions. RCRA's past-contributor terms cannot displace the present-tense threat condition, and “other action” must be read with the restraint/abatement function rather than as unlimited reimbursement authority.
+**Commitment:** Reverse on T and R. His **Mertens dissent, June 1, 1993**, would require the actual statutory remedial category rather than the entire historical power of an equity court. His **DOE v. Ohio, Part II-A**, join likewise respects distinct enacted liability and remedial provisions. RCRA's past-contributor terms cannot displace the present-tense threat condition, and “other action” must be read with the restraint/abatement function rather than as unlimited reimbursement authority.
 
 **Strongest alternative and boundary:** His opposition to Key Tronic's litigation-fee exclusion demonstrates that express statutory language can support a monetary remedy; it supplies no premise that financial relief is invariably disfavored. Here there is no counterpart to CERCLA's response-cost authorization. Mertens itself preserved other monetary equity and the reserved antecedent-action issue. He adopts R because of this statute and this demand, not because the restitution label is always invalid. A categorical ruling against every equitable monetary incident would exceed his commitment.
 
 ### Kennedy
 
-**Commitment:** Reverse on T and R. His joins in **Franklin**, **Mertens**, and **Key Tronic, Parts I–III**, support a coherent distinction: appropriate remedies follow an existing action, but statutory remedial categories and conditions retain independent force. KFC's completed prefiling abatement fails the condition for this action; the enumerated abatement powers separately do not create the requested completed-cost action.
+**Commitment:** Reverse on T and R. His joins in **Franklin** and **Key Tronic, Parts I–III**, and his **Mertens** dissent join support a coherent distinction: appropriate remedies follow an existing action, but statutory remedial categories and conditions retain independent force. KFC's completed prefiling abatement fails the condition for this action; the enumerated abatement powers separately do not create the requested completed-cost action.
 
 **Strongest alternative and boundary:** Franklin and Porter support KFC's equitable-remedy argument after a proper invocation of statutory authority. They do not establish that a payment for a wholly completed cleanup falls within this statute's necessary-action clause. His **Lujan** joins do not require rejecting KFC's concrete financial injury or demand proof on a summary-judgment standard. He would withhold a join from a constitutional standing disposition or from an assertion that no equitable money can ever be awarded under RCRA. Neither is needed for the two adopted grounds.
 
@@ -62,7 +62,7 @@ Each entry independently adopts the common judgment, T and R at precisely the sc
 
 ### Thomas
 
-**Commitment:** Reverse on T and R. His **Mertens** join supports the enacted remedial category rather than an unbounded appeal to equity; his **DOE v. Ohio, Part II-A**, join preserves separately enacted liability limits. His narrower **Franklin** judgment position also counsels identifying the statute's own basis for a financial remedy. The words about past contributors identify potentially responsible persons, while “may present” identifies the qualifying danger; neither supplies private allocation of all historical cleanup costs.
+**Commitment:** Reverse on T and R. His **Mertens** dissent join supports the enacted remedial category rather than an unbounded appeal to equity; his **DOE v. Ohio, Part II-A**, join preserves separately enacted liability limits. His narrower **Franklin** judgment position also counsels identifying the statute's own basis for a financial remedy. The words about past contributors identify potentially responsible persons, while “may present” identifies the qualifying danger; neither supplies private allocation of all historical cleanup costs.
 
 **Strongest alternative and boundary:** Like Scalia, he opposed Key Tronic's fee exclusion, so that decision cannot be used to attribute a categorical resistance to money awards. Its unanimously supported task-specific portions instead show that an actual statutory cost category matters. This demand has no corresponding RCRA completed-cost authorization. T and R suffice without importing Lujan's evidentiary posture, denying all restitution, or deciding costs incurred during a qualifying action. He requires no separate writing within those limits.
 

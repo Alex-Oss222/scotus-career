@@ -47,7 +47,7 @@ The earlier draft validation and public-boundary QA hashes describe the earlier 
 
 Ambassador is now ready for parent promotion. This completed phase supersedes the earlier receipt’s pending-Ambassador status; it does not change the earlier March 6 clearance. The source is the 34-event [actual pre-March-20 public handoff](../entering-law/OT_1994CHUNK3_EFFECTIVE_BEFORE_1995-03-20.md). The newly added three March 6 entries and their published positions were read completely. The earlier seven new events were already read completely in the preceding phase and were evaluated here for Ambassador’s different questions; the original 24 events remain the already consulted opening baseline. No raw Record, new primary research, or future authority was used.
 
-Source SHA256: `90e1ca437aa02cd55751b0f0da60286090d5f11489988ece9b550b6fd3ea5c0e`.
+Source SHA256: `6bf43dd7034ed055a59d86cc958258783c7b720754de330254f16590fcfb301d`.
 
 **Chronology clearance — pre-March-20 baseline:** The [actual public entering-law supplement](../entering-law/OT_1994CHUNK3_EFFECTIVE_BEFORE_1995-03-20.md) contains 34 completed earlier events. It includes the 31-event pre-March-6 baseline and the now-preserved March 6 decisions in Mastrobuono, Curtiss-Wright, and Guernsey. Those three new public entries, including their complete holdings and published separate positions, were read in full for this refresh alongside the already reviewed seven earlier chunk-3 events. No O’Neal adjudication, pending case, or future law enters. No new decision changes a material premise of the five Ambassador holdings, their exact joins, or the bounded remedy, for the reasons below.
 

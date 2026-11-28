@@ -73,7 +73,7 @@ Authorized stage inputs: [frozen neutral packet](../freeze/OT_1993CHUNK1_NEUTRAL
 | Blackmun | Affirm; Burlington join and Zobrest duty/prohibition distinction. Confirmed by reconciliation. | Joins the entire Court opinion; no unconditional private subsidy. |
 | Stevens | Affirm; Burlington and Zobrest support authorized equitable reimbursement. Confirmed. | Joins the entire Court opinion; public inadequacy and appropriate private education remain required. |
 | O'Connor | Affirm; Burlington join and Zobrest authorship support the bounded statutory remedy. Confirmed. | Authors the entire Court opinion; lack of public approval is not converted into an unstated funding prohibition. |
-| Scalia | Affirm under §1415(e)(2) and binding Burlington; Mertens requires respecting enacted remedy categories. Confirmed. | Joins the entire Court opinion; no purpose-based override of an express prohibition or new damages action. |
+| Scalia | Affirm under §1415(e)(2) and binding Burlington; his Mertens dissent insists on respecting enacted remedy categories. Confirmed. | Joins the entire Court opinion; no purpose-based override of an express prohibition or new damages action. |
 | Kennedy | Affirm under Burlington and the remedial grant; Rowley remains unchanged. Confirmed. | Joins the entire Court opinion, including appropriateness and equitable cost limits. |
 | Souter | Affirm under Burlington and Zobrest. Confirmed. | Joins the entire Court opinion; appropriateness and equity remain separate requirements. |
 | Thomas | Affirm under Burlington and statutory text; private institutions do not inherit every public-agency duty. Confirmed. | Joins the entire Court opinion; no general compensatory remedy. |

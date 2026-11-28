@@ -164,11 +164,11 @@ SHA-256 digests identify the input bytes read. No repository commit assertion is
 | Source | SHA-256 |
 |---|---|
 | `terms/OT2001/freeze/OT_2001CHUNK8_ANGLE_NEUTRAL.md` | `a0617d45ab04e58e0891f1b20b7f49863f0273cf7d7381e3151d9f7358093ff5` |
-| `terms/OT2001/entering-law/OT_2001CHUNK8_ANGLE.md` | `c734de33a3c24ce18cc928159dd2ba6d13d02d4d63c8ea0bdbacc14bb45587f3` |
+| `terms/OT2001/entering-law/OT_2001CHUNK8_ANGLE.md` | `2fc31d373d5d2629bd1740f43d1c2e08c355c0f20843973df67994ac74e86f13` |
 | `terms/OT2001/entering-law/OT_2001CHUNK8_ANGLE_CURRENT.md` | `37b1618138d903da596e10a2ffa6c31b9d3ad6613f8d8fc760fcfcbaf1da07cc` |
 | `terms/OT1997/output/OT_1997CHUNK6.md` | `94696ace1d21ed334e5a2c30f8f822d7c5392930165fb444bbf0fe2b64cfa360` |
 | `terms/OT1998/output/OT_1998CHUNK6.md` | `4e40593c0b49b417971abf0f956a7b42c442d9edd02b6dd0ebc774b0dbacc0c6` |
-| `terms/OT1999/output/OT_1999CHUNK7.md` | `69ba2da2dba6d772dd6ca5227214b31825d0dcb1676a1d599f2435a680efa4ca` |
-| `terms/OT1999/output/OT_1999CHUNK8.md` | `37160b3dc7a2c21312de76ccbc22a2fa11839fe5ee18ca5a53455378a529a2fc` |
+| `terms/OT1999/output/OT_1999CHUNK7.md` | `fb0c28d63241b7bc6057d1e6c0b4f4e200bcb6d4946c078ca0328228ea8c9de7` |
+| `terms/OT1999/output/OT_1999CHUNK8.md` | `53b05bd95f18a711aace354492ad866c1448991b145a91f0472cef54dbda7c8d` |
 | `terms/OT2001/sources/chunk8-comparator/angle-enbanc.txt` | `abc6a05519a5b276bbe7be527dd29c36ea520a3f2483127d908d6dc10782c868` |
 | `tmp/angle_mcmillan_477us79.pdf` | `eb8b3fff76155c47be25c5aec769a8134816df5b9c89b861d781c51458b1b412` |

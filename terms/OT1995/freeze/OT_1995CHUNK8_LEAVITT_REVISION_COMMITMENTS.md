@@ -24,7 +24,7 @@ The complete final [Vera public decision](../entering-law/OT_1995CHUNK8_REVISION
 | Vera final public copy | `6c27d385521e572edde6dfa4abfce60b690758a4bdef6ff13c171763cce30c80` |
 | Egelhoff final public copy | `df106d031cedb45501684a72bb4cb5fe8fe8e021792a1c5c71ce3450f61c16c5` |
 | Leavitt validated neutral packet | `33f38e86b32057c045241c663050d1d9c7223a9f91780d85c444ef190ae2c682` |
-| Original independent freeze | `b85296df526de33d92cda7fee0bb614e7ade24776262b43b190072e26e55eef9` |
+| Original independent freeze | `2f08dd1be984c9c432e4c252b325eafad5498e54c8a432c3bbe531c6da541105` |
 | Regenerated neutral runtime | `def12a132cd5688251ba2fe7eb35ab8ee2191cf3a3d9bc5f009a44193bf841a8` |
 | Complete enrolled HB206 transcription | `e4b5d5069f31e52efb57e81c427398b867983000430ed5de8b25557d0dc126fc` |
 

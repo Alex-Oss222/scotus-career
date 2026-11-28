@@ -1134,7 +1134,7 @@
 
 ##### Issue 1: Objective offense basis and limits on detention
 
-* **Controlling Simulated Law:** Whren v. United States rejects motive and customary-enforcement additions to objective initial-stop authority while preserving manner, scope and duration limits. Atwater v. City of Lago Vista rejects probable cause alone as sufficient for added station transport and confinement for fine-only offenses.
+* **Controlling Simulated Law:** Whren v. United States makes an initial stop on probable cause presumptively reasonable, rejects motive alone as a ground of invalidity and permits rebuttal only on specific objective evidence of instrumental use, while preserving manner, scope and duration limits. Atwater v. City of Lago Vista rejects probable cause alone as sufficient for added station transport and confinement for fine-only offenses.
 * **Current Reusable Doctrine:** Known facts and actual offense elements govern objective authority. A mistaken announced offense cannot invent facts supporting another offense; a valid initial seizure does not automatically justify every subsequent restraint.
 * **Other Governing Law:** Fourth Amendment, Washington's relevant criminal definitions and §1983. Any separate state-law arrest restriction must be identified under its own remedial source.
 * **Material Other Authority:** Maryland v. Pringle supplies context-sensitive probable cause without automatic group guilt. Harlow and Anderson govern personal legal immunity separately from the merits.

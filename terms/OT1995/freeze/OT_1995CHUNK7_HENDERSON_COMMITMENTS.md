@@ -122,7 +122,7 @@ Each entry below records a decisional position with supporting authority, not pr
 
 ### Breyer
 
-**Judgment and ground:** Reverse and remand under H1–H3. His *Carlisle* join enforces the operative integrated scheme while retaining the distinction between rule authority and jurisdiction. His *Noland* and *Brown Group* joins preserve authorized procedural operation without creating new statutory remedies. His *Armstrong* separate writing (May 13) reads the Rule's actual categories independently and separates the Rule's permissible scope from insufficiency of the present showing. Those positions support reading Rule 4's timing provisions as operative rules for this service event without inferring that Henderson satisfied an unmade factual finding.
+**Judgment and ground:** Reverse and remand under H1–H3. His *Carlisle* join enforces the operative integrated scheme while retaining the distinction between rule authority and jurisdiction. His *Noland* and *Brown Group* joins preserve authorized procedural operation without creating new statutory remedies. His *Armstrong* opinion for the Court (May 13) reads the Rule's actual categories independently and separates the Rule's permissible scope from the threshold showing a particular request must still satisfy. Those positions support reading Rule 4's timing provisions as operative rules for this service event without inferring that Henderson satisfied an unmade factual finding.
 
 **Alternative and strongest objection:** The outer-limit reading can formally accommodate a stricter forthwith statute, and convenient uniform administration cannot by itself repeal a substantive waiver condition. He rejects that path through the actual classification and overlapping service functions in H1–H2, reinforced by Congress's direct enactment. His *Armstrong* position does not authorize an evidentiary or equitable remedy without its predicates, so it supplies no shortcut to finding good cause. The ordinary remand is supported independently of such a finding.
 
@@ -146,9 +146,9 @@ The original-paper support is the committed [sanitized record facts](../sources/
 
 | Input (paths relative to `terms/OT1995/`) | Commit | SHA256 |
 |---|---|---|
-| `freeze/OT_1995CHUNK7_HENDERSON_NEUTRAL_VALIDATED.md` | `689448f` | `02c6f00e20e4427a966e061058a9655ce4a4e5b37cebef4cdb451f9401afdba2` |
+| `freeze/OT_1995CHUNK7_HENDERSON_NEUTRAL_VALIDATED.md` | `689448f` | `eb1ce3f48fb6876030aa7bccc01e6cae22c3ed59469ed74d7db35b63fa3768f3` |
 | `entering-law/OT_1995CHUNK7_A_OPENING.md` | `d69c51d` | `b0f6a19e75b399ff47bd6e6feb1fdeefe56066f931737cb86497b73b56fb8d5e` |
-| `entering-law/OT_1995CHUNK6_PRE_MAY20_NEUTRAL_PROJECTION.md` | `7655d8f` | `a2709e4fd5b81244f20895b773b0d58924aed0044ebfb40024a3b6dcbe493d19` |
+| `entering-law/OT_1995CHUNK6_PRE_MAY20_NEUTRAL_PROJECTION.md` | `7655d8f` | `125d103089995d76ffa94ff5750cf42eb5ab927d1447f6e9cd540b1504d2e0dd` |
 | `sources/chunk7_a/henderson_SANITIZED_RECORD_FACTS.md` | `4cc6fcd` | `0ed8b36ccb12ef8b5d5e463b058dc6b034152bfb43331474ebd08020f215f94f` |
 | `sources/chunk7_a/henderson_SANITIZED_SOURCE_EXTRACT.md` | `4cc6fcd` | `7b523ead2bde45dfd67566a42a4295ac819757dbb16f2ab1dca6d262abd6f322` |
 | `sources/chunk7_a/FIRST_PAIR_SANITIZED_SOURCE_CORRECTIONS.md` | `4cc6fcd` | `20699e9c3b7b53023ab68b8a3aed31ccd79ee6e374126ea92cf1cd019979f198` |

@@ -6,7 +6,7 @@ The generated raw runtime neutral split remains the unaltered approved-brief exp
 
 ## Source: OT_1999CHUNK8_A_NEUTRAL.md
 
-SHA256: e67d1d50e800adf453e2300bb47b05fee1e33e33faed8d44090b123f973d3967
+SHA256: 08e00d48acea9264a48d413cf7bf8d46d329c1a4d85740f2b77319c5cf83707f
 Complete stage file copied.
 
 # OT1999 chunk 8 — A validated Neutral Modeling Packet: four matters
@@ -134,7 +134,7 @@ The lower majority expressly disclaimed automatic breach from every incentive ar
 
 ### Entering-law and Justice-specific sources
 
-Varity’s actual simulated functional-administration holding is Souter’s Parts I–II with Stevens, Kennedy, Ginsburg, and Breyer among the joins. It addresses knowingly misleading benefit-security administration, not every act by a business with a benefit-plan relationship. Its individual equitable-redress holding is separately limited. Spink, authored by Ginsburg for the unanimous sponsor-capacity portion, and Hughes Aircraft preserve the distinction between amendment design and actual implementation. Mertens, authored by Scalia with Kennedy, Souter, and Thomas among its controlling joins, addresses remedy classification rather than automatic immunity from a valid duty claim. John Hancock and Firestone supply the particular-function and trust-law background. Travelers and De Buono supply the limits on reading ERISA to displace ordinary medical regulation; preemption remains distinct from fiduciary status. These actual proposition-level prior sources cover all participating Associates without importing current-matter authorship.
+Varity’s actual simulated functional-administration holding is Souter’s Parts I–II with Stevens, Kennedy, Ginsburg, and Breyer among the joins. It addresses knowingly misleading benefit-security administration, not every act by a business with a benefit-plan relationship. Its individual equitable-redress holding is separately limited. Spink, authored by Ginsburg for the unanimous sponsor-capacity portion, and Hughes Aircraft preserve the distinction between amendment design and actual implementation. Mertens, authored by White with Stevens, O'Connor, and Souter among its controlling joins, addresses remedy classification rather than automatic immunity from a valid duty claim. John Hancock and Firestone supply the particular-function and trust-law background. Travelers and De Buono supply the limits on reading ERISA to displace ordinary medical regulation; preemption remains distinct from fiduciary status. These actual proposition-level prior sources cover all participating Associates without importing current-matter authorship.
 
 Harris Trust does not enter this same-day decision as governing authority. No later managed-care case is used.
 

@@ -79,11 +79,11 @@
     "terms/OT1993/workspace/manifest.md",
     "terms/OT1993/workspace/neutral-projection.md"
   ],
-  "corrected_record_sha256": "625b04fe4bdf7108ae635fd73c35156a986f831fb860070f085ea534565f1de3",
+  "corrected_record_sha256": "5c71f116ba508328b6887871a38d72e28354486fcdb739964b07972eac568e93",
   "superseded_record_sha256": "098f73c40d43c8137c76cf4252ddc52c66a21b23b3b301a55c9b2081e3e2a2cf",
   "unchanged_frozen_handoff_sha256": {
     "OT_1993CHUNK3_COMMITMENTS_C.md": "411b7603a84f041ba4c92e95ee2b3deb25dfee48287fac8bd03935830ae83c83",
-    "OT_1993CHUNK3_RECONCILED_C.md": "006cba7adb5aace4a3feb34e133274818952553af0f879a838c87ede9b7a209e",
+    "OT_1993CHUNK3_RECONCILED_C.md": "42a01f89d107bb0abc55464284ab1ab29bb9cab933bee5791568d0a5176525ba",
     "OT_1993CHUNK3_ASSEMBLY_C_VALIDATION.md": "33b08a6b2eff82c6dee326deb0dda62ab99658d4aa1c1bc502976bc03d0f4a7e",
     "OT_1993CHUNK3_ASSEMBLY_C_VOTES.json": "7cd261bd8f23ab643bef52191fdf3296fafaa1d76b034696405e28acdcd36e1a"
   },

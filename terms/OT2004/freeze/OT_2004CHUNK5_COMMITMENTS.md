@@ -428,7 +428,7 @@ The source establishes the question text and the competing scope arguments suffi
 
 - terms/OT2004/research/chunk5-neutral/Muehler-scope-source-facts.md ? SHA-256 e0f53a66eb1a9a404059b6cabc9b67d8ee305da7c4181ef07b07f747629bd10a
 - terms/OT2004/runtime/OT_2004CHUNK5_NEUTRAL_B.md ? SHA-256 e6f1b8499b7f0411691cf2c94e39ee3deccdfed8d39c1175f2729a1288d1cd8d
-- terms/OT2004/freeze/OT_2004CHUNK5_B_NEUTRAL_PREFLIGHT.md ? SHA-256 fdbd3dc5d873e5092dae2ff460b942248ef2df8c571e51f2338ede2365e15eef
+- terms/OT2004/freeze/OT_2004CHUNK5_B_NEUTRAL_PREFLIGHT.md ? SHA-256 72b8b373c9e756f274aa7ddfc6ff1675887ec661b717c95b3a22fd308e2c790b
 - terms/OT2004/freeze/OT_2004CHUNK5_B_COMMITMENTS.md ? SHA-256 599b36f513ece0561a36f23a9e5d5f9da4a6a18948eaf8bd4e8008898034ba60
 - terms/OT2004/entering-law/OT_2004CHUNK5_MARCH7_PUBLIC.md ? SHA-256 abcdc6d9e5f24a96394bae64447dc36872f9a9bece582bbd00279e951ba829f8
 
@@ -818,7 +818,7 @@ The following SHA-256 values identify the actual authorized input and principal 
 - `runtime/OT_2004CHUNK5_NEUTRAL_C.md`: `90281847f044a0a507607fad37214c724c0add00e042203febe1b76e13e32995`
 - `entering-law/OT_2004CHUNK5_C.md`: `5690e997e256531c524874db9dda44f4f92017d4f8d4cb86d1dd4eda67ba30e7`
 - `entering-law/OT_2004CHUNK5_C_PUBLIC_PRIORS.md`: `6eca373cb1e0ef5472d400fff70d4a9497c7f1a9e478b90a679712e573b2a6da`
-- `entering-law/OT_2004CHUNK5_CURRENT_PUBLIC.md`: `c55562c025df67f565b67e99a026d3c9344e9a7a21d36ae8591abcbe216528d3`
+- `entering-law/OT_2004CHUNK5_CURRENT_PUBLIC.md`: `50e6b92c0b87106c34cf3d8b67e075aea3273a0d215d634237e6c288b563542c`
 - `entering-law/OT_2004CHUNK5_MARCH7_PUBLIC.md`: `913cbc1a9fb06d0693f5fedd521bf2b63b59a1b12e8e44267ac3972327019a3b`
 - `entering-law/OT_2004CHUNK5_MARCH22_PUBLIC.md`: `3bab61042ef010d826149b58a96ee8381a9e0032b21c2a455f0e42656f675a8a`
 - `workspace/neutral-projection.md`: `467c56f74eb24cd434076dfb14b630dde2e74ec260dbe49d8f845bd31f06a7c3`

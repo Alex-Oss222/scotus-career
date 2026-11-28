@@ -6,6 +6,6 @@ The supplied neutral source included an exclusion sentence in the Bush v. Gore d
 
 The neutral derivative differs from the exact runtime split only by that one deleted sentence. No adjudication, vote, claim, remedy, or source fact was changed. The freeze is preparation only and remains subject to fresh validation and lawful entering-law refreshes.
 
-Approved brief SHA-256: 4bcfc37dcc79a9e0c41198beac2f675d0c2d1a2e9b17d345f998dd6926443f54
-Exact neutral SHA-256: 3f1f6ec7b48873689dbf5c49b626039a008143c6ba0bd41915c32bd21954b5c7
-Sanitized neutral SHA-256: bbdfa9242b431366176522d7a70033eb541b201f342dd1bf10beb516c648a42d
+Approved brief SHA-256: a3e818e0572a6e9682d727f63cd9f933400fe0bde4742acde377475e4d2df43f
+Exact neutral SHA-256: 3fce75e55bcdb7b46dec32f2812423684adba244784500f6972369a2e33c144b
+Sanitized neutral SHA-256: 352e41c9ab3d4938b80ecd9c338bf099e73446af0e2ca8c0094b42d667597201

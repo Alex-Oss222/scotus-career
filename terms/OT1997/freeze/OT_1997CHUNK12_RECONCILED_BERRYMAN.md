@@ -6,8 +6,8 @@
 
 **Frozen input receipt:**
 
-- [Neutral packet](OT_1997CHUNK12_NEUTRAL_BERRYMAN_AUG3.md), SHA-256 `ECD19907375ACF137636D52A54BC1EA2F2B67636D116E63DBF177B2733654012`.
-- [Independent commitments](OT_1997CHUNK12_COMMITMENTS_BERRYMAN.md), SHA-256 `3430B9CC581E3F9A7CE031F33234960094C15641EF4AF5BC934D7EFE8894B4B2`.
+- [Neutral packet](OT_1997CHUNK12_NEUTRAL_BERRYMAN_AUG3.md), SHA-256 `E6E3B6A93935F6A482C1FCB3D1A2BE325505579C4495085945173FB87F7D1DA0`.
+- [Independent commitments](OT_1997CHUNK12_COMMITMENTS_BERRYMAN.md), SHA-256 `878343804DE4A28A4D7E91F8FFB4C4030A2348F184005C900FA921ADEADE123F`.
 - [Scoped comparator](OT_1997CHUNK12_COMPARATOR_BERRYMAN.md), SHA-256 `3974CAA300BCD2C3263C4937266309F0EB1F6EB70B7B34B644EA3441EDCE91F1`.
 - [August 3 entering-law slice](../entering-law/OT_1997CHUNK12_BEFORE_1998-08-03.md). The relevant register titles remain **Qualified-immunity legal appeals and factual sufficiency**, present operation effective Behrens, February 21, 1996; **Relevant precedent in appellate qualified-immunity review**, effective Elder, February 23, 1994; and **Circumstantial proof of unconstitutional motive despite qualified immunity**, present operation effective Crawford-El, June 16, 1997. Smith and Camilo supply later public applications at their stated limits.
 

@@ -198,7 +198,7 @@ Stevens must be assessed from both his Puyallup immunity opinion and his explici
 
 This is a mechanically copied reading annex to NEUTRAL_MAY26. It is authority only through its identified source. No same-day May 26 decision enters another. The underlying source files remain controlling.
 
-Source SHA-256: entering-law 74624a75963f99d126dfa0bf01c37445599cc06a3982afa9f1c04e4f1e2dda40; neutral projection 6328464f5fb68cd6c38a8600e90f878f6e4ab7469a71473b9f58f5451d860416.
+Source SHA-256: entering-law aa00a23a3663475fc16d53ac2e3716c0d01742fd3bf30111b067aad4868da114; neutral projection fc2f01e95ac20d7e4b8da784c017e5e67155bf1af273995e3713b35fa4dd1d9c.
 
 ## Inherited Holdings — verbatim selected sections
 
@@ -1581,7 +1581,7 @@ Judge Wellford agreed with the disposition but would avoid declaring facts, broa
 
 One Black path treats the coercive transfer as the officers' own custodial deprivation, applies the constitutionally sufficient culpability on properly assumed facts and rejects immunity where earlier law obviously covered it. Its strongest limits are individual knowledge, the correct mental state, the particular deprivation, causation and the possibility that later cases created rather than merely explained an extension. The competing path grants conduct-time immunity or a narrower correction if the required duty/culpability application was not sufficiently clear; it must explain why actual coercive custody differs insufficiently from received protection rules, rather than rely on abstract uncertainty about all substantive due process. A specific constitutional provision may require analysis if actually applicable and presented, but no new Fourth Amendment claim is silently substituted for the authorized due-process theory.
 
-On equal protection, *Yick Wo*, *Oyler*, *Wayte*, and *Moreno* provide received nonarbitrary-enforcement and purpose/effect principles. Simulated *Whren* (June 10, 1996, unanimous Thomas opinion) preserves independent equal-protection objections despite ordinary traffic probable cause; *Romer* (May 20, 1996, seven-Justice Souter opinion) preserves ordinary review's limits on bare hostility without an orientation tier. Walmer/Thomasson's military conduct and rebuttable-inference holdings do not authorize civilian animus. Neither postdates conduct to create notice retroactively. The supported path allowing the claim rests on alleged arbitrary group-based purpose, differential treatment and the actual comparator under already existing principles; the competing immunity path must test their particular conduct-time clarity, not assert that no protection exists absent a suspect class. No intentional discrimination is found merely because the officers discussed orientation. A ground rejecting the comparison must respect the pleading posture and plaintiff-favorable account.
+On equal protection, *Yick Wo*, *Oyler*, *Wayte*, and *Moreno* provide received nonarbitrary-enforcement and purpose/effect principles. Simulated *Whren* (June 10, 1996, Ginsburg opinion for five) preserves independent equal-protection objections despite ordinary traffic probable cause; *Romer* (May 20, 1996, seven-Justice Souter opinion) preserves ordinary review's limits on bare hostility without an orientation tier. Walmer/Thomasson's military conduct and rebuttable-inference holdings do not authorize civilian animus. Neither postdates conduct to create notice retroactively. The supported path allowing the claim rests on alleged arbitrary group-based purpose, differential treatment and the actual comparator under already existing principles; the competing immunity path must test their particular conduct-time clarity, not assert that no protection exists absent a suspect class. No intentional discrimination is found merely because the officers discussed orientation. A ground rejecting the comparison must respect the pleading posture and plaintiff-favorable account.
 
 *Crawford-El*, *Clanton*, *Valot*, *Smith* and *Ricci* preserve separate elements, personal responsibility, ordinary proof, manner/scope limits, and conduct-date immunity. Ricci's additional civil-custody rule does not itself decide this compelled transfer or supply notice in 1994. The municipal defendants' favorable judgment is not reopened by finding an individual claim viable. A remand would authorize ordinary claim-specific proceedings, not liability, damages, a mandatory trial, specified discovery or automatic action on separate state cases.
 
@@ -1808,7 +1808,7 @@ Frozen for Waste Management (May 27), Cabrales (June 1), and Beggerly (June 8), 
 
 Source: `terms/OT1997/entering-law/OT_1997CHUNK9.md`
 
-Source SHA256: `74624a75963f99d126dfa0bf01c37445599cc06a3982afa9f1c04e4f1e2dda40`
+Source SHA256: `aa00a23a3663475fc16d53ac2e3716c0d01742fd3bf30111b067aad4868da114`
 
 BEGIN EXACT COPIED TEXT
 
@@ -1858,7 +1858,7 @@ END EXACT COPIED TEXT
 
 Source: `terms/OT1997/entering-law/OT_1997CHUNK9.md`
 
-Source SHA256: `74624a75963f99d126dfa0bf01c37445599cc06a3982afa9f1c04e4f1e2dda40`
+Source SHA256: `aa00a23a3663475fc16d53ac2e3716c0d01742fd3bf30111b067aad4868da114`
 
 BEGIN EXACT COPIED TEXT
 
@@ -1921,7 +1921,7 @@ END EXACT COPIED TEXT
 
 Source: `terms/OT1997/entering-law/OT_1997CHUNK9.md`
 
-Source SHA256: `74624a75963f99d126dfa0bf01c37445599cc06a3982afa9f1c04e4f1e2dda40`
+Source SHA256: `aa00a23a3663475fc16d53ac2e3716c0d01742fd3bf30111b067aad4868da114`
 
 BEGIN EXACT COPIED TEXT
 
@@ -1962,7 +1962,7 @@ END EXACT COPIED TEXT
 
 Source: `terms/OT1997/entering-law/OT_1997CHUNK9.md`
 
-Source SHA256: `74624a75963f99d126dfa0bf01c37445599cc06a3982afa9f1c04e4f1e2dda40`
+Source SHA256: `aa00a23a3663475fc16d53ac2e3716c0d01742fd3bf30111b067aad4868da114`
 
 BEGIN EXACT COPIED TEXT
 
@@ -1991,7 +1991,7 @@ END EXACT COPIED TEXT
 
 Source: `terms/OT1997/entering-law/OT_1997CHUNK9.md`
 
-Source SHA256: `74624a75963f99d126dfa0bf01c37445599cc06a3982afa9f1c04e4f1e2dda40`
+Source SHA256: `aa00a23a3663475fc16d53ac2e3716c0d01742fd3bf30111b067aad4868da114`
 
 BEGIN EXACT COPIED TEXT
 
@@ -2040,7 +2040,7 @@ END EXACT COPIED TEXT
 
 Source: `terms/OT1997/entering-law/OT_1997CHUNK9.md`
 
-Source SHA256: `74624a75963f99d126dfa0bf01c37445599cc06a3982afa9f1c04e4f1e2dda40`
+Source SHA256: `aa00a23a3663475fc16d53ac2e3716c0d01742fd3bf30111b067aad4868da114`
 
 BEGIN EXACT COPIED TEXT
 
@@ -2085,7 +2085,7 @@ END EXACT COPIED TEXT
 
 Source: `terms/OT1997/entering-law/OT_1997CHUNK9.md`
 
-Source SHA256: `74624a75963f99d126dfa0bf01c37445599cc06a3982afa9f1c04e4f1e2dda40`
+Source SHA256: `aa00a23a3663475fc16d53ac2e3716c0d01742fd3bf30111b067aad4868da114`
 
 BEGIN EXACT COPIED TEXT
 
@@ -2130,7 +2130,7 @@ END EXACT COPIED TEXT
 
 Source: `terms/OT1997/entering-law/OT_1997CHUNK9.md`
 
-Source SHA256: `74624a75963f99d126dfa0bf01c37445599cc06a3982afa9f1c04e4f1e2dda40`
+Source SHA256: `aa00a23a3663475fc16d53ac2e3716c0d01742fd3bf30111b067aad4868da114`
 
 BEGIN EXACT COPIED TEXT
 
@@ -2178,7 +2178,7 @@ END EXACT COPIED TEXT
 
 Source: `terms/OT1997/entering-law/OT_1997CHUNK9.md`
 
-Source SHA256: `74624a75963f99d126dfa0bf01c37445599cc06a3982afa9f1c04e4f1e2dda40`
+Source SHA256: `aa00a23a3663475fc16d53ac2e3716c0d01742fd3bf30111b067aad4868da114`
 
 BEGIN EXACT COPIED TEXT
 
@@ -2273,7 +2273,7 @@ END EXACT COPIED TEXT
 
 Source: `terms/OT1997/entering-law/OT_1997CHUNK9.md`
 
-Source SHA256: `74624a75963f99d126dfa0bf01c37445599cc06a3982afa9f1c04e4f1e2dda40`
+Source SHA256: `aa00a23a3663475fc16d53ac2e3716c0d01742fd3bf30111b067aad4868da114`
 
 BEGIN EXACT COPIED TEXT
 
@@ -2309,7 +2309,7 @@ END EXACT COPIED TEXT
 
 Source: `terms/OT1997/entering-law/OT_1997CHUNK9.md`
 
-Source SHA256: `74624a75963f99d126dfa0bf01c37445599cc06a3982afa9f1c04e4f1e2dda40`
+Source SHA256: `aa00a23a3663475fc16d53ac2e3716c0d01742fd3bf30111b067aad4868da114`
 
 BEGIN EXACT COPIED TEXT
 
@@ -2349,7 +2349,7 @@ END EXACT COPIED TEXT
 
 Source: `terms/OT1997/freeze/OT_1997CHUNK9_ENTERING_NEUTRAL_PROJECTION.md`
 
-Source SHA256: `6328464f5fb68cd6c38a8600e90f878f6e4ab7469a71473b9f58f5451d860416`
+Source SHA256: `fc2f01e95ac20d7e4b8da784c017e5e67155bf1af273995e3713b35fa4dd1d9c`
 
 BEGIN EXACT COPIED TEXT
 
@@ -4216,7 +4216,7 @@ END EXACT COPIED SOURCE
 
 Source: `terms/OT1997/entering-law/OT_1997CHUNK9.md`
 
-SHA256 of source: `74624a75963f99d126dfa0bf01c37445599cc06a3982afa9f1c04e4f1e2dda40`
+SHA256 of source: `aa00a23a3663475fc16d53ac2e3716c0d01742fd3bf30111b067aad4868da114`
 
 BEGIN EXACT COPIED SOURCE
 
@@ -4263,7 +4263,7 @@ END EXACT COPIED SOURCE
 
 Source: `terms/OT1997/entering-law/OT_1997CHUNK9.md`
 
-SHA256 of source: `74624a75963f99d126dfa0bf01c37445599cc06a3982afa9f1c04e4f1e2dda40`
+SHA256 of source: `aa00a23a3663475fc16d53ac2e3716c0d01742fd3bf30111b067aad4868da114`
 
 BEGIN EXACT COPIED SOURCE
 
@@ -4296,7 +4296,7 @@ END EXACT COPIED SOURCE
 
 Source: `terms/OT1997/entering-law/OT_1997CHUNK9.md`
 
-SHA256 of source: `74624a75963f99d126dfa0bf01c37445599cc06a3982afa9f1c04e4f1e2dda40`
+SHA256 of source: `aa00a23a3663475fc16d53ac2e3716c0d01742fd3bf30111b067aad4868da114`
 
 BEGIN EXACT COPIED SOURCE
 
@@ -4429,7 +4429,7 @@ A constitutional path dismissing the claim under Lewis must independently justif
 
 Lewis decides no equal-protection rule. Stemler's selective-enforcement claim therefore remains separately analyzed under the authorities and allegations below, with its own effect, purpose, comparator, individual participation, causation and conduct-time notice requirements.
 
-On equal protection, *Yick Wo*, *Oyler*, *Wayte*, and *Moreno* provide received nonarbitrary-enforcement and purpose/effect principles. Simulated *Whren* (June 10, 1996, unanimous Thomas opinion) preserves independent equal-protection objections despite ordinary traffic probable cause; *Romer* (May 20, 1996, seven-Justice Souter opinion) preserves ordinary review's limits on bare hostility without an orientation tier. Walmer/Thomasson's military conduct and rebuttable-inference holdings do not authorize civilian animus. Neither postdates conduct to create notice retroactively. The supported path allowing the claim rests on alleged arbitrary group-based purpose, differential treatment and the actual comparator under already existing principles; the competing immunity path must test their particular conduct-time clarity, not assert that no protection exists absent a suspect class. No intentional discrimination is found merely because the officers discussed orientation. A ground rejecting the comparison must respect the pleading posture and plaintiff-favorable account.
+On equal protection, *Yick Wo*, *Oyler*, *Wayte*, and *Moreno* provide received nonarbitrary-enforcement and purpose/effect principles. Simulated *Whren* (June 10, 1996, Ginsburg opinion for five) preserves independent equal-protection objections despite ordinary traffic probable cause; *Romer* (May 20, 1996, seven-Justice Souter opinion) preserves ordinary review's limits on bare hostility without an orientation tier. Walmer/Thomasson's military conduct and rebuttable-inference holdings do not authorize civilian animus. Neither postdates conduct to create notice retroactively. The supported path allowing the claim rests on alleged arbitrary group-based purpose, differential treatment and the actual comparator under already existing principles; the competing immunity path must test their particular conduct-time clarity, not assert that no protection exists absent a suspect class. No intentional discrimination is found merely because the officers discussed orientation. A ground rejecting the comparison must respect the pleading posture and plaintiff-favorable account.
 
 *Crawford-El*, *Clanton*, *Valot*, *Smith* and *Ricci* preserve separate elements, personal responsibility, ordinary proof, manner/scope limits, and conduct-date immunity. Ricci's additional civil-custody rule does not itself decide this compelled transfer or supply notice in 1994. The municipal defendants' favorable judgment is not reopened by finding an individual claim viable. A remand would authorize ordinary claim-specific proceedings, not liability, damages, a mandatory trial, specified discovery or automatic action on separate state cases.
 

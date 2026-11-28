@@ -46,7 +46,7 @@ After all six assignments the independently reconstructed counts are: Stone 7, S
 
 All six reviewed Public Projections contain the eleven required blocks once and in the exact order. Participation and component arithmetic reconcile with the named joins and separate writings. Each Record contains the four required opening labels and a date-appropriate internal research cutoff. None contains a public workflow-label leak in the reviewed text.
 
-Ordinary controlling explanation word counts are: Chaudhuri 168 and 200; Edwards 234; Calderon 110, 219 and 269; Romani 232; Perry 237; Ricci 257. All are within 350 words without relocating an explanatory section to evade the ceiling. Ricci's separate short no-controlling-application section states the fracture and authority limits, not an additional disguised explanation. These are not designated special-consideration matters. Empty Separate Writings blocks in the three unanimous cases are valid bounded input fields and do not instruct the renderer to print an empty heading.
+Ordinary controlling explanation word counts are: Chaudhuri 168 and 200; Edwards 234; Calderon 110, 219 and 269; Romani 232; Perry 237; Ricci 259. All are within 350 words without relocating an explanatory section to evade the ceiling. Ricci's separate short no-controlling-application section states the fracture and authority limits, not an additional disguised explanation. These are not designated special-consideration matters. Empty Separate Writings blocks in the three unanimous cases are valid bounded input fields and do not instruct the renderer to print an empty heading.
 
 All nonprivate relative Markdown-file references in these six Records resolve. Each private Stone reference was deliberately skipped rather than followed. Published opinion citations and the linked official statutory source identify the support and legally material limits; underlying papers are not falsely represented as independently recovered. No prospective or later authority was used to supply a contemporary rule. Source cutoffs and current-law refreshes remain internal.
 
@@ -63,6 +63,6 @@ SHA256 hashes identify the final bytes reviewed and are not Git provenance claim
 | calderon_v_thompson_merits_1998-04-29.md | aa0e69a66fdd5df071dfed6c1ad2b43c85a3a369210bdd47043be17b4ad294d2 |
 | united_states_v_estate_of_romani_merits_1998-04-29.md | 1b181c50fbf2d088c856b3811156cc14e03fcfc217d6840e6d4f9a2195f3dbcc |
 | perry_v_los_angeles_police_department_merits_1998-05-04.md | 1f5ab483da523773bced7c1ef7ca19bd2148d39ea7385184f6516c4bfa7dc735 |
-| ricci_v_village_of_arlington_heights_merits_1998-05-04.md | 30aea35b7c43d7f93564bb5c4261fbf41e3e51943a905477d29767535a3d9b2c |
+| ricci_v_village_of_arlington_heights_merits_1998-05-04.md | 1118ee5f3c16d4195cd8d812eb50e54a21d7ccc04a72bfd6cd89cb8fd7bdede9 |
 
 **Disposition of this QA:** Complete for these six Records; no unresolved concrete defect within this scope. No further substantive review or legal revision is requested. Term integration remains with the root operator.

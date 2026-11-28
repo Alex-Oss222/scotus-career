@@ -36,9 +36,9 @@ The final manifest, continuity note, ledger and neutral projection are incorpora
 | [terms/OT2004/workspace/manifest.md](../workspace/manifest.md) | `190b01d04013c0ef4094ba12cade3484db8c3103c2aa5aaa3a63a1dcfebbc9a0` |
 | [terms/OT2004/workspace/neutral-projection.md](../workspace/neutral-projection.md) | `9222b1cda73303a31d1a436c5089daa34ac020c8184f00ccdefed7a624cfed16` |
 | [terms/OT2004/close/AUDIT.md](AUDIT.md) | `31696fc7cc0c536326c66840e4604c74fcfbfd5b4116a2963aa001a9b7e2a808` |
-| [terms/OT2004/output/OT_2004CHUNK1.md](../output/OT_2004CHUNK1.md) | `4174371d29a26fc3b03f7531662a359dcef16a8e051f237dee75a51846b76e54` |
+| [terms/OT2004/output/OT_2004CHUNK1.md](../output/OT_2004CHUNK1.md) | `0991646a72050d2999716609fcb19579b55879cdbd7b6aedac5927d5f2cb91a7` |
 | [terms/OT2004/output/OT_2004CHUNK10.md](../output/OT_2004CHUNK10.md) | `a31ecdc8c5cf74beeb3b882d732a2e5c2b407b0268425b1f34b8ed1fd7d12757` |
-| [terms/OT2004/output/OT_2004CHUNK2.md](../output/OT_2004CHUNK2.md) | `5b561316d98c21fb1c45e5712c82d2933acb88d8f750b84c16594f1ffea64a57` |
+| [terms/OT2004/output/OT_2004CHUNK2.md](../output/OT_2004CHUNK2.md) | `1ed72f620181d48cccb0adf812da39781876d40f72dbe495070dd34206366e5d` |
 | [terms/OT2004/output/OT_2004CHUNK3.md](../output/OT_2004CHUNK3.md) | `6e017f2b87e545c3086d17be068c23ecfa4e971cbf13f1b5e961e233eb147ce1` |
 | [terms/OT2004/output/OT_2004CHUNK4.md](../output/OT_2004CHUNK4.md) | `131366d3b5538115eed2f2e87462230b73fa43eb0af120fd58d5bb5ecb102eb5` |
 | [terms/OT2004/output/OT_2004CHUNK5.md](../output/OT_2004CHUNK5.md) | `1938c503cebb9d123694972491e3ad4c9c2fb0175ee52601f553380abeb40bee` |
@@ -46,9 +46,9 @@ The final manifest, continuity note, ledger and neutral projection are incorpora
 | [terms/OT2004/output/OT_2004CHUNK7.md](../output/OT_2004CHUNK7.md) | `29ec98052eae25bc718b519f559a5c1873d0e0cdad8a851ecf4490929389fdea` |
 | [terms/OT2004/output/OT_2004CHUNK8.md](../output/OT_2004CHUNK8.md) | `08d6d212d10c31cd65df1cacdc1dd7d8a2f658b872717c49e62d2c29b5b016de` |
 | [terms/OT2004/output/OT_2004CHUNK9.md](../output/OT_2004CHUNK9.md) | `f70525cd4e5bd99095a32aa5134ca4b94ede8976b1159321249251b1f096d365` |
-| [terms/OT2004/render-inputs/OT_2004CHUNK1.md](../render-inputs/OT_2004CHUNK1.md) | `3fbf03ed6f4ed3c88b7bc07459497eb61a616270d578b7a2f65ae0e6bd2e6521` |
+| [terms/OT2004/render-inputs/OT_2004CHUNK1.md](../render-inputs/OT_2004CHUNK1.md) | `2188e0998a1f42ea941eb7dfb6a40f583f445aee7bd54b527d06418ed0553d9f` |
 | [terms/OT2004/render-inputs/OT_2004CHUNK10.md](../render-inputs/OT_2004CHUNK10.md) | `7096510cd77cb629e1ef05846a9e053c31b78daff817b6615de7ca07ce92c946` |
-| [terms/OT2004/render-inputs/OT_2004CHUNK2.md](../render-inputs/OT_2004CHUNK2.md) | `721b6144b6f4828f7b681475f1ecea962c77ed41e1b261366d3a6f38a7e9cf72` |
+| [terms/OT2004/render-inputs/OT_2004CHUNK2.md](../render-inputs/OT_2004CHUNK2.md) | `b00215ac908f1251095b07b3f276cc4dcdeeeaa469f111f4ad1b86c4227af6bf` |
 | [terms/OT2004/render-inputs/OT_2004CHUNK3.md](../render-inputs/OT_2004CHUNK3.md) | `e4e2fa2743935b53a2eeb4e939101068a2595553489dbd32099117b41e9e89f7` |
 | [terms/OT2004/render-inputs/OT_2004CHUNK4.md](../render-inputs/OT_2004CHUNK4.md) | `4d21a7eec3475424ccce7b87be3a77577a381cca0485dd3b9ca1acd68021e618` |
 | [terms/OT2004/render-inputs/OT_2004CHUNK5.md](../render-inputs/OT_2004CHUNK5.md) | `73863f4d960d744e433c6a89d41d4b73890da0e1fcdbc368999182a2ad13c2e0` |
@@ -74,7 +74,7 @@ This table incorporates every validated judicial Record and the admitted source,
 | 2004-12-07 | Court event | [Kansas v. Colorado; No. 105, Original.](../records/kansas-v-colorado_exceptions_2004-12-07.md) | `8469c4808d1ade3aed5b39873ff0ff5c107c5822bafebe01ebf263a2faaa01f7` |
 | 2004-12-08 | Court event | [KP Permanent Make-Up, Inc. v. Lasting Impression I, Inc.; No. 03-409.](../records/kp-permanent-make-up-v-lasting-impression_merits_2004-12-08.md) | `61f6b59ace3a6c3b3750f93332b2301a15e9bac08736dbf2bf787a09b98435ac` |
 | 2004-12-13 | Court event | [Brosseau v. Haugen; No. 03-1261.](../records/brosseau-v-haugen_merits_2004-12-13.md) | `2c6afba6f8d7c8e5387fa940b7439dce8cd0d95e6b9fd18c10cd7c8f445d8388` |
-| 2004-12-13 | Court event | [Devenpeck v. Alford, No. 03-710.](../records/devenpeck-v-alford_merits_2004-12-13.md) | `e1006c687d87bf2c4c789c3cf2aaf01ee6227e11e5fbf8498a12f28df64b9164` |
+| 2004-12-13 | Court event | [Devenpeck v. Alford, No. 03-710.](../records/devenpeck-v-alford_merits_2004-12-13.md) | `6392f18f1311004c9d119747840e779e16676010f23eb9104ceafc52927f0186` |
 | 2004-12-13 | Court event | [Educational Credit Management Corp. v. Polleys; lower-court No. 02-8059, 356 F.3d 1302.](../records/educational-credit-management-v-polleys_merits_2004-12-13.md) | `db096ca7acca30732976d3565105bf95695bfcd17544111efd9bcd5a34c5a79a` |
 | 2004-12-13 | Court event | [Florida v. Nixon, No. 03-931.](../records/florida-v-nixon_merits_2004-12-13.md) | `37dcad8f72ebf2b8f0f59cf6a79a363bd4470ee45eeb4789e69791f0cc004f72` |
 | 2004-12-13 | Court event | [Kowalski v. Tesmer, No. 03-407.](../records/kowalski-v-tesmer_merits_2004-12-13.md) | `45332273a9385ccfbb376e3139b77f06cf43f98736a78cb62a607ee8886f2df9` |
@@ -88,7 +88,7 @@ This table incorporates every validated judicial Record and the admitted source,
 | 2005-01-24 | Court event | [Commissioner of Internal Revenue v. Banks, No. 03-892; Commissioner of Internal Revenue v. Banaitis, No. 03-907.](../records/commissioner-v-banks_merits_2005-01-24.md) | `71b7b1f8e8dcaabf909277b4dd4f61881c479955cd80439fb5525b857aa1150d` |
 | 2005-01-24 | Court event | [GDF Realty Investments, Ltd. v. Norton; Fifth Circuit No. 01-51099; 326 F.3d 622, rehearing denied, 362 F.3d 286.](../records/gdf-realty-v-norton_merits_2005-01-24.md) | `9e4c3a22eb86f6cadb99087e9e1374c488a50dc41ea42ccb6f835b203e2b18cb` |
 | 2005-01-24 | Court event | [Howell v. Mississippi, No. 03-9560.](../records/howell-v-mississippi_dig_2005-01-24.md) | `51ddeaae88729ab0fb08977c575f3b827188464859b5febd1739ae7750083e00` |
-| 2005-01-24 | Court event | [Illinois v. Caballes, No. 03-923.](../records/illinois-v-caballes_merits_2005-01-24.md) | `458073958a308781aabc681f150e75878e031af585c5590b779a753c3679be92` |
+| 2005-01-24 | Court event | [Illinois v. Caballes, No. 03-923.](../records/illinois-v-caballes_merits_2005-01-24.md) | `892a4ae7974fb4bb31477393f6ac49e3e3df9733afef8c75b27ecfe6a1641b1a` |
 | 2005-01-24 | Court event | [Women’s Medical Professional Corp. v. Taft; Sixth Circuit No. 01-4124; 353 F.3d 436.](../records/womens-medical-v-taft_merits_2005-01-24.md) | `c8172dbd5d77537779e3f6f796110ee69c9cc9d15c0e095882f3bf84c0249f32` |
 | 2005-02-22 | Court event | [Karaha Bodas Co., L.L.C. v. Perusahaan Pertambangan Minyak Dan Gas Bumi Negara; review of 364 F.3d 274; no Supreme Court docket supplied.](../records/karaha-bodas-v-pertamina_merits_2005-02-22.md) | `66acba9f744a33021d9a682583059aab1a16f59a5ae7183841c470682994e0d3` |
 | 2005-02-22 | Court event | [Smith v. Massachusetts; No. 03-8661.](../records/smith-v-massachusetts_merits_2005-02-22.md) | `64b08f3e0528c6ab4e0a8e6c846a03b227814d6a97f00c4f61d2f2c4fe29a2e1` |
@@ -106,11 +106,11 @@ This table incorporates every validated judicial Record and the admitted source,
 | 2005-03-07 | Court event | [Wilkinson v. Dotson; No. 03-287; claims of William Dwight Dotson and William Johnson.](../records/wilkinson-v-dotson_merits_2005-03-07.md) | `e630756f0398a710749c27f7837ac7b3f9239480618a64c016a673fe5971453f` |
 | 2005-03-22 | Court event | [Black Political Task Force v. Galvin; lower-court No. 02-11190; 300 F. Supp. 2d 291.](../records/black-political-task-force-v-galvin_merits_2005-03-22.md) | `53e9365d4630d2a13f43baaee423a5242a44ce5b3550e8e5e12fcbde1da4d00f` |
 | 2005-03-22 | Court event | [Brown v. Payton; No. 03-1039; 544 U.S. 133.](../records/brown-v-payton_merits_2005-03-22.md) | `5405ea53b7cc00f875d77aa106a5524008332274f28bf20128a26d353c8823e7` |
-| 2005-03-22 | Court event | [Muehler v. Mena; No. 03-1423.](../records/muehler-v-mena_merits_2005-03-22.md) | `cd00756a62a8326a2e0b92328534c076cc38fba68147acc1fdc0d3f6e619966c` |
+| 2005-03-22 | Court event | [Muehler v. Mena; No. 03-1423.](../records/muehler-v-mena_merits_2005-03-22.md) | `88a812c8319d72c8f300fa1c4a02e61acabd4c31ec5b420922c447abdba7eb80` |
 | 2005-03-22 | Court event | [Rancho Palos Verdes v. Abrams; No. 03-1601.](../records/rancho-palos-verdes-v-abrams_merits_2005-03-22.md) | `5ed5d7b3773742c497ba1f32e77a1fa290e310e79cd81cfbf6c9b7a88f6c44d9` |
 | 2005-03-29 | Court event | [City of Sherrill v. Oneida Indian Nation of New York; No. 03-855; the Lead, Eviction and Members cases at their reviewed scope.](../records/city-of-sherrill-v-oneida-indian-nation_merits_2005-03-29.md) | `bf239815432277dc8b7de49c9e7d9da1c763ea8badc2e08546ce1254ee2ab64a` |
 | 2005-03-29 | Court event | [Jackson v. Birmingham Board of Education; No. 02-1672; 544 U.S. 167.](../records/jackson-v-birmingham-board-of-education_merits_2005-03-29.md) | `0f958e534ff019d931bf9200751f6a8cc0961c855afa0032583efba689f21124` |
-| 2005-03-29 | Court event | [Sabree ex rel. Sabree v. Richman; review of 367 F.3d 180 (3d Cir. 2004).](../records/sabree-ex-rel-sabree-v-richman_merits_2005-03-29.md) | `ecf2e1bcc1ac4adae424c63545c9fe580dd99b98746b50e34cd7876631c24823` |
+| 2005-03-29 | Court event | [Sabree ex rel. Sabree v. Richman; review of 367 F.3d 180 (3d Cir. 2004).](../records/sabree-ex-rel-sabree-v-richman_merits_2005-03-29.md) | `f9d41a9d59361a053e652dd5763f56b391e9b17e5fea148a05b0bce3152e189c` |
 | 2005-03-30 | Court event | [California Public Employees’ Retirement System v. WorldCom, Inc.; judgment below, 368 F.3d 86; Second Circuit No. 04-0219. No Supreme Court docket is supplied.](../records/california-public-employees-retirement-system-v-worldcom-inc_merits_2005-03-30.md) | `2162aae1f6c153def544a66b90dc5a2799dc27aa8f11d7a2fd6e6e02a0bb08ac` |
 | 2005-03-30 | Court event | [Exxon Mobil Corp. v. Saudi Basic Industries Corp., No. 03-1696; judgment below, 364 F.3d 102.](../records/exxon-mobil-corp-v-saudi-basic-industries-corp_merits_2005-03-30.md) | `4c79a6ef9be65b23b284cd462a69e1ad6efe66e8cd842857188c37401491c68c` |
 | 2005-03-30 | Court event | [Rhines v. Weber, No. 03-9046; judgment below, 346 F.3d 799.](../records/rhines-v-weber_merits_2005-03-30.md) | `b524b839a401e6d6dbf9c344245c9cf04f7446d97c363c4c04d10b03a381a065` |
@@ -207,8 +207,8 @@ The publication table identifies all 31 published tracker/index artifacts. This 
 
 | Published artifact | SHA-256 | Line endings |
 |---|---|---|
-| [state/HOLDINGS.md](../../../state/HOLDINGS.md) | `b4992f6bf5f245953734c1ecc30d1d527d932f5d20e877ff201b9604fdc3e438` | CRLF |
-| [state/STANDARDS_AND_TESTS.md](../../../state/STANDARDS_AND_TESTS.md) | `d1f6a992d913859c79c61303aa2e9587d6ee02d0643681a454a4b254fdbbea6a` | CRLF |
+| [state/HOLDINGS.md](../../../state/HOLDINGS.md) | `79270171ca60fbc1a4dcefcea1c325a7db17c85d012d9c6889f2754f9b9be2b9` | CRLF |
+| [state/STANDARDS_AND_TESTS.md](../../../state/STANDARDS_AND_TESTS.md) | `02d0cf458e108ac1392fc62233610a13b2ab2820600f8cb355254b96d21a9d95` | CRLF |
 | [state/STANDING_STATE.md](../../../state/STANDING_STATE.md) | `a4939fe9782da019d573063e3eb370bb9721faae689b56170f1cd6cf2c5bfcdd` | LF |
 | [state/holdings/INDEX.md](../../../state/holdings/INDEX.md) | `47622e8aede5bd16e1f64ce1851c855cfc3208f89dc0e5df66fac852a10ae594` | CRLF |
 | [state/holdings/administrative-law.md](../../../state/holdings/administrative-law.md) | `24882ad03ccacddbdd2cc628334de7b23521f1a899bf5786ea7f11c87cdffe58` | LF |
@@ -217,21 +217,21 @@ The publication table identifies all 31 published tracker/index artifacts. This 
 | [state/holdings/business-and-commercial-law.md](../../../state/holdings/business-and-commercial-law.md) | `065178d86e4340afdef6dc7196afb3954d529c387462c7f39b3554904fce7122` | LF |
 | [state/holdings/civil-rights.md](../../../state/holdings/civil-rights.md) | `f4faf8050315aa33eae781b874c17b17e1bcbca6ea51edd79a4fac5f0fb8be5b` | LF |
 | [state/holdings/constitutional-structure.md](../../../state/holdings/constitutional-structure.md) | `ef39086cbbfafde5aea6e2c360f7aeaf9c4a4ba0ca85525711e7ed232450da0d` | LF |
-| [state/holdings/criminal-procedure-investigations.md](../../../state/holdings/criminal-procedure-investigations.md) | `57e61cf95b2b042c27e04e2e5baf5536afa9e87c2e1e04356ac53e39bdc3757c` | LF |
+| [state/holdings/criminal-procedure-investigations.md](../../../state/holdings/criminal-procedure-investigations.md) | `91466aa5bced1afe618c5350350f442966231ae3e71d3151da926b805ab0103d` | LF |
 | [state/holdings/criminal-procedure-sentencing-and-capital.md](../../../state/holdings/criminal-procedure-sentencing-and-capital.md) | `23ca42a0d653179133ef028525cff470a6ee410a6ee0b0a147a7730f99f80a17` | LF |
-| [state/holdings/criminal-procedure.md](../../../state/holdings/criminal-procedure.md) | `3fc09027a43e1adbf9866d20830b4f94629ce1e05ab56f1ac7b50d3a5fad09a0` | LF |
+| [state/holdings/criminal-procedure.md](../../../state/holdings/criminal-procedure.md) | `8c80b78092fb64eb45e3356887ed1d7930511190eba52e6a042f027e64dbd14f` | LF |
 | [state/holdings/election-law.md](../../../state/holdings/election-law.md) | `d494e02533488076875a1234318bd6aa89b1b140c77ddeec03dede683a99c8b8` | LF |
 | [state/holdings/environmental-law.md](../../../state/holdings/environmental-law.md) | `fd7e322e3f3621bbf04416a4f22e804068df8fa36cd3b8e00b14d5a8d9446d4b` | LF |
-| [state/holdings/federal-courts-habeas.md](../../../state/holdings/federal-courts-habeas.md) | `958051c1fc4a9d2dee9a82f8464ac27a5ba38442a590d33ebb56ce949b710528` | LF |
-| [state/holdings/federal-courts-immunities-and-remedies.md](../../../state/holdings/federal-courts-immunities-and-remedies.md) | `9b8fcbca5e1234c32eb2d3f63bff49487aedcdd7287773019b7450caae2e978a` | LF |
+| [state/holdings/federal-courts-habeas.md](../../../state/holdings/federal-courts-habeas.md) | `93e1266f614e94c5c868473c5a9f41771f22a4b1e20a0e03e69a7f8dfcaff367` | LF |
+| [state/holdings/federal-courts-immunities-and-remedies.md](../../../state/holdings/federal-courts-immunities-and-remedies.md) | `5db4cb727de63d6d53e9492d122ee491e947025e6e9aa5152424a34319874edf` | LF |
 | [state/holdings/federal-courts-justiciability.md](../../../state/holdings/federal-courts-justiciability.md) | `07ea8d234645debfdf57b5a177bd94f62039c542ce8817cd4303c978abdfdfce` | LF |
 | [state/holdings/federal-courts.md](../../../state/holdings/federal-courts.md) | `48b7820e5721b37570a7ed0903558d78b1168e9a15ebd33bea508d6c66506e97` | LF |
 | [state/holdings/federal-indian-law.md](../../../state/holdings/federal-indian-law.md) | `0219627d6a3f2fee06940aa7fec818f521d44ad8f5d4c808d67838bed80fccf2` | LF |
 | [state/holdings/federal-taxation.md](../../../state/holdings/federal-taxation.md) | `a6eb9adaa4d12807e9fc76353a28e46eeff8077c2e8ed2ebe81357e36de1550c` | LF |
 | [state/holdings/first-amendment.md](../../../state/holdings/first-amendment.md) | `fd98f63c305cd082538c695e60b6893bdd933dc9fc808af0dd218b0b6901e4f7` | LF |
 | [state/holdings/immigration.md](../../../state/holdings/immigration.md) | `ed1f961567cd98871d2f6f98a643dc1b42540c9bb095d76cf02b9c886937ef17` | LF |
-| [state/holdings/labor-and-employment.md](../../../state/holdings/labor-and-employment.md) | `20eb29e65fa8f5a9a540bd1e3c165fffa2c3681ec375a83c018ca2333816f892` | LF |
-| [state/holdings/maritime-law.md](../../../state/holdings/maritime-law.md) | `8212d58cde6898a2cb6aa23d3563171a063290fccb541088ac4469f385f47ae1` | LF |
+| [state/holdings/labor-and-employment.md](../../../state/holdings/labor-and-employment.md) | `298979456815c1667993e3644a9d10cba1fad6d74074293bda9d6ff8e02677a2` | LF |
+| [state/holdings/maritime-law.md](../../../state/holdings/maritime-law.md) | `8ba3ae9e10a8c20eb3e7b9420555e887e9a1f5bcde278b5eddb45ab5435c2cb5` | LF |
 | [state/holdings/property-and-economic-rights.md](../../../state/holdings/property-and-economic-rights.md) | `13cd8e289482b9a991c52b662964043d1fff51f1b608df80755324527281d551` | LF |
 | [state/holdings/tort-law.md](../../../state/holdings/tort-law.md) | `60922ce27253f74335dca3977fcaf9c20eecb1eff1520001c1139770a7117752` | LF |
 | [terms/OT2004/INDEX.md](../INDEX.md) | `e67350e3adf871229b8f226bf9a9a8c61a3d8e97df53598a02778afaa847e6b8` | CRLF |

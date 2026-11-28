@@ -2,7 +2,7 @@
 
 **Status:** Ready for independent modeling together with the [finalized neutral packet](OT_1995CHUNK7_SMILEY_NEUTRAL_VALIDATED.md) at `18c4969`, which remains unchanged. The bounded supplemental statutory and public-position readings are complete. No present vote, commitment, disposition or factual finding is supplied.
 
-**Common entering law:** [Completed-May28 public-law snapshot](../entering-law/OT_1995CHUNK7_POST_MAY28_NEUTRAL_PROJECTION.md), commit `7ee25af`, SHA-256 `7497c36109633b9d51251d4a71b6417c3f6f848698c1fb624b5fc51e0f15c614`. No June 3 peer decision enters this case's baseline. The added readings below recover earlier published positions and statutory source detail; they do not introduce later law.
+**Common entering law:** [Completed-May28 public-law snapshot](../entering-law/OT_1995CHUNK7_POST_MAY28_NEUTRAL_PROJECTION.md), commit `7ee25af`, SHA-256 `cb852e1f14eafc6c1d975d3961f3406b6547935b44cb8ee46c4854ba787ba574`. No June 3 peer decision enters this case's baseline. The added readings below recover earlier published positions and statutory source detail; they do not introduce later law.
 
 ## Earlier published positions and their actual limits
 

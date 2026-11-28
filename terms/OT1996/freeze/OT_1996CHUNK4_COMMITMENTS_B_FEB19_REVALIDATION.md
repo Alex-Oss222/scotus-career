@@ -10,9 +10,9 @@ The comparison uses the already authorized clean packets, baseline commitments a
 
 Prior artifacts remain unchanged, identified by SHA-256:
 
-- Original B commitments: `788E8DF2284FEDC1A41CE0B43B31BBF5AABEF2414938A6064D45B1F5ECC32B6D`.
-- February 18 addendum: `91E027D1ACD46C60F270352D5F62C8AA6E20FF06D733FDE49ECBE5C2960F2D21`.
-- Completed Auer addendum, including its explicit source-refresh receipt: `0C73C66844B28A9E4DD2ABCE9FDB7FA4071CE8C454D3B29A4C55F7E2C3B99188`.
+- Original B commitments: `81D6AB78AE51AF41CDCCB290302834A26256AB53EFC1C642864D0690F253A571`.
+- February 18 addendum: `7F46105EA766ABB64E2219CE5F8243E4713FBBD758B8375A8BB0EDC8DAB199C8`.
+- Completed Auer addendum, including its explicit source-refresh receipt: `0783163016919189439821A4F4D01B762D0BA59BAF04AA913914DE27E03263B7`.
 
 ## What the actual February 19 law adds
 

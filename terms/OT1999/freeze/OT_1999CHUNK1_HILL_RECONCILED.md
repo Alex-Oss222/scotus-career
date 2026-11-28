@@ -13,8 +13,8 @@ The needed Engine provisions were sections 3, 5, 7–9 and 14–15. An initial r
 The substantive inputs are:
 
 - [Frozen neutral preflight](OT_1999CHUNK1_HILL_NEUTRAL_PREFLIGHT.md), SHA-256 `7D07D33F5EC4F2619331C7274DCC3025CD5E06EF9222292F9861DAB389C4A6F2`.
-- [Frozen independent commitments](OT_1999CHUNK1_HILL_COMMITMENTS.md), SHA-256 `0EEE37D4533EECECF05230408C769C1D3EBC61BAB36AC73DCA507C8602318002`.
-- [Model dependency receipt](OT_1999CHUNK1_HILL_MODEL_DEPENDENCY_RECEIPT.md), SHA-256 `323860223F1F63307E292B91F341BAC9DA3C585142A9492751699423DB873616`.
+- [Frozen independent commitments](OT_1999CHUNK1_HILL_COMMITMENTS.md), SHA-256 `21998073211D95490B0BE258F6950C4E53B22FBFB470CE86EA899F8D044D21FF`.
+- [Model dependency receipt](OT_1999CHUNK1_HILL_MODEL_DEPENDENCY_RECEIPT.md), SHA-256 `07374E822993D4BCB132F0B81A1FF9313AD187582455CF68032BD695CB5C877F`.
 - [As-of neutral projection](../preparation/HILL_NEUTRAL_AS_OF_2000-01-11.md), [earlier-law addendum](../preparation/OT_1999CHUNK1_HILL_EARLIER_LAW_ADDENDUM.md), and the material Fex, Olano, Godinez, Mezzanatto, Libretti and Standards and Tests entries in the [entering-law slice](../entering-law/OT_1999CHUNK1_HILL.md). The neutral packet supplies the exact Reed reading copy.
 - The comparator at `tmp/ot1999_resume/HILL_COMPARATOR.md`, checked against the complete [Cornell opinion text](../research/source-control/hill-cornell-ZO.txt), SHA-256 `00A0358A228939B862EAE76F7979E9947340F523AF40F6EB9B2A539245DB739C`, and complete nine-page [official Reports text](../research/source-control/hill-official.txt), SHA-256 `B66DC07BEC59AC350E6F2161DE1FE210FCAB41432D7277929B94B58E14521E4E`.
 
